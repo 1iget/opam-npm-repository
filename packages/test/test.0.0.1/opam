@@ -7,6 +7,8 @@ homepage: ""
 bug-reports: ""
 license: ""
 dev-repo: ""
-build: [tar -xf 0.workspace-0.0.0.tgz]
+build: [
+    ["tar" "-xf" "0.workspace-0.0.0.tgz"]
+    ]
 install: [ ]
 remove: []
