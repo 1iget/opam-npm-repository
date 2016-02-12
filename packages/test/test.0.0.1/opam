@@ -10,5 +10,6 @@ dev-repo: ""
 build: []
 install: [
     ["ls"]
+    ["echo" "$PWD"]
  ]
 remove: []
