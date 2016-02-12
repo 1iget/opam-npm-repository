@@ -9,6 +9,6 @@ license: ""
 dev-repo: ""
 build: []
 install: [
-    ["cp" "-r" "package "/home/felipe/prueba/opam"]
+    ["cp" "-r" "package" "/home/felipe/prueba/opam"]
  ]
 remove: []
