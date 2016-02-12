@@ -1,0 +1,7 @@
+lib: [
+    "underscore.js" 
+    "underscore-min.js"
+    "package.json"
+    "README.md" 
+    "underscore-min.map"
+]
