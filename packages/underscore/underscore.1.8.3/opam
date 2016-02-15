@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "underscore"
+version: "1.8.3"
+maintainer: "jashkenas"
+author: "Name <email>"
+homepage: "http://underscorejs.org"
+bug-reports: "https://github.com/jashkenas/underscore/issues"
+license: "MIT"
+dev-repo: ""
+build: []
+install: []
+remove: []
