@@ -1,5 +1,5 @@
 opam-version: "1"
-version: "0.0.0"
+version: "js"
 src: "http://caml.inria.fr/pub/distrib/ocaml-4.00/ocaml-4.00.0.tar.gz"
 make: []
 packages: []
