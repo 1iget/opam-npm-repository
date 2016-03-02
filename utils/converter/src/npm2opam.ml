@@ -4,6 +4,12 @@ open Yojson.Basic.Util
 open Unix
 open Common
 
+module StringSet = Set.Make( 
+  struct
+    let compare = String.compare
+    type t = string
+  end )
+
 type maintainer = {
   name: string;
   email: string;
@@ -90,7 +96,8 @@ let parse_range x =
   let str = List.fold_left (fun acc xs ->
     Printf.sprintf "%s%s%s" acc (or_sep acc) (ands xs)
   ) "" parsed in
-  Printf.fprintf out "%s\n\n" x;
+  Printf.fprintf out "%s\n\n" str;
+  close_out out;
   str
 
 
@@ -239,9 +246,16 @@ let generate_opam doc =
   Unix.chdir ".."
 
 
+let set_documents = ref StringSet.empty
+
 let rec generate_all documents =
   let generate x =
-    try generate_opam x
+    try
+      if StringSet.mem x.id !set_documents
+      then ()
+      else
+        set_documents := StringSet.add x.id !set_documents;
+        generate_opam x
     with Unix_error _ -> ()
   in
   List.iter (fun x -> generate x) documents;
