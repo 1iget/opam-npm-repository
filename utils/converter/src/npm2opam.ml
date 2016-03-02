@@ -2,6 +2,7 @@ open Nethttp_client
 open Yojson.Basic
 open Yojson.Basic.Util
 open Unix
+open Common
 
 type maintainer = {
   name: string;
@@ -46,13 +47,58 @@ let string_of_doc doc =
   Printf.sprintf "{id: %s, description: %s, versions: %s}" doc.id desc versions
 
 
+(*URLs to connect to a local CouchDB replica of the NPM registry*)
 let url_doc = "http://localhost:5984/registry/_all_docs?include_docs=true&limit=3"
 let search_url_doc id =
   Printf.sprintf "http://localhost:5984/registry/%s?include_docs=true" id
 
 
+let concat_ands v =
+  if v = [] then "foo" else
+  String.concat " , " (
+    List.map (fun v ->
+      if v = "" then "foo" 
+      else Printf.sprintf "foo (%s)" v
+    ) v) 
+
+let parse_pef_vpkgformula_or v =
+  let str vl =
+    if vl = [] then "foo" else
+    String.concat " | " (List.map (fun v -> concat_ands v) vl)
+  in
+  Pef.Packages.parse_vpkgformula ("depends", (Format822.dummy_loc,str v))
+
+
+
+
+let parse_range x =
+  let out = open_out_gen [Open_wronly; Open_append; Open_creat; Open_text] 0o666 "versions.txt" in
+  Printf.fprintf out "%s\n" x;
+  let str = Printf.sprintf "\"foo\" : \"%s\"" x in
+  let and_sep x = if x = "" then "" else "|" in
+  let or_sep x = if x = "" then "" else "&" in
+  let const c =
+    match c with
+    | None -> ""
+    | Some (op, v)  -> Printf.sprintf "%s%s" op v
+  in
+  let ands xs = List.fold_left (fun acc (_, c) ->
+    Printf.sprintf "%s%s%s" acc (and_sep acc) (const c)
+  ) "" xs
+  in
+  let parsed = Npm.Packages.parse_depend ("depends", (Format822.dummy_loc, str)) in
+  let str = List.fold_left (fun acc xs ->
+    Printf.sprintf "%s%s%s" acc (or_sep acc) (ands xs)
+  ) "" parsed in
+  Printf.fprintf out "%s\n\n" x;
+  str
+
+
 let get_deps_version deps =
-  try deps |> to_assoc |> List.map (fun (n, r) -> { package = n; range = to_string r;})
+  try
+    deps
+    |> to_assoc 
+    |> List.map (fun (n, r) -> { package = n; range = parse_range (to_string r);})
   with Type_error _ -> []
 
 let rows str =
@@ -124,6 +170,11 @@ let string_of_files files =
   let sep x = if x = "" then "" else "\n" in
   List.fold_left (fun acc x -> Printf.sprintf "%s%s\"%s\"" acc (sep acc) x) "" files
 
+let string_of_deps deps =
+  let dep_str x = Printf.sprintf "\"%s\" {build & %s}" x.package x.range in
+  let sep x = if x = "" then "" else "\n" in
+  List.fold_left (fun acc x -> Printf.sprintf "%s%s%s\n" acc (sep acc) (dep_str x)) "" deps
+
 
 let download tarball =
   let package = Convenience.http_get tarball in
@@ -132,6 +183,7 @@ let download tarball =
   close_out output;
   let files = read_all_command (open_process_in (Printf.sprintf "tar -xvf %s" name)) in
   let md5sum = Digest.to_hex (Digest.string package) in
+  ignore (open_process_in "rm -r package");
   (md5sum, remove_prefix files)
 
 let generate_opam doc =
@@ -150,7 +202,8 @@ let generate_opam doc =
       | Some repo -> Printf.sprintf "dev-repo: \"%s\"" repo
       | None -> ""
     in
-    (v_str, v.tarball, Printf.sprintf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n" opam_version name version maintainer author license dev_repo)
+    let deps = Printf.sprintf "depends: [\n%s\n]" (string_of_deps v.deps) in
+    (v_str, v.tarball, Printf.sprintf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" opam_version name version maintainer author license dev_repo deps)
   ) doc.versions in
   List.iter (fun (v_str, tarball, file_str) ->
     let directory = Printf.sprintf "%s.%s" doc.id v_str in

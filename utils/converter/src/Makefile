@@ -1,6 +1,5 @@
 SRC = npm2opam.ml
-PACKAGES = yojson,netclient
-
+PACKAGES = yojson,netclient,dose3.npm,dose3
 
 
 all:
