@@ -39,25 +39,11 @@ let string_of_option opt =
   | Some x -> x
   | None -> "null"
 
-let string_of_version v =
-  let string_of_dep dep = Printf.sprintf "%s: %s" dep.package dep.range in
-  let string_of_dependencies deps = List.fold_left (fun acc x -> Printf.sprintf "%s,%s" acc (string_of_dep x)) "" deps in
-  Printf.sprintf "{tarball: %s, dependencies: %s}" v.tarball (string_of_dependencies v.deps)
-
-let string_of_versions vs =
-  List.fold_left (fun acc (name, v) -> Printf.sprintf "%s, %s: %s" acc name (string_of_version v)) "" vs
-  
-let string_of_doc doc =
-  let desc = string_of_option doc.description in
-  let versions = string_of_versions doc.versions in
-  Printf.sprintf "{id: %s, description: %s, versions: %s}" doc.id desc versions
-
 
 (*URLs to connect to a local CouchDB replica of the NPM registry*)
 let url_doc = "http://localhost:5984/registry/_all_docs?include_docs=true&limit=3"
 let search_url_doc id =
   Printf.sprintf "http://localhost:5984/registry/%s?include_docs=true" id
-
 
 let concat_ands v =
   if v = [] then "foo" else
@@ -66,14 +52,6 @@ let concat_ands v =
       if v = "" then "foo" 
       else Printf.sprintf "foo (%s)" v
     ) v) 
-
-let parse_pef_vpkgformula_or v =
-  let str vl =
-    if vl = [] then "foo" else
-    String.concat " | " (List.map (fun v -> concat_ands v) vl)
-  in
-  Pef.Packages.parse_vpkgformula ("depends", (Format822.dummy_loc,str v))
-
 
 
 
