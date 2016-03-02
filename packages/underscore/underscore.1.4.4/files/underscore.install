@@ -1,0 +1,14 @@
+lib: [
+"package.json"
+".npmignore"
+"README.md"
+"LICENSE"
+"underscore-min.js"
+"underscore.js"
+"index.js"
+".travis.yml"
+"index.html"
+"favicon.ico"
+"CONTRIBUTING.md"
+"CNAME"
+]
