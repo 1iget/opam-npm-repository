@@ -1,0 +1,17 @@
+lib: [
+"package.json"
+"README.md"
+"cancelable.js"
+"debug.js"
+"delay.js"
+"apply.js"
+"timed.js"
+"parallel.js"
+"pipeline.js"
+"sequence.js"
+"timeout.js"
+"when.js"
+".jshintrc"
+"LICENSE.txt"
+".editorconfig"
+]

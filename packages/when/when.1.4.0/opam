@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "when"
+version: "1.4.0"
+maintainer: "cujojs <info@cujojs.com>"
+author: "cujojs <info@cujojs.com>"
+license: "Not defined"
+
+depends: [
+
+]
+

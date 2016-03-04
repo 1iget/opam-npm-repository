@@ -168,7 +168,7 @@ let download tarball =
   close_out output;
   let files = read_all_command (open_process_in (Printf.sprintf "tar -xvf %s" name)) in
   let md5sum = Digest.to_hex (Digest.string package) in
-  ignore (open_process_in "rm -r package");
+  ignore (open_process_in "rm -fr package");
   (md5sum, remove_prefix files)
 
 let generate_opam doc =

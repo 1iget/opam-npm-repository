@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "colors"
+version: "1.0.2"
+maintainer: "marak <marak.squires@gmail.com>"
+author: "marak <marak.squires@gmail.com>"
+license: "MIT"
+dev-repo: "http://github.com/Marak/colors.js.git"
+depends: [
+
+]
+

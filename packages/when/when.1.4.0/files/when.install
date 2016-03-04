@@ -1,0 +1,12 @@
+lib: [
+"package.json"
+"README.md"
+"apply.js"
+"cancelable.js"
+"debug.js"
+"delay.js"
+"timed.js"
+"timeout.js"
+"when.js"
+"LICENSE.txt"
+]

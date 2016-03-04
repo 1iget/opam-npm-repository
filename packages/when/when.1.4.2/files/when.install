@@ -1,0 +1,16 @@
+lib: [
+"package.json"
+"README.md"
+"when.js"
+"apply.js"
+"cancelable.js"
+"debug.js"
+"delay.js"
+"grunt.js"
+"timed.js"
+"timeout.js"
+".jshintrc"
+".editorconfig"
+"projectFilesBackup/.idea/workspace.xml"
+"LICENSE.txt"
+]
