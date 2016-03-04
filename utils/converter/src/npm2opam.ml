@@ -59,8 +59,8 @@ let parse_range x =
   let out = open_out_gen [Open_wronly; Open_append; Open_creat; Open_text] 0o666 "versions.txt" in
   Printf.fprintf out "%s\n" x;
   let str = Printf.sprintf "\"foo\" : \"%s\"" x in
-  let and_sep x = if x = "" then "" else "|" in
-  let or_sep x = if x = "" then "" else "&" in
+  let and_sep x = if x = "" then "" else " | " in
+  let or_sep x = if x = "" then "" else " & " in
   let const c =
     match c with
     | None -> ""

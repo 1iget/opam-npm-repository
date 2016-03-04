@@ -1,8 +1,0 @@
-lib: [
-"package.json"
-"README.md"
-"app.js"
-"bar.js"
-"foo.js"
-"fs-data/data.txt"
-]

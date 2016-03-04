@@ -1,6 +1,0 @@
-lib: [
-"package.json"
-"app.js"
-"bar.js"
-"foo.js"
-]
