@@ -64,7 +64,7 @@ let parse_range x =
   let const c =
     match c with
     | None -> ""
-    | Some (op, v)  -> Printf.sprintf "%s%s" op v
+    | Some (op, v)  -> Printf.sprintf "%s\"%s\"" op v
   in
   let ands xs = List.fold_left (fun acc (_, c) ->
     Printf.sprintf "%s%s%s" acc (and_sep acc) (const c)
@@ -156,7 +156,7 @@ let string_of_files files =
   List.fold_left (fun acc x -> Printf.sprintf "%s%s\"%s\"" acc (sep acc) x) "" files
 
 let string_of_deps deps =
-  let dep_str x = Printf.sprintf "\"%s\" {build & %s}" x.package x.range in
+  let dep_str x = Printf.sprintf "\"%s\" {%s}" x.package x.range in
   let sep x = if x = "" then "" else "\n" in
   List.fold_left (fun acc x -> Printf.sprintf "%s%s%s\n" acc (sep acc) (dep_str x)) "" deps
 

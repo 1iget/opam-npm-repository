@@ -1,0 +1,15 @@
+lib: [
+"package.json"
+"README.md"
+"when.js"
+"apply.js"
+"cancelable.js"
+"debug.js"
+"delay.js"
+"timeout.js"
+"timed.js"
+"grunt.js"
+"LICENSE.txt"
+".jshintrc"
+".editorconfig"
+]
