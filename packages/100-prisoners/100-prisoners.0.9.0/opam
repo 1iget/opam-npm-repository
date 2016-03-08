@@ -6,6 +6,6 @@ author: "kamilmielnik <kamil.adam.mielnik@gmail.com>"
 license: "MIT"
 dev-repo: "https://github.com/kamilmielnik/100-prisoners.git"
 depends: [
-  "underscore" {>="1.8.3" & <"2.0.0"}
+  "sexplib" {>="109.15.00" & <"113.24.00"}
 ]
 
