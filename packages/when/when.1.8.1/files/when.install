@@ -1,25 +1,25 @@
 lib: [
-"package.json"
-"README.md"
-"apply.js"
-"callbacks.js"
-"timed.js"
-"debug.js"
-"delay.js"
-"sequence.js"
-"poll.js"
-"when.js"
-"timeout.js"
-"parallel.js"
-"unfold.js"
-"pipeline.js"
-"cancelable.js"
-"function.js"
-"node/function.js"
-".jshintignore"
-"LICENSE.txt"
-"CHANGES.md"
-"unfold/list.js"
-".jshintrc"
-".editorconfig"
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"apply.js" {"apply.js"}
+"callbacks.js" {"callbacks.js"}
+"timed.js" {"timed.js"}
+"debug.js" {"debug.js"}
+"delay.js" {"delay.js"}
+"sequence.js" {"sequence.js"}
+"poll.js" {"poll.js"}
+"when.js" {"when.js"}
+"timeout.js" {"timeout.js"}
+"parallel.js" {"parallel.js"}
+"unfold.js" {"unfold.js"}
+"pipeline.js" {"pipeline.js"}
+"cancelable.js" {"cancelable.js"}
+"function.js" {"function.js"}
+"node/function.js" {"node/function.js"}
+".jshintignore" {".jshintignore"}
+"LICENSE.txt" {"LICENSE.txt"}
+"CHANGES.md" {"CHANGES.md"}
+"unfold/list.js" {"unfold/list.js"}
+".jshintrc" {".jshintrc"}
+".editorconfig" {".editorconfig"}
 ]

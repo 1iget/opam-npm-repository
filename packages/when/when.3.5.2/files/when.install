@@ -1,46 +1,46 @@
 lib: [
-"package.json"
-"README.md"
-"poll.js"
-"pipeline.js"
-"parallel.js"
-"node.js"
-"monitor.js"
-"keys.js"
-"guard.js"
-"callbacks.js"
-"sequence.js"
-"cancelable.js"
-"timeout.js"
-"delay.js"
-"unfold.js"
-"when.js"
-"generator.js"
-"function.js"
-"es6-shim/README.md"
-"es6-shim/Promise.browserify-es6.js"
-"es6-shim/Promise.js"
-"lib/Promise.js"
-"lib/Scheduler.js"
-"lib/TimeoutError.js"
-"lib/env.js"
-"lib/liftAll.js"
-"lib/makePromise.js"
-"lib/decorators/array.js"
-"lib/decorators/flow.js"
-"lib/decorators/fold.js"
-"lib/decorators/inspect.js"
-"lib/decorators/iterate.js"
-"lib/decorators/progress.js"
-"lib/decorators/timed.js"
-"lib/decorators/unhandledRejection.js"
-"lib/decorators/with.js"
-"monitor/README.md"
-"monitor/ConsoleReporter.js"
-"monitor/PromiseMonitor.js"
-"monitor/console.js"
-"monitor/error.js"
-"node/function.js"
-"LICENSE.txt"
-"unfold/list.js"
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"poll.js" {"poll.js"}
+"pipeline.js" {"pipeline.js"}
+"parallel.js" {"parallel.js"}
+"node.js" {"node.js"}
+"monitor.js" {"monitor.js"}
+"keys.js" {"keys.js"}
+"guard.js" {"guard.js"}
+"callbacks.js" {"callbacks.js"}
+"sequence.js" {"sequence.js"}
+"cancelable.js" {"cancelable.js"}
+"timeout.js" {"timeout.js"}
+"delay.js" {"delay.js"}
+"unfold.js" {"unfold.js"}
+"when.js" {"when.js"}
+"generator.js" {"generator.js"}
+"function.js" {"function.js"}
+"es6-shim/README.md" {"es6-shim/README.md"}
+"es6-shim/Promise.browserify-es6.js" {"es6-shim/Promise.browserify-es6.js"}
+"es6-shim/Promise.js" {"es6-shim/Promise.js"}
+"lib/Promise.js" {"lib/Promise.js"}
+"lib/Scheduler.js" {"lib/Scheduler.js"}
+"lib/TimeoutError.js" {"lib/TimeoutError.js"}
+"lib/env.js" {"lib/env.js"}
+"lib/liftAll.js" {"lib/liftAll.js"}
+"lib/makePromise.js" {"lib/makePromise.js"}
+"lib/decorators/array.js" {"lib/decorators/array.js"}
+"lib/decorators/flow.js" {"lib/decorators/flow.js"}
+"lib/decorators/fold.js" {"lib/decorators/fold.js"}
+"lib/decorators/inspect.js" {"lib/decorators/inspect.js"}
+"lib/decorators/iterate.js" {"lib/decorators/iterate.js"}
+"lib/decorators/progress.js" {"lib/decorators/progress.js"}
+"lib/decorators/timed.js" {"lib/decorators/timed.js"}
+"lib/decorators/unhandledRejection.js" {"lib/decorators/unhandledRejection.js"}
+"lib/decorators/with.js" {"lib/decorators/with.js"}
+"monitor/README.md" {"monitor/README.md"}
+"monitor/ConsoleReporter.js" {"monitor/ConsoleReporter.js"}
+"monitor/PromiseMonitor.js" {"monitor/PromiseMonitor.js"}
+"monitor/console.js" {"monitor/console.js"}
+"monitor/error.js" {"monitor/error.js"}
+"node/function.js" {"node/function.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"unfold/list.js" {"unfold/list.js"}
 ]

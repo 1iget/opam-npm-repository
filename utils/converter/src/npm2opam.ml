@@ -149,11 +149,12 @@ let rec read_all_command channel =
   with End_of_file -> []
 
 
-let remove_prefix = List.map (Str.replace_first (Str.regexp "package/") "")
+let remove_prefix =
+  List.map (Str.replace_first (Str.regexp "package/") "")
 
 let string_of_files files =
   let sep x = if x = "" then "" else "\n" in
-  List.fold_left (fun acc x -> Printf.sprintf "%s%s\"%s\"" acc (sep acc) x) "" files
+  List.fold_left (fun acc x -> Printf.sprintf "%s%s\"%s\" {\"%s\"}" acc (sep acc) x x) "" files
 
 let string_of_deps deps =
   let dep_str x = Printf.sprintf "\"%s\" {%s}" x.package x.range in

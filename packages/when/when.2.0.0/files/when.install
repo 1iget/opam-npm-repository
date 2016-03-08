@@ -1,27 +1,27 @@
 lib: [
-"package.json"
-"README.md"
-"delay.js"
-"function.js"
-"keys.js"
-"debug.js"
-"parallel.js"
-"pipeline.js"
-"poll.js"
-"sequence.js"
-"cancelable.js"
-"timed.js"
-"callbacks.js"
-"timeout.js"
-"apply.js"
-"when.js"
-"unfold.js"
-".jshintignore"
-".editorconfig"
-"CHANGES.md"
-".jshintrc"
-"unfold/list.js"
-"LICENSE.txt"
-"when.c.js.gz"
-"node/function.js"
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"delay.js" {"delay.js"}
+"function.js" {"function.js"}
+"keys.js" {"keys.js"}
+"debug.js" {"debug.js"}
+"parallel.js" {"parallel.js"}
+"pipeline.js" {"pipeline.js"}
+"poll.js" {"poll.js"}
+"sequence.js" {"sequence.js"}
+"cancelable.js" {"cancelable.js"}
+"timed.js" {"timed.js"}
+"callbacks.js" {"callbacks.js"}
+"timeout.js" {"timeout.js"}
+"apply.js" {"apply.js"}
+"when.js" {"when.js"}
+"unfold.js" {"unfold.js"}
+".jshintignore" {".jshintignore"}
+".editorconfig" {".editorconfig"}
+"CHANGES.md" {"CHANGES.md"}
+".jshintrc" {".jshintrc"}
+"unfold/list.js" {"unfold/list.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"when.c.js.gz" {"when.c.js.gz"}
+"node/function.js" {"node/function.js"}
 ]

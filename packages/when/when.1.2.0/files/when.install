@@ -1,13 +1,13 @@
 lib: [
-"package.json"
-"README.md"
-"debug.js"
-"delay.js"
-"timeout.js"
-"cancelable.js"
-"test.js"
-"timed.js"
-"apply.js"
-"when.js"
-"LICENSE.txt"
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"debug.js" {"debug.js"}
+"delay.js" {"delay.js"}
+"timeout.js" {"timeout.js"}
+"cancelable.js" {"cancelable.js"}
+"test.js" {"test.js"}
+"timed.js" {"timed.js"}
+"apply.js" {"apply.js"}
+"when.js" {"when.js"}
+"LICENSE.txt" {"LICENSE.txt"}
 ]

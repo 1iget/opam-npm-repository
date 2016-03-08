@@ -1,24 +1,24 @@
 lib: [
-"package.json"
-".npmignore"
-"README.md"
-"index.js"
-"gulpfile.js"
-"dist/1vk.js"
-".idea/libraries/1VK_node_modules.xml"
-".idea/.name"
-".idea/encodings.xml"
-".idea/inspectionProfiles/Project_Default.xml"
-".idea/inspectionProfiles/profiles_settings.xml"
-".idea/jsLibraryMappings.xml"
-".idea/1VK.iml"
-".idea/misc.xml"
-".idea/modules.xml"
-".idea/scopes/scope_settings.xml"
-".idea/vcs.xml"
-".idea/workspace.xml"
-"lib/ApiQueue.js"
-"lib/Bundle.js"
-"lib/LimitingQueue.js"
-"lib/Request.js"
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"gulpfile.js" {"gulpfile.js"}
+"dist/1vk.js" {"dist/1vk.js"}
+".idea/libraries/1VK_node_modules.xml" {".idea/libraries/1VK_node_modules.xml"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/inspectionProfiles/Project_Default.xml" {".idea/inspectionProfiles/Project_Default.xml"}
+".idea/inspectionProfiles/profiles_settings.xml" {".idea/inspectionProfiles/profiles_settings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/1VK.iml" {".idea/1VK.iml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"lib/ApiQueue.js" {"lib/ApiQueue.js"}
+"lib/Bundle.js" {"lib/Bundle.js"}
+"lib/LimitingQueue.js" {"lib/LimitingQueue.js"}
+"lib/Request.js" {"lib/Request.js"}
 ]

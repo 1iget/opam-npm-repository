@@ -1,38 +1,38 @@
 lib: [
-"package.json"
-"README.md"
-"timeout.js"
-"cancelable.js"
-"debug.js"
-"delay.js"
-"apply.js"
-"callbacks.js"
-"guard.js"
-"timed.js"
-"sequence.js"
-"poll.js"
-"when.js"
-"generator.js"
-"parallel.js"
-"unfold.js"
-"pipeline.js"
-"function.js"
-"keys.js"
-"node/function.js"
-"monitor/README.md"
-"monitor/aggregator.js"
-"monitor/array.js"
-"monitor/both.js"
-"monitor/console.js"
-"monitor/simpleFormatter.js"
-"monitor/simpleReporter.js"
-"monitor/stackFilter.js"
-"monitor/throttledReporter.js"
-"monitor/logger/consoleGroup.js"
-"monitor/logger/rethrowToHost.js"
-"CONTRIBUTING.md"
-"bower.json"
-"unfold/list.js"
-"LICENSE.txt"
-"CHANGES.md"
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"timeout.js" {"timeout.js"}
+"cancelable.js" {"cancelable.js"}
+"debug.js" {"debug.js"}
+"delay.js" {"delay.js"}
+"apply.js" {"apply.js"}
+"callbacks.js" {"callbacks.js"}
+"guard.js" {"guard.js"}
+"timed.js" {"timed.js"}
+"sequence.js" {"sequence.js"}
+"poll.js" {"poll.js"}
+"when.js" {"when.js"}
+"generator.js" {"generator.js"}
+"parallel.js" {"parallel.js"}
+"unfold.js" {"unfold.js"}
+"pipeline.js" {"pipeline.js"}
+"function.js" {"function.js"}
+"keys.js" {"keys.js"}
+"node/function.js" {"node/function.js"}
+"monitor/README.md" {"monitor/README.md"}
+"monitor/aggregator.js" {"monitor/aggregator.js"}
+"monitor/array.js" {"monitor/array.js"}
+"monitor/both.js" {"monitor/both.js"}
+"monitor/console.js" {"monitor/console.js"}
+"monitor/simpleFormatter.js" {"monitor/simpleFormatter.js"}
+"monitor/simpleReporter.js" {"monitor/simpleReporter.js"}
+"monitor/stackFilter.js" {"monitor/stackFilter.js"}
+"monitor/throttledReporter.js" {"monitor/throttledReporter.js"}
+"monitor/logger/consoleGroup.js" {"monitor/logger/consoleGroup.js"}
+"monitor/logger/rethrowToHost.js" {"monitor/logger/rethrowToHost.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"bower.json" {"bower.json"}
+"unfold/list.js" {"unfold/list.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"CHANGES.md" {"CHANGES.md"}
 ]

@@ -1,20 +1,20 @@
 lib: [
-"package.json"
-".npmignore"
-"README.md"
-"LICENSE"
-"Gruntfile.js"
-"index.js"
-"test.js"
-"src/benchmark.js"
-"src/prison.js"
-"src/room-visitors-history.js"
-"src/room.js"
-"src/algorithms/interval.js"
-"src/algorithms/simple.js"
-"src/algorithms/interval/counting-prisoner.js"
-"src/algorithms/interval/interval-calculator.js"
-"src/algorithms/interval/prisoner.js"
-"src/algorithms/simple/counting-prisoner.js"
-"src/algorithms/simple/prisoner.js"
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"src/benchmark.js" {"src/benchmark.js"}
+"src/prison.js" {"src/prison.js"}
+"src/room-visitors-history.js" {"src/room-visitors-history.js"}
+"src/room.js" {"src/room.js"}
+"src/algorithms/interval.js" {"src/algorithms/interval.js"}
+"src/algorithms/simple.js" {"src/algorithms/simple.js"}
+"src/algorithms/interval/counting-prisoner.js" {"src/algorithms/interval/counting-prisoner.js"}
+"src/algorithms/interval/interval-calculator.js" {"src/algorithms/interval/interval-calculator.js"}
+"src/algorithms/interval/prisoner.js" {"src/algorithms/interval/prisoner.js"}
+"src/algorithms/simple/counting-prisoner.js" {"src/algorithms/simple/counting-prisoner.js"}
+"src/algorithms/simple/prisoner.js" {"src/algorithms/simple/prisoner.js"}
 ]
