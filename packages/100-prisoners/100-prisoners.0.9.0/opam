@@ -6,7 +6,6 @@ author: "kamilmielnik <kamil.adam.mielnik@gmail.com>"
 license: "MIT"
 dev-repo: "https://github.com/kamilmielnik/100-prisoners.git"
 depends: [
-"underscore" {build & >=1.8.3 & <2.0.0}
-
+  "underscore" {>="1.8.3" & <"2.0.0"}
 ]
 
