@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"debug.js" {"debug.js"}
+"head.js" {"head.js"}
+"debug.component.js" {"debug.component.js"}
+"tail.js" {"tail.js"}
+"index.js" {"index.js"}
+"History.md" {"History.md"}
+"lib/debug.js" {"lib/debug.js"}
+"Makefile" {"Makefile"}
+"example/app.js" {"example/app.js"}
+"example/wildcards.js" {"example/wildcards.js"}
+"example/worker.js" {"example/worker.js"}
+"example/browser.html" {"example/browser.html"}
+"Readme.md" {"Readme.md"}
+]

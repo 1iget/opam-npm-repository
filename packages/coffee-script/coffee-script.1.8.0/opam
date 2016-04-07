@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "coffee-script"
+version: "1.8.0"
+maintainer: "jashkenas <jashkenas@gmail.com>"
+author: "jashkenas <jashkenas@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/jashkenas/coffeescript.git"
+depends: [
+"mkdirp" {>="0.3.5" & <"0.4.0"}
+
+]
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"app.js" {"app.js"}
+"bar.js" {"bar.js"}
+"foo.js" {"foo.js"}
+"fs-data/data.txt" {"fs-data/data.txt"}
+]

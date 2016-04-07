@@ -1,0 +1,23 @@
+lib: [
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"Rakefile" {"Rakefile"}
+"README" {"README"}
+"bin/cake" {"bin/cake"}
+"bin/coffee" {"bin/coffee"}
+"lib/browser.js" {"lib/browser.js"}
+"lib/cake.js" {"lib/cake.js"}
+"lib/coffee-script.js" {"lib/coffee-script.js"}
+"lib/command.js" {"lib/command.js"}
+"lib/grammar.js" {"lib/grammar.js"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/lexer.js" {"lib/lexer.js"}
+"lib/nodes.js" {"lib/nodes.js"}
+"lib/optparse.js" {"lib/optparse.js"}
+"lib/parser.js" {"lib/parser.js"}
+"lib/repl.js" {"lib/repl.js"}
+"lib/rewriter.js" {"lib/rewriter.js"}
+"lib/scope.js" {"lib/scope.js"}
+]

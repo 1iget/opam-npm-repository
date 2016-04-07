@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "01-simple"
+version: "1.0.5"
+maintainer: "martinbishop <martyn.bishop@gmail.com>"
+author: "martinbishop <martyn.bishop@gmail.com>"
+license: "ISC"
+dev-repo: "git@github.com:MartynEl/NodeJS-Simple-Start.git"
+depends: [
+"colors" {>="0.6.0-1" & <"0.7.0"}
+
+]
+

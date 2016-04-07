@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "say"
+version: "0.5.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/Marak/say.js.git"
+depends: [
+"translate" {>="0.3.3"}
+
+"colors" {>="0.5.0" & <"0.6.0"}
+
+]
+

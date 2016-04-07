@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "normalize-package-data"
+version: "0.1.1"
+maintainer: "meryn <merynstol@gmail.com>"
+author: "meryn <merynstol@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/meryn/normalize-package-data.git"
+depends: [
+"semver" {>="1.0.0" & <"2.0.0"}
+
+"github-url-from-git" {="ImdpdDovL2dpdGh1Yi5jb20vaXNhYWNzL25vZGUtZ2l0aHViLXVybC1mcm9tLWdpdC5naXQi"}
+
+]
+

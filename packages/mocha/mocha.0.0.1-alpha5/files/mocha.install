@@ -1,0 +1,60 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"bin/mocha" {"bin/mocha"}
+"bin/mocha-debug" {"bin/mocha-debug"}
+"testing/bdd.js" {"testing/bdd.js"}
+"testing/exports.js" {"testing/exports.js"}
+"testing/index.js" {"testing/index.js"}
+"testing/tdd.js" {"testing/tdd.js"}
+"lib/mocha.js" {"lib/mocha.js"}
+"lib/runner.js" {"lib/runner.js"}
+"lib/suite.js" {"lib/suite.js"}
+"lib/test.js" {"lib/test.js"}
+"lib/interfaces/bdd.js" {"lib/interfaces/bdd.js"}
+"lib/interfaces/exports.js" {"lib/interfaces/exports.js"}
+"lib/interfaces/index.js" {"lib/interfaces/index.js"}
+"lib/interfaces/tdd.js" {"lib/interfaces/tdd.js"}
+"lib/reporters/base.js" {"lib/reporters/base.js"}
+"lib/reporters/doc.js" {"lib/reporters/doc.js"}
+"lib/reporters/index.js" {"lib/reporters/index.js"}
+"lib/reporters/dot.js" {"lib/reporters/dot.js"}
+"lib/reporters/json.js" {"lib/reporters/json.js"}
+"lib/reporters/json-stream.js" {"lib/reporters/json-stream.js"}
+"lib/reporters/landing.js" {"lib/reporters/landing.js"}
+"lib/reporters/list.js" {"lib/reporters/list.js"}
+"lib/reporters/progress.js" {"lib/reporters/progress.js"}
+"lib/reporters/spec.js" {"lib/reporters/spec.js"}
+"lib/reporters/tap.js" {"lib/reporters/tap.js"}
+"test/fs.js" {"test/fs.js"}
+"test/duration.js" {"test/duration.js"}
+"test/hook.async.js" {"test/hook.async.js"}
+"test/globals.js" {"test/globals.js"}
+"test/hook.sync.nested.js" {"test/hook.sync.nested.js"}
+"test/hook.sync.js" {"test/hook.sync.js"}
+"test/http.js" {"test/http.js"}
+"test/http.meta.2.js" {"test/http.meta.2.js"}
+"test/http.meta.js" {"test/http.meta.js"}
+"test/merge.js" {"test/merge.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/multiple.done.js" {"test/multiple.done.js"}
+"test/pending.js" {"test/pending.js"}
+"test/timeout.js" {"test/timeout.js"}
+"test/uncaught.js" {"test/uncaught.js"}
+"test/interfaces/exports.js" {"test/interfaces/exports.js"}
+"test/interfaces/bdd.js" {"test/interfaces/bdd.js"}
+"test/interfaces/tdd.js" {"test/interfaces/tdd.js"}
+"test/misc/grep.js" {"test/misc/grep.js"}
+"editors/JavaScript mocha.tmbundle/info.plist" {"editors/JavaScript mocha.tmbundle/info.plist"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - after each.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - after each.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - after.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - after.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - before each.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - before each.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet"}
+]

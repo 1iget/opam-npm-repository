@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"Readme.md" {"Readme.md"}
+"bin/cli.js" {"bin/cli.js"}
+"lib/dateformat.js" {"lib/dateformat.js"}
+"test/test_dayofweek.js" {"test/test_dayofweek.js"}
+"test/test_formats.js" {"test/test_formats.js"}
+"test/test_isoutcdatetime.js" {"test/test_isoutcdatetime.js"}
+"test/weekofyear/test_weekofyear.js" {"test/weekofyear/test_weekofyear.js"}
+"test/weekofyear/test_weekofyear.sh" {"test/weekofyear/test_weekofyear.sh"}
+]

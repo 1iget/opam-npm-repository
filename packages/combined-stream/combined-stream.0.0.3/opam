@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "combined-stream"
+version: "0.0.3"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/felixge/node-combined-stream.git"
+depends: [
+"delayed-stream" {="0.0.5"}
+
+]
+

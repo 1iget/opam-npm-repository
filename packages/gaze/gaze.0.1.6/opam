@@ -1,0 +1,18 @@
+opam-version: "1.2"
+name: "gaze"
+version: "0.1.6"
+maintainer: "shama <kyle@dontkry.com>"
+author: "shama <kyle@dontkry.com>"
+license: "not defined"
+dev-repo: "git://github.com/shama/gaze.git"
+depends: [
+"async" {>="0.1.22" & <"0.2.0"}
+
+"glob" {>="3.1.13" & <"3.2.0"}
+
+"lodash" {>="0.8.0" & <"0.9.0"}
+
+"minimatch" {>="0.2.6" & <"0.3.0"}
+
+]
+

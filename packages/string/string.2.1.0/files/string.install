@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"Makefile" {"Makefile"}
+"lib/string.js" {"lib/string.js"}
+"lib/string.min.js" {"lib/string.min.js"}
+"test/string.test.js" {"test/string.test.js"}
+"test/browser.test.html" {"test/browser.test.html"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

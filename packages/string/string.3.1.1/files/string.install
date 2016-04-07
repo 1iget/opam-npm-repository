@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"Makefile" {"Makefile"}
+"lib/_count.js" {"lib/_count.js"}
+"lib/string.js" {"lib/string.js"}
+]

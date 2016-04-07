@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "seq"
+version: "0.1.4"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "MIT/X11"
+dev-repo: "http://github.com/substack/node-seq.git"
+depends: [
+"chainsaw" {>="0.0.5"}
+
+"traverse" {>="0.2.3"}
+
+]
+

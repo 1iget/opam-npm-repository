@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"example/detect.js" {"example/detect.js"}
+"example/src.js" {"example/src.js"}
+"readme.markdown" {"readme.markdown"}
+"test/detect.js" {"test/detect.js"}
+"test/sources/detect.js" {"test/sources/detect.js"}
+"test/sources/detect_source.js" {"test/sources/detect_source.js"}
+".travis.yml" {".travis.yml"}
+]

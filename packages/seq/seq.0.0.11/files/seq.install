@@ -1,0 +1,11 @@
+lib: [
+"" {""}
+"test/" {"test/"}
+"test/seq.js" {"test/seq.js"}
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+"examples/" {"examples/"}
+"examples/parseq.js" {"examples/parseq.js"}
+"examples/stat_all.js" {"examples/stat_all.js"}
+"package.json" {"package.json"}
+]

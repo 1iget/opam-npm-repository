@@ -1,0 +1,18 @@
+lib: [
+"" {""}
+"examples/" {"examples/"}
+"lib/" {"lib/"}
+"._logo.png" {"._logo.png"}
+"logo.png" {"logo.png"}
+"MIT-LICENSE.txt" {"MIT-LICENSE.txt"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._ReadMe.md" {"._ReadMe.md"}
+"ReadMe.md" {"ReadMe.md"}
+"lib/._say.js" {"lib/._say.js"}
+"lib/say.js" {"lib/say.js"}
+"examples/._demo-translate.js" {"examples/._demo-translate.js"}
+"examples/demo-translate.js" {"examples/demo-translate.js"}
+"examples/._demo.js" {"examples/._demo.js"}
+"examples/demo.js" {"examples/demo.js"}
+]

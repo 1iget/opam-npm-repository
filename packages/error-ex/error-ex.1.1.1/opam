@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "error-ex"
+version: "1.1.1"
+maintainer: "qix <i.am.qix@gmail.com>"
+author: "qix <i.am.qix@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/qix-/node-error-ex.git"
+depends: [
+
+]
+

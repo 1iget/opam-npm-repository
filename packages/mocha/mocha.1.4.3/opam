@@ -1,0 +1,24 @@
+opam-version: "1.2"
+name: "mocha"
+version: "1.4.3"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "git://github.com/visionmedia/mocha.git"
+depends: [
+"commander" {="0.6.1"}
+
+"growl" {>="1.5.0" & <"1.6.0"}
+
+"jade" {="0.26.3"}
+
+"diff" {="1.0.2"}
+
+"debug" {>="0.0.0"}
+
+"mkdirp" {="0.3.3"}
+
+"ms" {="0.3.0"}
+
+]
+

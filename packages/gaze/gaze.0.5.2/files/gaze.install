@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/gaze.js" {"lib/gaze.js"}
+"lib/helper.js" {"lib/helper.js"}
+]

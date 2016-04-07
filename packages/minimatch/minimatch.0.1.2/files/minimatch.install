@@ -1,0 +1,11 @@
+lib: [
+".travis.yml" {".travis.yml"}
+"LICENSE" {"LICENSE"}
+"minimatch.js" {"minimatch.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/basic.js" {"test/basic.js"}
+"test/brace-expand.js" {"test/brace-expand.js"}
+"test/caching.js" {"test/caching.js"}
+]

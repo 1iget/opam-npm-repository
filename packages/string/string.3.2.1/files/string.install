@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"gulpfile.js" {"gulpfile.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"dist/string.js" {"dist/string.js"}
+"dist/string.min.js" {"dist/string.min.js"}
+".idea/codeStyleSettings.xml" {".idea/codeStyleSettings.xml"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/string.js.iml" {".idea/string.js.iml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"lib/_count.js" {"lib/_count.js"}
+"lib/string.js" {"lib/string.js"}
+".min-wd" {".min-wd"}
+]

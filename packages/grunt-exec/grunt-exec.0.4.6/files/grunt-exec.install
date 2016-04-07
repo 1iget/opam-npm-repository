@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"tasks/exec.js" {"tasks/exec.js"}
+"test/Gruntfile.js" {"test/Gruntfile.js"}
+"test/test.js" {"test/test.js"}
+]

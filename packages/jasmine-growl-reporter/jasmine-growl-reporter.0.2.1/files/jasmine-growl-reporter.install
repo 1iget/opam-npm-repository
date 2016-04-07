@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"Gruntfile.js" {"Gruntfile.js"}
+".travis.yml" {".travis.yml"}
+".ackrc" {".ackrc"}
+"lib/reporter.js" {"lib/reporter.js"}
+"res/failed.png" {"res/failed.png"}
+"res/passed.png" {"res/passed.png"}
+"res/screenshot-failed.png" {"res/screenshot-failed.png"}
+"res/screenshot-notification-center.png" {"res/screenshot-notification-center.png"}
+"res/screenshot-passed.png" {"res/screenshot-passed.png"}
+"LICENSE.txt" {"LICENSE.txt"}
+"spec/matchers.js" {"spec/matchers.js"}
+"spec/reporter.spec.js" {"spec/reporter.spec.js"}
+"spec/runnerMock.js" {"spec/runnerMock.js"}
+]

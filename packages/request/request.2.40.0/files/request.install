@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"request.js" {"request.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/cookies.js" {"lib/cookies.js"}
+"lib/copy.js" {"lib/copy.js"}
+"lib/debug.js" {"lib/debug.js"}
+"lib/getSafe.js" {"lib/getSafe.js"}
+"lib/optional.js" {"lib/optional.js"}
+]

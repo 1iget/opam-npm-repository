@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "better-assert"
+version: "1.0.2"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "https://github.com/visionmedia/better-assert.git"
+depends: [
+"callsite" {="1.0.0"}
+
+]
+

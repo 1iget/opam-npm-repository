@@ -1,0 +1,24 @@
+opam-version: "1.2"
+name: "winston"
+version: "0.7.3"
+maintainer: "indexzero <charlie.robbins@gmail.com>"
+author: "indexzero <charlie.robbins@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/flatiron/winston.git"
+depends: [
+"async" {>="0.2.0" & <"0.3.0"}
+
+"colors" {>="0.6.0" & <"0.7.0"}
+
+"cycle" {>="1.0.0" & <"1.1.0"}
+
+"eyes" {>="0.1.0" & <"0.2.0"}
+
+"pkginfo" {>="0.3.0" & <"0.4.0"}
+
+"request" {>="2.16.0" & <"2.17.0"}
+
+"stack-trace" {>="0.0.0" & <"0.1.0"}
+
+]
+

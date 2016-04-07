@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"isArguments.js" {"isArguments.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/index.js" {"test/index.js"}
+"test/isArguments.js" {"test/isArguments.js"}
+"test/shim.js" {"test/shim.js"}
+]

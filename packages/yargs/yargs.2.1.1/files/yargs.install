@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/minimist.js" {"lib/minimist.js"}
+"lib/wordwrap.js" {"lib/wordwrap.js"}
+]

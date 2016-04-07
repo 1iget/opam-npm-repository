@@ -1,8 +1,6 @@
 open Nethttp_client
 open Yojson.Basic
 open Yojson.Basic.Util
-open Unix
-open Common
 
 module StringSet = Set.Make( 
   struct
@@ -26,12 +24,12 @@ type version = {
   maintainer: maintainer;
   license: string;
   dev_repo: string option;
+  description: string option;
 }
 
 type doc = { 
-  id : string;
-  description: string option;
   versions: (string * version) list;
+  id: string;
 }
 
 let string_of_option opt =
@@ -40,10 +38,16 @@ let string_of_option opt =
   | None -> "null"
 
 
+
+let flip f a b = f b a
+
 (*URLs to connect to a local CouchDB replica of the NPM registry*)
 let url_doc = "http://localhost:5984/registry/_all_docs?include_docs=true&limit=3"
+(*let search_url_doc id =*)
+  (*Printf.sprintf "http://localhost:5984/registry/%s?include_docs=true" id*)
+
 let search_url_doc id =
-  Printf.sprintf "http://localhost:5984/registry/%s?include_docs=true" id
+  Printf.sprintf "http://localhost:5984/registry/_design/versions_fixed/_view/all?key=\"%s\"" id
 
 let concat_ands v =
   if v = [] then "foo" else
@@ -56,8 +60,6 @@ let concat_ands v =
 
 
 let parse_range x =
-  let out = open_out_gen [Open_wronly; Open_append; Open_creat; Open_text] 0o666 "versions.txt" in
-  Printf.fprintf out "%s\n" x;
   let str = Printf.sprintf "\"foo\" : \"%s\"" x in
   let and_sep x = if x = "" then "" else " | " in
   let or_sep x = if x = "" then "" else " & " in
@@ -70,12 +72,10 @@ let parse_range x =
     Printf.sprintf "%s%s%s" acc (and_sep acc) (const c)
   ) "" xs
   in
-  let parsed = Npm.Packages.parse_depend ("depends", (Format822.dummy_loc, str)) in
+  let parsed = Npm.Packages.parse_depend ("depends", (Common.Format822.dummy_loc, str)) in
   let str = List.fold_left (fun acc xs ->
     Printf.sprintf "%s%s%s" acc (or_sep acc) (ands xs)
   ) "" parsed in
-  Printf.fprintf out "%s\n\n" str;
-  close_out out;
   str
 
 
@@ -83,7 +83,10 @@ let get_deps_version deps =
   try
     deps
     |> to_assoc 
-    |> List.map (fun (n, r) -> { package = n; range = parse_range (to_string r);})
+    |> List.map (fun (n, r) ->
+        let range = r |> member "fixed" |> to_string in
+        { package = n; range = parse_range range;}
+      )
   with Type_error _ -> []
 
 let rows str =
@@ -117,30 +120,38 @@ let get_data_version obj =
   maintainer = get_maintainer obj;
   license = license;
   dev_repo = get_repository obj;
+  description = 
+    try Some (obj |> member "description" |> to_string)
+    with _ -> None
   }
-
-let get_data_versions versions =
-  versions |> to_assoc |> List.map (fun (ver, obj) -> (ver, get_data_version obj))
 
 let get_data id doc =
-  let get_description =
-    try Some (doc |> member "description" |> to_string)
-    with Type_error _ -> None
-  in
-  let versions = doc |> member "versions" in
+  (*pretty_to_channel stdout doc;*)
   {
-  description = get_description;
-  id = id;
-  versions = get_data_versions versions;
+    versions = doc |> member "value" |> to_assoc |> List.map (fun (ver, obj) -> (ver, get_data_version obj));
+    id = id;
   }
+
+
+
+
 
 let get_data_list xs =
   let get_id json = json |> member "id" |> to_string in
   xs |> to_list |> List.map (fun json -> json |> member "doc" |> get_data (get_id json))
 
-let get_data_obj json =
-  let id = json |> member "_id" |> to_string in
+let get_data_obj id json =
+  let get_result r = 
+    try
+      List.nth r 0 
+    with _ -> 
+      Printf.fprintf stderr "Package %s not found in the registry\n" id;
+      raise (Invalid_argument "Not found")
+  in
+  let json =  json |> member "rows" |> to_list |>  get_result in
+  let id =  json |> member "id" |> to_string in
   get_data id json
+
 
 let rec read_all_command channel =
   try
@@ -167,12 +178,13 @@ let download tarball =
   let (name, output) = Filename.open_temp_file "npm2opam" "" in
   Printf.fprintf output "%s" package;
   close_out output;
-  let files = read_all_command (open_process_in (Printf.sprintf "tar -xvf %s" name)) in
+  let files = read_all_command (Unix.open_process_in (Printf.sprintf "tar -xvf %s" name)) in
   let md5sum = Digest.to_hex (Digest.string package) in
-  ignore (open_process_in "rm -fr package");
+  ignore (Unix.open_process_in "rm -fr package");
   (md5sum, remove_prefix files)
 
-let generate_opam doc =
+
+let generate_opam (doc : doc) =
   let opam_version = "opam-version: \"1.2\"" in
   let name = Printf.sprintf "name: \"%s\"" doc.id in
   let perms = 0o770 in
@@ -189,6 +201,16 @@ let generate_opam doc =
       | None -> ""
     in
     let deps = Printf.sprintf "depends: [\n%s\n]" (string_of_deps v.deps) in
+
+    begin
+      match v.description with
+      | Some descr ->
+        let oc = open_out "descr" in
+        Printf.fprintf oc "%s\n" descr;
+        close_out oc
+      | None -> ()
+    end;
+
     (v_str, v.tarball, Printf.sprintf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" opam_version name version maintainer author license dev_repo deps)
   ) doc.versions in
   List.iter (fun (v_str, tarball, file_str) ->
@@ -198,15 +220,6 @@ let generate_opam doc =
     let oc = open_out "opam" in
     Printf.fprintf oc "%s\n" file_str;
     close_out oc;
-    begin
-      match doc.description with
-      | Some descr ->
-        let oc = open_out "descr" in
-        Printf.fprintf oc "%s\n" descr;
-        close_out oc
-      | None -> ()
-    end;
-
     let (md5sum, files) = download tarball in
     let oc = open_out "url" in
     Printf.fprintf oc "archive: \"%s\"\nchecksum: \"%s\"\n" tarball md5sum;
@@ -227,7 +240,32 @@ let generate_opam doc =
 
 let set_documents = ref StringSet.empty
 
-let rec generate_all documents =
+
+let rec generate_dependencies documents =
+  let deps = List.map (fun x ->
+    List.map (fun (_, v) ->
+      List.map (fun dep ->
+        if StringSet.mem dep.package !set_documents
+        then []
+        else
+          let name = dep.package in
+          let url = search_url_doc name in
+          try
+            if not (StringSet.mem name !set_documents) then
+              let doc = (Convenience.http_get url) in
+              let documents = [from_string doc |> get_data_obj name] in
+              set_documents := StringSet.add name !set_documents;
+              x :: generate_dependencies documents
+            else
+              []
+          with _ -> []
+      ) v.deps
+    ) x.versions
+  ) documents in
+  List.concat (List.concat (List.concat deps))
+
+
+let rec generate_all (documents : doc list) =
   let generate x =
     try
       if StringSet.mem x.id !set_documents
@@ -235,20 +273,27 @@ let rec generate_all documents =
       else
         set_documents := StringSet.add x.id !set_documents;
         generate_opam x
-    with Unix_error _ -> ()
+    with Unix.Unix_error _ -> ()
   in
   List.iter (fun x -> generate x) documents;
   List.iter (fun x ->
     List.iter (fun (_, v) ->
       List.iter (fun dep ->
-        let name = dep.package in
-        let url = search_url_doc name in
-        let doc = (Convenience.http_get url) in
-        let documents = [from_string doc |> get_data_obj] in
-        generate_all documents
+        if StringSet.mem x.id !set_documents
+        then
+          try
+            let name = dep.package in
+            let url = search_url_doc name in
+            let doc = (Convenience.http_get url) in
+            let documents = [from_string doc |> get_data_obj name] in
+            generate_all documents
+          with _ -> ()
+        else
+          ()
       ) v.deps
     ) x.versions
   ) documents
+
 
 
 let () =
@@ -257,5 +302,6 @@ let () =
   (*let url = url_doc in*)
   let doc = (Convenience.http_get url) in
   (*let documents = rows doc |> get_data_list in*)
-  let documents = [from_string doc |> get_data_obj] in
-  generate_all documents
+  let documents = [from_string doc |> get_data_obj search] in
+  let xs = generate_dependencies documents in
+  generate_all xs

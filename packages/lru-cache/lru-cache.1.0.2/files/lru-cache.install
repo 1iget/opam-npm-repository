@@ -1,0 +1,7 @@
+lib: [
+"node-lru-cache/" {"node-lru-cache/"}
+"node-lru-cache/lib/" {"node-lru-cache/lib/"}
+"node-lru-cache/package.json" {"node-lru-cache/package.json"}
+"node-lru-cache/README.md" {"node-lru-cache/README.md"}
+"node-lru-cache/lib/lru-cache.js" {"node-lru-cache/lib/lru-cache.js"}
+]

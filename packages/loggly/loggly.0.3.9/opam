@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "loggly"
+version: "0.3.9"
+maintainer: "indexzero <charlie.robbins@gmail.com>"
+author: "indexzero <charlie.robbins@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/nodejitsu/node-loggly.git"
+depends: [
+"request" {>="2.0.0" & <"3.0.0"}
+
+"timespan" {>="2.0.0" & <"3.0.0"}
+
+]
+

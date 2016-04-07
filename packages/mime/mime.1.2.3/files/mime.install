@@ -1,0 +1,10 @@
+lib: [
+"mime.js" {"mime.js"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"test.js" {"test.js"}
+"mime.types" {"mime.types"}
+"index.js" {"index.js"}
+"node.types" {"node.types"}
+]

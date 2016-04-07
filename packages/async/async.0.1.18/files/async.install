@@ -1,0 +1,11 @@
+lib: [
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"lib/" {"lib/"}
+"lib/async.js" {"lib/async.js"}
+"LICENSE" {"LICENSE"}
+".gitmodules" {".gitmodules"}
+]

@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "form-data"
+version: "0.2.0"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+dev-repo: "git://github.com/felixge/node-form-data.git"
+depends: [
+"async" {>="0.9.0" & <"0.10.0"}
+
+"combined-stream" {>="0.0.4" & <"0.1.0"}
+
+"mime-types" {>="2.0.3" & <"2.1.0"}
+
+]
+

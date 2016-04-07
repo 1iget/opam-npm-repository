@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"CONTRIBUTORS" {"CONTRIBUTORS"}
+"lib/lru-cache.js" {"lib/lru-cache.js"}
+"test/basic.js" {"test/basic.js"}
+"test/foreach.js" {"test/foreach.js"}
+"test/memory-leak.js" {"test/memory-leak.js"}
+"test/overflow.js" {"test/overflow.js"}
+"test/serialize.js" {"test/serialize.js"}
+]

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"generate-source-map-resolve.js" {"generate-source-map-resolve.js"}
+"source-map-resolve.js" {"source-map-resolve.js"}
+"component.json" {"component.json"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"changelog.md" {"changelog.md"}
+"lib/resolve-url.js" {"lib/resolve-url.js"}
+"lib/source-map-resolve-node.js" {"lib/source-map-resolve-node.js"}
+"test/common.js" {"test/common.js"}
+"test/source-map-resolve.js" {"test/source-map-resolve.js"}
+"test/windows.js" {"test/windows.js"}
+"readme.md" {"readme.md"}
+"source-map-resolve.js.template" {"source-map-resolve.js.template"}
+"x-package.json5" {"x-package.json5"}
+]

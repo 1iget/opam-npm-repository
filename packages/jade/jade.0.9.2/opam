@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "jade"
+version: "0.9.2"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+
+depends: [
+
+]
+

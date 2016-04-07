@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "extender"
+version: "0.0.10"
+maintainer: "damartin <doug@dougamartin.com>"
+author: "damartin <doug@dougamartin.com>"
+license: "MIT"
+dev-repo: "git@github.com:doug-martin/extender.git"
+depends: [
+"declare.js" {>="0.0.4" & <"0.1.0"}
+
+]
+

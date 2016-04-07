@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"lib/combined_stream.js" {"lib/combined_stream.js"}
+"License" {"License"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+"test/common.js" {"test/common.js"}
+"test/run.js" {"test/run.js"}
+"test/fixture/file1.txt" {"test/fixture/file1.txt"}
+"test/fixture/file2.txt" {"test/fixture/file2.txt"}
+"test/integration/test-callback-streams.js" {"test/integration/test-callback-streams.js"}
+"test/integration/test-data-size.js" {"test/integration/test-data-size.js"}
+"test/integration/test-delayed-streams-and-buffers-and-strings.js" {"test/integration/test-delayed-streams-and-buffers-and-strings.js"}
+"test/integration/test-delayed-streams.js" {"test/integration/test-delayed-streams.js"}
+"test/integration/test-empty-string.js" {"test/integration/test-empty-string.js"}
+"test/integration/test-is-stream-like.js" {"test/integration/test-is-stream-like.js"}
+"test/integration/test-max-data-size.js" {"test/integration/test-max-data-size.js"}
+"test/integration/test-unpaused-streams.js" {"test/integration/test-unpaused-streams.js"}
+]

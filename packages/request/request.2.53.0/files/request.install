@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"request.js" {"request.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"examples/README.md" {"examples/README.md"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"lib/auth.js" {"lib/auth.js"}
+"lib/cookies.js" {"lib/cookies.js"}
+"lib/copy.js" {"lib/copy.js"}
+"lib/getProxyFromURI.js" {"lib/getProxyFromURI.js"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/oauth.js" {"lib/oauth.js"}
+"release.sh" {"release.sh"}
+".eslintrc" {".eslintrc"}
+"disabled.appveyor.yml" {"disabled.appveyor.yml"}
+]

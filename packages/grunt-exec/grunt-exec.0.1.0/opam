@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "grunt-exec"
+version: "0.1.0"
+maintainer: "jharding <jacob.s.harding@gmail.com>"
+author: "jharding <jacob.s.harding@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/Jake/grunt-exec.git"
+depends: [
+"grunt" {>="0.3.7" & <"0.4.0"}
+
+]
+

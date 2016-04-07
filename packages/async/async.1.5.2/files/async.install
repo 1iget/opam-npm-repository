@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"dist/async.js" {"dist/async.js"}
+"dist/async.min.js" {"dist/async.min.js"}
+"lib/async.js" {"lib/async.js"}
+]

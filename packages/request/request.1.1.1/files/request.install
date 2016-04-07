@@ -1,0 +1,10 @@
+lib: [
+"" {""}
+"main.js" {"main.js"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._README.md" {"._README.md"}
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"tests/couch.js" {"tests/couch.js"}
+]

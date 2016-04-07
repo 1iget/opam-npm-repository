@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "dateformat"
+version: "1.0.12"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/felixge/node-dateformat.git"
+depends: [
+"get-stdin" {>="4.0.1" & <"5.0.0"}
+
+"meow" {>="3.3.0" & <"4.0.0"}
+
+]
+

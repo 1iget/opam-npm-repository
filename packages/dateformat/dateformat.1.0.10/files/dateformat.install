@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"Readme.md" {"Readme.md"}
+"bin/cli.js" {"bin/cli.js"}
+"lib/dateformat.js" {"lib/dateformat.js"}
+"test/basic.js" {"test/basic.js"}
+"test/test.js" {"test/test.js"}
+"test/test_dayofweek.js" {"test/test_dayofweek.js"}
+"test/test_isodatetime.js" {"test/test_isodatetime.js"}
+"test/test_weekofyear.js" {"test/test_weekofyear.js"}
+"test/test_weekofyear.sh" {"test/test_weekofyear.sh"}
+]

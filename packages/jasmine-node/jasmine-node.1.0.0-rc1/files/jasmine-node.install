@@ -1,0 +1,26 @@
+lib: [
+"" {""}
+".externalToolBuilders/" {".externalToolBuilders/"}
+".gitignore" {".gitignore"}
+".project" {".project"}
+".settings/" {".settings/"}
+"lib/" {"lib/"}
+"LICENSE" {"LICENSE"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"spec/" {"spec/"}
+"specs.js" {"specs.js"}
+"specs.sh" {"specs.sh"}
+"spec/nested/" {"spec/nested/"}
+"spec/SampleSpecs.js" {"spec/SampleSpecs.js"}
+"spec/TestSpec.js" {"spec/TestSpec.js"}
+"spec/nested/NestedSpec.js" {"spec/nested/NestedSpec.js"}
+"spec/nested/uber-nested/" {"spec/nested/uber-nested/"}
+"spec/nested/uber-nested/UberNestedSpec.js" {"spec/nested/uber-nested/UberNestedSpec.js"}
+"lib/jasmine/" {"lib/jasmine/"}
+"lib/jasmine.src/" {"lib/jasmine.src/"}
+"lib/jasmine/index.js" {"lib/jasmine/index.js"}
+"lib/jasmine/jasmine-1.0.1.js" {"lib/jasmine/jasmine-1.0.1.js"}
+".externalToolBuilders/jasmineSpecs.launch" {".externalToolBuilders/jasmineSpecs.launch"}
+]

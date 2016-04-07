@@ -1,0 +1,22 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"main.js" {"main.js"}
+"mimetypes.js" {"mimetypes.js"}
+"oauth.js" {"oauth.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"uuid.js" {"uuid.js"}
+"tests/googledoodle.png" {"tests/googledoodle.png"}
+"tests/run.sh" {"tests/run.sh"}
+"tests/server.js" {"tests/server.js"}
+"tests/test-body.js" {"tests/test-body.js"}
+"tests/test-cookie.js" {"tests/test-cookie.js"}
+"tests/test-cookiejar.js" {"tests/test-cookiejar.js"}
+"tests/test-errors.js" {"tests/test-errors.js"}
+"tests/test-oauth.js" {"tests/test-oauth.js"}
+"tests/test-pipes.js" {"tests/test-pipes.js"}
+"tests/test-proxy.js" {"tests/test-proxy.js"}
+"tests/test-timeout.js" {"tests/test-timeout.js"}
+"vendor/cookie/index.js" {"vendor/cookie/index.js"}
+"vendor/cookie/jar.js" {"vendor/cookie/jar.js"}
+]

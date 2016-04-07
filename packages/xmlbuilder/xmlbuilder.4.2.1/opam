@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "xmlbuilder"
+version: "4.2.1"
+maintainer: "oozcitak <oozcitak@gmail.com>"
+author: "oozcitak <oozcitak@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/oozcitak/xmlbuilder-js.git"
+depends: [
+"lodash" {>="4.0.0" & <"5.0.0"}
+
+]
+

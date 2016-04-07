@@ -1,0 +1,14 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"examples/" {"examples/"}
+"examples/g.js" {"examples/g.js"}
+"examples/usr-local.js" {"examples/usr-local.js"}
+"glob.js" {"glob.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/00-setup.js" {"test/00-setup.js"}
+"test/bash-comparison.js" {"test/bash-comparison.js"}
+"test/zz-cleanup.js" {"test/zz-cleanup.js"}
+]

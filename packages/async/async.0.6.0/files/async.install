@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"component.json" {"component.json"}
+"lib/async.js" {"lib/async.js"}
+]

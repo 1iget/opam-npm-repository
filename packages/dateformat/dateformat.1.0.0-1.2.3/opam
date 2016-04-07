@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "dateformat"
+version: "1.0.0-1.2.3"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+
+depends: [
+
+]
+

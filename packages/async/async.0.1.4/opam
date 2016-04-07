@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "async"
+version: "0.1.4"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/caolan/async.git"
+depends: [
+
+]
+
