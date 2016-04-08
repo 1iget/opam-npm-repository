@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "ansi-regex"
+version: "2.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/ansi-regex"
+depends: [
+
+]
+
