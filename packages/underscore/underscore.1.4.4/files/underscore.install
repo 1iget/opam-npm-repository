@@ -1,14 +1,14 @@
 lib: [
-"package.json"
-".npmignore"
-"README.md"
-"LICENSE"
-"underscore-min.js"
-"underscore.js"
-"index.js"
-".travis.yml"
-"index.html"
-"favicon.ico"
-"CONTRIBUTING.md"
-"CNAME"
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"underscore-min.js" {"underscore-min.js"}
+"underscore.js" {"underscore.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"index.html" {"index.html"}
+"favicon.ico" {"favicon.ico"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"CNAME" {"CNAME"}
 ]

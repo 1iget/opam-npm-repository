@@ -1,11 +1,11 @@
 lib: [
-""
-".DS_Store"
-".npmignore"
-"index.html"
-"index.js"
-"LICENSE"
-"package.json"
-"README"
-"underscore.js"
+"" {""}
+".DS_Store" {".DS_Store"}
+".npmignore" {".npmignore"}
+"index.html" {"index.html"}
+"index.js" {"index.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README" {"README"}
+"underscore.js" {"underscore.js"}
 ]

@@ -1,12 +1,12 @@
 lib: [
-".gitignore"
-".npmignore"
-"index.html"
-"index.js"
-"LICENSE"
-"package.json"
-"README"
-"underscore-min.js"
-"underscore.js"
-"raw/underscore.psd"
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"index.html" {"index.html"}
+"index.js" {"index.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README" {"README"}
+"underscore-min.js" {"underscore-min.js"}
+"underscore.js" {"underscore.js"}
+"raw/underscore.psd" {"raw/underscore.psd"}
 ]

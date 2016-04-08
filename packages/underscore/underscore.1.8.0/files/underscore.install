@@ -1,8 +1,8 @@
 lib: [
-"package.json"
-"README.md"
-"LICENSE"
-"underscore-min.js"
-"underscore.js"
-"underscore-min.map"
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"underscore-min.js" {"underscore-min.js"}
+"underscore.js" {"underscore.js"}
+"underscore-min.map" {"underscore-min.map"}
 ]

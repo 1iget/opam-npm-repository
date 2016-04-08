@@ -1,7 +1,0 @@
-lib: [
-"" {""}
-"lib/" {"lib/"}
-"package.json" {"package.json"}
-"Readme.md" {"Readme.md"}
-"lib/dateformat.js" {"lib/dateformat.js"}
-]

@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "align-text"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/align-text.git"
+depends: [
+"kind-of" {>="1.1.0" & <"2.0.0"}
+
+"longest" {>="1.0.0" & <"2.0.0"}
+
+"repeat-string" {>="1.5.0" & <"2.0.0"}
+
+]
+

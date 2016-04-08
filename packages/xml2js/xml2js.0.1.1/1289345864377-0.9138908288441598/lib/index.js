@@ -1,1 +1,0 @@
-require('./xml2js');

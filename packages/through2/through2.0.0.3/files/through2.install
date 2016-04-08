@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"test.js" {"test.js"}
-"through2.js" {"through2.js"}
-".jshintrc" {".jshintrc"}
-]

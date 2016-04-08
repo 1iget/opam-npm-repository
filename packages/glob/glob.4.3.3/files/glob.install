@@ -1,8 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"common.js" {"common.js"}
-"glob.js" {"glob.js"}
-"sync.js" {"sync.js"}
-]

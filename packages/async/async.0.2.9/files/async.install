@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"component.json" {"component.json"}
-"lib/async.js" {"lib/async.js"}
-]

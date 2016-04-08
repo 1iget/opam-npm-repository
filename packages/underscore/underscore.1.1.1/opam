@@ -3,6 +3,9 @@ name: "underscore"
 version: "1.1.1"
 maintainer: "documentcloud <jeremy@documentcloud.org>"
 author: "documentcloud <jeremy@documentcloud.org>"
-license: "Not defined"
+license: "not defined"
 
+depends: [
+
+]
 

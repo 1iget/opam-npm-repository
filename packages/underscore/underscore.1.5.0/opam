@@ -5,4 +5,7 @@ maintainer: "jashkenas <jashkenas@gmail.com>"
 author: "jashkenas <jashkenas@gmail.com>"
 license: "MIT"
 dev-repo: "git://github.com/documentcloud/underscore.git"
+depends: [
+
+]
 

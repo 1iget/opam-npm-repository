@@ -1,9 +1,0 @@
-lib: [
-"xmlbuilder-js/" {"xmlbuilder-js/"}
-"xmlbuilder-js/package.json" {"xmlbuilder-js/package.json"}
-"xmlbuilder-js/.npmignore" {"xmlbuilder-js/.npmignore"}
-"xmlbuilder-js/lib/" {"xmlbuilder-js/lib/"}
-"xmlbuilder-js/lib/XMLBuilder.js" {"xmlbuilder-js/lib/XMLBuilder.js"}
-"xmlbuilder-js/lib/XMLFragment.js" {"xmlbuilder-js/lib/XMLFragment.js"}
-"xmlbuilder-js/lib/index.js" {"xmlbuilder-js/lib/index.js"}
-]

@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"history.md" {"history.md"}
-"lib/shared.js" {"lib/shared.js"}
-"lib/transformers.js" {"lib/transformers.js"}
-]

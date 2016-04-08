@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENCE" {"LICENCE"}
-"index.js" {"index.js"}
-"support/compile.js" {"support/compile.js"}
-"Makefile" {"Makefile"}
-"browser/index.js" {"browser/index.js"}
-]

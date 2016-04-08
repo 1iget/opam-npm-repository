@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"lib/gaze.js" {"lib/gaze.js"}
-"lib/helper.js" {"lib/helper.js"}
-"LICENSE-MIT" {"LICENSE-MIT"}
-]

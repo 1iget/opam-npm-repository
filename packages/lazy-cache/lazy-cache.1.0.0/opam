@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "lazy-cache"
+version: "1.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/lazy-cache.git"
+depends: [
+
+]
+

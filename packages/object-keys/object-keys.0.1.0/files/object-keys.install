@@ -1,8 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"README.md" {"README.md"}
-"index.js" {"index.js"}
-"shim.js" {"shim.js"}
-"test.js" {"test.js"}
-]

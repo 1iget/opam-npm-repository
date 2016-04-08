@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"lib/dateformat.js" {"lib/dateformat.js"}
-"Readme.md" {"Readme.md"}
-"test/basic.js" {"test/basic.js"}
-"test/test_dayofweek.js" {"test/test_dayofweek.js"}
-"test/test_weekofyear.js" {"test/test_weekofyear.js"}
-"test/test_weekofyear.sh" {"test/test_weekofyear.sh"}
-]

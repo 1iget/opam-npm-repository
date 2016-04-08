@@ -1,8 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"register.js" {"register.js"}
-"index.js" {"index.js"}
-"api.js" {"api.js"}
-"license" {"license"}
-"readme.md" {"readme.md"}
-]

@@ -1,6 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"lib/form_data.js" {"lib/form_data.js"}
-"License" {"License"}
-"Readme.md" {"Readme.md"}
-]

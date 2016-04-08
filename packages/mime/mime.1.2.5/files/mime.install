@@ -1,9 +1,0 @@
-lib: [
-"test.js" {"test.js"}
-"package.json" {"package.json"}
-"LICENSE" {"LICENSE"}
-"mime.js" {"mime.js"}
-"README.md" {"README.md"}
-"types/mime.types" {"types/mime.types"}
-"types/node.types" {"types/node.types"}
-]

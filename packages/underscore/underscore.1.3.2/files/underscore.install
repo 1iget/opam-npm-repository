@@ -1,14 +1,14 @@
 lib: [
-".npmignore"
-"CNAME"
-"favicon.ico"
-"index.html"
-"index.js"
-"LICENSE"
-"package.json"
-"raw/"
-"raw/underscore.psd"
-"README.md"
-"underscore-min.js"
-"underscore.js"
+".npmignore" {".npmignore"}
+"CNAME" {"CNAME"}
+"favicon.ico" {"favicon.ico"}
+"index.html" {"index.html"}
+"index.js" {"index.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"raw/" {"raw/"}
+"raw/underscore.psd" {"raw/underscore.psd"}
+"README.md" {"README.md"}
+"underscore-min.js" {"underscore-min.js"}
+"underscore.js" {"underscore.js"}
 ]

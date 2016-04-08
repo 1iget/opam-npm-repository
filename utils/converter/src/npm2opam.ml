@@ -174,14 +174,18 @@ let string_of_deps deps =
 
 
 let download tarball =
-  let package = Convenience.http_get tarball in
-  let (name, output) = Filename.open_temp_file "npm2opam" "" in
-  Printf.fprintf output "%s" package;
-  close_out output;
-  let files = read_all_command (Unix.open_process_in (Printf.sprintf "tar -xvf %s" name)) in
-  let md5sum = Digest.to_hex (Digest.string package) in
-  ignore (Unix.open_process_in "rm -fr package");
-  (md5sum, remove_prefix files)
+  try
+    let package = Convenience.http_get tarball in
+    let (name, output) = Filename.open_temp_file "npm2opam" "" in
+    Printf.fprintf output "%s" package;
+    close_out output;
+    let files = read_all_command (Unix.open_process_in (Printf.sprintf "tar -xvf %s" name)) in
+    let md5sum = Digest.to_hex (Digest.string package) in
+    ignore (Unix.open_process_in "rm -fr package");
+    Some (md5sum, remove_prefix files)
+  with _ -> 
+    (*In some cases the tarballs are not avalaible*)
+    None
 
 
 let generate_opam (doc : doc) =
@@ -220,20 +224,22 @@ let generate_opam (doc : doc) =
     let oc = open_out "opam" in
     Printf.fprintf oc "%s\n" file_str;
     close_out oc;
-    let (md5sum, files) = download tarball in
-    let oc = open_out "url" in
-    Printf.fprintf oc "archive: \"%s\"\nchecksum: \"%s\"\n" tarball md5sum;
-    close_out oc;
+    match download tarball with
+    | Some (md5sum, files) -> 
+      let oc = open_out "url" in
+      Printf.fprintf oc "archive: \"%s\"\nchecksum: \"%s\"\n" tarball md5sum;
+      close_out oc;
 
-    Unix.mkdir "files" perms;
-    Unix.chdir "files";
+      Unix.mkdir "files" perms;
+      Unix.chdir "files";
 
-    let oc = open_out (Printf.sprintf "%s.install" doc.id) in
-    Printf.fprintf oc "lib: [\n%s\n]\n" (string_of_files files);
-    close_out oc;
+      let oc = open_out (Printf.sprintf "%s.install" doc.id) in
+      Printf.fprintf oc "lib: [\n%s\n]\n" (string_of_files files);
+      close_out oc;
 
-    Unix.chdir "..";
-    Unix.chdir "..";
+      Unix.chdir "..";
+      Unix.chdir "..";
+    | None -> ()
   ) versions;
   Unix.chdir ".."
 
@@ -243,21 +249,21 @@ let set_documents = ref StringSet.empty
 
 let rec generate_dependencies documents =
   let deps = List.map (fun x ->
-    List.map (fun (_, v) ->
+    List.map (fun (v_str, v) ->
       List.map (fun dep ->
         if StringSet.mem dep.package !set_documents
         then []
         else
           let name = dep.package in
+          (*print_endline name;*)
+          (*print_endline x.id;*)
+          (*print_endline v_str;*)
           let url = search_url_doc name in
           try
-            if not (StringSet.mem name !set_documents) then
-              let doc = (Convenience.http_get url) in
-              let documents = [from_string doc |> get_data_obj name] in
-              set_documents := StringSet.add name !set_documents;
-              x :: generate_dependencies documents
-            else
-              []
+            let doc = (Convenience.http_get url) in
+            let documents = [from_string doc |> get_data_obj name] in
+            set_documents := StringSet.add name !set_documents;
+            x :: generate_dependencies documents
           with _ -> []
       ) v.deps
     ) x.versions
@@ -266,42 +272,41 @@ let rec generate_dependencies documents =
 
 
 let rec generate_all (documents : doc list) =
+  set_documents := StringSet.empty;
   let generate x =
-    try
-      if StringSet.mem x.id !set_documents
-      then ()
-      else
+    if StringSet.mem x.id !set_documents
+    then ()
+    else
+      begin
         set_documents := StringSet.add x.id !set_documents;
-        generate_opam x
-    with Unix.Unix_error _ -> ()
+        try
+          generate_opam x
+        with Unix.Unix_error _ -> ()
+      end
   in
-  List.iter (fun x -> generate x) documents;
-  List.iter (fun x ->
-    List.iter (fun (_, v) ->
-      List.iter (fun dep ->
-        if StringSet.mem x.id !set_documents
-        then
-          try
-            let name = dep.package in
-            let url = search_url_doc name in
-            let doc = (Convenience.http_get url) in
-            let documents = [from_string doc |> get_data_obj name] in
-            generate_all documents
-          with _ -> ()
-        else
-          ()
-      ) v.deps
-    ) x.versions
-  ) documents
+  let size = List.length documents in
+  let step d x = Printf.sprintf "%s: %d / %d" d.id x size in
+  List.iteri (fun i x -> print_endline (step x i); generate x) documents
+
+
+let remove_repeated xs =
+  let set_documents = Hashtbl.create (List.length xs) in
+  List.iter (fun x -> Hashtbl.add set_documents x.id x) xs;
+  Hashtbl.fold (fun key x acc -> x :: acc ) set_documents []
 
 
 
 let () =
+  Printexc.record_backtrace true;
   let search = Sys.argv.(1) in
   let url = search_url_doc search in
   (*let url = url_doc in*)
   let doc = (Convenience.http_get url) in
   (*let documents = rows doc |> get_data_list in*)
-  let documents = [from_string doc |> get_data_obj search] in
-  let xs = generate_dependencies documents in
-  generate_all xs
+  let document = from_string doc |> get_data_obj search in
+  let xs = generate_dependencies [document] in
+  let xs = remove_repeated xs in
+  (*print_endline (string_of_int (List.length xs));*)
+  (*List.iter (fun x -> print_endline x.id) xs;*)
+  generate_all (document :: xs)
+  (*Printf.printf "Total dependencies: %d" (List.length xs)*)

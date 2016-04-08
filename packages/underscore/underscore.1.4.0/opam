@@ -3,6 +3,9 @@ name: "underscore"
 version: "1.4.0"
 maintainer: "jashkenas <jashkenas@gmail.com>"
 author: "jashkenas <jashkenas@gmail.com>"
-license: "Not defined"
+license: "not defined"
 dev-repo: "git://github.com/documentcloud/underscore.git"
+depends: [
+
+]
 

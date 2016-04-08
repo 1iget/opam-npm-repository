@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"LICENSE" {"LICENSE"}
-"core.js" {"core.js"}
-"index.js" {"index.js"}
-".jshintrc" {".jshintrc"}
-"Readme.md" {"Readme.md"}
-]
