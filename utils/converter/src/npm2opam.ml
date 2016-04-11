@@ -140,7 +140,7 @@ let get_data_list xs =
   let get_id json = json |> member "id" |> to_string in
   xs |> to_list |> List.map (fun json -> json |> member "doc" |> get_data (get_id json))
 
-let get_data_obj id json =
+let get_data_obj id json : doc =
   let get_result r = 
     try
       List.nth r 0 
@@ -247,24 +247,20 @@ let generate_opam (doc : doc) =
 let set_documents = ref StringSet.empty
 
 
-let rec generate_dependencies documents =
+let rec generate_dependencies documents : doc list =
   let deps = List.map (fun x ->
     List.map (fun (v_str, v) ->
       List.map (fun dep ->
         if StringSet.mem dep.package !set_documents
         then []
         else
-          let name = dep.package in
-          (*print_endline name;*)
-          (*print_endline x.id;*)
-          (*print_endline v_str;*)
-          let url = search_url_doc name in
-          try
-            let doc = (Convenience.http_get url) in
-            let documents = [from_string doc |> get_data_obj name] in
-            set_documents := StringSet.add name !set_documents;
-            x :: generate_dependencies documents
-          with _ -> []
+          begin
+            print_endline dep.package;
+            let doc = Convenience.http_get (search_url_doc dep.package) in
+            let document = from_string doc |> get_data_obj dep.package in
+            set_documents := StringSet.add dep.package !set_documents;
+            document :: generate_dependencies [document]
+          end
       ) v.deps
     ) x.versions
   ) documents in
@@ -306,7 +302,6 @@ let () =
   let document = from_string doc |> get_data_obj search in
   let xs = generate_dependencies [document] in
   let xs = remove_repeated xs in
-  (*print_endline (string_of_int (List.length xs));*)
-  (*List.iter (fun x -> print_endline x.id) xs;*)
+  Printf.printf "Deps: %d\n" (List.length xs);
   generate_all (document :: xs)
   (*Printf.printf "Total dependencies: %d" (List.length xs)*)
