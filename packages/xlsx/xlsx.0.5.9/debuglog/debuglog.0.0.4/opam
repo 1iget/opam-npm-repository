@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "debuglog"
+version: "0.0.4"
+maintainer: "octet <sam@strongloop.com>"
+author: "octet <sam@strongloop.com>"
+license: "Not defined"
+dev-repo: "https://github.com/sam-github/node-debuglog.git"
+depends: [
+
+]
+

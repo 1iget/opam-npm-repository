@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "mysql"
+version: "2.0.0-alpha4"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+dev-repo: ""
+depends: [
+"require-all" {="0.0.3"}
+
+]
+

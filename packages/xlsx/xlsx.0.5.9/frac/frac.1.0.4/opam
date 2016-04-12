@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "frac"
+version: "1.0.4"
+maintainer: "sheetjs <dev@sheetjs.com>"
+author: "sheetjs <dev@sheetjs.com>"
+license: "Apache-2.0"
+dev-repo: "git://github.com/SheetJS/frac.git"
+depends: [
+"voc" {="latest"}
+
+]
+

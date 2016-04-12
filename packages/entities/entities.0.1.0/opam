@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "entities"
+version: "0.1.0"
+maintainer: "feedic <me@feedic.com>"
+author: "feedic <me@feedic.com>"
+license: "not defined"
+dev-repo: "git://github.com/fb55/node-entities.git"
+depends: [
+
+]
+

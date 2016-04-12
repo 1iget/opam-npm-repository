@@ -1,0 +1,8 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"LICENSE" {"LICENSE"}
+"examples/pow.js" {"examples/pow.js"}
+"test/mkdirp.js" {"test/mkdirp.js"}
+]

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/bom.js" {"lib/bom.js"}
+"lib/processors.js" {"lib/processors.js"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+]

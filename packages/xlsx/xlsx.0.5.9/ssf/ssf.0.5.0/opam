@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ssf"
+version: "0.5.0"
+maintainer: "sheetjs <sheetjs@gmail.com>"
+author: "sheetjs <sheetjs@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "git://github.com/SheetJS/ssf.git"
+depends: [
+"voc" {="latest"}
+
+"colors" {="latest"}
+
+]
+

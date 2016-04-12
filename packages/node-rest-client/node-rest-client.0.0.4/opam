@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "node-rest-client"
+version: "0.0.4"
+maintainer: "acero <acero@fake.com>"
+author: "acero <acero@fake.com>"
+license: "not defined"
+dev-repo: "https://github.com/aacerox/node-rest-client.git"
+depends: [
+"xml2js" {>="0.2.4"}
+
+]
+

@@ -1,0 +1,20 @@
+opam-version: "1.2"
+name: "xlsx"
+version: "0.5.14"
+maintainer: "sheetjs <dev@sheetjs.com>"
+author: "sheetjs <dev@sheetjs.com>"
+license: "Apache-2.0"
+dev-repo: "git://github.com/SheetJS/js-xlsx.git"
+depends: [
+"ssf" {>="0.6.1" & <"0.7.0"}
+
+"codepage" {="latest"}
+
+"cfb" {="latest"}
+
+"jszip" {>="2.1.0" & <"2.2.0"}
+
+"commander" {="latest"}
+
+]
+

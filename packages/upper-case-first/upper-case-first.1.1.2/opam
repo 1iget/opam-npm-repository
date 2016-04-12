@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "upper-case-first"
+version: "1.1.2"
+maintainer: "blakeembrey <hello@blakeembrey.com>"
+author: "blakeembrey <hello@blakeembrey.com>"
+license: "MIT"
+dev-repo: "git://github.com/blakeembrey/upper-case-first.git"
+depends: [
+"upper-case" {>="1.1.1" & <"2.0.0"}
+
+]
+

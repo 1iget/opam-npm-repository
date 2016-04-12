@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "nan"
+version: "1.2.0"
+maintainer: "rvagg <rod@vagg.org>"
+author: "rvagg <rod@vagg.org>"
+license: "MIT"
+dev-repo: "git://github.com/rvagg/nan.git"
+depends: [
+
+]
+

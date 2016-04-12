@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"index.bak" {"index.bak"}
+"test/bash-comparison.js" {"test/bash-comparison.js"}
+"test/same-type.js" {"test/same-type.js"}
+"test/dollar.js" {"test/dollar.js"}
+"test/empty-option.js" {"test/empty-option.js"}
+"test/pad.js" {"test/pad.js"}
+"test/order.js" {"test/order.js"}
+"test/nested.js" {"test/nested.js"}
+"test/sequence.js" {"test/sequence.js"}
+"test/negative-increment.js" {"test/negative-increment.js"}
+"test/bash-results.txt" {"test/bash-results.txt"}
+"test/generate.sh" {"test/generate.sh"}
+"test/cases.txt" {"test/cases.txt"}
+]

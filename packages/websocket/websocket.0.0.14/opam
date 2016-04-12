@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "websocket"
+version: "0.0.14"
+maintainer: "theturtle32 <brian@worlize.com>"
+author: "theturtle32 <brian@worlize.com>"
+license: "not defined"
+dev-repo: "git://github.com/Worlize/WebSocket-Node.git"
+depends: [
+
+]
+

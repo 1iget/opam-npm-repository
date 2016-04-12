@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "marked"
+version: "0.1.6"
+maintainer: "chjj <chjjeffrey@gmail.com>"
+author: "chjj <chjjeffrey@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/chjj/marked.git"
+depends: [
+
+]
+

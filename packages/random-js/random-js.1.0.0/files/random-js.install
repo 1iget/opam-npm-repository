@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"karma.conf.js" {"karma.conf.js"}
+"bower.json" {"bower.json"}
+"index.html" {"index.html"}
+"lib/random.js" {"lib/random.js"}
+"lib/random.min.js" {"lib/random.min.js"}
+"spec/RandomSpec.js" {"spec/RandomSpec.js"}
+"spec/engines.browserCryptoSpec.js" {"spec/engines.browserCryptoSpec.js"}
+"spec/engines.mt19937Spec.js" {"spec/engines.mt19937Spec.js"}
+"spec/engines.nativeMathSpec.js" {"spec/engines.nativeMathSpec.js"}
+"spec/hexSpec.js" {"spec/hexSpec.js"}
+"spec/dieSpec.js" {"spec/dieSpec.js"}
+"spec/pickSpec.js" {"spec/pickSpec.js"}
+"spec/pickerSpec.js" {"spec/pickerSpec.js"}
+"spec/realSpec.js" {"spec/realSpec.js"}
+"spec/sampleSpec.js" {"spec/sampleSpec.js"}
+"spec/shuffleSpec.js" {"spec/shuffleSpec.js"}
+"spec/diceSpec.js" {"spec/diceSpec.js"}
+"spec/stringSpec.js" {"spec/stringSpec.js"}
+"spec/boolSpec.js" {"spec/boolSpec.js"}
+"spec/uuid4Spec.js" {"spec/uuid4Spec.js"}
+"spec/integerSpec.js" {"spec/integerSpec.js"}
+]

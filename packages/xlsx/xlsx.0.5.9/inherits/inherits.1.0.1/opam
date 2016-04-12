@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "inherits"
+version: "1.0.1"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/inherits.git"
+depends: [
+
+]
+

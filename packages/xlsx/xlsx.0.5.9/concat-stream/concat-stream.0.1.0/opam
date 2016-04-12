@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "concat-stream"
+version: "0.1.0"
+maintainer: "maxogden <max@maxogden.com>"
+author: "maxogden <max@maxogden.com>"
+license: "not defined"
+dev-repo: "http://github.com/maxogden/node-concat-stream.git"
+depends: [
+
+]
+

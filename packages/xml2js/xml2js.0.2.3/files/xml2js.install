@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"src/xml2js.coffee" {"src/xml2js.coffee"}
+"test/xml2js.test.coffee" {"test/xml2js.test.coffee"}
+"test/fixtures/sample.xml" {"test/fixtures/sample.xml"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+".travis.yml" {".travis.yml"}
+"Cakefile" {"Cakefile"}
+]

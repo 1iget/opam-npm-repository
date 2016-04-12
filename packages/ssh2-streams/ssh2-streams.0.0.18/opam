@@ -1,0 +1,18 @@
+opam-version: "1.2"
+name: "ssh2-streams"
+version: "0.0.18"
+maintainer: "mscdex <mscdex@mscdex.net>"
+author: "mscdex <mscdex@mscdex.net>"
+license: "not defined"
+dev-repo: "git+ssh://git@github.com/mscdex/ssh2-streams.git"
+depends: [
+"readable-stream" {>="1.0.0" & <"1.1.0"}
+
+"streamsearch" {>="0.1.2" & <"0.2.0"}
+
+"asn1" {>="0.2.0" & <"0.3.0"}
+
+"jsbn" {>="0.0.0"}
+
+]
+

@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "sax"
+version: "0.5.7"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "BSD"
+dev-repo: "git://github.com/isaacs/sax-js.git"
+depends: [
+
+]
+

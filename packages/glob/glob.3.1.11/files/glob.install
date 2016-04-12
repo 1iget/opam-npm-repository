@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"glob.js" {"glob.js"}
+".travis.yml" {".travis.yml"}
+"examples/g.js" {"examples/g.js"}
+"examples/usr-local.js" {"examples/usr-local.js"}
+"test/00-setup.js" {"test/00-setup.js"}
+"test/bash-comparison.js" {"test/bash-comparison.js"}
+"test/cwd-test.js" {"test/cwd-test.js"}
+"test/pause-resume.js" {"test/pause-resume.js"}
+"test/root-nomount.js" {"test/root-nomount.js"}
+"test/root.js" {"test/root.js"}
+"test/zz-cleanup.js" {"test/zz-cleanup.js"}
+]

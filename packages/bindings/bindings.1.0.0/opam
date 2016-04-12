@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "bindings"
+version: "1.0.0"
+maintainer: "TooTallNate <nathan@tootallnate.net>"
+author: "TooTallNate <nathan@tootallnate.net>"
+license: "not defined"
+dev-repo: "git://github.com/TooTallNate/node-bindings.git"
+depends: [
+
+]
+

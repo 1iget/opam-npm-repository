@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"Jakefile.js" {"Jakefile.js"}
+"color-string.js" {"color-string.js"}
+"component.json" {"component.json"}
+"test/basic.js" {"test/basic.js"}
+]

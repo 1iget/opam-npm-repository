@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "change-case"
+version: "1.0.2"
+maintainer: "blakeembrey <me@blakeembrey.com>"
+author: "blakeembrey <me@blakeembrey.com>"
+license: "MIT"
+dev-repo: "https://github.com/blakeembrey/node-change-case"
+depends: [
+
+]
+

@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "has-ansi"
+version: "0.1.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/has-ansi"
+depends: [
+"ansi-regex" {>="0.2.0" & <"0.3.0"}
+
+]
+

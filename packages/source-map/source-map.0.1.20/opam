@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "source-map"
+version: "0.1.20"
+maintainer: "mozilla-devtools <mozilla-developer-tools@googlegroups.com>"
+author: "mozilla-devtools <mozilla-developer-tools@googlegroups.com>"
+license: "not defined"
+dev-repo: "http://github.com/mozilla/source-map.git"
+depends: [
+"amdefine" {>="0.0.4"}
+
+]
+

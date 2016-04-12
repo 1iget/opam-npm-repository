@@ -1,0 +1,14 @@
+lib: [
+".npmignore" {".npmignore"}
+"lib/" {"lib/"}
+"lib/marked.js" {"lib/marked.js"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"man/" {"man/"}
+"man/marked.1" {"man/marked.1"}
+"index.js" {"index.js"}
+"bin/" {"bin/"}
+"bin/marked" {"bin/marked"}
+"README.md" {"README.md"}
+]

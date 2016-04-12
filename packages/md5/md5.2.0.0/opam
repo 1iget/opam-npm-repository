@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "md5"
+version: "2.0.0"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/pvorb/node-md5.git"
+depends: [
+"charenc" {>="0.0.1" & <"0.1.0"}
+
+"crypt" {>="0.0.1" & <"0.1.0"}
+
+"is-buffer" {>="1.0.2" & <"1.1.0"}
+
+]
+

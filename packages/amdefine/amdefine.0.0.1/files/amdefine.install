@@ -1,0 +1,6 @@
+lib: [
+".npmignore" {".npmignore"}
+"amdefine.js" {"amdefine.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+]

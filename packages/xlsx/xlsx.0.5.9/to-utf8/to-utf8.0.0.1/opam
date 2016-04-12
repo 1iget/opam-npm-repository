@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "to-utf8"
+version: "0.0.1"
+maintainer: "chrisdickinson <chris@neversaw.us>"
+author: "chrisdickinson <chris@neversaw.us>"
+license: "MIT"
+dev-repo: "git://github.com/chrisdickinson/to-utf8.git"
+depends: [
+
+]
+

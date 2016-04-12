@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"83.coffee" {"83.coffee"}
+"canon.xml" {"canon.xml"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+"text.coffee" {"text.coffee"}
+"text.xml" {"text.xml"}
+]

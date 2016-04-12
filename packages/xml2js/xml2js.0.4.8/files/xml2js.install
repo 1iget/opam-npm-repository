@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"x.js" {"x.js"}
+"Depp.js" {"Depp.js"}
+"att.js" {"att.js"}
+"incompat2.js" {"incompat2.js"}
+".travis.yml" {".travis.yml"}
+"83.coffee" {"83.coffee"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"bork.xml" {"bork.xml"}
+"canon.xml" {"canon.xml"}
+"incompat.coffee" {"incompat.coffee"}
+"Config.xml" {"Config.xml"}
+"lib/bom.js" {"lib/bom.js"}
+"lib/processors.js" {"lib/processors.js"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+"text.xml" {"text.xml"}
+"text.coffee" {"text.coffee"}
+"borker.coffee" {"borker.coffee"}
+]

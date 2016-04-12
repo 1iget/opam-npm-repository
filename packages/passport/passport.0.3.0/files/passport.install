@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/authenticator.js" {"lib/authenticator.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/errors/authenticationerror.js" {"lib/errors/authenticationerror.js"}
+"lib/framework/connect.js" {"lib/framework/connect.js"}
+"lib/http/request.js" {"lib/http/request.js"}
+"lib/middleware/authenticate.js" {"lib/middleware/authenticate.js"}
+"lib/middleware/initialize.js" {"lib/middleware/initialize.js"}
+"lib/strategies/session.js" {"lib/strategies/session.js"}
+]

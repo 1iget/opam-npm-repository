@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "is-lower-case"
+version: "0.0.1"
+maintainer: "blakeembrey <hello@blakeembrey.com>"
+author: "blakeembrey <hello@blakeembrey.com>"
+license: "MIT"
+dev-repo: "git://github.com/blakeembrey/is-lower-case.git"
+depends: [
+"lower-case" {="0.0.1"}
+
+]
+

@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"jszip.js" {"jszip.js"}
+"ods.js" {"ods.js"}
+"xlsx.js" {"xlsx.js"}
+"xlsxworker.js" {"xlsxworker.js"}
+"xlsxworker2.js" {"xlsxworker2.js"}
+"xlsxworker1.js" {"xlsxworker1.js"}
+"bower.json" {"bower.json"}
+"dist/LICENSE" {"dist/LICENSE"}
+"dist/jszip.js" {"dist/jszip.js"}
+"dist/ods.js" {"dist/ods.js"}
+"dist/xlsx.core.min.js" {"dist/xlsx.core.min.js"}
+"dist/cpexcel.js" {"dist/cpexcel.js"}
+"dist/xlsx.full.min.js" {"dist/xlsx.full.min.js"}
+"dist/xlsx.js" {"dist/xlsx.js"}
+"dist/xlsx.min.js" {"dist/xlsx.min.js"}
+"dist/xlsx.min.map" {"dist/xlsx.min.map"}
+"dist/xlsx.full.min.map" {"dist/xlsx.full.min.map"}
+"dist/xlsx.core.min.map" {"dist/xlsx.core.min.map"}
+"bin/xlsx.njs" {"bin/xlsx.njs"}
+]

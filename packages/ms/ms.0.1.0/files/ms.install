@@ -1,0 +1,10 @@
+lib: [
+".gitignore" {".gitignore"}
+"Makefile" {"Makefile"}
+"ms.js" {"ms.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/index.html" {"test/index.html"}
+"test/test.js" {"test/test.js"}
+"test/support/jquery.js" {"test/support/jquery.js"}
+]

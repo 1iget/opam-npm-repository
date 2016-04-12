@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "pkginfo"
+version: "0.2.2"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/indexzero/pkginfo.git"
+depends: [
+
+]
+

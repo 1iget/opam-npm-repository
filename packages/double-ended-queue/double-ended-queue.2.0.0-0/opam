@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "double-ended-queue"
+version: "2.0.0-0"
+maintainer: "esailija <petka_antonov@hotmail.com>"
+author: "esailija <petka_antonov@hotmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/petkaantonov/deque.git"
+depends: [
+
+]
+

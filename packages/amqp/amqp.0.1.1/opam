@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "amqp"
+version: "0.1.1"
+maintainer: "ry <ry@tinyclouds.org>"
+author: "ry <ry@tinyclouds.org>"
+license: "not defined"
+dev-repo: "git://github.com/postwait/node-amqp.git"
+depends: [
+
+]
+

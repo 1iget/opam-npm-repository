@@ -1,0 +1,18 @@
+lib: [
+".npmignore" {".npmignore"}
+"lib/" {"lib/"}
+"lib/ber/" {"lib/ber/"}
+"lib/ber/errors.js" {"lib/ber/errors.js"}
+"lib/ber/index.js" {"lib/ber/index.js"}
+"lib/ber/reader.js" {"lib/ber/reader.js"}
+"lib/ber/types.js" {"lib/ber/types.js"}
+"lib/ber/writer.js" {"lib/ber/writer.js"}
+"lib/index.js" {"lib/index.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tst/" {"tst/"}
+"tst/ber/" {"tst/ber/"}
+"tst/ber/reader.test.js" {"tst/ber/reader.test.js"}
+"tst/ber/writer.test.js" {"tst/ber/writer.test.js"}
+]

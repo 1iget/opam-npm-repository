@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"gulpfile.js" {"gulpfile.js"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".jscsrc" {".jscsrc"}
+"lib/Event.browser.js" {"lib/Event.browser.js"}
+"lib/Event.js" {"lib/Event.js"}
+"lib/EventTarget.js" {"lib/EventTarget.js"}
+]

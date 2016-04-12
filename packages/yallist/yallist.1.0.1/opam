@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "yallist"
+version: "1.0.1"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git+https://github.com/isaacs/yallist.git"
+depends: [
+
+]
+

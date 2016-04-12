@@ -254,13 +254,12 @@ let rec generate_dependencies documents : doc list =
         if StringSet.mem dep.package !set_documents
         then []
         else
-          begin
-            print_endline dep.package;
+          try
             let doc = Convenience.http_get (search_url_doc dep.package) in
             let document = from_string doc |> get_data_obj dep.package in
             set_documents := StringSet.add dep.package !set_documents;
             document :: generate_dependencies [document]
-          end
+          with Invalid_argument _ -> []
       ) v.deps
     ) x.versions
   ) documents in

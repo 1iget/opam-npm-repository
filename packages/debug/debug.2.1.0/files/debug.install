@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"browser.js" {"browser.js"}
+"debug.js" {"debug.js"}
+"node.js" {"node.js"}
+"Readme.md" {"Readme.md"}
+".jshintrc" {".jshintrc"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"component.json" {"component.json"}
+]

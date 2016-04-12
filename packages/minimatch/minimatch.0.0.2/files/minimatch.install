@@ -1,0 +1,10 @@
+lib: [
+".gitmodules" {".gitmodules"}
+"minimatch.js" {"minimatch.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/basic.js" {"test/basic.js"}
+"node_modules/lru-cache/package.json" {"node_modules/lru-cache/package.json"}
+"node_modules/lru-cache/README.md" {"node_modules/lru-cache/README.md"}
+"node_modules/lru-cache/lib/lru-cache.js" {"node_modules/lru-cache/lib/lru-cache.js"}
+]

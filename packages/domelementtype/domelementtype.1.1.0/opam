@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "domelementtype"
+version: "1.1.0"
+maintainer: "feedic <me@feedic.com>"
+author: "feedic <me@feedic.com>"
+license: "not defined"
+dev-repo: "git://github.com/FB55/domelementtype.git"
+depends: [
+
+]
+

@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".gitattributes" {".gitattributes"}
+".travis.yml" {".travis.yml"}
+"lib/CollectingHandler.js" {"lib/CollectingHandler.js"}
+"lib/FeedHandler.js" {"lib/FeedHandler.js"}
+"lib/Parser.js" {"lib/Parser.js"}
+"lib/ProxyHandler.js" {"lib/ProxyHandler.js"}
+"lib/Stream.js" {"lib/Stream.js"}
+"lib/Tokenizer.js" {"lib/Tokenizer.js"}
+"lib/WritableStream.js" {"lib/WritableStream.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/entities/decode.json" {"lib/entities/decode.json"}
+"lib/entities/entities.json" {"lib/entities/entities.json"}
+"lib/entities/legacy.json" {"lib/entities/legacy.json"}
+"lib/entities/xml.json" {"lib/entities/xml.json"}
+]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"dist/lodash.compat.js" {"dist/lodash.compat.js"}
+"dist/lodash.compat.min.js" {"dist/lodash.compat.min.js"}
+"dist/lodash.js" {"dist/lodash.js"}
+"dist/lodash.min.js" {"dist/lodash.min.js"}
+"dist/lodash.underscore.js" {"dist/lodash.underscore.js"}
+"dist/lodash.underscore.min.js" {"dist/lodash.underscore.min.js"}
+]

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/pkginfo.html" {"docs/pkginfo.html"}
+"examples/package.json" {"examples/package.json"}
+"examples/all-properties.js" {"examples/all-properties.js"}
+"examples/array-argument.js" {"examples/array-argument.js"}
+"examples/multiple-properties.js" {"examples/multiple-properties.js"}
+"examples/object-argument.js" {"examples/object-argument.js"}
+"examples/single-property.js" {"examples/single-property.js"}
+"examples/target-dir.js" {"examples/target-dir.js"}
+"examples/subdir/package.json" {"examples/subdir/package.json"}
+"lib/pkginfo.js" {"lib/pkginfo.js"}
+"test/pkginfo-test.js" {"test/pkginfo-test.js"}
+]

@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "exit-on-epipe"
+version: "0.0.1"
+maintainer: "sheetjs <dev@sheetjs.com>"
+author: "sheetjs <dev@sheetjs.com>"
+license: "Apache-2.0"
+dev-repo: "git://github.com/SheetJS/node-exit-on-epipe.git"
+depends: [
+
+]
+

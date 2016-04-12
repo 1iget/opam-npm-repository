@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"lib/passport/index.js" {"lib/passport/index.js"}
+"lib/passport/strategy.js" {"lib/passport/strategy.js"}
+"lib/passport/middleware/authenticate.js" {"lib/passport/middleware/authenticate.js"}
+]

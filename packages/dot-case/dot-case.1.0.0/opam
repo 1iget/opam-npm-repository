@@ -1,0 +1,12 @@
+opam-version: "1.2"
+name: "dot-case"
+version: "1.0.0"
+maintainer: "blakeembrey <hello@blakeembrey.com>"
+author: "blakeembrey <hello@blakeembrey.com>"
+license: "MIT"
+dev-repo: "git://github.com/blakeembrey/dot-case.git"
+depends: [
+"sentence-case" {>="1.0.0" & <"2.0.0"}
+
+]
+

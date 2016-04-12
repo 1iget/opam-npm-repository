@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "lodash._arraypool"
+version: "2.2.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+
+]
+

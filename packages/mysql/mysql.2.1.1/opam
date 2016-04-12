@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "mysql"
+version: "2.1.1"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+dev-repo: "https://github.com/felixge/node-mysql"
+depends: [
+"require-all" {="0.0.3"}
+
+"bignumber.js" {="1.0.1"}
+
+"readable-stream" {>="1.1.9" & <"1.2.0"}
+
+]
+

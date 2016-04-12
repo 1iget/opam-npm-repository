@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"source-map-support.browser.js" {"source-map-support.browser.js"}
+"source-map-support.js" {"source-map-support.js"}
+"test.js" {"test.js"}
+"build.browser.sh" {"build.browser.sh"}
+]

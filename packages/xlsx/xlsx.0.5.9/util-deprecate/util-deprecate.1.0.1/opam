@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "util-deprecate"
+version: "1.0.1"
+maintainer: "tootallnate <nathan@tootallnate.net>"
+author: "tootallnate <nathan@tootallnate.net>"
+license: "MIT"
+dev-repo: "git://github.com/TooTallNate/util-deprecate.git"
+depends: [
+
+]
+

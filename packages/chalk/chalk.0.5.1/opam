@@ -1,0 +1,20 @@
+opam-version: "1.2"
+name: "chalk"
+version: "0.5.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/chalk"
+depends: [
+"ansi-styles" {>="1.1.0" & <"2.0.0"}
+
+"escape-string-regexp" {>="1.0.0" & <"2.0.0"}
+
+"has-ansi" {>="0.1.0" & <"0.2.0"}
+
+"strip-ansi" {>="0.3.0" & <"0.4.0"}
+
+"supports-color" {>="0.2.0" & <"0.3.0"}
+
+]
+

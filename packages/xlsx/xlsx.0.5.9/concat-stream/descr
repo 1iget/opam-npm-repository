@@ -1,0 +1,1 @@
+writable stream that concatenates strings or binary data and calls a callback with the result

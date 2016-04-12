@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "pako"
+version: "0.2.7"
+maintainer: "vitaly <vitaly@rcdesign.ru>"
+author: "vitaly <vitaly@rcdesign.ru>"
+license: "Not defined"
+dev-repo: "git://github.com/nodeca/pako.git"
+depends: [
+
+]
+

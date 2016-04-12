@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "require-all"
+version: "0.0.5"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+dev-repo: ""
+depends: [
+
+]
+

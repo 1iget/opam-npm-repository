@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "jsbn"
+version: "0.0.0"
+maintainer: "andyperlitch <andyperlitch@gmail.com>"
+author: "andyperlitch <andyperlitch@gmail.com>"
+license: "BSD"
+dev-repo: "https://github.com/andyperlitch/jsbn.git"
+depends: [
+
+]
+

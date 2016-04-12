@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "cli"
+version: "0.11.1"
+maintainer: "cohara87 <cohara87@gmail.com>"
+author: "cohara87 <cohara87@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/chriso/cli.git"
+depends: [
+"glob" {>="5.0.10" & <"6.0.0"}
+
+"exit" {="0.1.2"}
+
+]
+

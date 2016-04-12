@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "voc"
+version: "0.4.0"
+maintainer: "sheetjs <dev@sheetjs.com>"
+author: "sheetjs <dev@sheetjs.com>"
+license: "not defined"
+dev-repo: "git://github.com/SheetJS/voc.git"
+depends: [
+"marked" {="latest"}
+
+"mkdirp" {="latest"}
+
+]
+

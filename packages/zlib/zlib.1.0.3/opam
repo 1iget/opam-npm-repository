@@ -1,0 +1,11 @@
+opam-version: "1.2"
+name: "zlib"
+version: "1.0.3"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/kkaefer/node-zlib.git"
+depends: [
+
+]
+
