@@ -1,6 +1,0 @@
-lib: [
-"bindings.js" {"bindings.js"}
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"test.js" {"test.js"}
-]

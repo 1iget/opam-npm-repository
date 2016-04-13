@@ -1,5 +1,0 @@
-{ "name" : "gently"
-, "version": "0.3.0"
-, "directories" : { "lib" : "./lib/gently" }
-, "main" : "./lib/gently/index"
-}

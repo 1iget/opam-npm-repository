@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"ssf.js" {"ssf.js"}
-"bin/ssf.njs" {"bin/ssf.njs"}
-"ssf.md" {"ssf.md"}
-]

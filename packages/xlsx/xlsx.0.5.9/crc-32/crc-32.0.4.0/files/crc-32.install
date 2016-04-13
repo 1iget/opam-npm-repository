@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"crc32.flow.js" {"crc32.flow.js"}
-"crc32.js" {"crc32.js"}
-]

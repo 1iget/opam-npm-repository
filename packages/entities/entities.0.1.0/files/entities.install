@@ -1,9 +1,0 @@
-lib: [
-"index.js" {"index.js"}
-"package.json" {"package.json"}
-"readme.md" {"readme.md"}
-"test.js" {"test.js"}
-"entities/html4.json" {"entities/html4.json"}
-"entities/html5.json" {"entities/html5.json"}
-"entities/xml.json" {"entities/xml.json"}
-]

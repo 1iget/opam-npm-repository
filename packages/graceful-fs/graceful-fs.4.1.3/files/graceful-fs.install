@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"polyfills.js" {"polyfills.js"}
-"legacy-streams.js" {"legacy-streams.js"}
-"graceful-fs.js" {"graceful-fs.js"}
-"fs.js" {"fs.js"}
-]

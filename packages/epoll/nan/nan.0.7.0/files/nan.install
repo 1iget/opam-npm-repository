@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"include_dirs.js" {"include_dirs.js"}
-"build/config.gypi" {"build/config.gypi"}
-".dntrc" {".dntrc"}
-"nan.h" {"nan.h"}
-]

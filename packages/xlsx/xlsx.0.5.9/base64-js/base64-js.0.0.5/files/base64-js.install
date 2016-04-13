@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-".travis.yml" {".travis.yml"}
-"LICENSE.MIT" {"LICENSE.MIT"}
-"bench/bench.js" {"bench/bench.js"}
-"lib/b64.js" {"lib/b64.js"}
-"test/convert.js" {"test/convert.js"}
-]

@@ -1,8 +1,0 @@
-lib: [
-"" {""}
-"README.markdown" {"README.markdown"}
-"index.js" {"index.js"}
-"examples/" {"examples/"}
-"examples/pow.js" {"examples/pow.js"}
-"package.json" {"package.json"}
-]

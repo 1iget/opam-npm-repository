@@ -1,8 +1,0 @@
-lib: [
-"index.js" {"index.js"}
-"LICENSE" {"LICENSE"}
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-".npmignore" {".npmignore"}
-"lib/marked.js" {"lib/marked.js"}
-]
