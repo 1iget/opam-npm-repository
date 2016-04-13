@@ -8,9 +8,9 @@ dev-repo: "git://github.com/Worlize/WebSocket-Node.git"
 depends: [
 
 ]
-install: ["sh" "-c" "'node-gyp build'"]
-build: ["sh" "-c" "'node-gyp configure'"]
+install: ["sh" "-c" "node-gyp build"]
+build: ["sh" "-c" "node-gyp configure"]
 remove: [
-  [ "sh" "-c" "'node-gyp clean'" ] 
+  [ "sh" "-c" "node-gyp clean" ] 
 ]
 

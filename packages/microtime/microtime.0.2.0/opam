@@ -8,7 +8,7 @@ dev-repo: "git://github.com/wadey/node-microtime.git"
 depends: [
 
 ]
-install: ["sh" "-c" "'node-waf configure build'"]
+install: ["sh" "-c" "node-waf configure build"]
 
 
 

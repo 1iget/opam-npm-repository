@@ -9,6 +9,6 @@ depends: [
 
 ]
 
-build: ["sh" "-c" "'node-waf configure build'"]
+build: ["sh" "-c" "node-waf configure build"]
 
 

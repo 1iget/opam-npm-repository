@@ -9,7 +9,7 @@ depends: [
 "mime-db" {>="1.2.0" & <"2.0.0"}
 
 ]
-install: ["sh" "-c" "'node build/build.js > types.json'"]
+install: ["sh" "-c" "node build/build.js > types.json"]
 
 
 

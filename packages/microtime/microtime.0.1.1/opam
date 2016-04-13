@@ -8,7 +8,7 @@ license: "not defined"
 depends: [
 
 ]
-install: ["sh" "-c" "'node-waf configure build'"]
+install: ["sh" "-c" "node-waf configure build"]
 
 
 

@@ -9,6 +9,6 @@ depends: [
 
 ]
 
-build: ["sh" "-c" "'make || gmake'"]
+build: ["sh" "-c" "make || gmake"]
 
 

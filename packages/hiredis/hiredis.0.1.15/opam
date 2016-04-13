@@ -9,7 +9,7 @@ depends: [
 "bindings" {>="0.0.0"}
 
 ]
-install: ["sh" "-c" "'node-gyp rebuild'"]
+install: ["sh" "-c" "node-gyp rebuild"]
 
 
 

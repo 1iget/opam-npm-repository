@@ -9,7 +9,7 @@ depends: [
 "nan" {>="0.5.2" & <"0.6.0"}
 
 ]
-install: ["sh" "-c" "'node-gyp rebuild'"]
+install: ["sh" "-c" "node-gyp rebuild"]
 
 
 

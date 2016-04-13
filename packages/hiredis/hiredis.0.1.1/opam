@@ -9,6 +9,6 @@ depends: [
 
 ]
 
-build: ["sh" "-c" "'cd deps/hiredis && make static && cd ../.. && node-waf configure build'"]
+build: ["sh" "-c" "cd deps/hiredis && make static && cd ../.. && node-waf configure build"]
 
 

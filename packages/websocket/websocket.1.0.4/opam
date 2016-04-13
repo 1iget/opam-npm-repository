@@ -9,6 +9,6 @@ depends: [
 
 ]
 
-build: ["sh" "-c" "'make validator'"]
+build: ["sh" "-c" "make validator"]
 
 
