@@ -1,0 +1,11 @@
+lib: [
+"color-0.1.0.js" {"color-0.1.0.js"}
+"color-0.1.0.min.js" {"color-0.1.0.min.js"}
+"color.js" {"color.js"}
+"Jakefile.js" {"Jakefile.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.html" {"test.html"}
+"test/all.js" {"test/all.js"}
+"test/basic.js" {"test/basic.js"}
+]

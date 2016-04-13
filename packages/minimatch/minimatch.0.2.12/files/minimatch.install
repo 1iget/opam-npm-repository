@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"minimatch.js" {"minimatch.js"}
+"test/basic.js" {"test/basic.js"}
+"test/brace-expand.js" {"test/brace-expand.js"}
+"test/caching.js" {"test/caching.js"}
+"test/defaults.js" {"test/defaults.js"}
+]

@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"param-case.js" {"param-case.js"}
+"param-case.d.ts" {"param-case.d.ts"}
+]

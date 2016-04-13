@@ -1,0 +1,11 @@
+lib: [
+"color-convert-0.2.0.js" {"color-convert-0.2.0.js"}
+"color-convert-0.2.0.min.js" {"color-convert-0.2.0.min.js"}
+"conversions.js" {"conversions.js"}
+"index.js" {"index.js"}
+"Jakefile.js" {"Jakefile.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.hml" {"test.hml"}
+"test/basic.js" {"test/basic.js"}
+]

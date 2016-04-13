@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "github"
+version: "0.1.12"
+maintainer: "mikedeboer <info@mikedeboer.nl>"
+author: "mikedeboer <info@mikedeboer.nl>"
+license: "not defined"
+dev-repo: "http://github.com/mikedeboer/node-github.git"
+depends: [
+
+]
+
+
+
+

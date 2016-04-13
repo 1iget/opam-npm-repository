@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "asyncjs"
+version: "0.0.10"
+maintainer: "fjakobs <fabian.jakobs@web.de>"
+author: "fjakobs <fabian.jakobs@web.de>"
+license: "not defined"
+dev-repo: "git+ssh://git@github.com/fjakobs/async.js.git"
+depends: [
+
+]
+
+
+
+

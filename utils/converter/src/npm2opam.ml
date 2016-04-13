@@ -219,13 +219,13 @@ let get_install xs =
   let inst = get_script "install" xs in
   match inst with
   | None    -> ""
-  | Some xs -> Printf.sprintf "install: [\"sh\" \"-c\" \"'%s'\"]" xs
+  | Some xs -> Printf.sprintf "install: [\"sh\" \"-c\" \"%s\"]" xs
 
 let get_preinstall xs =
   let pre = get_script "preinstall" xs in
   match pre with
   | None    -> ""
-  | Some xs -> Printf.sprintf "build: [\"sh\" \"-c\" \"'%s'\"]" xs
+  | Some xs -> Printf.sprintf "build: [\"sh\" \"-c\" \"%s\"]" xs
 
 
 let get_preuninstall = get_script "preuninstall"
@@ -236,7 +236,7 @@ let get_uninstalls xs =
   match opts with
   | [] -> ""
   | xs ->
-      let all = List.fold_left (fun acc x -> Printf.sprintf "%s [ \"sh\" \"-c\" \"'%s'\" ]" acc x) "" xs in
+      let all = List.fold_left (fun acc x -> Printf.sprintf "%s [ \"sh\" \"-c\" \"%s\" ]" acc x) "" xs in
       Printf.sprintf "remove: [\n %s \n]" all
 
 

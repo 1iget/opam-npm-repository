@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "wrap-ansi"
+version: "0.2.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/chalk/wrap-ansi.git"
+depends: [
+"splice-string" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

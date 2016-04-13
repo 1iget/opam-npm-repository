@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/parse.js" {"example/parse.js"}
+"readme.markdown" {"readme.markdown"}
+"test/all_bool.js" {"test/all_bool.js"}
+"test/dash.js" {"test/dash.js"}
+"test/default_bool.js" {"test/default_bool.js"}
+"test/dotted.js" {"test/dotted.js"}
+"test/bool.js" {"test/bool.js"}
+"test/num.js" {"test/num.js"}
+"test/parse.js" {"test/parse.js"}
+"test/parse_modified.js" {"test/parse_modified.js"}
+"test/short.js" {"test/short.js"}
+"test/whitespace.js" {"test/whitespace.js"}
+"test/long.js" {"test/long.js"}
+]

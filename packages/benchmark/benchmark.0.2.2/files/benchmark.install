@@ -1,0 +1,8 @@
+lib: [
+"LICENSE.txt" {"LICENSE.txt"}
+"README.md" {"README.md"}
+"benchmark.js" {"benchmark.js"}
+"package.json" {"package.json"}
+"tests/node.js" {"tests/node.js"}
+"docs/README.md" {"docs/README.md"}
+]

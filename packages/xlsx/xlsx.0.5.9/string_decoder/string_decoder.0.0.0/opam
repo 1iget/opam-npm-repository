@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "string_decoder"
+version: "0.0.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/string_decoder.git"
+depends: [
+
+]
+
+
+
+

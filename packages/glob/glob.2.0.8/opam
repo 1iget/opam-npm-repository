@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "glob"
+version: "2.0.8"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "not defined"
+dev-repo: "git://github.com/isaacs/node-glob.git"
+depends: [
+
+]
+
+build: ["sh" "-c" "'node-waf clean || true; node-waf configure build'"]
+
+

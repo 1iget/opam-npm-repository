@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "redis-commands"
+version: "0.0.1"
+maintainer: "yuanchuan <yuanchuan23@gmail.com>"
+author: "yuanchuan <yuanchuan23@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/yuanchuan/redis-commands"
+depends: [
+"minimatch" {>="0.2.11" & <"0.3.0"}
+
+]
+
+
+
+

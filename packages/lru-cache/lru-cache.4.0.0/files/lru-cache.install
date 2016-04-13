@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CONTRIBUTORS" {"CONTRIBUTORS"}
+"benchmarks/insertion-time.js" {"benchmarks/insertion-time.js"}
+"lib/lru-cache.js" {"lib/lru-cache.js"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+"test/foreach.js" {"test/foreach.js"}
+"test/inspect.js" {"test/inspect.js"}
+"test/no-symbol.js" {"test/no-symbol.js"}
+"test/serialize.js" {"test/serialize.js"}
+]

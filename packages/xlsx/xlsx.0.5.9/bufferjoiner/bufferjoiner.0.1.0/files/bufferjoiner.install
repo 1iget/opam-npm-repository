@@ -1,0 +1,6 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/bufferjoiner.js" {"lib/bufferjoiner.js"}
+]

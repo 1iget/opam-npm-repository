@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "hiredis"
+version: "0.4.1"
+maintainer: "pietern <pcnoordhuis@gmail.com>"
+author: "pietern <pcnoordhuis@gmail.com>"
+license: "BSD-3-Clause"
+dev-repo: "git+https://github.com/redis/hiredis-node.git"
+depends: [
+"bindings" {>="0.0.0"}
+
+"nan" {>="2.0.5" & <"3.0.0"}
+
+]
+install: ["sh" "-c" "'node-gyp rebuild'"]
+
+
+

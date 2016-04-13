@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "param-case"
+version: "1.1.0"
+maintainer: "blakeembrey <hello@blakeembrey.com>"
+author: "blakeembrey <hello@blakeembrey.com>"
+license: "MIT"
+dev-repo: "git://github.com/blakeembrey/param-case.git"
+depends: [
+"sentence-case" {>="1.1.1" & <"2.0.0"}
+
+]
+
+
+
+

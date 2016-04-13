@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-arrayish"
+version: "0.1.0"
+maintainer: "qix <i.am.qix@gmail.com>"
+author: "qix <i.am.qix@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/qix-/node-is-arrayish.git"
+depends: [
+
+]
+
+
+
+

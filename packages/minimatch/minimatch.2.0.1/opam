@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "minimatch"
+version: "2.0.1"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "Not defined"
+dev-repo: "git://github.com/isaacs/minimatch.git"
+depends: [
+"brace-expansion" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

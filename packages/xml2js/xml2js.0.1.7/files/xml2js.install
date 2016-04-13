@@ -1,0 +1,9 @@
+lib: [
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+".gitignore" {".gitignore"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+"test/xml2js.test.js" {"test/xml2js.test.js"}
+"test/fixtures/sample.xml" {"test/fixtures/sample.xml"}
+]

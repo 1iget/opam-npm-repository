@@ -1,0 +1,11 @@
+lib: [
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"Cakefile" {"Cakefile"}
+".gitignore" {".gitignore"}
+"src/xml2js.coffee" {"src/xml2js.coffee"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+"test/xml2js.test.coffee" {"test/xml2js.test.coffee"}
+"test/fixtures/sample.xml" {"test/fixtures/sample.xml"}
+]

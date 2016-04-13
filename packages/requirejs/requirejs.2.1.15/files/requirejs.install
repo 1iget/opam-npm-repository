@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"require.js" {"require.js"}
+"bin/r.js" {"bin/r.js"}
+]

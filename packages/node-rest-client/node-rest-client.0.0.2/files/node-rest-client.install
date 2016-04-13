@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+".project" {".project"}
+"lib/node-rest-client.js" {"lib/node-rest-client.js"}
+"readme.md" {"readme.md"}
+"test/man-test.js" {"test/man-test.js"}
+"test/specs.js" {"test/specs.js"}
+"test/test-proxy.js" {"test/test-proxy.js"}
+"test/test-servers.js" {"test/test-servers.js"}
+"test/message.json" {"test/message.json"}
+"test/message.xml" {"test/message.xml"}
+"test/spec/test.js" {"test/spec/test.js"}
+]

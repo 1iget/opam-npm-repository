@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "benchmark"
+version: "0.1.349"
+maintainer: "Mathias Bynens <mathias@benchmarkjs.com>"
+author: "Mathias Bynens <mathias@benchmarkjs.com>"
+license: "not defined"
+dev-repo: "https://github.com/mathiasbynens/Benchmark.js.git"
+depends: [
+
+]
+
+
+
+

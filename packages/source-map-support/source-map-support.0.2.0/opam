@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "source-map-support"
+version: "0.2.0"
+maintainer: "evanw <evan.exe@gmail.com>"
+author: "evanw <evan.exe@gmail.com>"
+license: "not defined"
+
+depends: [
+"source-map" {="0.1.26"}
+
+]
+
+
+
+

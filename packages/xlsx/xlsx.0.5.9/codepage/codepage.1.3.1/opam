@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "codepage"
+version: "1.3.1"
+maintainer: "sheetjs <sheetjs@gmail.com>"
+author: "sheetjs <sheetjs@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "git://github.com/SheetJS/js-codepage.git"
+depends: [
+"voc" {="latest"}
+
+"commander" {="latest"}
+
+]
+
+
+
+

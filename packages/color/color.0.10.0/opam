@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "color"
+version: "0.10.0"
+maintainer: "harth <fayearthur@gmail.com>"
+author: "harth <fayearthur@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/harthur/color.git"
+depends: [
+"color-convert" {>="0.5.3" & <"0.6.0"}
+
+"color-string" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

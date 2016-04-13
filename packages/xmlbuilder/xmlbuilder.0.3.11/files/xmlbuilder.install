@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/XMLFragment.js" {"lib/XMLFragment.js"}
+"lib/XMLBuilder.js" {"lib/XMLBuilder.js"}
+"lib/index.js" {"lib/index.js"}
+]

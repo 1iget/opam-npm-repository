@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+]

@@ -1,0 +1,14 @@
+lib: [
+"cap.diff" {"cap.diff"}
+"color-0.1.2.js" {"color-0.1.2.js"}
+"color.js" {"color.js"}
+"grep" {"grep"}
+"Jakefile.js" {"Jakefile.js"}
+"manipulate.diff" {"manipulate.diff"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.html" {"test.html"}
+"test.js" {"test.js"}
+"test/all.js" {"test/all.js"}
+"test/basic.js" {"test/basic.js"}
+]

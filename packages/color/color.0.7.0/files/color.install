@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+"browser.js" {"browser.js"}
+"color.js" {"color.js"}
+"test.js" {"test.js"}
+"component.json" {"component.json"}
+"t.diff" {"t.diff"}
+"test/basic.js" {"test/basic.js"}
+]

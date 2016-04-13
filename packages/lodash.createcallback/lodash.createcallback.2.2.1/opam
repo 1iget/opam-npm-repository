@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "lodash.createcallback"
+version: "2.2.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash._basecreatecallback" {>="2.2.1" & <"2.3.0"}
+
+"lodash._baseisequal" {>="2.2.1" & <"2.3.0"}
+
+"lodash.isobject" {>="2.2.1" & <"2.3.0"}
+
+"lodash.keys" {>="2.2.1" & <"2.3.0"}
+
+]
+
+
+
+

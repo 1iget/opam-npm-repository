@@ -1,0 +1,20 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"LICENSE" {"LICENSE"}
+"examples/negative.js" {"examples/negative.js"}
+"examples/leaves.js" {"examples/leaves.js"}
+"examples/json.js" {"examples/json.js"}
+"examples/stringify.js" {"examples/stringify.js"}
+"test/negative.js" {"test/negative.js"}
+"test/interface.js" {"test/interface.js"}
+"test/obj.js" {"test/obj.js"}
+"test/instance.js" {"test/instance.js"}
+"test/date.js" {"test/date.js"}
+"test/leaves.js" {"test/leaves.js"}
+"test/json.js" {"test/json.js"}
+"test/mutability.js" {"test/mutability.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/circular.js" {"test/circular.js"}
+]

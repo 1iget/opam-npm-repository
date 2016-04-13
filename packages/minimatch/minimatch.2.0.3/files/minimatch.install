@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"benchmark.js" {"benchmark.js"}
+"browser.js" {"browser.js"}
+"minimatch.js" {"minimatch.js"}
+"b" {"b"}
+".travis.yml" {".travis.yml"}
+"c" {"c"}
+"a" {"a"}
+"test/basic.js" {"test/basic.js"}
+"test/brace-expand.js" {"test/brace-expand.js"}
+"test/defaults.js" {"test/defaults.js"}
+"test/extglob-ending-with-state-char.js" {"test/extglob-ending-with-state-char.js"}
+]

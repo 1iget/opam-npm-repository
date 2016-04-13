@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"readme.md" {"readme.md"}
+"test/array.js" {"test/array.js"}
+"test/buffer.js" {"test/buffer.js"}
+"test/infer.js" {"test/infer.js"}
+"test/nothing.js" {"test/nothing.js"}
+"test/objects.js" {"test/objects.js"}
+"test/string.js" {"test/string.js"}
+"test/typedarray.js" {"test/typedarray.js"}
+"test/server/ls.js" {"test/server/ls.js"}
+]

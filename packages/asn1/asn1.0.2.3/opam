@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "asn1"
+version: "0.2.3"
+maintainer: "mcavage <mcavage@gmail.com>"
+author: "mcavage <mcavage@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/mcavage/node-asn1.git"
+depends: [
+
+]
+
+
+
+

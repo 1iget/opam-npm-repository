@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "readable-stream"
+version: "1.1.10"
+maintainer: "rvagg <rod@vagg.org>"
+author: "rvagg <rod@vagg.org>"
+license: "MIT"
+dev-repo: "git://github.com/isaacs/readable-stream"
+depends: [
+"core-util-is" {>="1.0.0" & <"1.1.0"}
+
+"string_decoder" {>="0.10.0" & <"0.11.0"}
+
+"debuglog" {="0.0.2"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "gently"
+version: "0.10.0"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/felixge/node-gently.git"
+depends: [
+
+]
+
+
+
+

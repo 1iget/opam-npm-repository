@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"camel-case.js" {"camel-case.js"}
+"test.js" {"test.js"}
+]

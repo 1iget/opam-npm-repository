@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "colors"
+version: "0.5.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/Marak/colors.js.git"
+depends: [
+
+]
+
+
+
+

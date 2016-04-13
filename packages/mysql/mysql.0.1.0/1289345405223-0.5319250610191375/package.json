@@ -1,0 +1,5 @@
+{ "name" : "mysql"
+, "version": "0.1.0"
+, "directories" : { "lib" : "./lib/mysql" }
+, "main" : "./lib/mysql/index"
+}
