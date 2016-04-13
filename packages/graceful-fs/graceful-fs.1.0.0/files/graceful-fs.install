@@ -1,5 +1,0 @@
-lib: [
-"graceful-fs.js" {"graceful-fs.js"}
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-]

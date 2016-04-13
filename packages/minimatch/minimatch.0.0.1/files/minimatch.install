@@ -1,6 +1,0 @@
-lib: [
-"minimatch.js" {"minimatch.js"}
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"test/basic.js" {"test/basic.js"}
-]

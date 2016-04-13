@@ -1,6 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"adler32.js" {"adler32.js"}
-]

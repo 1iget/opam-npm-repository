@@ -25,6 +25,7 @@ type version = {
   license: string;
   dev_repo: string option;
   description: string option;
+  scripts: (string * string) list;
 }
 
 type doc = { 
@@ -114,12 +115,23 @@ let get_data_version obj =
     with
       Type_error _ -> "Not defined"
   in
+  let get_script =
+    try
+      begin
+        obj 
+        |> member "scripts" 
+        |> to_assoc 
+        |> List.map (fun (name, script) -> (name, to_string script))
+      end
+    with Type_error _ -> []
+  in
   {
   tarball = obj |> member "dist" |> member "tarball" |> to_string;
   deps = obj |> member "dependencies" |> get_deps_version;
   maintainer = get_maintainer obj;
   license = license;
   dev_repo = get_repository obj;
+  scripts = get_script;
   description = 
     try Some (obj |> member "description" |> to_string)
     with _ -> None
@@ -188,6 +200,54 @@ let download tarball =
     None
 
 
+let get_script name (scripts : (string * string) list) : string option =
+  try
+    let v = List.find (fun (n, _) -> n = name) scripts in
+    match v with
+    | (_, x) -> Some x
+  with Not_found -> None
+
+
+let rec concat_options (xs : 'a option list) : 'a list =
+  match xs with
+  | (Some y) :: ys  -> y :: concat_options ys
+  | None :: ys      -> concat_options ys
+  | []              -> []
+
+let add_quotes_concat xs =
+  let splited = Str.split (Str.regexp " ") xs in
+  let quoted = List.map (fun x -> Printf.sprintf "\"%s\"" x) splited in
+  List.fold_left (fun acc x ->  Printf.sprintf "%s %s" acc x) "" quoted
+
+let get_install xs =
+  let inst = get_script "install" xs in
+  match inst with
+  | None    -> ""
+  | Some xs -> Printf.sprintf "install: [%s]" (add_quotes_concat xs)
+
+let get_preinstall xs =
+  let pre = get_script "preinstall" xs in
+  match pre with
+  | None    -> ""
+  | Some xs -> Printf.sprintf "build: [%s]" (add_quotes_concat xs)
+
+
+let get_preuninstall = get_script "preuninstall"
+let get_postuninstall = get_script "postuninstall"
+
+let get_uninstalls xs =
+  let opts = concat_options [get_preuninstall xs; get_postuninstall xs] in
+  match opts with
+  | [] -> ""
+  | xs ->
+      let quoted = List.map add_quotes_concat xs in
+      let all = List.fold_left (fun acc x -> Printf.sprintf "%s [ %s ]" acc x) "" quoted in
+      Printf.sprintf "remove: [\n %s \n]" all
+
+
+
+
+
 let generate_opam (doc : doc) =
   let opam_version = "opam-version: \"1.2\"" in
   let name = Printf.sprintf "name: \"%s\"" doc.id in
@@ -215,7 +275,22 @@ let generate_opam (doc : doc) =
       | None -> ()
     end;
 
-    (v_str, v.tarball, Printf.sprintf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" opam_version name version maintainer author license dev_repo deps)
+    let all =
+      List.fold_left (fun acc x -> Printf.sprintf "%s%s\n" acc x) ""
+        [ opam_version;
+          name;
+          version;
+          maintainer;
+          author;
+          license;
+          dev_repo;
+          deps;
+          get_install v.scripts;
+          get_preinstall v.scripts;
+          get_uninstalls v.scripts;
+        ]
+    in 
+    (v_str, v.tarball, all)
   ) doc.versions in
   List.iter (fun (v_str, tarball, file_str) ->
     let directory = Printf.sprintf "%s.%s" doc.id v_str in

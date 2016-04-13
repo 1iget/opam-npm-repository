@@ -1,6 +1,0 @@
-lib: [
-"crypt.js" {"crypt.js"}
-"README.mkd" {"README.mkd"}
-"package.json" {"package.json"}
-"LICENSE.mkd" {"LICENSE.mkd"}
-]

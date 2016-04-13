@@ -1,6 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"LICENSE" {"LICENSE"}
-"README.md" {"README.md"}
-"lib/bufferjoiner.js" {"lib/bufferjoiner.js"}
-]

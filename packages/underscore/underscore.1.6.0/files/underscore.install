@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"underscore-min.js" {"underscore-min.js"}
-"underscore.js" {"underscore.js"}
-]

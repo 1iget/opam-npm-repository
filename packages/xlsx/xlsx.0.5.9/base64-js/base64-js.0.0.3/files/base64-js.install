@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE.MIT" {"LICENSE.MIT"}
-"lib/b64.js" {"lib/b64.js"}
-"test/runner.js" {"test/runner.js"}
-]

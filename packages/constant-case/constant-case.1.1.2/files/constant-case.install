@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"constant-case.js" {"constant-case.js"}
-"constant-case.d.ts" {"constant-case.d.ts"}
-]

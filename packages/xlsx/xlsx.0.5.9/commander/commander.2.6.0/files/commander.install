@@ -1,6 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"index.js" {"index.js"}
-"Readme.md" {"Readme.md"}
-"History.md" {"History.md"}
-]

@@ -1,8 +1,0 @@
-lib: [
-"" {""}
-"cli.js" {"cli.js"}
-"example.coffee" {"example.coffee"}
-"example.js" {"example.js"}
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-]

@@ -1,6 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"source-map-support.js" {"source-map-support.js"}
-"test.js" {"test.js"}
-]

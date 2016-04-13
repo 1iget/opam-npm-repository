@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"marked.js" {"marked.js"}
-"mkdirp.js" {"mkdirp.js"}
-"voc.js" {"voc.js"}
-"voc.njs" {"voc.njs"}
-]

@@ -8,4 +8,7 @@ dev-repo: "https://github.com/fivdi/onoff.git"
 depends: [
 
 ]
+install: [ "node-gyp" "rebuild"]
+
+
 

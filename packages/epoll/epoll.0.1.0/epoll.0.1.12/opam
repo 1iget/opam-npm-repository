@@ -11,4 +11,7 @@ depends: [
 "nan" {>="1.6.2" & <"1.7.0"}
 
 ]
+install: [ "node-gyp" "rebuild"]
+
+
 

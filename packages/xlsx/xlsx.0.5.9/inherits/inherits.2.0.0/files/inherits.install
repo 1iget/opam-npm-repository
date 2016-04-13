@@ -1,8 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-"inherits.js" {"inherits.js"}
-"inherits_browser.js" {"inherits_browser.js"}
-"test.js" {"test.js"}
-]

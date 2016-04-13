@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"LICENSE" {"LICENSE"}
-"index.js" {"index.js"}
-".travis.yml" {".travis.yml"}
-"README.markdown" {"README.markdown"}
-"example/map.js" {"example/map.js"}
-"test/map.js" {"test/map.js"}
-]

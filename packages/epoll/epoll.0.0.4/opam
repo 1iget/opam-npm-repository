@@ -9,4 +9,7 @@ depends: [
 "nan" {>="0.4.1" & <"0.5.0"}
 
 ]
+install: [ "node-gyp" "rebuild"]
+
+
 

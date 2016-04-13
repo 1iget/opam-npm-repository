@@ -1,8 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"README.md" {"README.md"}
-"test_adapter.js" {"test_adapter.js"}
-"tests.js" {"tests.js"}
-"lib/npo.src.js" {"lib/npo.src.js"}
-]
