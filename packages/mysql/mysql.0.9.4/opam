@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "mysql"
+version: "0.9.4"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+dev-repo: "git://github.com/felixge/node-mysql.git"
+depends: [
+"hashish" {="0.0.4"}
+
+]
+
+
+
+

@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/XMLAttribute.js" {"lib/XMLAttribute.js"}
+"lib/XMLComment.js" {"lib/XMLComment.js"}
+"lib/XMLDeclaration.js" {"lib/XMLDeclaration.js"}
+"lib/XMLDocType.js" {"lib/XMLDocType.js"}
+"lib/XMLElement.js" {"lib/XMLElement.js"}
+"lib/XMLCData.js" {"lib/XMLCData.js"}
+"lib/XMLNode.js" {"lib/XMLNode.js"}
+"lib/XMLProcessingInstruction.js" {"lib/XMLProcessingInstruction.js"}
+"lib/XMLRaw.js" {"lib/XMLRaw.js"}
+"lib/XMLStringifier.js" {"lib/XMLStringifier.js"}
+"lib/XMLText.js" {"lib/XMLText.js"}
+"lib/XMLBuilder.js" {"lib/XMLBuilder.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/XMLFragment.js" {"lib/XMLFragment.js"}
+]

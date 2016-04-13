@@ -1,0 +1,9 @@
+lib: [
+"" {""}
+".npmignore" {".npmignore"}
+"lib/" {"lib/"}
+"lib/XMLFragment.js" {"lib/XMLFragment.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/XMLBuilder.js" {"lib/XMLBuilder.js"}
+"package.json" {"package.json"}
+]

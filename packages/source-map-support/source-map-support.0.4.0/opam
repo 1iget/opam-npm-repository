@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "source-map-support"
+version: "0.4.0"
+maintainer: "evanw <evan.exe@gmail.com>"
+author: "evanw <evan.exe@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/evanw/node-source-map-support.git"
+depends: [
+"source-map" {="0.1.32"}
+
+]
+
+
+
+

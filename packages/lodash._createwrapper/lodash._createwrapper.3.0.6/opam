@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "lodash._createwrapper"
+version: "3.0.6"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash._arraycopy" {>="3.0.0" & <"4.0.0"}
+
+"lodash._basecreate" {>="3.0.0" & <"4.0.0"}
+
+"lodash._replaceholders" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Make any Node ReadableStream emit "keypress" events

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "isarray"
+version: "0.0.1"
+maintainer: "juliangruber <julian@juliangruber.com>"
+author: "juliangruber <julian@juliangruber.com>"
+license: "MIT"
+dev-repo: "git://github.com/juliangruber/isarray.git"
+depends: [
+
+]
+
+
+
+

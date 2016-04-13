@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "reflux"
+version: "0.1.13"
+maintainer: "spoike <mishakun@gmail.com>"
+author: "spoike <mishakun@gmail.com>"
+license: "BSD-3-Clause"
+dev-repo: "http://github.com/spoike/reflux.git"
+depends: [
+"eventemitter3" {>="0.1.2" & <"0.2.0"}
+
+]
+
+
+
+

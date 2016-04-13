@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "swap-case"
+version: "1.1.1"
+maintainer: "blakeembrey <hello@blakeembrey.com>"
+author: "blakeembrey <hello@blakeembrey.com>"
+license: "MIT"
+dev-repo: "git://github.com/blakeembrey/swap-case.git"
+depends: [
+"lower-case" {>="1.1.1" & <"2.0.0"}
+
+"upper-case" {>="1.1.1" & <"2.0.0"}
+
+]
+
+
+
+

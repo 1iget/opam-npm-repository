@@ -1,0 +1,12 @@
+lib: [
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"example/dog.js" {"example/dog.js"}
+"example/event_emitter.js" {"example/event_emitter.js"}
+"lib/gently/gently.js" {"lib/gently/gently.js"}
+"lib/gently/index.js" {"lib/gently/index.js"}
+"test/common.js" {"test/common.js"}
+"test/simple/test-gently.js" {"test/simple/test-gently.js"}
+]

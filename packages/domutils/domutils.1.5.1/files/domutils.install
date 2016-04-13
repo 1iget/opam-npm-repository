@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/legacy.js" {"lib/legacy.js"}
+"lib/manipulation.js" {"lib/manipulation.js"}
+"lib/querying.js" {"lib/querying.js"}
+"lib/stringify.js" {"lib/stringify.js"}
+"lib/traversal.js" {"lib/traversal.js"}
+"readme.md" {"readme.md"}
+"test/fixture.js" {"test/fixture.js"}
+"test/utils.js" {"test/utils.js"}
+"test/tests/helpers.js" {"test/tests/helpers.js"}
+"test/tests/legacy.js" {"test/tests/legacy.js"}
+"test/tests/traversal.js" {"test/tests/traversal.js"}
+]

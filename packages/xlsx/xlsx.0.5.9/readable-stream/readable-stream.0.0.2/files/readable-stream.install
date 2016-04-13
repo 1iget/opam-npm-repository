@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"from-list.js" {"from-list.js"}
+"fs.js" {"fs.js"}
+"passthrough.js" {"passthrough.js"}
+"readable.js" {"readable.js"}
+"writable.js" {"writable.js"}
+"examples/typer-fsr.js" {"examples/typer-fsr.js"}
+"examples/typer.js" {"examples/typer.js"}
+"test/basic.js" {"test/basic.js"}
+"test/from-list.js" {"test/from-list.js"}
+"test/fs.js" {"test/fs.js"}
+"test/passthrough.js" {"test/passthrough.js"}
+"test/fixtures/x1024.txt" {"test/fixtures/x1024.txt"}
+]

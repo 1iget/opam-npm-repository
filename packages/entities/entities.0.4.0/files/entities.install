@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"compile.js" {"compile.js"}
+"index.js" {"index.js"}
+"entities/html4.json" {"entities/html4.json"}
+"entities/html5.json" {"entities/html5.json"}
+"entities/xml.json" {"entities/xml.json"}
+"readme.md" {"readme.md"}
+"test/test.js" {"test/test.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

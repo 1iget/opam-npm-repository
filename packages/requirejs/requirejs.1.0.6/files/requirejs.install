@@ -1,0 +1,7 @@
+lib: [
+".npmignore" {".npmignore"}
+"bin/" {"bin/"}
+"bin/r.js" {"bin/r.js"}
+"package.json" {"package.json"}
+"require.js" {"require.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "jszip"
+version: "0.1.0"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/calvinmetcalf/jszip.git"
+depends: [
+
+]
+
+
+
+

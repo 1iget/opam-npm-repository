@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "hiredis"
+version: "0.1.10"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+build: [ "node-waf" "configure" "build"]
+
+

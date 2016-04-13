@@ -1,0 +1,9 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"bench.js" {"bench.js"}
+"fast-list.js" {"fast-list.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+]

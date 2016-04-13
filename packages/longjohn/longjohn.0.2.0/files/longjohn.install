@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"grunt.js" {"grunt.js"}
+"dist/longjohn.js" {"dist/longjohn.js"}
+"lib/longjohn.coffee" {"lib/longjohn.coffee"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test-longjohn.coffee" {"test/test-longjohn.coffee"}
+]

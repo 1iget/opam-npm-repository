@@ -1,0 +1,13 @@
+lib: [
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"lib/passport/index.js" {"lib/passport/index.js"}
+"lib/passport/strategy.js" {"lib/passport/strategy.js"}
+"lib/passport/http/request.js" {"lib/passport/http/request.js"}
+"lib/passport/middleware/authenticate.js" {"lib/passport/middleware/authenticate.js"}
+"lib/passport/middleware/initialize.js" {"lib/passport/middleware/initialize.js"}
+"lib/passport/strategies/session.js" {"lib/passport/strategies/session.js"}
+"lib/passport/context/http/actions.js" {"lib/passport/context/http/actions.js"}
+"lib/passport/context/http/context.js" {"lib/passport/context/http/context.js"}
+]

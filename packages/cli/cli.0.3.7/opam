@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "cli"
+version: "0.3.7"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/chriso/cli.git"
+depends: [
+
+]
+
+
+
+

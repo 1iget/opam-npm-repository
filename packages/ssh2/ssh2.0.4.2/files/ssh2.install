@@ -1,0 +1,25 @@
+lib: [
+"mscdex-ssh2-b51cd58/" {"mscdex-ssh2-b51cd58/"}
+"mscdex-ssh2-b51cd58/LICENSE" {"mscdex-ssh2-b51cd58/LICENSE"}
+"mscdex-ssh2-b51cd58/README.md" {"mscdex-ssh2-b51cd58/README.md"}
+"mscdex-ssh2-b51cd58/lib/" {"mscdex-ssh2-b51cd58/lib/"}
+"mscdex-ssh2-b51cd58/lib/Channel.js" {"mscdex-ssh2-b51cd58/lib/Channel.js"}
+"mscdex-ssh2-b51cd58/lib/SFTPWrapper.js" {"mscdex-ssh2-b51cd58/lib/SFTPWrapper.js"}
+"mscdex-ssh2-b51cd58/lib/agent.js" {"mscdex-ssh2-b51cd58/lib/agent.js"}
+"mscdex-ssh2-b51cd58/lib/client.js" {"mscdex-ssh2-b51cd58/lib/client.js"}
+"mscdex-ssh2-b51cd58/lib/keepalivemgr.js" {"mscdex-ssh2-b51cd58/lib/keepalivemgr.js"}
+"mscdex-ssh2-b51cd58/lib/server.js" {"mscdex-ssh2-b51cd58/lib/server.js"}
+"mscdex-ssh2-b51cd58/lib/utils.js" {"mscdex-ssh2-b51cd58/lib/utils.js"}
+"mscdex-ssh2-b51cd58/package.json" {"mscdex-ssh2-b51cd58/package.json"}
+"mscdex-ssh2-b51cd58/test/" {"mscdex-ssh2-b51cd58/test/"}
+"mscdex-ssh2-b51cd58/test/fixtures/" {"mscdex-ssh2-b51cd58/test/fixtures/"}
+"mscdex-ssh2-b51cd58/test/fixtures/id_dsa" {"mscdex-ssh2-b51cd58/test/fixtures/id_dsa"}
+"mscdex-ssh2-b51cd58/test/fixtures/id_rsa" {"mscdex-ssh2-b51cd58/test/fixtures/id_rsa"}
+"mscdex-ssh2-b51cd58/test/fixtures/ssh_host_rsa_key" {"mscdex-ssh2-b51cd58/test/fixtures/ssh_host_rsa_key"}
+"mscdex-ssh2-b51cd58/test/test-client-server.js" {"mscdex-ssh2-b51cd58/test/test-client-server.js"}
+"mscdex-ssh2-b51cd58/test/test.js" {"mscdex-ssh2-b51cd58/test/test.js"}
+"mscdex-ssh2-b51cd58/util/" {"mscdex-ssh2-b51cd58/util/"}
+"mscdex-ssh2-b51cd58/util/build_pagent.bat" {"mscdex-ssh2-b51cd58/util/build_pagent.bat"}
+"mscdex-ssh2-b51cd58/util/pagent.c" {"mscdex-ssh2-b51cd58/util/pagent.c"}
+"mscdex-ssh2-b51cd58/util/pagent.exe" {"mscdex-ssh2-b51cd58/util/pagent.exe"}
+]

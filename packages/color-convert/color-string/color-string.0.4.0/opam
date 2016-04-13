@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "color-string"
+version: "0.4.0"
+maintainer: "harth <fayearthur@gmail.com>"
+author: "harth <fayearthur@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/MoOx/color-string.git"
+depends: [
+"color-name" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

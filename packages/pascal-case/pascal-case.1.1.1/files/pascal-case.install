@@ -1,0 +1,5 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"pascal-case.js" {"pascal-case.js"}
+]

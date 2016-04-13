@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"bin/marked" {"bin/marked"}
+".travis.yml" {".travis.yml"}
+"doc/broken.md" {"doc/broken.md"}
+"doc/todo.md" {"doc/todo.md"}
+"lib/marked.js" {"lib/marked.js"}
+"man/marked.1" {"man/marked.1"}
+"component.json" {"component.json"}
+]

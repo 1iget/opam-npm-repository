@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"cptable.js" {"cptable.js"}
+"cputils.js" {"cputils.js"}
+"bin/codepage.njs" {"bin/codepage.njs"}
+"dist/LICENSE" {"dist/LICENSE"}
+"dist/cpexcel.full.js" {"dist/cpexcel.full.js"}
+]

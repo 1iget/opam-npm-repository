@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"cfb.js" {"cfb.js"}
+"bin/cfb.njs" {"bin/cfb.njs"}
+"dist/LICENSE" {"dist/LICENSE"}
+"dist/cfb.js" {"dist/cfb.js"}
+"dist/cfb.min.js" {"dist/cfb.min.js"}
+"dist/xlscfb.js" {"dist/xlscfb.js"}
+"dist/cfb.min.map" {"dist/cfb.min.map"}
+]

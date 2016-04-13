@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "native-promise-only"
+version: "0.4.1-e"
+maintainer: "getify <getify@gmail.com>"
+author: "getify <getify@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/getify/native-promise-only.git"
+depends: [
+
+]
+
+
+
+

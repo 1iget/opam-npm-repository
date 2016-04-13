@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "lodash.size"
+version: "3.0.2"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash.keys" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

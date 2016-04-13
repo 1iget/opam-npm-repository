@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"swap-case.js" {"swap-case.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+]

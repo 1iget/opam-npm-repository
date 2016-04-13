@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "redis"
+version: "2.1.0"
+maintainer: "bcoe <ben@npmjs.com>"
+author: "bcoe <ben@npmjs.com>"
+license: "MIT"
+dev-repo: "git://github.com/NodeRedis/node_redis.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,27 @@
+lib: [
+"examples/" {"examples/"}
+"examples/pow.js.orig" {"examples/pow.js.orig"}
+"examples/pow.js.rej" {"examples/pow.js.rej"}
+"examples/pow.js" {"examples/pow.js"}
+"index.js" {"index.js"}
+"test/" {"test/"}
+"test/perm.js" {"test/perm.js"}
+"test/umask_sync.js" {"test/umask_sync.js"}
+"test/return.js" {"test/return.js"}
+"test/perm_sync.js" {"test/perm_sync.js"}
+"test/race.js" {"test/race.js"}
+"test/rel.js" {"test/rel.js"}
+"test/mkdirp.js" {"test/mkdirp.js"}
+"test/clobber.js" {"test/clobber.js"}
+"test/umask.js" {"test/umask.js"}
+"test/sync.js" {"test/sync.js"}
+"test/chmod.js" {"test/chmod.js"}
+"test/return_sync.js" {"test/return_sync.js"}
+".npmignore" {".npmignore"}
+"package.json" {"package.json"}
+".travis.yml" {".travis.yml"}
+".gitignore.rej" {".gitignore.rej"}
+".gitignore.orig" {".gitignore.orig"}
+"README.markdown" {"README.markdown"}
+"LICENSE" {"LICENSE"}
+]

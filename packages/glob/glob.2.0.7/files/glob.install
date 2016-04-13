@@ -1,0 +1,21 @@
+lib: [
+".gitignore" {".gitignore"}
+"LICENCE" {"LICENCE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"wscript" {"wscript"}
+"lib/glob.js" {"lib/glob.js"}
+"src/glob.cc" {"src/glob.cc"}
+"src/glob_constants.h" {"src/glob_constants.h"}
+"deps/fnmatch/fnmatch.c" {"deps/fnmatch/fnmatch.c"}
+"deps/fnmatch/fnmatch.h" {"deps/fnmatch/fnmatch.h"}
+"deps/fnmatch/LICENSE" {"deps/fnmatch/LICENSE"}
+"deps/glob/glob.c" {"deps/glob/glob.c"}
+"deps/glob/glob.h" {"deps/glob/glob.h"}
+"deps/glob/LICENSE" {"deps/glob/LICENSE"}
+"test/test.js" {"test/test.js"}
+"test/foo/bar" {"test/foo/bar"}
+"test/foo/baz/bar" {"test/foo/baz/bar"}
+"test/foo/baz/quux/bar" {"test/foo/baz/quux/bar"}
+]

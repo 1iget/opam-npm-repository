@@ -1,0 +1,15 @@
+lib: [
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/pkginfo.html" {"docs/pkginfo.html"}
+"lib/pkginfo.js" {"lib/pkginfo.js"}
+"test/pkginfo-test.js" {"test/pkginfo-test.js"}
+"examples/all-properties.js" {"examples/all-properties.js"}
+"examples/array-argument.js" {"examples/array-argument.js"}
+"examples/multiple-properties.js" {"examples/multiple-properties.js"}
+"examples/object-argument.js" {"examples/object-argument.js"}
+"examples/package.json" {"examples/package.json"}
+"examples/single-property.js" {"examples/single-property.js"}
+]

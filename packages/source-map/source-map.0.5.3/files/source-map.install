@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"source-map.js" {"source-map.js"}
+"dist/source-map.debug.js" {"dist/source-map.debug.js"}
+"dist/source-map.js" {"dist/source-map.js"}
+"dist/source-map.min.js" {"dist/source-map.min.js"}
+"dist/source-map.min.js.map" {"dist/source-map.min.js.map"}
+"lib/array-set.js" {"lib/array-set.js"}
+"lib/base64-vlq.js" {"lib/base64-vlq.js"}
+"lib/base64.js" {"lib/base64.js"}
+"lib/binary-search.js" {"lib/binary-search.js"}
+"lib/mapping-list.js" {"lib/mapping-list.js"}
+"lib/quick-sort.js" {"lib/quick-sort.js"}
+"lib/source-map-consumer.js" {"lib/source-map-consumer.js"}
+"lib/source-map-generator.js" {"lib/source-map-generator.js"}
+"lib/source-node.js" {"lib/source-node.js"}
+"lib/util.js" {"lib/util.js"}
+]

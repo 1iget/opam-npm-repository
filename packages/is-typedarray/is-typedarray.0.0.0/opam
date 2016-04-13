@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-typedarray"
+version: "0.0.0"
+maintainer: "hughsk <hughskennedy@gmail.com>"
+author: "hughsk <hughskennedy@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/hughsk/is-typedarray.git"
+depends: [
+
+]
+
+
+
+

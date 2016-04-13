@@ -1,0 +1,5 @@
+lib: [
+"package.json" {"package.json"}
+"has-color.js" {"has-color.js"}
+"readme.md" {"readme.md"}
+]

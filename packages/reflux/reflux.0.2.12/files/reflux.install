@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"karma.conf.js" {"karma.conf.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"LICENSE.md" {"LICENSE.md"}
+".editorconfig" {".editorconfig"}
+"bower.json" {"bower.json"}
+".jshintrc" {".jshintrc"}
+"src/ListenerMixin.js" {"src/ListenerMixin.js"}
+"src/connect.js" {"src/connect.js"}
+"src/connectFilter.js" {"src/connectFilter.js"}
+"src/index.js" {"src/index.js"}
+"src/listenTo.js" {"src/listenTo.js"}
+"src/listenToMany.js" {"src/listenToMany.js"}
+]

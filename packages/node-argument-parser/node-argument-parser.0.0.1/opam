@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "node-argument-parser"
+version: "0.0.1"
+maintainer: "mauriciogior <mauricio.c.giordano@gmail.com>"
+author: "mauriciogior <mauricio.c.giordano@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/mauriciogior/node-scaffold.git"
+depends: [
+"change-case" {="2.1.5"}
+
+"json-cleaner" {="1.0.0"}
+
+]
+
+
+
+

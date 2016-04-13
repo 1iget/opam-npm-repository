@@ -1,0 +1,11 @@
+lib: [
+"LICENSE" {"LICENSE"}
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/index.js" {"lib/index.js"}
+"lib/proto.js" {"lib/proto.js"}
+"lib/xml2js.js" {"lib/xml2js.js"}
+"test/xml2js.test.js" {"test/xml2js.test.js"}
+"test/fixtures/sample.xml" {"test/fixtures/sample.xml"}
+]

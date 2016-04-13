@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "typedarray-to-buffer"
+version: "3.0.0"
+maintainer: "feross <feross@feross.org>"
+author: "feross <feross@feross.org>"
+license: "MIT"
+dev-repo: "git://github.com/feross/typedarray-to-buffer.git"
+depends: [
+"is-typedarray" {="0.0.0"}
+
+]
+
+
+
+

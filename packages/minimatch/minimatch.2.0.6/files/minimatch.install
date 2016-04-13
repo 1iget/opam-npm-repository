@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"browser.js" {"browser.js"}
+"minimatch.js" {"minimatch.js"}
+]

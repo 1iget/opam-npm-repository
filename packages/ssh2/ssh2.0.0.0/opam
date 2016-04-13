@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ssh2"
+version: "0.0.0"
+maintainer: "mscdex <mscdex@mscdex.net>"
+author: "mscdex <mscdex@mscdex.net>"
+license: "not defined"
+dev-repo: "http://github.com/mscdex/ssh2.git"
+depends: [
+
+]
+install: [ "node-gyp" "rebuild"]
+build: [ "node" "preconfig.js"]
+
+

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE.md" {"LICENSE.md"}
+".dntrc" {".dntrc"}
+"appveyor.yml" {"appveyor.yml"}
+"build/config.gypi" {"build/config.gypi"}
+"nan.h" {"nan.h"}
+"nan_implementation_12_inl.h" {"nan_implementation_12_inl.h"}
+"nan_implementation_pre_12_inl.h" {"nan_implementation_pre_12_inl.h"}
+"nan_new.h" {"nan_new.h"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+]

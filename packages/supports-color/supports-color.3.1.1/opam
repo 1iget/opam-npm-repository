@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "supports-color"
+version: "3.1.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/chalk/supports-color"
+depends: [
+"has-flag" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+
