@@ -19,3 +19,13 @@ Packages are going to be installed inside $HOME/.opam/node_modules/lib.
 - Build npm2opam in this repository in utils/converter/
 - Run 'npm2opam PACKAGE_NAME' from the packages/ folder, this will create the
   structure for the packages plus the dependencies.
+
+
+# Using the modules with node
+
+You can change the directories used for the search of modules in node with
+NODE_PATH. Just write:
+
+```
+NODE_PATH=/home/user/.opam/node_modules/lib node
+```
