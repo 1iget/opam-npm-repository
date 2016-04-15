@@ -29,3 +29,9 @@ NODE_PATH. Just write:
 ```
 NODE_PATH=/home/user/.opam/node_modules/lib node
 ```
+
+
+# Installing modules
+
+- Go to the switch with: opam switch node_modules
+- Install the package with: opam install PACKAGE
