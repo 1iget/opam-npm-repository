@@ -191,9 +191,12 @@ let download tarball =
     let (name, output) = Filename.open_temp_file "npm2opam" "" in
     Printf.fprintf output "%s" package;
     close_out output;
-    let files = read_all_command (Unix.open_process_in (Printf.sprintf "tar -xvf %s" name)) in
+    let process = Unix.open_process_in (Printf.sprintf "tar -xvf %s" name) in
+    let files = read_all_command process in
     let md5sum = Digest.to_hex (Digest.string package) in
-    ignore (Unix.open_process_in "rm -fr package");
+    ignore (Unix.close_process_in process);
+    let process = Unix.open_process_in "rm -fr package" in
+    ignore (Unix.close_process_in process);
     Some (md5sum, remove_prefix files)
   with _ -> 
     (*In some cases the tarballs are not avalaible*)
@@ -247,71 +250,76 @@ let generate_opam (doc : doc) =
   let opam_version = "opam-version: \"1.2\"" in
   let name = Printf.sprintf "name: \"%s\"" doc.id in
   let perms = 0o770 in
-  Unix.mkdir doc.id perms;
-  Unix.chdir doc.id;
-  let versions = List.map (fun (v_str, v) ->
-    let version = Printf.sprintf "version: \"%s\"" v_str in
-    let maintainer = Printf.sprintf "maintainer: \"%s <%s>\"" v.maintainer.name v.maintainer.email in
-    let author = Printf.sprintf "author: \"%s <%s>\"" v.maintainer.name v.maintainer.email in
-    let license = Printf.sprintf "license: \"%s\"" v.license in
-    let dev_repo =
-      match v.dev_repo with
-      | Some repo -> Printf.sprintf "dev-repo: \"%s\"" repo
-      | None -> ""
-    in
-    let deps = Printf.sprintf "depends: [\n%s\n]" (string_of_deps v.deps) in
+  let generate_versions () = 
+    Unix.chdir doc.id;
+    let versions = List.map (fun (v_str, v) ->
+      let version = Printf.sprintf "version: \"%s\"" v_str in
+      let maintainer = Printf.sprintf "maintainer: \"%s <%s>\"" v.maintainer.name v.maintainer.email in
+      let author = Printf.sprintf "author: \"%s <%s>\"" v.maintainer.name v.maintainer.email in
+      let license = Printf.sprintf "license: \"%s\"" v.license in
+      let dev_repo =
+        match v.dev_repo with
+        | Some repo -> Printf.sprintf "dev-repo: \"%s\"" repo
+        | None -> ""
+      in
+      let deps = Printf.sprintf "depends: [\n%s\n]" (string_of_deps v.deps) in
 
-    begin
-      match v.description with
-      | Some descr ->
-        let oc = open_out "descr" in
-        Printf.fprintf oc "%s\n" descr;
-        close_out oc
-      | None -> ()
-    end;
+      begin
+        match v.description with
+        | Some descr ->
+          let oc = open_out "descr" in
+          Printf.fprintf oc "%s\n" descr;
+          close_out oc
+        | None -> ()
+      end;
 
-    let all =
-      List.fold_left (fun acc x -> Printf.sprintf "%s%s\n" acc x) ""
-        [ opam_version;
-          name;
-          version;
-          maintainer;
-          author;
-          license;
-          dev_repo;
-          deps;
-          get_install v.scripts;
-          get_preinstall v.scripts;
-          get_uninstalls v.scripts;
-        ]
-    in 
-    (v_str, v.tarball, all)
-  ) doc.versions in
-  List.iter (fun (v_str, tarball, file_str) ->
-    let directory = Printf.sprintf "%s.%s" doc.id v_str in
-    Unix.mkdir directory perms;
-    Unix.chdir directory;
-    let oc = open_out "opam" in
-    Printf.fprintf oc "%s\n" file_str;
-    close_out oc;
-    match download tarball with
-    | Some (md5sum, files) -> 
-      let oc = open_out "url" in
-      Printf.fprintf oc "archive: \"%s\"\nchecksum: \"%s\"\n" tarball md5sum;
+      let all =
+        List.fold_left (fun acc x -> Printf.sprintf "%s%s\n" acc x) ""
+          [ opam_version;
+            name;
+            version;
+            maintainer;
+            author;
+            license;
+            dev_repo;
+            deps;
+            get_install v.scripts;
+            get_preinstall v.scripts;
+            get_uninstalls v.scripts;
+          ]
+      in 
+      (v_str, v.tarball, all)
+    ) doc.versions in
+    List.iter (fun (v_str, tarball, file_str) ->
+      let directory = Printf.sprintf "%s.%s" doc.id v_str in
+      Unix.mkdir directory perms;
+      Unix.chdir directory;
+      let oc = open_out "opam" in
+      Printf.fprintf oc "%s\n" file_str;
       close_out oc;
-
-      Unix.mkdir "files" perms;
-      Unix.chdir "files";
-
-      let oc = open_out (Printf.sprintf "%s.install" doc.id) in
-      Printf.fprintf oc "lib: [\n%s\n]\n" (string_of_files files);
-      close_out oc;
-
-      Unix.chdir "..";
-      Unix.chdir "..";
-    | None -> ()
-  ) versions;
-  Unix.chdir ".."
+      begin
+        match download tarball with
+        | Some (md5sum, files) -> 
+          let oc = open_out "url" in
+          Printf.fprintf oc "archive: \"%s\"\nchecksum: \"%s\"\n" tarball md5sum;
+          close_out oc;
+          Unix.mkdir "files" perms;
+          let oc = open_out (Printf.sprintf "files/%s.install" doc.id) in
+          Printf.fprintf oc "lib: [\n%s\n]\n" (string_of_files files);
+          close_out oc
+        | None -> ()
+      end;
+      Unix.chdir ".."
+    ) versions;
+    Unix.chdir ".."
+  in
+  try
+    Unix.mkdir doc.id perms;
+    generate_versions ()
+  with Unix.Unix_error _ ->
+    if List.length doc.versions = 0
+      then ()
+      else generate_versions ()
 
 
 let set_documents = ref StringSet.empty
@@ -336,28 +344,40 @@ let rec generate_dependencies documents : doc list =
   List.concat (List.concat (List.concat deps))
 
 
+
+
+
+
 let rec generate_all (documents : doc list) =
-  set_documents := StringSet.empty;
-  let generate x =
-    if StringSet.mem x.id !set_documents
-    then ()
-    else
-      begin
-        set_documents := StringSet.add x.id !set_documents;
-        try
-          generate_opam x
-        with Unix.Unix_error _ -> ()
-      end
-  in
-  let size = List.length documents in
-  let step d x = Printf.sprintf "%s: %d / %d" d.id x size in
-  List.iteri (fun i x -> print_endline (step x i); generate x) documents
+  ignore (Parmap.parmap ~ncores:8 (fun x -> print_endline x.id; generate_opam x) (Parmap.L documents));
+  (*ignore (List.iter (fun x -> print_endline x.id; generate_opam x) documents);*)
+  ()
 
 
 let remove_repeated xs =
   let set_documents = Hashtbl.create (List.length xs) in
   List.iter (fun x -> Hashtbl.add set_documents x.id x) xs;
   Hashtbl.fold (fun key x acc -> x :: acc ) set_documents []
+
+
+(*Removes the packages that are already in the FS *)
+let filter_ready xs =
+  print_string "Collection packages from the file system...";
+  let table = Update.collect_versions in
+  print_endline "ready";
+  List.map (fun d ->
+    let versions = List.filter (fun (v_str, _) ->
+      let key = d.id ^ "." ^ v_str in
+      not (Hashtbl.mem table key)
+    ) d.versions in
+    { d with versions = versions}
+  ) xs
+
+
+let get_latest_version doc =
+  let sorted = List.sort (fun (v1, _) (v2, _) -> (Versioning.SemverNode.compare v1 v2) * -1) doc.versions in
+  List.nth sorted 0
+
 
 
 
@@ -372,5 +392,8 @@ let () =
   let xs = generate_dependencies [document] in
   let xs = remove_repeated xs in
   Printf.printf "Deps: %d\n" (List.length xs);
-  generate_all (document :: xs)
+  let xs = document :: xs in
+  let xs = filter_ready xs in
+  Printf.printf "To create: %d\n" (List.fold_left (fun acc x -> acc + List.length x.versions) 0 xs);
+  generate_all xs
   (*Printf.printf "Total dependencies: %d" (List.length xs)*)
