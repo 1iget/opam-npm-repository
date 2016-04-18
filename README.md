@@ -2,7 +2,7 @@
 
 ```
 opam repo add npm https://github.com/fgaray/opam-npm-repository.git
-opam update
+opam update --solver=packup
 opam switch install node_modules
 ```
 
