@@ -25,7 +25,8 @@ type version = {
   license: string;
   dev_repo: string option;
   description: string option;
-  scripts: (string * string) list;
+  scripts: (string * string) list; (* (step, srcript) *)
+  bin: (string * string) list;
 }
 
 type doc = { 
@@ -108,7 +109,7 @@ let get_repository obj =
   with Type_error _ -> None
 
 
-let get_data_version obj =
+let get_data_version obj id =
   let license =
     try
       obj |> member "license" |> to_string
@@ -125,6 +126,20 @@ let get_data_version obj =
       end
     with Type_error _ -> []
   in
+  let get_bin =
+    try
+      obj
+      |> member "bin"
+      |> to_assoc
+      |> List.map (fun (x, y) -> (x, to_string y))
+    with Type_error _ ->
+      try
+        obj
+        |> member "bin"
+        |> (fun x -> [(id, to_string x)])
+      with
+        Type_error _ -> []
+  in
   {
   tarball = obj |> member "dist" |> member "tarball" |> to_string;
   deps = obj |> member "dependencies" |> get_deps_version;
@@ -132,6 +147,7 @@ let get_data_version obj =
   license = license;
   dev_repo = get_repository obj;
   scripts = get_script;
+  bin = get_bin;
   description = 
     try Some (obj |> member "description" |> to_string)
     with _ -> None
@@ -140,7 +156,7 @@ let get_data_version obj =
 let get_data id doc =
   (*pretty_to_channel stdout doc;*)
   {
-    versions = doc |> member "value" |> to_assoc |> List.map (fun (ver, obj) -> (ver, get_data_version obj));
+    versions = doc |> member "value" |> to_assoc |> List.map (fun (ver, obj) -> (ver, get_data_version obj id));
     id = id;
   }
 
@@ -243,6 +259,16 @@ let get_uninstalls xs =
       Printf.sprintf "remove: [\n %s \n]" all
 
 
+let add_script_binary (bin : (string * string) list) (xs : (string * string) list) =
+  let l = ref xs in
+  List.iter (fun (name, file) ->
+    let inst_command = Printf.sprintf "ln -s %s ../bin/%s" file name in
+    let remov_command = Printf.sprintf "rm ../bin/%s" name in
+    l := ("install", inst_command) :: !l;
+    l := ("preuninstall", remov_command) :: !l
+  ) bin;
+  !l
+
 
 
 
@@ -284,13 +310,13 @@ let generate_opam (doc : doc) =
             dev_repo;
             deps;
             get_install v.scripts;
-            get_preinstall v.scripts;
+            get_preinstall (add_script_binary v.bin v.scripts);
             get_uninstalls v.scripts;
           ]
       in 
-      (v_str, v.tarball, all)
+      (v_str, v, v.tarball, all)
     ) doc.versions in
-    List.iter (fun (v_str, tarball, file_str) ->
+    List.iter (fun (v_str, v, tarball, file_str) ->
       let directory = Printf.sprintf "%s.%s" doc.id v_str in
       Unix.mkdir directory perms;
       Unix.chdir directory;
@@ -349,8 +375,8 @@ let rec generate_dependencies documents : doc list =
 
 
 let rec generate_all (documents : doc list) =
-  ignore (Parmap.parmap ~ncores:8 (fun x -> print_endline x.id; generate_opam x) (Parmap.L documents));
-  (*ignore (List.iter (fun x -> print_endline x.id; generate_opam x) documents);*)
+  (*ignore (Parmap.parmap ~ncores:8 (fun x -> print_endline x.id; generate_opam x) (Parmap.L documents));*)
+  ignore (List.iter (fun x -> print_endline x.id; generate_opam x) documents);
   ()
 
 

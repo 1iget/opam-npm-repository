@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"README.md" {"README.md"}
-"index.js" {"index.js"}
-"test/test.js" {"test/test.js"}
-"test/fixtures/arr.json" {"test/fixtures/arr.json"}
-"test/mocha.opts" {"test/mocha.opts"}
-]

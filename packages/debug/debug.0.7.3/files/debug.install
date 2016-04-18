@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"debug.js" {"debug.js"}
-"index.js" {"index.js"}
-"Readme.md" {"Readme.md"}
-"lib/debug.js" {"lib/debug.js"}
-]

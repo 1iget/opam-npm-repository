@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"LICENSE" {"LICENSE"}
-".jshintrc" {".jshintrc"}
-".travis.yml" {".travis.yml"}
-"lib/index.js" {"lib/index.js"}
-"lib/strategy.js" {"lib/strategy.js"}
-]

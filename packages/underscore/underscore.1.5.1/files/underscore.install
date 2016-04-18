@@ -11,3 +11,6 @@ lib: [
 "CNAME" {"CNAME"}
 "underscore-min.map" {"underscore-min.map"}
 ]
+bin: [
+
+]

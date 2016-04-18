@@ -1,9 +1,0 @@
-lib: [
-"conversions.js" {"conversions.js"}
-"index.js" {"index.js"}
-"Jakefile.js" {"Jakefile.js"}
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"test.hml" {"test.hml"}
-"test/basic.js" {"test/basic.js"}
-]

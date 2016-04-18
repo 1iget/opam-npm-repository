@@ -1,7 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-"README.md" {"README.md"}
-"color-string.js" {"color-string.js"}
-"Jakefile.js" {"Jakefile.js"}
-"test/basic.js" {"test/basic.js"}
-]

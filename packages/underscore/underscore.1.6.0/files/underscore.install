@@ -5,3 +5,6 @@ lib: [
 "underscore-min.js" {"underscore-min.js"}
 "underscore.js" {"underscore.js"}
 ]
+bin: [
+
+]

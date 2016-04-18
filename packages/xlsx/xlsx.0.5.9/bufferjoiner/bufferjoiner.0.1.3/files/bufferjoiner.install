@@ -1,9 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"LICENSE" {"LICENSE"}
-"index.js" {"index.js"}
-".travis.yml" {".travis.yml"}
-"lib/bufferjoiner.js" {"lib/bufferjoiner.js"}
-"Makefile" {"Makefile"}
-]

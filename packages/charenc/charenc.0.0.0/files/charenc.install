@@ -1,6 +1,0 @@
-lib: [
-"charenc.js" {"charenc.js"}
-"package.json" {"package.json"}
-"LICENSE.mkd" {"LICENSE.mkd"}
-"README.js" {"README.js"}
-]
