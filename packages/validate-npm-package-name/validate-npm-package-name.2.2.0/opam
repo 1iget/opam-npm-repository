@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "validate-npm-package-name"
+version: "2.2.0"
+maintainer: "zeke <zeke@npmjs.com>"
+author: "zeke <zeke@npmjs.com>"
+license: "ISC"
+dev-repo: "https://github.com/npm/validate-npm-package-name"
+depends: [
+"builtins" {="0.0.7"}
+
+]
+
+
+
+

@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/async-map-ordered.js" {"lib/async-map-ordered.js"}
+"lib/async-map.js" {"lib/async-map.js"}
+"lib/bind-actor.js" {"lib/bind-actor.js"}
+"lib/chain.js" {"lib/chain.js"}
+"lib/slide.js" {"lib/slide.js"}
+]

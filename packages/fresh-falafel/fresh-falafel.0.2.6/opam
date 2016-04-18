@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "fresh-falafel"
+version: "0.2.6"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/node-falafel.git"
+depends: [
+"esprima" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

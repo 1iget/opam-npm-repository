@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/check-engine.js" {"test/check-engine.js"}
+"test/check-git.js" {"test/check-git.js"}
+"test/check-platform.js" {"test/check-platform.js"}
+]

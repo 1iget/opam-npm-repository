@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "helper-resolve"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "https://github.com/jonschlinkert/helper-resolve"
+depends: [
+"lodash" {>="3.2.0" & <"4.0.0"}
+
+"resolve" {>="1.1.0" & <"2.0.0"}
+
+]
+
+
+
+

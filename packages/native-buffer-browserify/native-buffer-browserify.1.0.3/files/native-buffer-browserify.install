@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"perf/bracket-notation.js" {"perf/bracket-notation.js"}
+"perf/concat.js" {"perf/concat.js"}
+"perf/copy.js" {"perf/copy.js"}
+"perf/new.js" {"perf/new.js"}
+"perf/readDoubleBE.js" {"perf/readDoubleBE.js"}
+"perf/readFloatBE.js" {"perf/readFloatBE.js"}
+"perf/readUInt32LE.js" {"perf/readUInt32LE.js"}
+"perf/slice.js" {"perf/slice.js"}
+"perf/writeFloatBE.js" {"perf/writeFloatBE.js"}
+"perf/index.html" {"perf/index.html"}
+"test/basic.js" {"test/basic.js"}
+"test/buffer.js" {"test/buffer.js"}
+"test/indexes.js" {"test/indexes.js"}
+"test/is-encoding.js" {"test/is-encoding.js"}
+]

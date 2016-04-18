@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"forEachAsync.js" {"forEachAsync.js"}
+"test.js" {"test.js"}
+"bower.json" {"bower.json"}
+]

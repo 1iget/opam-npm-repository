@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "raw-body"
+version: "2.1.4"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/stream-utils/raw-body"
+depends: [
+"bytes" {="2.1.0"}
+
+"iconv-lite" {="0.4.12"}
+
+"unpipe" {="1.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "prompt"
+version: "0.1.9"
+maintainer: "jesusabdullah <josh.holbrook@gmail.com>"
+author: "jesusabdullah <josh.holbrook@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/nodejitsu/node-prompt.git"
+depends: [
+"async" {>="0.1.0" & <"0.2.0"}
+
+"colors" {>="0.0.0" & <"1.0.0"}
+
+"pkginfo" {>="0.0.0" & <"1.0.0"}
+
+"winston" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

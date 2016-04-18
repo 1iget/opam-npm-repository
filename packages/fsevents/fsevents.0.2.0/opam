@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "fsevents"
+version: "0.2.0"
+maintainer: "pipobscure <pip@pipobscure.com>"
+author: "pipobscure <pip@pipobscure.com>"
+license: "MIT"
+dev-repo: "https://github.com/pipobscure/fsevents.git"
+depends: [
+"nan" {>="0.8.0" & <"0.9.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

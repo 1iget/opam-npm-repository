@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "expand-hash"
+version: "0.2.2"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "Not defined"
+dev-repo: "git+https://github.com/doowb/expand-hash.git"
+depends: [
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

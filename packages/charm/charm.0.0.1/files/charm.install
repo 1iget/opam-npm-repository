@@ -1,0 +1,10 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"example/lucky.js" {"example/lucky.js"}
+"example/cursor.js" {"example/cursor.js"}
+"example/http_spin.js" {"example/http_spin.js"}
+"example/spin.js" {"example/spin.js"}
+"lib/encode.js" {"lib/encode.js"}
+]

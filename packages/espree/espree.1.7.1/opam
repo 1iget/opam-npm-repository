@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "espree"
+version: "1.7.1"
+maintainer: "nzakas <nicholas@nczconsulting.com>"
+author: "nzakas <nicholas@nczconsulting.com>"
+license: "not defined"
+dev-repo: "http://github.com/eslint/espree.git"
+depends: [
+
+]
+
+
+
+

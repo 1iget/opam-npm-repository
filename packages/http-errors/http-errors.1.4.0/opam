@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "http-errors"
+version: "1.4.0"
+maintainer: "egeste <npm@egeste.net>"
+author: "egeste <npm@egeste.net>"
+license: "MIT"
+dev-repo: "git+https://github.com/jshttp/http-errors.git"
+depends: [
+"inherits" {="2.0.1"}
+
+"statuses" {>="1.2.1" & <"2.0.0"}
+
+]
+
+
+
+

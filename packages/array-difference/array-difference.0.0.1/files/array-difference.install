@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"difference.js" {"difference.js"}
+"mike.js" {"mike.js"}
+"useit.js" {"useit.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"Makefile" {"Makefile"}
+"index.html" {"index.html"}
+"test/index.js" {"test/index.js"}
+]

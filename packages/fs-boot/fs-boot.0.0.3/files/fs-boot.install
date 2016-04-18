@@ -1,0 +1,8 @@
+lib: [
+"fs-boot/" {"fs-boot/"}
+"fs-boot/CHANGES" {"fs-boot/CHANGES"}
+"fs-boot/fs-boot.js" {"fs-boot/fs-boot.js"}
+"fs-boot/LICENSE" {"fs-boot/LICENSE"}
+"fs-boot/package.json" {"fs-boot/package.json"}
+"fs-boot/README" {"fs-boot/README"}
+]

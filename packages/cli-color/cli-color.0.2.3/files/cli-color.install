@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"CHANGES" {"CHANGES"}
+"bin/generate-color-images" {"bin/generate-color-images"}
+"lib/_xterm-colors.js" {"lib/_xterm-colors.js"}
+"lib/_xterm-match.js" {"lib/_xterm-match.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/throbber.js" {"lib/throbber.js"}
+"lib/trim.js" {"lib/trim.js"}
+".lint" {".lint"}
+"test/_xterm-colors.js" {"test/_xterm-colors.js"}
+"test/_xterm-match.js" {"test/_xterm-match.js"}
+"test/index.js" {"test/index.js"}
+"test/throbber.js" {"test/throbber.js"}
+"test/trim.js" {"test/trim.js"}
+"test/__playground/throbber.formatted.js" {"test/__playground/throbber.formatted.js"}
+"test/__playground/throbber.js" {"test/__playground/throbber.js"}
+]

@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"bin/cmd.js" {"bin/cmd.js"}
+"example/insert.js" {"example/insert.js"}
+"example/files/main.js" {"example/files/main.js"}
+"example/files/foo/index.js" {"example/files/foo/index.js"}
+"readme.markdown" {"readme.markdown"}
+"test/always.js" {"test/always.js"}
+"test/insert.js" {"test/insert.js"}
+"test/global.js" {"test/global.js"}
+"test/insert/main.js" {"test/insert/main.js"}
+"test/insert/foo/index.js" {"test/insert/foo/index.js"}
+"test/global/main.js" {"test/global/main.js"}
+"test/global/filename.js" {"test/global/filename.js"}
+"test/always/main.js" {"test/always/main.js"}
+".travis.yml" {".travis.yml"}
+]

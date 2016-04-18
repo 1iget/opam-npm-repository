@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "get-value"
+version: "1.0.3"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/get-value.git"
+depends: [
+"isobject" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

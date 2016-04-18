@@ -1,0 +1,10 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"test/resolver.js" {"test/resolver.js"}
+"test/resolver/foo.js" {"test/resolver/foo.js"}
+"test/resolver/baz/quux.js" {"test/resolver/baz/quux.js"}
+"test/resolver/baz/package.json" {"test/resolver/baz/package.json"}
+"test/resolver/bar/node_modules/foo/index.js" {"test/resolver/bar/node_modules/foo/index.js"}
+]

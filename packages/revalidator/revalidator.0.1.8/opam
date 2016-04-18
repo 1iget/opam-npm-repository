@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "revalidator"
+version: "0.1.8"
+maintainer: "indexzero <charlie.robbins@gmail.com>"
+author: "indexzero <charlie.robbins@gmail.com>"
+license: "Apache 2.0"
+dev-repo: "http://github.com/flatiron/revalidator.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "foreach"
+version: "1.3.3"
+maintainer: "manuelstofer <manuel@takimata.ch>"
+author: "manuelstofer <manuel@takimata.ch>"
+license: "MIT"
+
+depends: [
+
+]
+
+
+
+

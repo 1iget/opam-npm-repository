@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "express-session"
+version: "1.9.2"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/session"
+depends: [
+"cookie" {="0.1.2"}
+
+"cookie-signature" {="1.0.5"}
+
+"crc" {="3.2.1"}
+
+"debug" {>="2.1.0" & <"2.2.0"}
+
+"depd" {>="1.0.0" & <"1.1.0"}
+
+"on-headers" {>="1.0.0" & <"1.1.0"}
+
+"parseurl" {>="1.3.0" & <"1.4.0"}
+
+"uid-safe" {="1.0.1"}
+
+"utils-merge" {="1.0.0"}
+
+]
+
+
+
+

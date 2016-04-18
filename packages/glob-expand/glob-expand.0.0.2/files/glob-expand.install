@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"history.md" {"history.md"}
+"build/code/expand.js" {"build/code/expand.js"}
+"readme.md" {"readme.md"}
+"Gruntfile.coffee" {"Gruntfile.coffee"}
+]

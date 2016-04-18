@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "keep-alive-agent"
+version: "0.0.1"
+maintainer: "ceejbot <ceejceej@gmail.com>"
+author: "ceejbot <ceejceej@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/ceejbot/keep-alive-agent.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-empty"
+version: "0.0.1"
+maintainer: "ianstormtaylor <ian@ianstormtaylor.com>"
+author: "ianstormtaylor <ian@ianstormtaylor.com>"
+license: "not defined"
+dev-repo: "https://github.com/ianstormtaylor/is-empty.git"
+depends: [
+
+]
+
+
+
+

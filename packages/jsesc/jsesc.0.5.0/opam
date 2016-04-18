@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "jsesc"
+version: "0.5.0"
+maintainer: "mathias <mathias@qiwi.be>"
+author: "mathias <mathias@qiwi.be>"
+license: "not defined"
+dev-repo: "https://github.com/mathiasbynens/jsesc.git"
+depends: [
+
+]
+
+
+
+

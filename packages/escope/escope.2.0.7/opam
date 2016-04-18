@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "escope"
+version: "2.0.7"
+maintainer: "constellation <utatane.tea@gmail.com>"
+author: "constellation <utatane.tea@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/estools/escope.git"
+depends: [
+"es6-map" {>="0.1.1" & <"0.2.0"}
+
+"es6-weak-map" {>="0.1.2" & <"0.2.0"}
+
+"esrecurse" {>="1.2.0" & <"2.0.0"}
+
+"estraverse" {>="1.9.1" & <"2.0.0"}
+
+"util-extend" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/randomize.js" {"benchmark/randomize.js"}
+"benchmark/code/filter.js" {"benchmark/code/filter.js"}
+"benchmark/code/for-in.js" {"benchmark/code/for-in.js"}
+"benchmark/code/linear-search-01.js" {"benchmark/code/linear-search-01.js"}
+"benchmark/code/set.js" {"benchmark/code/set.js"}
+"benchmark/code/while-hash.js" {"benchmark/code/while-hash.js"}
+"benchmark/code/while.js" {"benchmark/code/while.js"}
+"benchmark/fixtures/long.js" {"benchmark/fixtures/long.js"}
+"benchmark/fixtures/med.js" {"benchmark/fixtures/med.js"}
+"benchmark/fixtures/short.js" {"benchmark/fixtures/short.js"}
+".verb.md" {".verb.md"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "babylon"
+version: "6.3.21"
+maintainer: "amasad <amjad.masad@gmail.com>"
+author: "amasad <amjad.masad@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/babel/babel/tree/master/packages/babylon"
+depends: [
+"babel-runtime" {>="5.0.0" & <"6.0.0"}
+
+]
+
+
+
+

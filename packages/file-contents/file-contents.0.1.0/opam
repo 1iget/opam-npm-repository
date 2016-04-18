@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "file-contents"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/file-contents.git"
+depends: [
+"extend-shallow" {>="2.0.0" & <"3.0.0"}
+
+"file-stat" {>="0.1.0" & <"0.2.0"}
+
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+"through2" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

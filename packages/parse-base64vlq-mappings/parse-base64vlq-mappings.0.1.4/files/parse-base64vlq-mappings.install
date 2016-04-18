@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"base64.js" {"base64.js"}
+"base64-vlq.js" {"base64-vlq.js"}
+"example/one-to-one-mappings.js" {"example/one-to-one-mappings.js"}
+".travis.yml" {".travis.yml"}
+"MOZILLA_LICENSE" {"MOZILLA_LICENSE"}
+"test/parse-base64vlq-mappings.js" {"test/parse-base64vlq-mappings.js"}
+]

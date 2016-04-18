@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"delay.js" {"delay.js"}
+"max-value.js" {"max-value.js"}
+"valid-timeout.js" {"valid-timeout.js"}
+".lint" {".lint"}
+".travis.yml" {".travis.yml"}
+"test/delay.js" {"test/delay.js"}
+"test/max-value.js" {"test/max-value.js"}
+"test/valid-timeout.js" {"test/valid-timeout.js"}
+]

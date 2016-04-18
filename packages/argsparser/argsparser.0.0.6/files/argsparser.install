@@ -1,0 +1,9 @@
+lib: [
+".gitignore" {".gitignore"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"lib/argsparser.js" {"lib/argsparser.js"}
+"test/test.js" {"test/test.js"}
+]

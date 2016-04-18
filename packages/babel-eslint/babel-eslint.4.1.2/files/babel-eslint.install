@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"eslint-tester.js" {"eslint-tester.js"}
+"index.js" {"index.js"}
+".gitmodules" {".gitmodules"}
+".travis.yml" {".travis.yml"}
+".eslintrc" {".eslintrc"}
+"Makefile" {"Makefile"}
+"test/babel-eslint.js" {"test/babel-eslint.js"}
+"test/non-regression.js" {"test/non-regression.js"}
+]

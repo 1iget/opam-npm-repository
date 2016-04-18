@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "find-cache-dir"
+version: "0.1.1"
+maintainer: "jamestalmage <james@talmage.io>"
+author: "jamestalmage <james@talmage.io>"
+license: "MIT"
+dev-repo: "git+https://github.com/jamestalmage/find-cache-dir.git"
+depends: [
+"commondir" {>="1.0.1" & <"2.0.0"}
+
+"mkdirp" {>="0.5.1" & <"0.6.0"}
+
+"pkg-dir" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

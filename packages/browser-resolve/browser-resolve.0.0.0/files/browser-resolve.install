@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"builtin/assert.js" {"builtin/assert.js"}
+"builtin/net.js" {"builtin/net.js"}
+"builtin/path.js" {"builtin/path.js"}
+"builtin/process.js" {"builtin/process.js"}
+"builtin/https.js" {"builtin/https.js"}
+"builtin/stream.js" {"builtin/stream.js"}
+"builtin/string_decoder.js" {"builtin/string_decoder.js"}
+"builtin/sys.js" {"builtin/sys.js"}
+"builtin/timers.js" {"builtin/timers.js"}
+"builtin/tls.js" {"builtin/tls.js"}
+"builtin/fs.js" {"builtin/fs.js"}
+"builtin/tty.js" {"builtin/tty.js"}
+"builtin/events.js" {"builtin/events.js"}
+"builtin/url.js" {"builtin/url.js"}
+"builtin/child_process.js" {"builtin/child_process.js"}
+"builtin/util.js" {"builtin/util.js"}
+"builtin/querystring.js" {"builtin/querystring.js"}
+]

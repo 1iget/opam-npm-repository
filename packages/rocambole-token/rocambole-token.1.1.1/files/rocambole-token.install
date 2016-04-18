@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"find.js" {"find.js"}
+"index.js" {"index.js"}
+"insert.js" {"insert.js"}
+"is.js" {"is.js"}
+"makeCheck.js" {"makeCheck.js"}
+"remove.js" {"remove.js"}
+"test/find-spec.js" {"test/find-spec.js"}
+]

@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"lib/dateformat.js" {"lib/dateformat.js"}
+"test/test_weekofyear.js" {"test/test_weekofyear.js"}
+"test/test_weekofyear.sh" {"test/test_weekofyear.sh"}
+]

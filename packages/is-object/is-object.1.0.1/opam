@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-object"
+version: "1.0.1"
+maintainer: "raynos <raynos2@gmail.com>"
+author: "raynos <raynos2@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/ljharb/is-object.git"
+depends: [
+
+]
+
+
+
+

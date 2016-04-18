@@ -1,0 +1,1 @@
+resolve like require.resolve() on behalf of files asynchronously and synchronously

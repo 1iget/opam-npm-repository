@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/foo-bar.js" {"example/foo-bar.js"}
+"test/generated-mappings.js" {"test/generated-mappings.js"}
+"test/inline-source-map.js" {"test/inline-source-map.js"}
+]

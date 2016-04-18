@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "middleware-utils"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/middleware-utils.git"
+depends: [
+"async" {>="0.9.0" & <"0.10.0"}
+
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

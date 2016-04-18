@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+".settings/settings.json" {".settings/settings.json"}
+".travis.yml" {".travis.yml"}
+".jscsrc" {".jscsrc"}
+"lib/url.js" {"lib/url.js"}
+".jshintignore" {".jshintignore"}
+"whatwg-url.njsproj" {"whatwg-url.njsproj"}
+]

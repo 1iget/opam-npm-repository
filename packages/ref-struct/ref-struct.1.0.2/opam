@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "ref-struct"
+version: "1.0.2"
+maintainer: "tootallnate <nathan@tootallnate.net>"
+author: "tootallnate <nathan@tootallnate.net>"
+license: "MIT"
+dev-repo: "git://github.com/TooTallNate/ref-struct.git"
+depends: [
+"debug" {>="2.0.0" & <"3.0.0"}
+
+"ref" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

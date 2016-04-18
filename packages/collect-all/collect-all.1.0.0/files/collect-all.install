@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"example/object-mode.js" {"example/object-mode.js"}
+"example/simple.js" {"example/simple.js"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/collect-all.js" {"lib/collect-all.js"}
+"test/test.js" {"test/test.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "saucelabs"
+version: "0.1.0"
+maintainer: "danjenkins <dan.jenkins@holidayextras.com>"
+author: "danjenkins <dan.jenkins@holidayextras.com>"
+license: "not defined"
+dev-repo: "git://github.com/holidayextras/node-saucelabs.git"
+depends: [
+
+]
+
+
+
+

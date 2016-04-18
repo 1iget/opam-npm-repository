@@ -1,0 +1,22 @@
+lib: [
+"./._package" {"./._package"}
+"" {""}
+"._.DS_Store" {"._.DS_Store"}
+".DS_Store" {".DS_Store"}
+"._.gitignore" {"._.gitignore"}
+".gitignore" {".gitignore"}
+"._index.js" {"._index.js"}
+"index.js" {"index.js"}
+"._lib" {"._lib"}
+"lib/" {"lib/"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._readme.md" {"._readme.md"}
+"readme.md" {"readme.md"}
+"._test" {"._test"}
+"test/" {"test/"}
+"test/._test.js" {"test/._test.js"}
+"test/test.js" {"test/test.js"}
+"lib/._argsparser.js" {"lib/._argsparser.js"}
+"lib/argsparser.js" {"lib/argsparser.js"}
+]

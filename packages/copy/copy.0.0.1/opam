@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "copy"
+version: "0.0.1"
+maintainer: "mjor <mjor.himself@gmail.com>"
+author: "mjor <mjor.himself@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

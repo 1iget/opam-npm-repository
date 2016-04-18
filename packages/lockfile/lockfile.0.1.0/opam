@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "lockfile"
+version: "0.1.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/TrevorBurnham/lockfile.git"
+depends: [
+
+]
+
+
+
+

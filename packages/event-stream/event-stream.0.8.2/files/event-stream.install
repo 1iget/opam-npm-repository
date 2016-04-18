@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"test/" {"test/"}
+"test/split.asynct.js" {"test/split.asynct.js"}
+"test/replace.asynct.js" {"test/replace.asynct.js"}
+"test/connect.asynct.js" {"test/connect.asynct.js"}
+"test/readArray.asynct.js" {"test/readArray.asynct.js"}
+"test/simple-map.asynct.js" {"test/simple-map.asynct.js"}
+"test/writeArray.asynct.js" {"test/writeArray.asynct.js"}
+"test/gate.asynct.js" {"test/gate.asynct.js"}
+"test/readable.asynct.js" {"test/readable.asynct.js"}
+".npmignore" {".npmignore"}
+"readme.markdown" {"readme.markdown"}
+"examples/" {"examples/"}
+"examples/pretty.js" {"examples/pretty.js"}
+".travis.yml" {".travis.yml"}
+"index.js" {"index.js"}
+"LICENCE" {"LICENCE"}
+]

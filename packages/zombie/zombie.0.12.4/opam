@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "zombie"
+version: "0.12.4"
+maintainer: "assaf <assaf@labnotes.org>"
+author: "assaf <assaf@labnotes.org>"
+license: "not defined"
+dev-repo: "git://github.com/assaf/zombie.git"
+depends: [
+"coffee-script" {>="1.1.3" & <"1.2.0"}
+
+"contextify" {>="0.0.7" & <"0.1.0"}
+
+"html5" {>="0.3.5" & <"0.4.0"}
+
+"jsdom" {>="0.2.10" & <"0.3.0"}
+
+"mime" {>="1.2.4" & <"1.3.0"}
+
+"websocket-client" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

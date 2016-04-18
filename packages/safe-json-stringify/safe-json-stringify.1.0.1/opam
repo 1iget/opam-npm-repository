@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "safe-json-stringify"
+version: "1.0.1"
+maintainer: "gausby <martin@gausby.dk>"
+author: "gausby <martin@gausby.dk>"
+license: "MIT"
+dev-repo: "git@github.com:e-conomic/safe-json-stringify.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "mout"
+version: "0.11.1"
+maintainer: "millermedeiros <miller@millermedeiros.com>"
+author: "millermedeiros <miller@millermedeiros.com>"
+license: "MIT"
+dev-repo: "git://github.com/mout/mout.git"
+depends: [
+
+]
+
+
+
+

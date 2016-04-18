@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "js-comments"
+version: "0.4.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "https://github.com/jonschlinkert/js-comments"
+depends: [
+"js-comments-template" {>="0.5.0" & <"0.6.0"}
+
+"lodash" {>="3.6.0" & <"4.0.0"}
+
+"parse-comments" {>="0.4.0" & <"0.5.0"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"jsesc.js" {"jsesc.js"}
+"LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
+"bin/jsesc" {"bin/jsesc"}
+"man/jsesc.1" {"man/jsesc.1"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "method-names"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/method-names.git"
+depends: [
+
+]
+
+
+
+

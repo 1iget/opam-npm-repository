@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"require.js" {"require.js"}
+"node.js" {"node.js"}
+"browser.js" {"browser.js"}
+"bootstrap.js" {"bootstrap.js"}
+"bootstrap-node.js" {"bootstrap-node.js"}
+".jshintrc" {".jshintrc"}
+"bin/mr" {"bin/mr"}
+"LICENSE.md" {"LICENSE.md"}
+"CHANGES.md" {"CHANGES.md"}
+".travis.yml" {".travis.yml"}
+"packages/q/package.json" {"packages/q/package.json"}
+"packages/q/.npmignore" {"packages/q/.npmignore"}
+"packages/q/LICENSE" {"packages/q/LICENSE"}
+"packages/q/q.js" {"packages/q/q.js"}
+"packages/q/queue.js" {"packages/q/queue.js"}
+".jshintignore" {".jshintignore"}
+]

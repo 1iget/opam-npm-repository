@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "asynclist"
+version: "0.0.2"
+maintainer: "iwillwen <willwengunn@gmail.com>"
+author: "iwillwen <willwengunn@gmail.com>"
+license: "not defined"
+dev-repo: ""
+depends: [
+"eventproxy" {="latest"}
+
+]
+
+
+
+

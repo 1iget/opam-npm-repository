@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"read-installed.js" {"read-installed.js"}
+"test/basic.js" {"test/basic.js"}
+"test/depth-0.js" {"test/depth-0.js"}
+"test/depth-1.js" {"test/depth-1.js"}
+"test/dev.js" {"test/dev.js"}
+"test/extraneous.js" {"test/extraneous.js"}
+"test/noargs.js" {"test/noargs.js"}
+"test/peer-dep-at-latest.js" {"test/peer-dep-at-latest.js"}
+"test/fixtures/package.json" {"test/fixtures/package.json"}
+"test/fixtures/extraneous-detected/package.json" {"test/fixtures/extraneous-detected/package.json"}
+]

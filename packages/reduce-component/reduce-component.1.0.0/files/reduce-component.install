@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+"component.json" {"component.json"}
+"test/reduce.js" {"test/reduce.js"}
+"test/index.html" {"test/index.html"}
+]

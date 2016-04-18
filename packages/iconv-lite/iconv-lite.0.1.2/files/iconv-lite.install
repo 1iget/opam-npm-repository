@@ -1,0 +1,21 @@
+lib: [
+".gitignore" {".gitignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"README.md" {"README.md"}
+".gitignore~" {".gitignore~"}
+"test/cyrillic-test.js~" {"test/cyrillic-test.js~"}
+"test/main-test.js~" {"test/main-test.js~"}
+"test/gbkFile.txt" {"test/gbkFile.txt"}
+"test/main-test.js" {"test/main-test.js"}
+"test/cyrillic-test.js" {"test/cyrillic-test.js"}
+"test/greek-test.js" {"test/greek-test.js"}
+"test/gbk-test.js" {"test/gbk-test.js"}
+"encodings/western.js" {"encodings/western.js"}
+"encodings/gbk.js" {"encodings/gbk.js"}
+"encodings/cyrillic.js" {"encodings/cyrillic.js"}
+"encodings/greek.js" {"encodings/greek.js"}
+"encodings/cyrillic.js~" {"encodings/cyrillic.js~"}
+"encodings/table/gbk.js" {"encodings/table/gbk.js"}
+]

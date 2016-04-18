@@ -1,0 +1,11 @@
+lib: [
+".gitignore" {".gitignore"}
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"src/lib/base.js" {"src/lib/base.js"}
+"example/base.js" {"example/base.js"}
+"example/config/general.json" {"example/config/general.json"}
+"example/controllers/index.js" {"example/controllers/index.js"}
+"example/views/layout.jqtpl" {"example/views/layout.jqtpl"}
+"example/views/index/index.jqtpl" {"example/views/index/index.jqtpl"}
+]

@@ -1,0 +1,1 @@
+Convert an absolute path to a tilde path: /Users/sindresorhus/dev => ~/dev

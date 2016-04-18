@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "git-branch"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/git-branch.git"
+depends: [
+"shelljs" {>="0.2.6" & <"0.3.0"}
+
+]
+
+
+
+

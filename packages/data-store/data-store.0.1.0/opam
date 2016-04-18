@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "data-store"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/data-store.git"
+depends: [
+"cheerio" {>="0.15.0" & <"0.16.0"}
+
+"fs-utils" {>="0.4.1" & <"0.5.0"}
+
+"gray-matter" {>="0.3.5" & <"0.4.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

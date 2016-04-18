@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "node-ffi"
+version: "0.5.6"
+maintainer: "rbranson <rick@diodeware.com>"
+author: "rbranson <rick@diodeware.com>"
+license: "not defined"
+dev-repo: "http://github.com/rbranson/node-ffi.git"
+depends: [
+"bindings" {>="0.0.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

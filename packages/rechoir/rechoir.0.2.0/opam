@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "rechoir"
+version: "0.2.0"
+maintainer: "tkellen <tyler@sleekcode.net>"
+author: "tkellen <tyler@sleekcode.net>"
+license: "not defined"
+dev-repo: "git://github.com/tkellen/node-rechoir.git"
+depends: [
+"resolve" {>="0.6.1" & <"0.7.0"}
+
+"interpret" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

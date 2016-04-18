@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "typewise"
+version: "0.5.0"
+maintainer: "deanlandolt <dean@deanlandolt.com>"
+author: "deanlandolt <dean@deanlandolt.com>"
+license: "MIT"
+dev-repo: "https://github.com/deanlandolt/typewise.git"
+depends: [
+"es6-shim" {>="0.8.0" & <"0.9.0"}
+
+"ses" {>="0.0.0"}
+
+"esprima" {>="1.0.0" & <"2.0.0"}
+
+"escodegen" {>="0.0.0"}
+
+"buffertools" {>="0.0.0"}
+
+]
+
+
+
+

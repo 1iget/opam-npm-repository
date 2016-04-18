@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/fixtures/lodash.js" {"test/fixtures/lodash.js"}
+"bin/methods" {"bin/methods"}
+"bower.json" {"bower.json"}
+".jshintrc" {".jshintrc"}
+"examples/lodash-docs.md" {"examples/lodash-docs.md"}
+"examples/lodash.json" {"examples/lodash.json"}
+"examples/lodash.md" {"examples/lodash.md"}
+"examples/lodash.yml" {"examples/lodash.yml"}
+".verbrc.md" {".verbrc.md"}
+"lib/template.js" {"lib/template.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"docs/README.md" {"docs/README.md"}
+"docs/cli.md" {"docs/cli.md"}
+"docs/commands.md" {"docs/commands.md"}
+]

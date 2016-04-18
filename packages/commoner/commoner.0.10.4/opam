@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "commoner"
+version: "0.10.4"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "MIT"
+dev-repo: "git://github.com/reactjs/commoner.git"
+depends: [
+"commander" {>="2.5.0" & <"3.0.0"}
+
+"detective" {>="4.3.1" & <"5.0.0"}
+
+"glob" {>="5.0.15" & <"6.0.0"}
+
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+"iconv-lite" {>="0.4.5" & <"0.5.0"}
+
+"mkdirp" {>="0.5.0" & <"0.6.0"}
+
+"private" {>="0.1.6" & <"0.2.0"}
+
+"q" {>="1.1.2" & <"2.0.0"}
+
+"recast" {>="0.10.0" & <"0.11.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Polyfill of spawnSync and execSync for Node-0.10.x (Unix only yet)

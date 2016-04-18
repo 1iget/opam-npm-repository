@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "argparse"
+version: "0.1.9"
+maintainer: "vitaly <vitaly@rcdesign.ru>"
+author: "vitaly <vitaly@rcdesign.ru>"
+license: "Not defined"
+dev-repo: "git://github.com/nodeca/argparse.git"
+depends: [
+"underscore" {>="1.3.3" & <"1.4.0"}
+
+"underscore.string" {>="2.1.1" & <"2.2.0"}
+
+]
+
+
+
+

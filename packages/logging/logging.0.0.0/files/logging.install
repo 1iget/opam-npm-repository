@@ -1,0 +1,6 @@
+lib: [
+"main.js" {"main.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+]

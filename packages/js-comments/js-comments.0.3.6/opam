@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "js-comments"
+version: "0.3.6"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "https://github.com/jonschlinkert/js-comments"
+depends: [
+"frep" {>="0.2.3" & <"0.3.0"}
+
+"globby" {>="1.1.0" & <"2.0.0"}
+
+"js-comments-template" {>="0.4.2" & <"0.5.0"}
+
+"lodash" {>="3.3.0" & <"4.0.0"}
+
+"lodash-helpers" {>="0.1.0" & <"0.2.0"}
+
+"parse-comments" {>="0.3.3" & <"0.4.0"}
+
+"relative" {>="1.2.0" & <"2.0.0"}
+
+"repeat-string" {>="1.5.0" & <"2.0.0"}
+
+]
+
+
+
+

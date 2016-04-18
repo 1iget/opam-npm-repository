@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "errorhandler"
+version: "1.1.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/expressjs/errorhandler"
+depends: [
+"accepts" {="1.0.3"}
+
+"escape-html" {="1.0.1"}
+
+]
+
+
+
+

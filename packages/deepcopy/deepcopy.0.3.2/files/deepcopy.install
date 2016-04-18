@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"HISTORY.md" {"HISTORY.md"}
+"testem.json" {"testem.json"}
+"lib/deepcopy.js" {"lib/deepcopy.js"}
+"bower.json" {"bower.json"}
+"test/test-deepcopy.js" {"test/test-deepcopy.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/test-deepcopy.html" {"test/test-deepcopy.html"}
+"bower_components/expect/package.json" {"bower_components/expect/package.json"}
+"bower_components/expect/.npmignore" {"bower_components/expect/.npmignore"}
+"bower_components/expect/README.md" {"bower_components/expect/README.md"}
+"bower_components/expect/expect.js" {"bower_components/expect/expect.js"}
+"bower_components/expect/.bower.json" {"bower_components/expect/.bower.json"}
+"bower_components/expect/History.md" {"bower_components/expect/History.md"}
+"bower_components/mocha/LICENSE" {"bower_components/mocha/LICENSE"}
+"bower_components/mocha/mocha.js" {"bower_components/mocha/mocha.js"}
+"bower_components/mocha/.bower.json" {"bower_components/mocha/.bower.json"}
+"bower_components/mocha/History.md" {"bower_components/mocha/History.md"}
+"bower_components/mocha/Readme.md" {"bower_components/mocha/Readme.md"}
+"bower_components/mocha/bower.json" {"bower_components/mocha/bower.json"}
+"bower_components/mocha/mocha.css" {"bower_components/mocha/mocha.css"}
+]

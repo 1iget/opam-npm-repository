@@ -1,0 +1,6 @@
+lib: [
+"node-type-emitter.js" {"node-type-emitter.js"}
+"package.json" {"package.json"}
+"walk-async-only.js" {"walk-async-only.js"}
+"walk.js" {"walk.js"}
+]

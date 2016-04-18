@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "fstream"
+version: "0.1.29"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "BSD"
+dev-repo: "git://github.com/isaacs/fstream.git"
+depends: [
+"graceful-fs" {>="3.0.2" & <"3.1.0"}
+
+"inherits" {>="2.0.0" & <"2.1.0"}
+
+"mkdirp" {>="0.3.0" & <"0.4.0"}
+
+"rimraf" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

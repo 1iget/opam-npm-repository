@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "translate"
+version: "0.6.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/Marak/translate.js.git"
+depends: [
+"request" {>="0.10.0"}
+
+"colors" {>="0.3.0"}
+
+]
+
+
+
+

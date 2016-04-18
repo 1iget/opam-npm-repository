@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/loaders/base.js" {"lib/loaders/base.js"}
+"lib/loaders/file.js" {"lib/loaders/file.js"}
+"lib/loaders/index.js" {"lib/loaders/index.js"}
+"lib/loaders/templates.js" {"lib/loaders/templates.js"}
+"lib/utils/ignore-defaults.js" {"lib/utils/ignore-defaults.js"}
+"lib/utils/ignore.js" {"lib/utils/ignore.js"}
+"lib/utils/index.js" {"lib/utils/index.js"}
+"lib/utils/makeTag.js" {"lib/utils/makeTag.js"}
+"lib/utils/vinylProps.js" {"lib/utils/vinylProps.js"}
+]

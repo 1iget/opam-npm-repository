@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "insert-module-globals"
+version: "6.4.1"
+maintainer: "substack <substack@gmail.com>"
+author: "substack <substack@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/insert-module-globals.git"
+depends: [
+"combine-source-map" {>="0.3.0" & <"0.4.0"}
+
+"concat-stream" {>="1.4.1" & <"1.5.0"}
+
+"jsonstream" {>="1.0.3" & <"2.0.0"}
+
+"lexical-scope" {>="1.1.0" & <"1.2.0"}
+
+"process" {>="0.11.0" & <"0.12.0"}
+
+"through" {>="2.3.4" & <"2.4.0"}
+
+"xtend" {>="4.0.0" & <"5.0.0"}
+
+]
+
+
+
+

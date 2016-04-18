@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"fsevents.js" {"fsevents.js"}
+"binding.gyp" {"binding.gyp"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/fsevents.js" {"test/fsevents.js"}
+"test/function.js" {"test/function.js"}
+"src/async.cc" {"src/async.cc"}
+"src/constants.cc" {"src/constants.cc"}
+"src/locking.cc" {"src/locking.cc"}
+"src/methods.cc" {"src/methods.cc"}
+"src/storage.cc" {"src/storage.cc"}
+"src/thread.cc" {"src/thread.cc"}
+"Readme.md" {"Readme.md"}
+"fsevents.cc" {"fsevents.cc"}
+]

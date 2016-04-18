@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "multiparty"
+version: "3.2.7"
+maintainer: "superjoe <superjoe30@gmail.com>"
+author: "superjoe <superjoe30@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:andrewrk/node-multiparty.git"
+depends: [
+"readable-stream" {>="1.1.9" & <"1.2.0"}
+
+"stream-counter" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

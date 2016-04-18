@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "dateformat"
+version: "1.0.4-1.2.3"
+maintainer: "felixge <felix@debuggable.com>"
+author: "felixge <felix@debuggable.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

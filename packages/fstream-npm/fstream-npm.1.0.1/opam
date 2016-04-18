@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "fstream-npm"
+version: "1.0.1"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/fstream-npm.git"
+depends: [
+"fstream-ignore" {>="1.0.0" & <"2.0.0"}
+
+"inherits" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "futures"
+version: "2.0.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/coolaj86/futures.git"
+depends: [
+"require-kiss" {>="1.0.5"}
+
+]
+
+
+
+

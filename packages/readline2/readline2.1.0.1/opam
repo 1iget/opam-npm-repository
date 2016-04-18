@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "readline2"
+version: "1.0.1"
+maintainer: "sboudrias <admin@simonboudrias.com>"
+author: "sboudrias <admin@simonboudrias.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/sboudrias/readline2.git"
+depends: [
+"code-point-at" {>="1.0.0" & <"2.0.0"}
+
+"is-fullwidth-code-point" {>="1.0.0" & <"2.0.0"}
+
+"mute-stream" {="0.0.5"}
+
+]
+
+
+
+

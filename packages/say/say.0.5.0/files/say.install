@@ -1,0 +1,9 @@
+lib: [
+"logo.png" {"logo.png"}
+"MIT-LICENSE.txt" {"MIT-LICENSE.txt"}
+"package.json" {"package.json"}
+"ReadMe.md" {"ReadMe.md"}
+"examples/demo-translate.js" {"examples/demo-translate.js"}
+"examples/demo.js" {"examples/demo.js"}
+"lib/say.js" {"lib/say.js"}
+]

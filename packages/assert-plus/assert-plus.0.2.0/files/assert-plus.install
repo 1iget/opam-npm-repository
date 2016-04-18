@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"assert.js" {"assert.js"}
+"CHANGES.md" {"CHANGES.md"}
+"AUTHORS" {"AUTHORS"}
+]

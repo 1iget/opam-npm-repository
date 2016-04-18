@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "path-parse"
+version: "1.0.2"
+maintainer: "jbgutierrez <jbgutierrez@gmail.com>"
+author: "jbgutierrez <jbgutierrez@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jbgutierrez/path-parse.git"
+depends: [
+
+]
+
+
+
+

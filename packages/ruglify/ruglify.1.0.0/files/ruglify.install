@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/index.js" {"test/index.js"}
+"test/fixture/jquery.js" {"test/fixture/jquery.js"}
+"test/fixture/jquery.min.js" {"test/fixture/jquery.min.js"}
+]

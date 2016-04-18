@@ -1,0 +1,1 @@
+Returns `true` if the given string or array starts with prefix using strict equality for comparisons. Using fastest implementation.

@@ -1,0 +1,1 @@
+Deeply assign the enumerable properties and/or es6 Symbol properies of source objects to the target (first) object.

@@ -1,0 +1,1 @@
+Returns a stream which becomes readable with a single value once all (valid) JSON is received.

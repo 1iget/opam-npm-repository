@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "to-arg"
+version: "1.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/to-arg.git"
+depends: [
+"dashify" {>="0.1.0" & <"0.2.0"}
+
+"is-primitive" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

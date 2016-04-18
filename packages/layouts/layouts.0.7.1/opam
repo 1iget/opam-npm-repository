@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "layouts"
+version: "0.7.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/doowb/layouts.git"
+depends: [
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"delimiter-regex" {>="1.3.0" & <"2.0.0"}
+
+"get-value" {>="1.0.2" & <"2.0.0"}
+
+"kind-of" {>="1.1.0" & <"2.0.0"}
+
+"layout-stack" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

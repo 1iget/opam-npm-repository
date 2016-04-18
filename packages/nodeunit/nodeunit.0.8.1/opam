@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "nodeunit"
+version: "0.8.1"
+maintainer: "caolan <caolan@caolanmcmahon.com>"
+author: "caolan <caolan@caolanmcmahon.com>"
+license: "not defined"
+dev-repo: "http://github.com/caolan/nodeunit.git"
+depends: [
+"tap" {>="0.2.3"}
+
+]
+
+
+
+

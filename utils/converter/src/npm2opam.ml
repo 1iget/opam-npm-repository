@@ -240,6 +240,7 @@ let get_install xs =
   | None    -> ""
   | Some xs -> Printf.sprintf "install: [\"sh\" \"-c\" \"%s\"]" xs
 
+
 let get_preinstall xs =
   let pre = get_script "preinstall" xs in
   match pre with
@@ -309,9 +310,9 @@ let generate_opam (doc : doc) =
             license;
             dev_repo;
             deps;
-            get_install v.scripts;
-            get_preinstall (add_script_binary v.bin v.scripts);
-            get_uninstalls v.scripts;
+            get_install (add_script_binary v.bin v.scripts);
+            get_preinstall v.scripts;
+            get_uninstalls (add_script_binary v.bin v.scripts);
           ]
       in 
       (v_str, v, v.tarball, all)

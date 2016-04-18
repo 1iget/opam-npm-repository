@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/fixtures/foo.md" {"test/fixtures/foo.md"}
+"test/fixtures/test.json" {"test/fixtures/test.json"}
+"test/fixtures/test.txt" {"test/fixtures/test.txt"}
+"test/fixtures/test.yaml" {"test/fixtures/test.yaml"}
+]

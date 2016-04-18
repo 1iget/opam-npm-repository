@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"benchmark/benchmark.js" {"benchmark/benchmark.js"}
+"benchmark/pg5186.txt" {"benchmark/pg5186.txt"}
+"benchmark/pg7000.txt" {"benchmark/pg7000.txt"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"data/CompositionExclusions.txt" {"data/CompositionExclusions.txt"}
+"data/NormalizationTest.txt" {"data/NormalizationTest.txt"}
+"data/UnicodeData.txt" {"data/UnicodeData.txt"}
+"examples/basic-usage/basic-usage-in-node.js" {"examples/basic-usage/basic-usage-in-node.js"}
+"lib/unorm.js" {"lib/unorm.js"}
+"LICENSE.md" {"LICENSE.md"}
+"test/es6-shim.js" {"test/es6-shim.js"}
+"test/normalization.js" {"test/normalization.js"}
+"test/simple.js" {"test/simple.js"}
+]

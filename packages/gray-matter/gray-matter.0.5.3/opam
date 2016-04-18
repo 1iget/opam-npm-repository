@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "gray-matter"
+version: "0.5.3"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/assemble/gray-matter.git"
+depends: [
+"coffee-script" {>="1.8.0" & <"2.0.0"}
+
+"delims" {>="0.4.0" & <"0.5.0"}
+
+"js-yaml" {>="3.2.2" & <"4.0.0"}
+
+"lodash" {>="2.4.1" & <"3.0.0"}
+
+"mixin-deep" {>="0.1.0" & <"0.2.0"}
+
+"toml" {>="2.0.6" & <"3.0.0"}
+
+"verbalize" {>="0.1.2" & <"0.2.0"}
+
+]
+
+
+
+

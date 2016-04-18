@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"foreach.js" {"foreach.js"}
+"index.js" {"index.js"}
+"isArguments.js" {"isArguments.js"}
+"shim.js" {"shim.js"}
+".travis.yml" {".travis.yml"}
+"test/foreach.js" {"test/foreach.js"}
+"test/index.js" {"test/index.js"}
+"test/isArguments.js" {"test/isArguments.js"}
+"test/shim.js" {"test/shim.js"}
+]

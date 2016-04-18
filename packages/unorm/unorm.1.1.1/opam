@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "unorm"
+version: "1.1.1"
+maintainer: "walling <bwp@bwp.dk>"
+author: "walling <bwp@bwp.dk>"
+license: "not defined"
+dev-repo: "http://github.com/walling/unorm.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "grunt-init"
+version: "0.2.0-rc2"
+maintainer: "cowboy <cowboy@rj3.net>"
+author: "cowboy <cowboy@rj3.net>"
+license: "not defined"
+dev-repo: "git://github.com/gruntjs/grunt-init.git"
+depends: [
+"prompt" {>="0.1.12" & <"0.2.0"}
+
+"semver" {>="1.0.14" & <"1.1.0"}
+
+"hooker" {>="0.2.3" & <"0.3.0"}
+
+"colors" {>="0.6.0-1" & <"0.7.0"}
+
+"grunt" {>="0.4.0-rc2" & <"0.5.0"}
+
+]
+
+
+
+

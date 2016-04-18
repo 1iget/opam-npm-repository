@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "matchdep"
+version: "1.0.1"
+maintainer: "phated <blaine@iceddev.com>"
+author: "phated <blaine@iceddev.com>"
+license: "MIT"
+dev-repo: "git://github.com/tkellen/node-matchdep.git"
+depends: [
+"findup-sync" {>="0.3.0" & <"0.4.0"}
+
+"micromatch" {>="2.3.7" & <"3.0.0"}
+
+"resolve" {>="1.1.6" & <"1.2.0"}
+
+"stack-trace" {="0.0.9"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"block-stream.js" {"block-stream.js"}
+"README.md" {"README.md"}
+"test/basic.js" {"test/basic.js"}
+"test/nopad.js" {"test/nopad.js"}
+"test/thorough.js" {"test/thorough.js"}
+]

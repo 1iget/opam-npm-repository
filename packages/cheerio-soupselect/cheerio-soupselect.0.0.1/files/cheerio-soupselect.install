@@ -1,0 +1,15 @@
+lib: [
+".gitmodules" {".gitmodules"}
+"AUTHORS" {"AUTHORS"}
+"benchmark.js" {"benchmark.js"}
+"BENCHMARK.md" {"BENCHMARK.md"}
+"example.js" {"example.js"}
+"nodelint.js" {"nodelint.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+"lib/soupselect.js" {"lib/soupselect.js"}
+"testdata/benchmark.html" {"testdata/benchmark.html"}
+"testdata/test.html" {"testdata/test.html"}
+"tests/soupselect.js" {"tests/soupselect.js"}
+]

@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE.md" {"LICENSE.md"}
+".jshintrc" {".jshintrc"}
+".bumpedrc" {".bumpedrc"}
+".npmrc" {".npmrc"}
+".travis.yml" {".travis.yml"}
+".editorconfig" {".editorconfig"}
+"bower.json" {"bower.json"}
+"dist/ensure-async.js" {"dist/ensure-async.js"}
+"dist/example.html" {"dist/example.html"}
+"gulpfile.coffee" {"gulpfile.coffee"}
+".gitattributes" {".gitattributes"}
+".jscsrc" {".jscsrc"}
+"test/test.coffee" {"test/test.coffee"}
+"test/test.sh" {"test/test.sh"}
+]

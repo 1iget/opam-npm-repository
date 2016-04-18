@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"declare-min.js" {"declare-min.js"}
+"declare.js" {"declare.js"}
+"index.js" {"index.js"}
+"test/declare.test.js" {"test/declare.test.js"}
+]

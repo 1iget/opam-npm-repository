@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"tapetest.js" {"tapetest.js"}
+"index.js" {"index.js"}
+"util.js" {"util.js"}
+"browser/chai.js" {"browser/chai.js"}
+"browser/mocha.js" {"browser/mocha.js"}
+"browser/querystring.js" {"browser/querystring.js"}
+"browser/url.js" {"browser/url.js"}
+"browser/mocha.css" {"browser/mocha.css"}
+"test/index.js" {"test/index.js"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"urlgrey.png" {"urlgrey.png"}
+]

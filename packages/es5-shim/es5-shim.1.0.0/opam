@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "es5-shim"
+version: "1.0.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/kriskowal/es5-shim.git"
+depends: [
+
+]
+
+
+
+

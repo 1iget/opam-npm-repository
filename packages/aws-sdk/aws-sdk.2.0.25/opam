@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "aws-sdk"
+version: "2.0.25"
+maintainer: "aws <trevrowe@amazon.com>"
+author: "aws <trevrowe@amazon.com>"
+license: "not defined"
+dev-repo: "git://github.com/aws/aws-sdk-js"
+depends: [
+"xml2js" {="0.2.6"}
+
+"xmlbuilder" {="0.4.2"}
+
+]
+
+
+
+

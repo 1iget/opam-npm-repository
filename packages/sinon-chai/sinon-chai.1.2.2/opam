@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "sinon-chai"
+version: "1.2.2"
+maintainer: "domenicdenicola <domenic@domenicdenicola.com>"
+author: "domenicdenicola <domenic@domenicdenicola.com>"
+license: "not defined"
+dev-repo: "git://github.com/domenic/sinon-chai.git"
+depends: [
+"sinon" {>="1.3.4" & <"2.0.0"}
+
+]
+
+
+
+

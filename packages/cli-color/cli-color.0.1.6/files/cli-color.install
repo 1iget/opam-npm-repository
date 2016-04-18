@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+".travis.yml" {".travis.yml"}
+"CHANGES" {"CHANGES"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/index.js" {"lib/index.js"}
+"lib/throbber.js" {"lib/throbber.js"}
+"lib/trim.js" {"lib/trim.js"}
+"test/index.js" {"test/index.js"}
+"test/throbber.js" {"test/throbber.js"}
+"test/trim.js" {"test/trim.js"}
+"test/__playground/throbber.formatted.js" {"test/__playground/throbber.formatted.js"}
+"test/__playground/throbber.js" {"test/__playground/throbber.js"}
+]

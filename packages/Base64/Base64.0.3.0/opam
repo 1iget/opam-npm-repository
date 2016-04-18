@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "Base64"
+version: "0.3.0"
+maintainer: "michaelficarra <npm@michael.ficarra.me>"
+author: "michaelficarra <npm@michael.ficarra.me>"
+license: "not defined"
+dev-repo: "git://github.com/davidchambers/Base64.js.git"
+depends: [
+
+]
+
+
+
+

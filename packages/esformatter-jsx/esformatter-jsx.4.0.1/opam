@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "esformatter-jsx"
+version: "4.0.1"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/royriojas/esformatter-jsx.git"
+depends: [
+"babylon" {>="6.1.21" & <"7.0.0"}
+
+"esformatter-ignore" {>="0.1.3" & <"0.2.0"}
+
+"extend" {>="2.0.1" & <"3.0.0"}
+
+"fresh-falafel" {>="1.2.0" & <"2.0.0"}
+
+"js-beautify" {>="1.5.10" & <"2.0.0"}
+
+]
+
+
+
+

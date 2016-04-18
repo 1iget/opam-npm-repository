@@ -1,0 +1,1 @@
+Does a shallow comparison of two objects, returning false if the keys or values differ.

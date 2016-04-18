@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "mockery"
+version: "1.2.0"
+maintainer: "mfncooper <mfncooper@gmail.com>"
+author: "mfncooper <mfncooper@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/mfncooper/mockery.git"
+depends: [
+
+]
+
+
+
+

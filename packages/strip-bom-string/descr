@@ -1,0 +1,1 @@
+Strip a byte order mark (BOM) from a string.

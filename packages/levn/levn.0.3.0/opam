@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "levn"
+version: "0.3.0"
+maintainer: "gkz <z@georgezahariev.com>"
+author: "gkz <z@georgezahariev.com>"
+license: "MIT"
+dev-repo: "git://github.com/gkz/levn.git"
+depends: [
+"prelude-ls" {>="1.1.2" & <"1.2.0"}
+
+"type-check" {>="0.3.2" & <"0.4.0"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"lib/tmp.js" {"lib/tmp.js"}
+"test/base.js" {"test/base.js"}
+"test/dir-test.js" {"test/dir-test.js"}
+"test/file-test.js" {"test/file-test.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "optimist"
+version: "0.0.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/substack/node-optimist.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "test"
+version: "0.5.1"
+maintainer: "gozala <rfobic@gmail.com>"
+author: "gozala <rfobic@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/Gozala/test-commonjs.git"
+depends: [
+"ansi-font" {="0.0.2"}
+
+]
+
+
+
+

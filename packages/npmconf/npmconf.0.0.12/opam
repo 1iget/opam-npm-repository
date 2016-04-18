@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "npmconf"
+version: "0.0.12"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "BSD"
+dev-repo: "git://github.com/isaacs/npmconf"
+depends: [
+"config-chain" {>="1.1.1" & <"1.2.0"}
+
+"inherits" {>="1.0.0" & <"1.1.0"}
+
+"once" {>="1.1.1" & <"1.2.0"}
+
+"mkdirp" {>="0.3.3" & <"0.4.0"}
+
+"osenv" {="0.0.3"}
+
+"nopt" {>="2.0.0" & <"2.1.0"}
+
+]
+
+
+
+

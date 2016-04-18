@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "esnextguardian"
+version: "1.0.1"
+maintainer: "balupton <b@lupton.cc>"
+author: "balupton <b@lupton.cc>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/bevry/esnextguardian.git"
+depends: [
+
+]
+
+
+
+

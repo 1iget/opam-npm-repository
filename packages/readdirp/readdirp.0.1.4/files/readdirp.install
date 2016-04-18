@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"readdirp.js" {"readdirp.js"}
+".travis.yml" {".travis.yml"}
+"test/readdirp.js" {"test/readdirp.js"}
+"test/bed/root_dir1/root_dir1_file1.ext1" {"test/bed/root_dir1/root_dir1_file1.ext1"}
+"test/bed/root_dir1/root_dir1_file2.ext2" {"test/bed/root_dir1/root_dir1_file2.ext2"}
+"test/bed/root_dir1/root_dir1_file3.ext3" {"test/bed/root_dir1/root_dir1_file3.ext3"}
+"test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1" {"test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1"}
+"test/bed/root_dir2/root_dir2_file1.ext1" {"test/bed/root_dir2/root_dir2_file1.ext1"}
+"test/bed/root_dir2/root_dir2_file2.ext2" {"test/bed/root_dir2/root_dir2_file2.ext2"}
+"test/bed/root_file1.ext1" {"test/bed/root_file1.ext1"}
+"test/bed/root_file2.ext2" {"test/bed/root_file2.ext2"}
+"test/bed/root_file3.ext3" {"test/bed/root_file3.ext3"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

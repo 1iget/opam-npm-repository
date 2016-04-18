@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "execSync"
+version: "0.0.1"
+maintainer: "mgutz <mario@mgutz.com>"
+author: "mgutz <mario@mgutz.com>"
+license: "not defined"
+
+depends: [
+"ffi" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

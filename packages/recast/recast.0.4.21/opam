@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "recast"
+version: "0.4.21"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "not defined"
+dev-repo: "git://github.com/benjamn/recast.git"
+depends: [
+"esprima" {>="1.0.3"}
+
+"private" {>="0.0.5"}
+
+"ast-types" {>="0.2.20"}
+
+"whiskey" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

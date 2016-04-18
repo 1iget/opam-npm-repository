@@ -1,0 +1,13 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/soupselect.js" {"lib/soupselect.js"}
+"test/dom.js" {"test/dom.js"}
+"test/index.html" {"test/index.html"}
+"test/test-basic.js" {"test/test-basic.js"}
+"test/test-regress-01.js" {"test/test-regress-01.js"}
+]

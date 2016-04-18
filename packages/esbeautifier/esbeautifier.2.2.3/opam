@@ -1,0 +1,43 @@
+opam-version: "1.2"
+name: "esbeautifier"
+version: "2.2.3"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/esbeautifier"
+depends: [
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"clix" {>="1.0.1" & <"2.0.0"}
+
+"dispatchy" {>="1.0.1" & <"2.0.0"}
+
+"esformatter" {>="0.5.0" & <"0.6.0"}
+
+"esformatter-eol-last" {>="1.0.0" & <"2.0.0"}
+
+"esformatter-jsx" {>="1.1.0" & <"2.0.0"}
+
+"esformatter-quotes" {>="1.0.0" & <"2.0.0"}
+
+"esformatter-shebang-ignore" {>="1.0.0" & <"2.0.0"}
+
+"extend" {>="2.0.1" & <"3.0.0"}
+
+"file-entry-cache" {>="1.0.1" & <"2.0.0"}
+
+"glob-expand" {="0.0.2"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+"read-file" {>="0.1.2" & <"0.2.0"}
+
+"stringformat" {="0.0.5"}
+
+"write" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

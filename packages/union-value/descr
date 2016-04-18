@@ -1,0 +1,1 @@
+Set an array of unique values as the property of an object. Supports setting deeply nested properties using using object-paths/dot notation.

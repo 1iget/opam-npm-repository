@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/index.js" {"test/index.js"}
+"test/fixtures/Gruntfile-execArgv-child.js" {"test/fixtures/Gruntfile-execArgv-child.js"}
+"test/fixtures/Gruntfile-execArgv.js" {"test/fixtures/Gruntfile-execArgv.js"}
+"test/fixtures/Gruntfile-print-text.js" {"test/fixtures/Gruntfile-print-text.js"}
+"test/fixtures/spawn-multibyte.js" {"test/fixtures/spawn-multibyte.js"}
+"test/fixtures/spawn.js" {"test/fixtures/spawn.js"}
+"test/fixtures/exec.cmd" {"test/fixtures/exec.cmd"}
+"test/fixtures/exec.sh" {"test/fixtures/exec.sh"}
+]

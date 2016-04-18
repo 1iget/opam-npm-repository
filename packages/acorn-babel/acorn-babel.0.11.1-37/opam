@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "acorn-babel"
+version: "0.11.1-37"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/babel/acorn-babel"
+depends: [
+
+]
+
+
+
+

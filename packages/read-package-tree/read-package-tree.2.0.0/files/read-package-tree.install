@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"rpt.js" {"rpt.js"}
+"test/basic.js" {"test/basic.js"}
+"test/fixtures/other/archy.txt" {"test/fixtures/other/archy.txt"}
+"test/fixtures/other/node_modules/.bin" {"test/fixtures/other/node_modules/.bin"}
+"test/fixtures/root/package.json" {"test/fixtures/root/package.json"}
+"test/fixtures/root/archy.txt" {"test/fixtures/root/archy.txt"}
+"test/fixtures/selflink/package.json" {"test/fixtures/selflink/package.json"}
+"test/fixtures/selflink/archy.txt" {"test/fixtures/selflink/archy.txt"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sliced"
+version: "0.0.5"
+maintainer: "aaron <aaron.heckmann+github@gmail.com>"
+author: "aaron <aaron.heckmann+github@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/aheckmann/sliced"
+depends: [
+
+]
+
+
+
+

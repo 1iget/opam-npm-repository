@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "envify"
+version: "3.0.0"
+maintainer: "hughsk <hughskennedy@gmail.com>"
+author: "hughsk <hughskennedy@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/hughsk/envify.git"
+depends: [
+"xtend" {>="2.1.2" & <"2.2.0"}
+
+"through" {>="2.3.4" & <"2.4.0"}
+
+"esprima-fb" {>="4001.3001.0-dev-harmony-fb" & <"4002.0.0"}
+
+"jstransform" {>="6.1.0" & <"7.0.0"}
+
+]
+
+
+
+

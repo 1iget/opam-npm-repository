@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "jstransform"
+version: "11.0.0"
+maintainer: "jeffmo <jeff@anafx.com>"
+author: "jeffmo <jeff@anafx.com>"
+license: "BSD-3-Clause"
+dev-repo: "git@github.com:facebook/jstransform.git"
+depends: [
+"base62" {>="1.1.0" & <"2.0.0"}
+
+"commoner" {>="0.10.1" & <"0.11.0"}
+
+"esprima-fb" {>="15001.1.0-dev-harmony-fb" & <"15002.0.0"}
+
+"object-assign" {>="2.0.0" & <"3.0.0"}
+
+"source-map" {>="0.4.2" & <"0.5.0"}
+
+]
+
+
+
+

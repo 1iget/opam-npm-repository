@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bin/nodefy" {"bin/nodefy"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"src/converter.js" {"src/converter.js"}
+"src/parser.js" {"src/parser.js"}
+]

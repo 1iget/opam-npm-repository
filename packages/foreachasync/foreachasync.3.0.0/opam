@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "foreachasync"
+version: "3.0.0"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "Apache2"
+dev-repo: "git://github.com/FuturesJS/forEachAsync.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "read-cmd-shim"
+version: "1.0.1"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git+https://github.com/npm/read-cmd-shim.git"
+depends: [
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "node.extend"
+version: "1.1.5"
+maintainer: "dreamerslab <ben@dreamerslab.com>"
+author: "dreamerslab <ben@dreamerslab.com>"
+license: "(MIT OR GPL-2.0)"
+dev-repo: "git+https://github.com/dreamerslab/node.extend.git"
+depends: [
+"is" {>="3.0.1" & <"4.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"main.js" {"main.js"}
+".travis.yml" {".travis.yml"}
+"test/run.js" {"test/run.js"}
+]

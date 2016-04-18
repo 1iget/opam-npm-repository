@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "esrecurse"
+version: "4.0.0"
+maintainer: "constellation <utatane.tea@gmail.com>"
+author: "constellation <utatane.tea@gmail.com>"
+license: "BSD-2-Clause"
+dev-repo: "git+https://github.com/estools/esrecurse.git"
+depends: [
+"estraverse" {>="4.1.0" & <"4.2.0"}
+
+"object-assign" {>="4.0.1" & <"5.0.0"}
+
+]
+
+
+
+

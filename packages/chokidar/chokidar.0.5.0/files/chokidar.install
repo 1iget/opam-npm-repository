@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"setup.js" {"setup.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/index.js" {"lib/index.js"}
+"lib/is-binary.js" {"lib/is-binary.js"}
+"src/index.coffee" {"src/index.coffee"}
+"src/is-binary.coffee" {"src/is-binary.coffee"}
+"test/common.js" {"test/common.js"}
+"test/chokidar-test.coffee" {"test/chokidar-test.coffee"}
+"test/fixtures/binary.mp3" {"test/fixtures/binary.mp3"}
+"test/fixtures/change.txt" {"test/fixtures/change.txt"}
+"test/fixtures/unlink.txt" {"test/fixtures/unlink.txt"}
+]

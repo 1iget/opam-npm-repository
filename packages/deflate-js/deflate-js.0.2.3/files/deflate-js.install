@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"LICENSE.GPLv2" {"LICENSE.GPLv2"}
+"examples/package.json" {"examples/package.json"}
+"examples/main.js" {"examples/main.js"}
+"examples/index.html" {"examples/index.html"}
+"LICENSE.MIT" {"LICENSE.MIT"}
+"lib/rawdeflate.js" {"lib/rawdeflate.js"}
+"lib/rawinflate.js" {"lib/rawinflate.js"}
+"test/deflate.py" {"test/deflate.py"}
+"test/helpers.py" {"test/helpers.py"}
+"test/inflate.py" {"test/inflate.py"}
+"test/runner.py" {"test/runner.py"}
+"test/test-files/declaration.txt" {"test/test-files/declaration.txt"}
+"test/test-files/helloWorld.txt" {"test/test-files/helloWorld.txt"}
+"test/test-files/lorem.txt" {"test/test-files/lorem.txt"}
+"test/test-files/random.txt" {"test/test-files/random.txt"}
+"bin/deflate.js" {"bin/deflate.js"}
+"bin/inflate.js" {"bin/inflate.js"}
+]

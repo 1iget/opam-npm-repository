@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"build.js" {"build.js"}
+"proto.js" {"proto.js"}
+"testProxy.js" {"testProxy.js"}
+"npm-shrinkwrap.json" {"npm-shrinkwrap.json"}
+"MIT_LICENSE" {"MIT_LICENSE"}
+"generatedBuilds/proto.umd.js" {"generatedBuilds/proto.umd.js"}
+"generatedBuilds/proto.umd.js.map" {"generatedBuilds/proto.umd.js.map"}
+"test/protoTest.js" {"test/protoTest.js"}
+"test/browserAMDtest.html" {"test/browserAMDtest.html"}
+"test/browserGlobalTest.html" {"test/browserGlobalTest.html"}
+]

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "require_optional"
+version: "1.0.0"
+maintainer: "christkv <christkv@gmail.com>"
+author: "christkv <christkv@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "https://github.com/christkv/require_optional.git"
+depends: [
+"semver" {>="5.1.0" & <"6.0.0"}
+
+"resolve-from" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

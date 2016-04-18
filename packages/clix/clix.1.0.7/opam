@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "clix"
+version: "1.0.7"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/clix"
+depends: [
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"lodash.merge" {>="3.0.3" & <"4.0.0"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+"read-json-sync" {>="1.1.0" & <"2.0.0"}
+
+"stringformat" {="0.0.5"}
+
+]
+
+
+
+

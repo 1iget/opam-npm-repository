@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".dir-locals.el" {".dir-locals.el"}
+"http_signing.md" {"http_signing.md"}
+"lib/index.js" {"lib/index.js"}
+"lib/parser.js" {"lib/parser.js"}
+"lib/signer.js" {"lib/signer.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/verify.js" {"lib/verify.js"}
+"CHANGES.md" {"CHANGES.md"}
+]

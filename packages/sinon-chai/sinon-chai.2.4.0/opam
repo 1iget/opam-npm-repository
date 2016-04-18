@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sinon-chai"
+version: "2.4.0"
+maintainer: "domenic <domenic@domenicdenicola.com>"
+author: "domenic <domenic@domenicdenicola.com>"
+license: "WTFPL"
+dev-repo: "git://github.com/domenic/sinon-chai.git"
+depends: [
+
+]
+
+
+
+

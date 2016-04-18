@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/async.js" {"lib/async.js"}
+"lib/.async.js.swo" {"lib/.async.js.swo"}
+]

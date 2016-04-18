@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "bson"
+version: "0.4.19"
+maintainer: "octave <chinsay@gmail.com>"
+author: "octave <chinsay@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "git://github.com/mongodb/js-bson.git"
+depends: [
+
+]
+
+
+
+

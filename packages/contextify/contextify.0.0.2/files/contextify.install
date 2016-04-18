@@ -1,0 +1,17 @@
+lib: [
+"LICENSE.txt" {"LICENSE.txt"}
+"package.json" {"package.json"}
+".gitignore" {".gitignore"}
+"README.md" {"README.md"}
+"wscript" {"wscript"}
+"benchmarks/run_scripts_multiple_contexts-vm.js" {"benchmarks/run_scripts_multiple_contexts-vm.js"}
+"benchmarks/run_scripts_single_context-contextify.js" {"benchmarks/run_scripts_single_context-contextify.js"}
+"benchmarks/run_scripts_multiple_contexts-contextify.js" {"benchmarks/run_scripts_multiple_contexts-contextify.js"}
+"benchmarks/create_contexts-contextify.js" {"benchmarks/create_contexts-contextify.js"}
+"benchmarks/run_scripts_single_context-vm.js" {"benchmarks/run_scripts_single_context-vm.js"}
+"benchmarks/create_contexts-vm.js" {"benchmarks/create_contexts-vm.js"}
+"benchmarks/results.txt" {"benchmarks/results.txt"}
+"test/contextify.js" {"test/contextify.js"}
+"lib/contextify.js" {"lib/contextify.js"}
+"src/contextify.cc" {"src/contextify.cc"}
+]

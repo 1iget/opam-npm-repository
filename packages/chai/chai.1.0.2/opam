@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "chai"
+version: "1.0.2"
+maintainer: "jakeluer <jake.luer@incatern.com>"
+author: "jakeluer <jake.luer@incatern.com>"
+license: "MIT"
+dev-repo: "git://github.com/chaijs/chai.git"
+depends: [
+
+]
+
+
+
+

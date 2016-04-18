@@ -1,0 +1,24 @@
+lib: [
+"" {""}
+".idea/" {".idea/"}
+"examples/" {"examples/"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"test/" {"test/"}
+"test/test.js" {"test/test.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/xml.js" {"lib/xml.js"}
+"examples/examples.js" {"examples/examples.js"}
+".idea/.name" {".idea/.name"}
+".idea/dictionaries/" {".idea/dictionaries/"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/node-xml.iml" {".idea/node-xml.iml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".idea/dictionaries/dylan.xml" {".idea/dictionaries/dylan.xml"}
+]

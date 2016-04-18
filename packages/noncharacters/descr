@@ -1,0 +1,1 @@
+34 non-character code points (labeled <not a character>), that are set aside and guaranteed to never be used for a character. Perfect to use for placeholders or temporary replacements during string transformations.

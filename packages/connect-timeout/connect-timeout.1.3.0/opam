@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "connect-timeout"
+version: "1.3.0"
+maintainer: "aaron <aaron.heckmann+github@gmail.com>"
+author: "aaron <aaron.heckmann+github@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/timeout"
+depends: [
+"debug" {>="2.0.0" & <"2.1.0"}
+
+"ms" {="0.6.2"}
+
+"on-headers" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

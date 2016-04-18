@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"acorn.js" {"acorn.js"}
+"acorn_csp.js" {"acorn_csp.js"}
+".editorconfig" {".editorconfig"}
+"Makefile" {"Makefile"}
+".gitattributes" {".gitattributes"}
+".tern-project" {".tern-project"}
+".travis.yml" {".travis.yml"}
+"bin/acorn" {"bin/acorn"}
+"bin/update_authors.sh" {"bin/update_authors.sh"}
+"bin/without_eval" {"bin/without_eval"}
+"tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
+"AUTHORS" {"AUTHORS"}
+"util/walk.js" {"util/walk.js"}
+]

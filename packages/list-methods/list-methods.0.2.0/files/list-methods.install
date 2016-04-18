@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"bin/methods" {"bin/methods"}
+"bower.json" {"bower.json"}
+"lib/template.js" {"lib/template.js"}
+"lib/template.yaml" {"lib/template.yaml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/fixtures/lodash.js" {"test/fixtures/lodash.js"}
+]

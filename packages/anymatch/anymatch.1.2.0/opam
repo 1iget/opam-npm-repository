@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "anymatch"
+version: "1.2.0"
+maintainer: "es128 <elan.shanker+npm@gmail.com>"
+author: "es128 <elan.shanker+npm@gmail.com>"
+license: "ISC"
+dev-repo: "https://github.com/es128/anymatch"
+depends: [
+"arrify" {>="1.0.0" & <"2.0.0"}
+
+"micromatch" {>="2.1.0" & <"3.0.0"}
+
+]
+
+
+
+

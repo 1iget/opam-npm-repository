@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "wrench"
+version: "1.5.4"
+maintainer: "ryanmcgrath <ryan@venodesigns.net>"
+author: "ryanmcgrath <ryan@venodesigns.net>"
+license: "not defined"
+dev-repo: "https://ryanmcgrath@github.com/ryanmcgrath/wrench-js.git"
+depends: [
+
+]
+
+
+
+

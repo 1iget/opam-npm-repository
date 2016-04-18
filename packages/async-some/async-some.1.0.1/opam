@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "async-some"
+version: "1.0.1"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "ISC"
+dev-repo: "https://github.com/othiym23/async-some.git"
+depends: [
+"dezalgo" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

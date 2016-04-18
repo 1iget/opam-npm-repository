@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "should"
+version: "3.1.2"
+maintainer: "btd <bardadymchik@gmail.com>"
+author: "btd <bardadymchik@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/visionmedia/should.js.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "handlebars"
+version: "2.0.0-beta.1"
+maintainer: "kpdecker <kpdecker@gmail.com>"
+author: "kpdecker <kpdecker@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/wycats/handlebars.js.git"
+depends: [
+"optimist" {>="0.3.0" & <"0.4.0"}
+
+"uglify-js" {>="2.3.0" & <"2.4.0"}
+
+]
+
+
+
+

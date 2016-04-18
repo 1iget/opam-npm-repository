@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"osenv.js" {"osenv.js"}
+"test/unix.js" {"test/unix.js"}
+"test/windows.js" {"test/windows.js"}
+]

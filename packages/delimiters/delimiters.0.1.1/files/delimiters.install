@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/addDelims.js" {"test/addDelims.js"}
+"test/assertDelims.js" {"test/assertDelims.js"}
+"test/getDelims.js" {"test/getDelims.js"}
+"test/init.js" {"test/init.js"}
+"test/makeDelims.js" {"test/makeDelims.js"}
+"test/option.js" {"test/option.js"}
+"test/spec.js" {"test/spec.js"}
+"test/useDelims.js" {"test/useDelims.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

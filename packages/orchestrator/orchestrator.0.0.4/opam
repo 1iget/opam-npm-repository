@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "orchestrator"
+version: "0.0.4"
+maintainer: "robrich <robrich@robrich.org>"
+author: "robrich <robrich@robrich.org>"
+license: "not defined"
+dev-repo: "git://github.com/robrich/orchestrator.git"
+depends: [
+"arranger" {>="0.0.4" & <"0.1.0"}
+
+]
+
+
+
+

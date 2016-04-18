@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "pbkdf2"
+version: "3.0.4"
+maintainer: "fundon <cfddream@gmail.com>"
+author: "fundon <cfddream@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/crypto-browserify/pbkdf2.git"
+depends: [
+"create-hmac" {>="1.1.2" & <"2.0.0"}
+
+]
+
+
+
+

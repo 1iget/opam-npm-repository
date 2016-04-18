@@ -1,0 +1,1 @@
+Parse `.git/config` into a JavaScript object. sync or async.

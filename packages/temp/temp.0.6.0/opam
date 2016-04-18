@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "temp"
+version: "0.6.0"
+maintainer: "bruce <bruce@codefluency.com>"
+author: "bruce <bruce@codefluency.com>"
+license: "not defined"
+dev-repo: "git://github.com/bruce/node-temp.git"
+depends: [
+"rimraf" {>="2.1.4" & <"2.2.0"}
+
+"osenv" {="0.0.3"}
+
+]
+
+
+
+

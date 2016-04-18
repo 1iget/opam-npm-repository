@@ -1,0 +1,35 @@
+opam-version: "1.2"
+name: "request"
+version: "2.16.4"
+maintainer: "mikeal <mikeal.rogers@gmail.com>"
+author: "mikeal <mikeal.rogers@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/mikeal/request.git"
+depends: [
+"form-data" {>="0.0.3" & <"0.1.0"}
+
+"mime" {>="1.2.7" & <"1.3.0"}
+
+"hawk" {>="0.10.2" & <"0.11.0"}
+
+"node-uuid" {>="1.4.0" & <"1.5.0"}
+
+"cookie-jar" {>="0.2.0" & <"0.3.0"}
+
+"aws-sign" {>="0.2.0" & <"0.3.0"}
+
+"oauth-sign" {>="0.2.0" & <"0.3.0"}
+
+"forever-agent" {>="0.2.0" & <"0.3.0"}
+
+"tunnel-agent" {>="0.2.0" & <"0.3.0"}
+
+"json-stringify-safe" {>="3.0.0" & <"3.1.0"}
+
+"qs" {>="0.5.4" & <"0.6.0"}
+
+]
+
+
+
+

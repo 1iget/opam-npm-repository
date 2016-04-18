@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".verbrc.md" {".verbrc.md"}
+"fixtures/a.js" {"fixtures/a.js"}
+"fixtures/b.js" {"fixtures/b.js"}
+"fixtures/c.js" {"fixtures/c.js"}
+"fixtures/a.txt" {"fixtures/a.txt"}
+"fixtures/b.txt" {"fixtures/b.txt"}
+"fixtures/c.txt" {"fixtures/c.txt"}
+"foo.txt" {"foo.txt"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+]

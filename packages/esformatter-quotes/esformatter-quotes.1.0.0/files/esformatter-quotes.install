@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/compare.spec.js" {"test/compare.spec.js"}
+"test/compare/input.js" {"test/compare/input.js"}
+"test/compare/output-double-avoid.js" {"test/compare/output-double-avoid.js"}
+"test/compare/output-double.js" {"test/compare/output-double.js"}
+"test/compare/output-single-avoid.js" {"test/compare/output-single-avoid.js"}
+"test/compare/output-single.js" {"test/compare/output-single.js"}
+]

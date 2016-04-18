@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"espree.js" {"espree.js"}
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
+"lib/ast-node-types.js" {"lib/ast-node-types.js"}
+"lib/features.js" {"lib/features.js"}
+"lib/locations.js" {"lib/locations.js"}
+"lib/messages.js" {"lib/messages.js"}
+"lib/syntax.js" {"lib/syntax.js"}
+"lib/token-info.js" {"lib/token-info.js"}
+"test/compat.js" {"test/compat.js"}
+"test/reflect.js" {"test/reflect.js"}
+"test/run.js" {"test/run.js"}
+"test/runner.js" {"test/runner.js"}
+"test/test.js" {"test/test.js"}
+]

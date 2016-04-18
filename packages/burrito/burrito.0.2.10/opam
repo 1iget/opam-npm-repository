@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "burrito"
+version: "0.2.10"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "BSD"
+dev-repo: "git://github.com/substack/node-burrito.git"
+depends: [
+"traverse" {>="0.5.1" & <"0.6.0"}
+
+"uglify-js" {="1.0.7"}
+
+]
+
+
+
+

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"inflection.min.js" {"inflection.min.js"}
+"component.json" {"component.json"}
+"bower.json" {"bower.json"}
+"History.md" {"History.md"}
+"lib/inflection.js" {"lib/inflection.js"}
+"Readme.md" {"Readme.md"}
+]

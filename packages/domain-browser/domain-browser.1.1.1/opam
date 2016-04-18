@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "domain-browser"
+version: "1.1.1"
+maintainer: "balupton <b@lupton.cc>"
+author: "balupton <b@lupton.cc>"
+license: "Not defined"
+dev-repo: "http://github.com/bevry/domain-browser.git"
+depends: [
+
+]
+
+
+
+

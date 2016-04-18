@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "delete"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/delete.git"
+depends: [
+"bluebird" {>="2.9.33" & <"3.0.0"}
+
+"lazy-cache" {>="0.1.0" & <"0.2.0"}
+
+"rimraf" {>="2.2.8" & <"3.0.0"}
+
+]
+
+
+
+

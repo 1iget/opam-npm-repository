@@ -1,0 +1,20 @@
+lib: [
+".npmignore" {".npmignore"}
+"http_signing.md" {"http_signing.md"}
+"lib/" {"lib/"}
+"lib/index.js" {"lib/index.js"}
+"lib/parser.js" {"lib/parser.js"}
+"lib/signer.js" {"lib/signer.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/verify.js" {"lib/verify.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tst/" {"tst/"}
+"tst/convert.test.js" {"tst/convert.test.js"}
+"tst/parser.test.js" {"tst/parser.test.js"}
+"tst/rsa_private.pem" {"tst/rsa_private.pem"}
+"tst/rsa_public.pem" {"tst/rsa_public.pem"}
+"tst/signer.test.js" {"tst/signer.test.js"}
+"tst/verify.test.js" {"tst/verify.test.js"}
+]

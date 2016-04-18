@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"lib/md5omatic.js" {"lib/md5omatic.js"}
+"test/main.js" {"test/main.js"}
+]

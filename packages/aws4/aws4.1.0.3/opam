@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "aws4"
+version: "1.0.3"
+maintainer: "hichaelmart <michael.hart.au@gmail.com>"
+author: "hichaelmart <michael.hart.au@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/mhart/aws4.git"
+depends: [
+"lru-cache" {>="2.6.5" & <"3.0.0"}
+
+]
+
+
+
+

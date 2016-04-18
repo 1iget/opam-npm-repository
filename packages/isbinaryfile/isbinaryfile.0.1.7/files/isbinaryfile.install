@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"tests/test.js" {"tests/test.js"}
+"tests/fixtures/01_grep" {"tests/fixtures/01_grep"}
+"tests/fixtures/02_perl_script" {"tests/fixtures/02_perl_script"}
+"tests/fixtures/03_Руководство_по_эксплуатации.rst" {"tests/fixtures/03_Руководство_по_эксплуатации.rst"}
+"tests/fixtures/04_HelloWorld.pdf" {"tests/fixtures/04_HelloWorld.pdf"}
+"tests/fixtures/05_null_file.gif" {"tests/fixtures/05_null_file.gif"}
+"tests/fixtures/06_trunks.gif" {"tests/fixtures/06_trunks.gif"}
+]

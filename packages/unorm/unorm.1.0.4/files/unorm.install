@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+"gen/generate.js" {"gen/generate.js"}
+"gen/template.js" {"gen/template.js"}
+"gen/DerivedNormalizationProps.txt" {"gen/DerivedNormalizationProps.txt"}
+"gen/run.sh" {"gen/run.sh"}
+"gen/UnicodeData.txt" {"gen/UnicodeData.txt"}
+"LICENSE.md" {"LICENSE.md"}
+]

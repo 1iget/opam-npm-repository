@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bin/hint" {"bin/hint"}
+"lib/cli.js" {"lib/cli.js"}
+"lib/hint.js" {"lib/hint.js"}
+"lib/reporters/checkstyle.js" {"lib/reporters/checkstyle.js"}
+"lib/reporters/default.js" {"lib/reporters/default.js"}
+"lib/reporters/jslint_xml.js" {"lib/reporters/jslint_xml.js"}
+"lib/reporters/non_error.js" {"lib/reporters/non_error.js"}
+"packages/jshint/README.md" {"packages/jshint/README.md"}
+"packages/jshint/jshint.js" {"packages/jshint/jshint.js"}
+]

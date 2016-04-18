@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "regenerator-babel"
+version: "0.8.10-1"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "BSD"
+dev-repo: "git://github.com/facebook/regenerator.git"
+depends: [
+"ast-types" {>="0.6.1" & <"0.7.0"}
+
+"commoner" {>="0.10.0" & <"0.11.0"}
+
+"private" {>="0.1.5" & <"0.2.0"}
+
+"through" {>="2.3.6" & <"2.4.0"}
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "deputy"
+version: "0.0.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-deputy.git"
+depends: [
+"mkdirp" {>="0.2.0" & <"0.3.0"}
+
+"detective" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"listener.js" {"listener.js"}
+"test/basic.tap.js" {"test/basic.tap.js"}
+]

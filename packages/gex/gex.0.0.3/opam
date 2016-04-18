@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "gex"
+version: "0.0.3"
+maintainer: "rjrodger <richard@ricebridge.com>"
+author: "rjrodger <richard@ricebridge.com>"
+license: "not defined"
+dev-repo: "git://github.com/rjrodger/gex.git"
+depends: [
+"underscore" {>="1.1.4"}
+
+]
+
+
+
+

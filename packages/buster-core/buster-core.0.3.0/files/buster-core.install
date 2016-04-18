@@ -1,0 +1,12 @@
+lib: [
+"AUTHORS" {"AUTHORS"}
+"README" {"README"}
+"run-tests" {"run-tests"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"jsTestDriver.conf" {"jsTestDriver.conf"}
+"lib/buster-event-emitter.js" {"lib/buster-event-emitter.js"}
+"lib/buster-core.js" {"lib/buster-core.js"}
+"test/buster-core-test.js" {"test/buster-core-test.js"}
+"test/buster-event-emitter-test.js" {"test/buster-event-emitter-test.js"}
+]

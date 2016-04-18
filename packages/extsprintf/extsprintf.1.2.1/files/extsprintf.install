@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".gitmodules" {".gitmodules"}
+"Makefile" {"Makefile"}
+"Makefile.targ" {"Makefile.targ"}
+"jsl.node.conf" {"jsl.node.conf"}
+"lib/extsprintf.js" {"lib/extsprintf.js"}
+]

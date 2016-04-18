@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "bach"
+version: "0.4.1"
+maintainer: "phated <blaine@iceddev.com>"
+author: "phated <blaine@iceddev.com>"
+license: "MIT"
+dev-repo: "https://github.com/phated/bach"
+depends: [
+"async-done" {>="1.0.0" & <"2.0.0"}
+
+"async-settle" {>="0.2.0" & <"0.3.0"}
+
+"lodash" {>="3.0.0" & <"4.0.0"}
+
+"now-and-later" {="0.0.6"}
+
+]
+
+
+
+

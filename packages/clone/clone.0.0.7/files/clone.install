@@ -1,0 +1,8 @@
+lib: [
+".npmignore" {".npmignore"}
+"clone.js" {"clone.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.mkd" {"README.mkd"}
+"test.js" {"test.js"}
+]

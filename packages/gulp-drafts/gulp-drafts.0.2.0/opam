@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "gulp-drafts"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/gulp-drafts.git"
+depends: [
+"get-first" {>="0.1.1" & <"0.2.0"}
+
+"kind-of" {>="1.1.0" & <"2.0.0"}
+
+"micromatch" {>="2.1.0" & <"3.0.0"}
+
+"through2" {>="0.6.3" & <"0.7.0"}
+
+]
+
+
+
+

@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"superagent.min.js" {"superagent.min.js"}
+"superagent.js" {"superagent.js"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"component.json" {"component.json"}
+"lib/events.js" {"lib/events.js"}
+"lib/superagent.js" {"lib/superagent.js"}
+"lib/node/agent.js" {"lib/node/agent.js"}
+"lib/node/index.js" {"lib/node/index.js"}
+"lib/node/part.js" {"lib/node/part.js"}
+"lib/node/response.js" {"lib/node/response.js"}
+"lib/node/utils.js" {"lib/node/utils.js"}
+"lib/node/parsers/index.js" {"lib/node/parsers/index.js"}
+"lib/node/parsers/json.js" {"lib/node/parsers/json.js"}
+"lib/node/parsers/urlencoded.js" {"lib/node/parsers/urlencoded.js"}
+"Readme.md" {"Readme.md"}
+"History.md" {"History.md"}
+"docs/head.html" {"docs/head.html"}
+"docs/index.md" {"docs/index.md"}
+"docs/tail.html" {"docs/tail.html"}
+"Makefile" {"Makefile"}
+]

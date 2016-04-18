@@ -1,0 +1,20 @@
+lib: [
+"test.js" {"test.js"}
+"package.json" {"package.json"}
+".gitignore" {".gitignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/prompt.js" {"lib/prompt.js"}
+"examples/password.js" {"examples/password.js"}
+"examples/simple-prompt.js" {"examples/simple-prompt.js"}
+"examples/add-properties.js" {"examples/add-properties.js"}
+"examples/property-prompt.js" {"examples/property-prompt.js"}
+"examples/history.js" {"examples/history.js"}
+"examples/existing-properties.js" {"examples/existing-properties.js"}
+"fig/customization_example.png" {"fig/customization_example.png"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/prompt.html" {"docs/prompt.html"}
+"test/interactive-prompt-test.js" {"test/interactive-prompt-test.js"}
+"test/prompt-test.js" {"test/prompt-test.js"}
+"test/helpers.js" {"test/helpers.js"}
+]

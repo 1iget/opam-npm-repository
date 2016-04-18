@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "stable"
+version: "0.1.4"
+maintainer: "stephank <stephan@kochen.nl>"
+author: "stephank <stephan@kochen.nl>"
+license: "MIT"
+dev-repo: "https://github.com/Two-Screen/stable.git"
+depends: [
+
+]
+
+
+
+

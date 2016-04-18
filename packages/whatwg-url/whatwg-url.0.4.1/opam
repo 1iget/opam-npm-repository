@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "whatwg-url"
+version: "0.4.1"
+maintainer: "sebmaster <sebmaster16@gmail.com>"
+author: "sebmaster <sebmaster16@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jsdom/whatwg-url.git"
+depends: [
+"tr46" {>="0.0.1" & <"0.1.0"}
+
+]
+
+
+
+

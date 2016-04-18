@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"templates/grunt-overview.md" {"templates/grunt-overview.md"}
+"templates/assemble-plugin-quickstart.md" {"templates/assemble-plugin-quickstart.md"}
+"templates/contributing.md" {"templates/contributing.md"}
+"templates/contributors.md" {"templates/contributors.md"}
+"templates/examples.md" {"templates/examples.md"}
+"templates/footer.md" {"templates/footer.md"}
+"templates/grunt-examples.md" {"templates/grunt-examples.md"}
+"templates/grunt-getting-started.md" {"templates/grunt-getting-started.md"}
+"templates/CHANGELOG.yml" {"templates/CHANGELOG.yml"}
+"templates/grunt-quickstart.md" {"templates/grunt-quickstart.md"}
+"templates/grunt-related-tasks.md" {"templates/grunt-related-tasks.md"}
+"templates/history.md" {"templates/history.md"}
+"templates/options.md" {"templates/options.md"}
+"templates/related-repos-list.md" {"templates/related-repos-list.md"}
+"templates/related-repos.md" {"templates/related-repos.md"}
+"templates/release-history.md" {"templates/release-history.md"}
+"templates/report-issues.md" {"templates/report-issues.md"}
+]

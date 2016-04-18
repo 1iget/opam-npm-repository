@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "big-integer"
+version: "1.2.14"
+maintainer: "peterolson <peter.e.c.olson+npm@gmail.com>"
+author: "peterolson <peter.e.c.olson+npm@gmail.com>"
+license: "WTFPL"
+dev-repo: "git@github.com:peterolson/BigInteger.js.git"
+depends: [
+
+]
+
+
+
+

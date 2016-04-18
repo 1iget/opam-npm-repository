@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/y18n-test.js" {"test/y18n-test.js"}
+"test/locales/bad-locale.json" {"test/locales/bad-locale.json"}
+"test/locales/en.json" {"test/locales/en.json"}
+"test/locales/pirate.json" {"test/locales/pirate.json"}
+]

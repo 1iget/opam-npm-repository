@@ -1,0 +1,1 @@
+Figure out what a cmd-shim is pointing at. This acts as the equivalent of fs.readlink.

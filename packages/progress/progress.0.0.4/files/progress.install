@@ -1,0 +1,12 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"examples/download.js" {"examples/download.js"}
+"examples/formats.js" {"examples/formats.js"}
+"lib/node-progress.js" {"lib/node-progress.js"}
+]

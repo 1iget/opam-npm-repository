@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "permalinks"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/permalinks.git"
+depends: [
+"digits" {>="0.1.4" & <"0.2.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"parse-filepath" {>="0.2.1" & <"0.3.0"}
+
+"randomatic" {>="0.1.4" & <"0.2.0"}
+
+"strings" {>="0.3.3" & <"0.4.0"}
+
+"strings-parser-date" {>="0.1.0" & <"0.2.0"}
+
+"strings-parser-url" {>="0.1.0" & <"0.2.0"}
+
+"underscore.string" {>="2.3.3" & <"2.4.0"}
+
+]
+
+
+
+

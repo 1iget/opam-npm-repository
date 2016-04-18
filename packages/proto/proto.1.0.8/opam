@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "proto"
+version: "1.0.8"
+maintainer: "fresheneesz <fresheneesz@gmail.com>"
+author: "fresheneesz <fresheneesz@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/fresheneesz/proto"
+depends: [
+"buildModules" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9mcmVzaGVuZWVzei9idWlsZE1vZHVsZXMvYXJjaGl2ZS8yZjUwZWEwODMwYjBmYTU4MGMwODdiNGJmYTk0N2RlMmU3YjdkN2MzLnRhci5neiI"}
+
+]
+
+
+
+

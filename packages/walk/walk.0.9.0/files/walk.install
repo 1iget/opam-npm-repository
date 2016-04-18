@@ -1,0 +1,7 @@
+lib: [
+"node-walk/" {"node-walk/"}
+"node-walk/lib/" {"node-walk/lib/"}
+"node-walk/package.json" {"node-walk/package.json"}
+"node-walk/walk-test.js" {"node-walk/walk-test.js"}
+"node-walk/lib/walk.js" {"node-walk/lib/walk.js"}
+]

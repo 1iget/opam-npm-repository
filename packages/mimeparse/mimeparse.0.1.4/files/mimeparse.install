@@ -1,0 +1,7 @@
+lib: [
+"CHANGES" {"CHANGES"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README" {"README"}
+"lib/mimeparse.js" {"lib/mimeparse.js"}
+]

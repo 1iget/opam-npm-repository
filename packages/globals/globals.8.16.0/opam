@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "globals"
+version: "8.16.0"
+maintainer: "byk <ben@byk.im>"
+author: "byk <ben@byk.im>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/globals"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "simple-is"
+version: "0.2.0"
+maintainer: "olov <olov.lassus@gmail.com>"
+author: "olov <olov.lassus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/olov/simple-is.git"
+depends: [
+
+]
+
+
+
+

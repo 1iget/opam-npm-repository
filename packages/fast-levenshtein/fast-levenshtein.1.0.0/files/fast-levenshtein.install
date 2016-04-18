@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"levenshtein.js" {"levenshtein.js"}
+"levenshtein.min.js" {"levenshtein.min.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.md" {"LICENSE.md"}
+"test/tests.js" {"test/tests.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/text1.txt" {"test/text1.txt"}
+"test/text2.txt" {"test/text2.txt"}
+]

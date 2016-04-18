@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"build.js" {"build.js"}
+"proto/riak.proto" {"proto/riak.proto"}
+"proto/riak_dt.proto" {"proto/riak_dt.proto"}
+"proto/riak_kv.proto" {"proto/riak_kv.proto"}
+"proto/riak_pb_messages.csv" {"proto/riak_pb_messages.csv"}
+"proto/riak_search.proto" {"proto/riak_search.proto"}
+"proto/riak_yokozuna.proto" {"proto/riak_yokozuna.proto"}
+"proto.json" {"proto.json"}
+]

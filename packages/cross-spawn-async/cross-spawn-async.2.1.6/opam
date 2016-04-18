@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "cross-spawn-async"
+version: "2.1.6"
+maintainer: "satazor <andremiguelcruz@msn.com>"
+author: "satazor <andremiguelcruz@msn.com>"
+license: "MIT"
+dev-repo: "git://github.com/IndigoUnited/node-cross-spawn-async.git"
+depends: [
+"lru-cache" {>="4.0.0" & <"5.0.0"}
+
+"which" {>="1.2.0" & <"2.0.0"}
+
+]
+
+
+
+

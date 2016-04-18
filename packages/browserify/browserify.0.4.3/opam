@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "browserify"
+version: "0.4.3"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "MIT/X11"
+dev-repo: "git://github.com/substack/node-browserify.git"
+depends: [
+"findit" {>="0.0.3" & <"0.1.0"}
+
+"source" {>="0.0.3" & <"0.1.0"}
+
+"es5-shim" {>="1.0.0"}
+
+"coffee-script" {>="1.1.1" & <"1.2.0"}
+
+"hashish" {>="0.0.2"}
+
+]
+
+
+
+

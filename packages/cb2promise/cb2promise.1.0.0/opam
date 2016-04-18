@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cb2promise"
+version: "1.0.0"
+maintainer: "kikobeats <josefrancisco.verdu@gmail.com>"
+author: "kikobeats <josefrancisco.verdu@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/Kikobeats/cb2promise"
+depends: [
+"pinkie-promise" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

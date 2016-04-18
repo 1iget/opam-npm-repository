@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sessionify"
+version: "0.1.1"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/doowb/sessionify.git"
+depends: [
+
+]
+
+
+
+

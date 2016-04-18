@@ -1,0 +1,27 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGES" {"CHANGES"}
+"es5-shim.js" {"es5-shim.js"}
+"es5-shim.min.js" {"es5-shim.min.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/array.js" {"test/array.js"}
+"test/date.js" {"test/date.js"}
+"test/function.js" {"test/function.js"}
+"test/index.html" {"test/index.html"}
+"test/object.js" {"test/object.js"}
+"test/string.js" {"test/string.js"}
+"tests/index.html" {"tests/index.html"}
+"tests/helpers/h-kill.js" {"tests/helpers/h-kill.js"}
+"tests/helpers/h-matchers.js" {"tests/helpers/h-matchers.js"}
+"tests/helpers/h.js" {"tests/helpers/h.js"}
+"tests/lib/jasmine-html.js" {"tests/lib/jasmine-html.js"}
+"tests/lib/jasmine.css" {"tests/lib/jasmine.css"}
+"tests/lib/jasmine.js" {"tests/lib/jasmine.js"}
+"tests/lib/jasmine_favicon.png" {"tests/lib/jasmine_favicon.png"}
+"tests/lib/json2.js" {"tests/lib/json2.js"}
+"tests/spec/s-array.js" {"tests/spec/s-array.js"}
+"tests/spec/s-function.js" {"tests/spec/s-function.js"}
+"tests/spec/s-string.js" {"tests/spec/s-string.js"}
+]

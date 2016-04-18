@@ -1,0 +1,1 @@
+Returns true if an object has an own, nested property using dot notation paths ('a.b.c').

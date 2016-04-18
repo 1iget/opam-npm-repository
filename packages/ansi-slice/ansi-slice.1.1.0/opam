@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "ansi-slice"
+version: "1.1.0"
+maintainer: "gajus <gk@anuary.com>"
+author: "gajus <gk@anuary.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/gajus/ansi-slice.git"
+depends: [
+"ansi-regex" {>="2.0.0" & <"3.0.0"}
+
+"lodash" {>="3.10.1" & <"4.0.0"}
+
+"splice-string" {>="1.0.0" & <"2.0.0"}
+
+"strip-ansi" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

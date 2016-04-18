@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "pbkdf2"
+version: "0.0.5"
+maintainer: "fundon <cfddream@gmail.com>"
+author: "fundon <cfddream@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/fundon/pbkdf2.git"
+depends: [
+
+]
+
+
+
+

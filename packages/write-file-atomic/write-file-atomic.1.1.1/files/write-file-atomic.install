@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"nochown" {"nochown"}
+"norename" {"norename"}
+"norename nounlink" {"norename nounlink"}
+"nowrite" {"nowrite"}
+"good" {"good"}
+"test/basic.js" {"test/basic.js"}
+"test/good" {"test/good"}
+"test/nochown" {"test/nochown"}
+"test/norename" {"test/norename"}
+"test/norename nounlink" {"test/norename nounlink"}
+"test/nowrite" {"test/nowrite"}
+]

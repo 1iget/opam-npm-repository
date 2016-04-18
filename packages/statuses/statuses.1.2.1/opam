@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "statuses"
+version: "1.2.1"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/jshttp/statuses"
+depends: [
+
+]
+
+
+
+

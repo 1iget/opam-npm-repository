@@ -1,0 +1,1 @@
+A sync glob / minimatch / RegExp call with a gruntjs -like `expand` of patterns, with minimum depepndencies. Derived from gruntjs's v0.4.1 `file.expand`

@@ -1,0 +1,20 @@
+lib: [
+"" {""}
+"lib/" {"lib/"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/argv.js" {"test/argv.js"}
+"test/basic.js" {"test/basic.js"}
+"test/default.js" {"test/default.js"}
+"test/hash.js" {"test/hash.js"}
+"test/help.js" {"test/help.js"}
+"test/key.js" {"test/key.js"}
+"test/long.js" {"test/long.js"}
+"test/noopts.js" {"test/noopts.js"}
+"test/positional.js" {"test/positional.js"}
+"test/runtests.js" {"test/runtests.js"}
+"test/short.js" {"test/short.js"}
+"test/shortcut.js" {"test/shortcut.js"}
+"lib/nomnom.js" {"lib/nomnom.js"}
+]

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "strings"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/sellside/strings.git"
+depends: [
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"frep" {>="0.1.2" & <"0.2.0"}
+
+"underscore.string" {>="2.3.3" & <"2.4.0"}
+
+"moment" {>="2.5.0" & <"2.6.0"}
+
+]
+
+
+
+

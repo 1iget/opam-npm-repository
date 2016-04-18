@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"bin/cleancss" {"bin/cleancss"}
+"History.md" {"History.md"}
+"lib/clean.js" {"lib/clean.js"}
+]

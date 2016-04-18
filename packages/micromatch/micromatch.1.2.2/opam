@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "micromatch"
+version: "1.2.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/micromatch.git"
+depends: [
+"arr-diff" {>="1.0.1" & <"2.0.0"}
+
+"braces" {>="1.6.0" & <"2.0.0"}
+
+"filename-regex" {>="2.0.0" & <"3.0.0"}
+
+"glob-path-regex" {>="1.0.0" & <"2.0.0"}
+
+"is-glob" {>="1.1.0" & <"2.0.0"}
+
+]
+
+
+
+

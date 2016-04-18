@@ -1,0 +1,7 @@
+lib: [
+"" {""}
+"mkhtml" {"mkhtml"}
+"mkjs" {"mkjs"}
+"package.json" {"package.json"}
+"require-kiss.js" {"require-kiss.js"}
+]

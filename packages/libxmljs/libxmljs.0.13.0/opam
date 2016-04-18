@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "libxmljs"
+version: "0.13.0"
+maintainer: "polotek <marco.rogers@gmail.com>"
+author: "polotek <marco.rogers@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/polotek/libxmljs.git"
+depends: [
+"bindings" {="1.1.1"}
+
+"nan" {="1.5.1"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

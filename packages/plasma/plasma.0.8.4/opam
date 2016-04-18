@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "plasma"
+version: "0.8.4"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/plasma.git"
+depends: [
+"extend-shallow" {>="1.1.4" & <"2.0.0"}
+
+"globby" {>="2.0.0" & <"3.0.0"}
+
+"is-glob" {>="2.0.0" & <"3.0.0"}
+
+"kind-of" {>="2.0.0" & <"3.0.0"}
+
+"mixin-deep" {>="1.1.1" & <"2.0.0"}
+
+"option-cache" {>="1.4.0" & <"2.0.0"}
+
+"relative" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "list-methods"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/list-methods.git"
+depends: [
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"chalk" {>="0.4.0" & <"0.5.0"}
+
+"fs-utils" {>="0.1.11" & <"0.2.0"}
+
+"prompt" {>="0.2.12" & <"0.3.0"}
+
+]
+
+
+
+

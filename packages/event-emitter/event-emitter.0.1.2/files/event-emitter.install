@@ -1,0 +1,12 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"CHANGES" {"CHANGES"}
+"lib/" {"lib/"}
+"lib/index.js" {"lib/index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/index.js" {"test/index.js"}
+]

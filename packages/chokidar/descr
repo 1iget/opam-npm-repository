@@ -1,0 +1,1 @@
+A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.

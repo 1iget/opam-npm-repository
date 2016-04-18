@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "findup-sync"
+version: "0.1.2"
+maintainer: "cowboy <cowboy@rj3.net>"
+author: "cowboy <cowboy@rj3.net>"
+license: "not defined"
+dev-repo: "git://github.com/cowboy/node-findup-sync.git"
+depends: [
+"glob" {>="3.1.21" & <"3.2.0"}
+
+"lodash" {>="1.0.1" & <"1.1.0"}
+
+]
+
+
+
+

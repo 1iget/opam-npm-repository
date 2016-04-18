@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "vhost"
+version: "1.0.0"
+maintainer: "TooTallNate <nathan@tootallnate.net>"
+author: "TooTallNate <nathan@tootallnate.net>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/vhost.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "is-integer"
+version: "1.0.4"
+maintainer: "parshap <supster+npm@gmail.com>"
+author: "parshap <supster+npm@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:parshap/js-is-integer"
+depends: [
+"is-finite" {>="1.0.0" & <"2.0.0"}
+
+"is-nan" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

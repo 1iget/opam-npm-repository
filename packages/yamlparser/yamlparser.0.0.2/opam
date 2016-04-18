@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "yamlparser"
+version: "0.0.2"
+maintainer: "h4evr <costa.h4evr@gmail.com>"
+author: "h4evr <costa.h4evr@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/h4evr/commonjs-javascript-yaml-parser.git"
+depends: [
+
+]
+
+
+
+

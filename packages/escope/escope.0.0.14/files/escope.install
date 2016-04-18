@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"escope.js" {"escope.js"}
+".jshintrc" {".jshintrc"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"bower.json" {"bower.json"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "promise"
+version: "3.1.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/then/promise.git"
+depends: [
+
+]
+
+
+
+

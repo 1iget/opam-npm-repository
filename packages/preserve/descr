@@ -1,0 +1,1 @@
+Temporarily substitute tokens in the given `string` with placeholders, then put them back after transforming the string.

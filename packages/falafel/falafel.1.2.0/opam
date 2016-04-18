@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "falafel"
+version: "1.2.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-falafel.git"
+depends: [
+"acorn" {>="1.0.3" & <"2.0.0"}
+
+"foreach" {>="2.0.5" & <"3.0.0"}
+
+"isarray" {="0.0.1"}
+
+"object-keys" {>="1.0.6" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Write a JSON file to disk, also creates intermediate directories in the destination path if they don't already exist.

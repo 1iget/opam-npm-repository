@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/path-tests.js" {"test/path-tests.js"}
+"test/fixtures/foo.md" {"test/fixtures/foo.md"}
+"test/fixtures/test.json" {"test/fixtures/test.json"}
+"test/fixtures/test.txt" {"test/fixtures/test.txt"}
+"test/fixtures/test.yaml" {"test/fixtures/test.yaml"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "esformatter-jsx"
+version: "1.0.1"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/esformatter-jsx"
+depends: [
+"esprima-fb" {>="12001.1.0-dev-harmony-fb" & <"12002.0.0"}
+
+"fresh-falafel" {>="0.2.6" & <"0.3.0"}
+
+"js-beautify" {>="1.5.4" & <"2.0.0"}
+
+"lodash.defaults" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

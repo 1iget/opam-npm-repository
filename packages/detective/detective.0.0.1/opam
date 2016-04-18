@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "detective"
+version: "0.0.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-detective.git"
+depends: [
+"burrito" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

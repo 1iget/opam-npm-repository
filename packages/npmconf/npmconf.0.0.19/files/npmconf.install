@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"config-defs.js" {"config-defs.js"}
+"npmconf.js" {"npmconf.js"}
+"test/00-setup.js" {"test/00-setup.js"}
+"test/basic.js" {"test/basic.js"}
+"test/builtin.js" {"test/builtin.js"}
+"test/save.js" {"test/save.js"}
+"test/fixtures/builtin" {"test/fixtures/builtin"}
+"test/fixtures/globalconfig" {"test/fixtures/globalconfig"}
+"test/fixtures/userconfig" {"test/fixtures/userconfig"}
+]

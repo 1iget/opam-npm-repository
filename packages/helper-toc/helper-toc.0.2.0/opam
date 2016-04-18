@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "helper-toc"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/helper-toc.git"
+depends: [
+"glob-toc" {>="0.1.2" & <"0.2.0"}
+
+"globby" {>="2.0.0" & <"3.0.0"}
+
+"markdown-toc" {>="0.11.3" & <"0.12.0"}
+
+"markdown-utils" {>="0.6.1" & <"0.7.0"}
+
+"mixin-deep" {>="1.1.0" & <"2.0.0"}
+
+"relative" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

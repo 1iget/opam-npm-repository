@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"t.js" {"t.js"}
+"wrap-main.js" {"wrap-main.js"}
+"scripts/argv.js" {"scripts/argv.js"}
+]

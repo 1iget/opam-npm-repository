@@ -1,0 +1,1 @@
+Lazily load chalk, since it takes so long to load.

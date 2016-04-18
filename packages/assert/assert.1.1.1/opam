@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "assert"
+version: "1.1.1"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/defunctzombie/commonjs-assert.git"
+depends: [
+"util" {="0.10.2"}
+
+]
+
+
+
+

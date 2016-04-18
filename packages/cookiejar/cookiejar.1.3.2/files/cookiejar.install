@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"cookiejar.js" {"cookiejar.js"}
+"readme.md" {"readme.md"}
+"tests/test.js" {"tests/test.js"}
+]

@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"valid-iterable.js" {"valid-iterable.js"}
+"string.js" {"string.js"}
+"array.js" {"array.js"}
+"is-iterable.js" {"is-iterable.js"}
+"get.js" {"get.js"}
+"index.js" {"index.js"}
+"for-of.js" {"for-of.js"}
+".lint" {".lint"}
+"CHANGES" {"CHANGES"}
+".travis.yml" {".travis.yml"}
+"test/array.js" {"test/array.js"}
+"test/for-of.js" {"test/for-of.js"}
+"test/get.js" {"test/get.js"}
+"test/index.js" {"test/index.js"}
+"test/is-iterable.js" {"test/is-iterable.js"}
+"test/string.js" {"test/string.js"}
+"test/valid-iterable.js" {"test/valid-iterable.js"}
+"test/#/chain.js" {"test/#/chain.js"}
+"#/chain.js" {"#/chain.js"}
+]

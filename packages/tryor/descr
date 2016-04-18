@@ -1,0 +1,1 @@
+return fn() or default value (in case of exception)

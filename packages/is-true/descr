@@ -1,0 +1,1 @@
+Returns `true` if the value of an object's property is strictly true, or it's inverse is false.

@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"core.js" {"core.js"}
+"index.js" {"index.js"}
+"lib/next-tick.js" {"lib/next-tick.js"}
+"Readme.md" {"Readme.md"}
+]

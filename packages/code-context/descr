@@ -1,0 +1,1 @@
+Parse a string of javascript to determine the context for functions, variables and comments based on the code that follows.

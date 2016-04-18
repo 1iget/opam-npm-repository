@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "read-package-json"
+version: "2.0.1"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/read-package-json.git"
+depends: [
+"glob" {>="5.0.3" & <"6.0.0"}
+
+"json-parse-helpfulerror" {>="1.0.2" & <"2.0.0"}
+
+"normalize-package-data" {>="2.0.0" & <"3.0.0"}
+
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+]
+
+
+
+

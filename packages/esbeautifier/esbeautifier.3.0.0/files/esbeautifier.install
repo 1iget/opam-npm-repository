@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"configs/esformatter.json" {"configs/esformatter.json"}
+"bin/cli.js" {"bin/cli.js"}
+"changelog.md" {"changelog.md"}
+"lib/console.js" {"lib/console.js"}
+"lib/exec.js" {"lib/exec.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/esbeautifier.js" {"specs/esbeautifier.js"}
+"specs/bin/cli.js" {"specs/bin/cli.js"}
+"npm-shrinkwrap.json" {"npm-shrinkwrap.json"}
+".travis.yml" {".travis.yml"}
+"resources/expected/jsx-simple.js" {"resources/expected/jsx-simple.js"}
+"resources/expected/shebang.js" {"resources/expected/shebang.js"}
+"resources/fixtures/jsx-simple.js" {"resources/fixtures/jsx-simple.js"}
+"resources/fixtures/shebang.js" {"resources/fixtures/shebang.js"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]

@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"spawn.js" {"spawn.js"}
+"Readme.md" {"Readme.md"}
+"bin/npm-run.js" {"bin/npm-run.js"}
+"test/exec.js" {"test/exec.js"}
+"test/spawn.js" {"test/spawn.js"}
+]

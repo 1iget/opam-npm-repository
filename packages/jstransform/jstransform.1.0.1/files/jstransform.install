@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".jshintrc" {".jshintrc"}
+"src/jstransform.js" {"src/jstransform.js"}
+"src/utils.js" {"src/utils.js"}
+"src/docblock.js" {"src/docblock.js"}
+"src/__tests__/jstransform-test.js" {"src/__tests__/jstransform-test.js"}
+"visitors/es6-object-short-notation-visitors.js" {"visitors/es6-object-short-notation-visitors.js"}
+"visitors/es6-class-visitors.js" {"visitors/es6-class-visitors.js"}
+"visitors/es6-arrow-function-visitors.js" {"visitors/es6-arrow-function-visitors.js"}
+"visitors/es6-rest-param-visitors.js" {"visitors/es6-rest-param-visitors.js"}
+"visitors/es6-template-visitors.js" {"visitors/es6-template-visitors.js"}
+"visitors/__tests__/es6-arrow-function-visitors-test.js" {"visitors/__tests__/es6-arrow-function-visitors-test.js"}
+"visitors/__tests__/es6-template-visitors-test.js" {"visitors/__tests__/es6-template-visitors-test.js"}
+"visitors/__tests__/es6-class-visitors-test.js" {"visitors/__tests__/es6-class-visitors-test.js"}
+"visitors/__tests__/es6-rest-param-visitors-test.js" {"visitors/__tests__/es6-rest-param-visitors-test.js"}
+"visitors/__tests__/es6-object-short-notation-visitors-test.js" {"visitors/__tests__/es6-object-short-notation-visitors-test.js"}
+]

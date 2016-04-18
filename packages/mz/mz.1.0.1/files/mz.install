@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"_promisify.js" {"_promisify.js"}
+"_promisify_all.js" {"_promisify_all.js"}
+"fs.js" {"fs.js"}
+"dns.js" {"dns.js"}
+"crypto.js" {"crypto.js"}
+"zlib.js" {"zlib.js"}
+"child_process.js" {"child_process.js"}
+"coverage/coverage.json" {"coverage/coverage.json"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/mz/_promisify.js.html" {"coverage/lcov-report/mz/_promisify.js.html"}
+"coverage/lcov-report/mz/_promisify_all.js.html" {"coverage/lcov-report/mz/_promisify_all.js.html"}
+"coverage/lcov-report/mz/child_process.js.html" {"coverage/lcov-report/mz/child_process.js.html"}
+"coverage/lcov-report/mz/crypto.js.html" {"coverage/lcov-report/mz/crypto.js.html"}
+"coverage/lcov-report/mz/fs.js.html" {"coverage/lcov-report/mz/fs.js.html"}
+"coverage/lcov-report/mz/index.html" {"coverage/lcov-report/mz/index.html"}
+"coverage/lcov-report/mz/zlib.js.html" {"coverage/lcov-report/mz/zlib.js.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+".travis.yml" {".travis.yml"}
+"HISTORY.md" {"HISTORY.md"}
+]

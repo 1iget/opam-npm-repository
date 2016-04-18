@@ -1,0 +1,7 @@
+lib: [
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"docs/rewrite.json" {"docs/rewrite.json"}
+"test/rewrite.js" {"test/rewrite.js"}
+"src/lib/rewrite.js" {"src/lib/rewrite.js"}
+]

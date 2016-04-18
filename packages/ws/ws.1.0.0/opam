@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "ws"
+version: "1.0.0"
+maintainer: "einaros <einaros@gmail.com>"
+author: "einaros <einaros@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/websockets/ws.git"
+depends: [
+"options" {>="0.0.5"}
+
+"ultron" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

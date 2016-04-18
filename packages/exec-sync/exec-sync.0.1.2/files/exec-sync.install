@@ -1,0 +1,10 @@
+lib: [
+".npmignore" {".npmignore"}
+"bin/" {"bin/"}
+"bin/index.js" {"bin/index.js"}
+"Cakefile" {"Cakefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"src/" {"src/"}
+"src/index.coffee" {"src/index.coffee"}
+]

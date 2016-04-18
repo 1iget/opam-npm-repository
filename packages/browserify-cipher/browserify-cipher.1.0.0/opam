@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "browserify-cipher"
+version: "1.0.0"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/crypto-browserify/browserify-cipher.git"
+depends: [
+"browserify-aes" {>="1.0.4" & <"2.0.0"}
+
+"browserify-des" {>="1.0.0" & <"2.0.0"}
+
+"evp_bytestokey" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,21 @@
+
+0.1.3
+ - fixed erroneous link to the q module in package.json
+
+0.1.2
+ - restructured for overlay style package compatibility
+
+0.1.0
+ - removed asap because it was broken, probably down to the
+   philosophy.
+
+0.0.3
+ - removed q-util
+ - fixed asap so it returns a value if completed
+
+0.0.2
+ - added q-util
+
+0.0.1
+ - initial version
+

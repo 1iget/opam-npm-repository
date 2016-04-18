@@ -1,0 +1,1 @@
+Find the first directory with a package.json, recursing up, starting with the given directory. Similar to look-up but does not support globs and only searches for package.json. Async and sync.

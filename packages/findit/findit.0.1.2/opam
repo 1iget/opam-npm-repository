@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "findit"
+version: "0.1.2"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT/X11"
+dev-repo: "git://github.com/substack/node-findit.git"
+depends: [
+"seq" {>="0.1.7"}
+
+]
+
+
+
+

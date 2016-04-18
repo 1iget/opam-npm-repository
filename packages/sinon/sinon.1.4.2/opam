@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "sinon"
+version: "1.4.2"
+maintainer: "seeflanigan <seeflanigan@gmail.com>"
+author: "seeflanigan <seeflanigan@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/cjohansen/Sinon.JS.git"
+depends: [
+"buster-format" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

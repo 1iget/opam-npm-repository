@@ -1,0 +1,1 @@
+Synchronous exec with status code support. Requires no external dependencies, no need for node-gyp compilations etc.

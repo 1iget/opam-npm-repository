@@ -1,0 +1,52 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"BigInteger.js" {"BigInteger.js"}
+"BigInteger.min.js" {"BigInteger.min.js"}
+"Web.Debug.config" {"Web.Debug.config"}
+"BigInt.v11.suo" {"BigInt.v11.suo"}
+"Properties/AssemblyInfo.cs" {"Properties/AssemblyInfo.cs"}
+".gitconfig" {".gitconfig"}
+"BigInt.csproj" {"BigInt.csproj"}
+"Web.Release.config" {"Web.Release.config"}
+"Web.config" {"Web.config"}
+"bin/Bignum.dll" {"bin/Bignum.dll"}
+"bin/Bignum.pdb" {"bin/Bignum.pdb"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/prettify.js" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/prettify.js"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/sorter.js" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/sorter.js"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/__root__/BigInteger.js.html" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/__root__/BigInteger.js.html"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/__root__/BigInteger.min.js.html" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/__root__/BigInteger.min.js.html"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/__root__/index.html" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/__root__/index.html"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/base.css" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/base.css"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/index.html" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/index.html"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/prettify.css" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/prettify.css"}
+"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/sort-arrow-sprite.png" {"coverage/Chrome 35.0.1916 (Windows 7 0.0.0)/sort-arrow-sprite.png"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/prettify.js" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/prettify.js"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/sorter.js" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/sorter.js"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/__root__/BigInteger.js.html" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/__root__/BigInteger.js.html"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/__root__/index.html" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/__root__/index.html"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/base.css" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/base.css"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/index.html" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/index.html"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/prettify.js" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/prettify.js"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/sorter.js" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/sorter.js"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/__root__/BigInteger.js.html" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/__root__/BigInteger.js.html"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/__root__/index.html" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/__root__/index.html"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/base.css" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/base.css"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/index.html" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/index.html"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/prettify.css" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/prettify.css"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/sort-arrow-sprite.png" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov-report/sort-arrow-sprite.png"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov.info" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/lcov.info"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/prettify.css" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/prettify.css"}
+"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/sort-arrow-sprite.png" {"coverage/PhantomJS 1.9.8 (Windows 7 0.0.0)/sort-arrow-sprite.png"}
+"minify.bat" {"minify.bat"}
+"BigInt.csproj.user" {"BigInt.csproj.user"}
+"obj/Debug/BigInt.csproj.FileListAbsolute.txt" {"obj/Debug/BigInt.csproj.FileListAbsolute.txt"}
+"obj/Debug/BigInt.csprojResolveAssemblyReference.cache" {"obj/Debug/BigInt.csprojResolveAssemblyReference.cache"}
+"obj/Debug/Bignum.csproj.FileListAbsolute.txt" {"obj/Debug/Bignum.csproj.FileListAbsolute.txt"}
+"obj/Debug/Bignum.csprojResolveAssemblyReference.cache" {"obj/Debug/Bignum.csprojResolveAssemblyReference.cache"}
+"obj/Debug/Bignum.dll" {"obj/Debug/Bignum.dll"}
+"obj/Debug/Bignum.pdb" {"obj/Debug/Bignum.pdb"}
+"obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" {"obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache"}
+"release.sh" {"release.sh"}
+]

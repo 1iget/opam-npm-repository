@@ -1,0 +1,1 @@
+Simple filepath re-writing for node.js projects. Useful for re-writing paths in grunt/gulp/assemble tasks or plugins.

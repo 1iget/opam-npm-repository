@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "redent"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/redent"
+depends: [
+"indent-string" {>="2.1.0" & <"3.0.0"}
+
+"strip-indent" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

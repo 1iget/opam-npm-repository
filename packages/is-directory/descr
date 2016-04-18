@@ -1,0 +1,1 @@
+Returns `true` if a filepath is a directory. Basically `fs.statSync().isDirectory()` with extra error handling.

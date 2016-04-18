@@ -1,0 +1,1 @@
+Escape and un-escape delimiters in templates. Tested with Lo-Dash, underscore and Handlebars syntax, but could be used with other template engines/syntaxes as well. This is similar to the process used by Yeoman on escaped templates in generators.

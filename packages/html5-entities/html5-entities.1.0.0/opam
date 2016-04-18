@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "html5-entities"
+version: "1.0.0"
+maintainer: "gregrperkins <gregperkins@alum.mit.edu>"
+author: "gregrperkins <gregperkins@alum.mit.edu>"
+license: "MIT"
+
+depends: [
+
+]
+
+
+
+

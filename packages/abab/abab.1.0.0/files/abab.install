@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+".nvmrc" {".nvmrc"}
+"lib/atob.js" {"lib/atob.js"}
+"lib/btoa.js" {"lib/btoa.js"}
+".travis.yml" {".travis.yml"}
+"test/abab.js" {"test/abab.js"}
+"test/atob.js" {"test/atob.js"}
+"test/btoa.js" {"test/btoa.js"}
+]

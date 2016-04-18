@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"tests/crc.test.js" {"tests/crc.test.js"}
+]

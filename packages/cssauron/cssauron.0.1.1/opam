@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cssauron"
+version: "0.1.1"
+maintainer: "chrisdickinson <chris@neversaw.us>"
+author: "chrisdickinson <chris@neversaw.us>"
+license: "MIT"
+dev-repo: "git://github.com/chrisdickinson/cssauron.git"
+depends: [
+"through" {>="0.0.0"}
+
+]
+
+
+
+

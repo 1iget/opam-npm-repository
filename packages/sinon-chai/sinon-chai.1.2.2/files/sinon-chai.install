@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/sinon-chai.js" {"lib/sinon-chai.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"test/common.js" {"test/common.js"}
+"test/callArguments.coffee" {"test/callArguments.coffee"}
+"test/callContext.coffee" {"test/callContext.coffee"}
+"test/callCount.coffee" {"test/callCount.coffee"}
+"test/callOrder.coffee" {"test/callOrder.coffee"}
+"test/messages.coffee" {"test/messages.coffee"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/returning.coffee" {"test/returning.coffee"}
+"test/throwing.coffee" {"test/throwing.coffee"}
+]

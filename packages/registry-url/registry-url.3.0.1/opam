@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "registry-url"
+version: "3.0.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/registry-url"
+depends: [
+"rc" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

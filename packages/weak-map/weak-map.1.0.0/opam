@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "weak-map"
+version: "1.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

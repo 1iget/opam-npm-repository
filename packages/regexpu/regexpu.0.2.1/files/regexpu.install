@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"transpile-code.js" {"transpile-code.js"}
+"regexpu.js" {"regexpu.js"}
+"rewrite-pattern.js" {"rewrite-pattern.js"}
+"transform-tree.js" {"transform-tree.js"}
+"bin/regexpu" {"bin/regexpu"}
+"data/character-class-escape-sets.js" {"data/character-class-escape-sets.js"}
+"data/iu-mappings.json" {"data/iu-mappings.json"}
+"man/regexpu.1" {"man/regexpu.1"}
+"LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
+]

@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/split.js" {"example/split.js"}
+"readme.markdown" {"readme.markdown"}
+"test/buffer.js" {"test/buffer.js"}
+"test/object_mode.js" {"test/object_mode.js"}
+"test/string.js" {"test/string.js"}
+]

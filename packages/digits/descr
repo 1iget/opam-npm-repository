@@ -1,0 +1,1 @@
+Pad numbers with zeros. Automatically pad the number of digits based on the length of the array, or explicitly pass in the number of digits to use.

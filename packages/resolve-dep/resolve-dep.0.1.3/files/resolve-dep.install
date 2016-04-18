@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"EXAMPLES.md" {"EXAMPLES.md"}
+"lib/resolve-dep.js" {"lib/resolve-dep.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]

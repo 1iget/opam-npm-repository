@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "array-difference"
+version: "0.0.1"
+maintainer: "jugglinmike <mike@mikepennisi.com>"
+author: "jugglinmike <mike@mikepennisi.com>"
+license: "MIT Expat"
+dev-repo: "git@github.com:jugglinmike/array-difference.git"
+depends: [
+
+]
+
+
+
+

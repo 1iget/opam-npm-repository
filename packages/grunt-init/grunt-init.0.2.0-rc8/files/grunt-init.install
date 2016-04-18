@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"bin/grunt-init" {"bin/grunt-init"}
+"CHANGELOG" {"CHANGELOG"}
+"dev/generate.exp" {"dev/generate.exp"}
+".jshintrc" {".jshintrc"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".travis.yml" {".travis.yml"}
+"AUTHORS" {"AUTHORS"}
+"tasks/init.js" {"tasks/init.js"}
+"tasks/lib/git.js" {"tasks/lib/git.js"}
+"tasks/lib/helpers.js" {"tasks/lib/helpers.js"}
+"tasks/lib/prompt.js" {"tasks/lib/prompt.js"}
+"templates/licenses/LICENSE-Apache-2.0" {"templates/licenses/LICENSE-Apache-2.0"}
+"templates/licenses/LICENSE-GPL-2.0" {"templates/licenses/LICENSE-GPL-2.0"}
+"templates/licenses/LICENSE-MIT" {"templates/licenses/LICENSE-MIT"}
+"templates/licenses/LICENSE-MPL-2.0" {"templates/licenses/LICENSE-MPL-2.0"}
+"templates/misc/placeholder" {"templates/misc/placeholder"}
+"test/git_test.js" {"test/git_test.js"}
+]

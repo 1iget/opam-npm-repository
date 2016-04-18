@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".eslintrc" {".eslintrc"}
+"readme.md" {"readme.md"}
+]

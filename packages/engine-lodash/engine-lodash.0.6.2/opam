@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "engine-lodash"
+version: "0.6.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/engine-lodash.git"
+depends: [
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"debug" {>="2.1.3" & <"3.0.0"}
+
+"delimiter-regex" {>="1.3.1" & <"2.0.0"}
+
+"engine-utils" {>="0.1.1" & <"0.2.0"}
+
+"lodash" {>="3.5.0" & <"4.0.0"}
+
+]
+
+
+
+

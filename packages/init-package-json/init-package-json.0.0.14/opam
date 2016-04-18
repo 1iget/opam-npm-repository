@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "init-package-json"
+version: "0.0.14"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "BSD"
+dev-repo: "git://github.com/isaacs/init-package-json"
+depends: [
+"promzard" {>="0.2.0" & <"0.3.0"}
+
+"read" {>="1.0.1" & <"1.1.0"}
+
+"read-package-json" {>="1.0.0" & <"2.0.0"}
+
+"semver" {>="2.0.0" & <"3.0.0"}
+
+"glob" {>="3.2.7" & <"3.3.0"}
+
+]
+
+
+
+

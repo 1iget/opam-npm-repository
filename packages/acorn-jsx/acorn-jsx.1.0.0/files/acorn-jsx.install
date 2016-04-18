@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+".travis.yml" {".travis.yml"}
+".editorconfig" {".editorconfig"}
+".gitattributes" {".gitattributes"}
+"test/tests-jsx.js" {"test/tests-jsx.js"}
+]

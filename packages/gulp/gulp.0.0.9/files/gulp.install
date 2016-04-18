@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"bin/gulp" {"bin/gulp"}
+"lib/createFileStream.js" {"lib/createFileStream.js"}
+"lib/createFilesStream.js" {"lib/createFilesStream.js"}
+"lib/createFolderStream.js" {"lib/createFolderStream.js"}
+"lib/readFile.js" {"lib/readFile.js"}
+"lib/watchFile.js" {"lib/watchFile.js"}
+"test/file-utils.js" {"test/file-utils.js"}
+"test/file.js" {"test/file.js"}
+"test/files.js" {"test/files.js"}
+"test/folder.js" {"test/folder.js"}
+"test/tasks.js" {"test/tasks.js"}
+"test/watch.js" {"test/watch.js"}
+"test/fixtures/stuff/run.dmc" {"test/fixtures/stuff/run.dmc"}
+"test/fixtures/stuff/test.dmc" {"test/fixtures/stuff/test.dmc"}
+"test/fixtures/test/run.jade" {"test/fixtures/test/run.jade"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/out-fixtures/test.coffee" {"test/out-fixtures/test.coffee"}
+]

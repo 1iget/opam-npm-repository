@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"compressible.sublime-project" {"compressible.sublime-project"}
+"compressible.sublime-workspace" {"compressible.sublime-workspace"}
+"specifications.json" {"specifications.json"}
+]

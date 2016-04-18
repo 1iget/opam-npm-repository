@@ -1,0 +1,1 @@
+A YAML parser written in javascript. This is the port to CommonJS. Client-side script is available at http://code.google.com/p/javascript-yaml-parser/

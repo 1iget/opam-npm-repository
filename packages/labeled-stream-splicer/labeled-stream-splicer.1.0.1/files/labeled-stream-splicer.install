@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"example/bundle.js" {"example/bundle.js"}
+"example/browser/bar.js" {"example/browser/bar.js"}
+"example/browser/foo.js" {"example/browser/foo.js"}
+"example/browser/main.js" {"example/browser/main.js"}
+"example/browser/xyz.js" {"example/browser/xyz.js"}
+"readme.markdown" {"readme.markdown"}
+"test/bundle.js" {"test/bundle.js"}
+"test/bundle/bar.js" {"test/bundle/bar.js"}
+"test/bundle/foo.js" {"test/bundle/foo.js"}
+"test/bundle/main.js" {"test/bundle/main.js"}
+"test/bundle/xyz.js" {"test/bundle/xyz.js"}
+]

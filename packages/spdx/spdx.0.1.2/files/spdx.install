@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"spdx.js" {"spdx.js"}
+".jshintrc" {".jshintrc"}
+".editorconfig" {".editorconfig"}
+"LICENSE.md" {"LICENSE.md"}
+".gitattributes" {".gitattributes"}
+".jscsrc" {".jscsrc"}
+".travis.yml" {".travis.yml"}
+]

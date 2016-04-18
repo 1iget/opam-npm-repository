@@ -1,0 +1,1 @@
+Template helper for generating a table of contents using content from the file in which the helper is used, or for a glob of files.

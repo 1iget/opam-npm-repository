@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"build/unicode-length.js" {"build/unicode-length.js"}
+".travis.yml" {".travis.yml"}
+"coffeelint.json" {"coffeelint.json"}
+"gulpfile.coffee" {"gulpfile.coffee"}
+"lib/unicode-length.coffee" {"lib/unicode-length.coffee"}
+".editorconfig" {".editorconfig"}
+"tests/unicode-length.spec.coffee" {"tests/unicode-length.spec.coffee"}
+]

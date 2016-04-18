@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "simple-fmt"
+version: "0.1.0"
+maintainer: "olov <olov.lassus@gmail.com>"
+author: "olov <olov.lassus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/olov/simple-fmt.git"
+depends: [
+
+]
+
+
+
+

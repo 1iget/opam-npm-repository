@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "es5-shim"
+version: "3.3.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+dev-repo: "http://github.com/es-shims/es5-shim.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"binding.gyp" {"binding.gyp"}
+"History.md" {"History.md"}
+"lib/ref.js" {"lib/ref.js"}
+"src/binding.cc" {"src/binding.cc"}
+"test/address.js" {"test/address.js"}
+"test/int64.js" {"test/int64.js"}
+"test/isNull.js" {"test/isNull.js"}
+"test/object.js" {"test/object.js"}
+"test/pointer.js" {"test/pointer.js"}
+"test/ref-deref.js" {"test/ref-deref.js"}
+"test/sizeof.js" {"test/sizeof.js"}
+]

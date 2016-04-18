@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"breakable.js" {"breakable.js"}
+"examples/example-explicit.js" {"examples/example-explicit.js"}
+"examples/example.js" {"examples/example.js"}
+"test/breakable-tests.js" {"test/breakable-tests.js"}
+]

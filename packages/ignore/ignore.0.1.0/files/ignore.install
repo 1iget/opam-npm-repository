@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/ignore.js" {"test/ignore.js"}
+"test/fixtures/.npmignore" {"test/fixtures/.npmignore"}
+"test/fixtures/a.js" {"test/fixtures/a.js"}
+"test/fixtures/.blah" {"test/fixtures/.blah"}
+"test/fixtures/.ignore" {"test/fixtures/.ignore"}
+"test/fixtures/.ignore2" {"test/fixtures/.ignore2"}
+"test/fixtures/.ignore3" {"test/fixtures/.ignore3"}
+]

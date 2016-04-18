@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "csurf"
+version: "0.0.1"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "WTFPL"
+dev-repo: "https://github.com/discore/csurf.git"
+depends: [
+
+]
+
+
+
+

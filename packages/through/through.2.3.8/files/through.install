@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.APACHE2" {"LICENSE.APACHE2"}
+"LICENSE.MIT" {"LICENSE.MIT"}
+"readme.markdown" {"readme.markdown"}
+"test/async.js" {"test/async.js"}
+"test/auto-destroy.js" {"test/auto-destroy.js"}
+"test/buffering.js" {"test/buffering.js"}
+"test/end.js" {"test/end.js"}
+"test/index.js" {"test/index.js"}
+]

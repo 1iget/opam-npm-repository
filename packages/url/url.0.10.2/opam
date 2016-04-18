@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "url"
+version: "0.10.2"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/defunctzombie/node-url.git"
+depends: [
+"punycode" {="1.3.2"}
+
+]
+
+
+
+

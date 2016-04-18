@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "errorifier"
+version: "0.2.0"
+maintainer: "kikobeats <josefrancisco.verdu@gmail.com>"
+author: "kikobeats <josefrancisco.verdu@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/Kikobeats/errorifier"
+depends: [
+"coffee-script" {>="1.10.0" & <"1.11.0"}
+
+"format" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

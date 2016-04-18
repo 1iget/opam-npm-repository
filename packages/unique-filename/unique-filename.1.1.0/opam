@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "unique-filename"
+version: "1.1.0"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git+https://github.com/iarna/unique-filename.git"
+depends: [
+"unique-slug" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

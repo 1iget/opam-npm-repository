@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "tape"
+version: "4.1.0"
+maintainer: "substack <substack@gmail.com>"
+author: "substack <substack@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/tape.git"
+depends: [
+"deep-equal" {>="1.0.0" & <"1.1.0"}
+
+"defined" {>="0.0.0" & <"0.1.0"}
+
+"glob" {>="5.0.3" & <"5.1.0"}
+
+"inherits" {>="2.0.1" & <"2.1.0"}
+
+"object-inspect" {>="1.0.0" & <"1.1.0"}
+
+"resumer" {>="0.0.0" & <"0.1.0"}
+
+"through" {>="2.3.4" & <"2.4.0"}
+
+]
+
+
+
+

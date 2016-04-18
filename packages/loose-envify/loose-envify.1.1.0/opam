@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "loose-envify"
+version: "1.1.0"
+maintainer: "zertosh <zertosh@gmail.com>"
+author: "zertosh <zertosh@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/zertosh/loose-envify.git"
+depends: [
+"js-tokens" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

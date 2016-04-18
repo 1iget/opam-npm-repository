@@ -1,0 +1,1 @@
+Module to wrap try-catch for better performance and cleaner API.

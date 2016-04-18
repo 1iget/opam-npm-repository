@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".jshintrc" {".jshintrc"}
+"README.hbs" {"README.hbs"}
+"boil.hbs" {"boil.hbs"}
+"boil.json" {"boil.json"}
+"lib/wodge.js" {"lib/wodge.js"}
+"test/commonDir.js" {"test/commonDir.js"}
+"test/exists.js" {"test/exists.js"}
+"test/extend.js" {"test/extend.js"}
+"test/omit.js" {"test/omit.js"}
+"test/pluck.js" {"test/pluck.js"}
+"test/union.js" {"test/union.js"}
+]

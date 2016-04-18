@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"create-hash.js" {"create-hash.js"}
+"helpers.js" {"helpers.js"}
+"index.js" {"index.js"}
+"md5.js" {"md5.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+]

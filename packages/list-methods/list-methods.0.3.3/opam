@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "list-methods"
+version: "0.3.3"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "https://github.com/jonschlinkert/list-methods.git"
+depends: [
+"fs-utils" {>="0.4.0" & <"0.5.0"}
+
+"method-names" {>="0.1.1" & <"0.2.0"}
+
+"minimist" {="0.0.8"}
+
+"relative" {>="0.1.4" & <"0.2.0"}
+
+"template" {>="0.1.6" & <"0.2.0"}
+
+"verbalize" {>="0.1.2" & <"0.2.0"}
+
+"xtend" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

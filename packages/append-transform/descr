@@ -1,0 +1,1 @@
+Install a transform to `require.extensions` that always runs last, even if additional extensions are added later.

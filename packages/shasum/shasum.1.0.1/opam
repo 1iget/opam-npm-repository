@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "shasum"
+version: "1.0.1"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/dominictarr/shasum.git"
+depends: [
+"json-stable-stringify" {>="0.0.0" & <"0.1.0"}
+
+"sha.js" {>="2.3.0" & <"2.4.0"}
+
+]
+
+
+
+

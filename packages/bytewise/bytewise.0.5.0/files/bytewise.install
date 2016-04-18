@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"bench.js" {"bench.js"}
+"bytewise.js" {"bytewise.js"}
+".travis.yml" {".travis.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"test/serialization.js" {"test/serialization.js"}
+]

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "superagent"
+version: "0.4.2"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+
+depends: [
+"qs" {="0.4.2"}
+
+"formidable" {="1.0.9"}
+
+"mime" {="1.2.5"}
+
+"emitter-component" {="0.0.1"}
+
+]
+
+
+
+

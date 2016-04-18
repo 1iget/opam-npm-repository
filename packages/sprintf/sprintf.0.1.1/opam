@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sprintf"
+version: "0.1.1"
+maintainer: "maritz <moritz@mpeters.biz>"
+author: "maritz <moritz@mpeters.biz>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "required"
+version: "0.1.0"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/shtylman/node-required.git"
+depends: [
+"detective" {="ImdpdDovL2dpdGh1Yi5jb20vc2h0eWxtYW4vbm9kZS1kZXRlY3RpdmUuZ2l0IzA2ZDVjYiI"}
+
+]
+
+
+
+

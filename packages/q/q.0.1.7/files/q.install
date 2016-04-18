@@ -1,0 +1,21 @@
+lib: [
+"q/" {"q/"}
+"q/._.DS_Store" {"q/._.DS_Store"}
+"q/.DS_Store" {"q/.DS_Store"}
+"q/CHANGES" {"q/CHANGES"}
+"q/examples/" {"q/examples/"}
+"q/lib/" {"q/lib/"}
+"q/LICENSE" {"q/LICENSE"}
+"q/package.json" {"q/package.json"}
+"q/q-0.1.6.min.js" {"q/q-0.1.6.min.js"}
+"q/README" {"q/README"}
+"q/test/" {"q/test/"}
+"q/test/all.js" {"q/test/all.js"}
+"q/test/asap.js" {"q/test/asap.js"}
+"q/test/multiple-listeners.js" {"q/test/multiple-listeners.js"}
+"q/test/promised-chains.js" {"q/test/promised-chains.js"}
+"q/test/resolve-reject.js" {"q/test/resolve-reject.js"}
+"q/test/value-of.js" {"q/test/value-of.js"}
+"q/lib/q.js" {"q/lib/q.js"}
+"q/examples/test.js" {"q/examples/test.js"}
+]

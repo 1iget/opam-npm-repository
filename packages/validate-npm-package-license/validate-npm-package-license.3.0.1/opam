@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "validate-npm-package-license"
+version: "3.0.1"
+maintainer: "kemitchell <kyle@kemitchell.com>"
+author: "kemitchell <kyle@kemitchell.com>"
+license: "Apache-2.0"
+dev-repo: "git+https://github.com/kemitchell/validate-npm-package-license.js.git"
+depends: [
+"spdx-correct" {>="1.0.0" & <"1.1.0"}
+
+"spdx-expression-parse" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

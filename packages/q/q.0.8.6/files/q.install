@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"q.js" {"q.js"}
+".tmp/makeQ.js" {".tmp/makeQ.js"}
+".tmp/map.js" {".tmp/map.js"}
+".tmp/markm-mzero.js" {".tmp/markm-mzero.js"}
+".tmp/stream.js" {".tmp/stream.js"}
+".tmp/weak-map.js" {".tmp/weak-map.js"}
+".tmp/promiseAllFulfilled.emaker" {".tmp/promiseAllFulfilled.emaker"}
+".tmp/promiseAllResolved.emaker" {".tmp/promiseAllResolved.emaker"}
+]

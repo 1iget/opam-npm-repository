@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/condense.js" {"lib/condense.js"}
+"lib/format.js" {"lib/format.js"}
+"lib/index.js" {"lib/index.js"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "duplexer2"
+version: "0.1.1"
+maintainer: "deoxxa <deoxxa@fknsrs.biz>"
+author: "deoxxa <deoxxa@fknsrs.biz>"
+license: "BSD-3-Clause"
+dev-repo: "git+https://github.com/deoxxa/duplexer2.git"
+depends: [
+"readable-stream" {>="2.0.2" & <"3.0.0"}
+
+]
+
+
+
+

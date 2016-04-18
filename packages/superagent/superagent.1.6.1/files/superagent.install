@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"superagent.js" {"superagent.js"}
+"bower.json" {"bower.json"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+".travis.yml" {".travis.yml"}
+"component.json" {"component.json"}
+"lib/client.js" {"lib/client.js"}
+"lib/node/agent.js" {"lib/node/agent.js"}
+"lib/node/index.js" {"lib/node/index.js"}
+"lib/node/part.js" {"lib/node/part.js"}
+"lib/node/response.js" {"lib/node/response.js"}
+"lib/node/utils.js" {"lib/node/utils.js"}
+"lib/node/parsers/image.js" {"lib/node/parsers/image.js"}
+"lib/node/parsers/index.js" {"lib/node/parsers/index.js"}
+"lib/node/parsers/json.js" {"lib/node/parsers/json.js"}
+"lib/node/parsers/text.js" {"lib/node/parsers/text.js"}
+"lib/node/parsers/urlencoded.js" {"lib/node/parsers/urlencoded.js"}
+".zuul.yml" {".zuul.yml"}
+"Contributing.md" {"Contributing.md"}
+]

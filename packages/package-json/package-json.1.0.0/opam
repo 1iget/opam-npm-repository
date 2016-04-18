@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "package-json"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/package-json"
+depends: [
+"got" {>="1.0.1" & <"2.0.0"}
+
+"registry-url" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

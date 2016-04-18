@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "strip-bom-string"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/strip-bom-string.git"
+depends: [
+
+]
+
+
+
+

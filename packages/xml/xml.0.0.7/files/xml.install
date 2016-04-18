@@ -1,0 +1,21 @@
+lib: [
+"index.js" {"index.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"examples/examples.js" {"examples/examples.js"}
+"examples/server.js" {"examples/server.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/xml.js" {"lib/xml.js"}
+"test/nodemon-ignore" {"test/nodemon-ignore"}
+"test/test.js" {"test/test.js"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/node-xml.iml" {".idea/node-xml.iml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".idea/dictionaries/dylan.xml" {".idea/dictionaries/dylan.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+]

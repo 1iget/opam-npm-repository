@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"example/edit.js" {"example/edit.js"}
+"example/beep.json" {"example/beep.json"}
+"README.markdown" {"README.markdown"}
+]

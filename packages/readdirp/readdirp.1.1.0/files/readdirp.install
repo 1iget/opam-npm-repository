@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"readdirp.js" {"readdirp.js"}
+"stream-api.js" {"stream-api.js"}
+".travis.yml" {".travis.yml"}
+"examples/package.json" {"examples/package.json"}
+"examples/callback-api.js" {"examples/callback-api.js"}
+"examples/grep.js" {"examples/grep.js"}
+"examples/stream-api-pipe.js" {"examples/stream-api-pipe.js"}
+"examples/stream-api.js" {"examples/stream-api.js"}
+"examples/Readme.md" {"examples/Readme.md"}
+"test/readdirp-stream.js" {"test/readdirp-stream.js"}
+"test/readdirp.js" {"test/readdirp.js"}
+"test/bed/root_dir1/root_dir1_file1.ext1" {"test/bed/root_dir1/root_dir1_file1.ext1"}
+"test/bed/root_dir1/root_dir1_file2.ext2" {"test/bed/root_dir1/root_dir1_file2.ext2"}
+"test/bed/root_dir1/root_dir1_file3.ext3" {"test/bed/root_dir1/root_dir1_file3.ext3"}
+"test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1" {"test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1"}
+"test/bed/root_dir2/root_dir2_file1.ext1" {"test/bed/root_dir2/root_dir2_file1.ext1"}
+"test/bed/root_dir2/root_dir2_file2.ext2" {"test/bed/root_dir2/root_dir2_file2.ext2"}
+"test/bed/root_file1.ext1" {"test/bed/root_file1.ext1"}
+"test/bed/root_file2.ext2" {"test/bed/root_file2.ext2"}
+"test/bed/root_file3.ext3" {"test/bed/root_file3.ext3"}
+]

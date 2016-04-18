@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"docs/examples.md" {"docs/examples.md"}
+"docs/options.md" {"docs/options.md"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+"docs/usage.md" {"docs/usage.md"}
+"lib/parsers.js" {"lib/parsers.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/expected/complex.json" {"test/expected/complex.json"}
+"test/expected/metadata.json" {"test/expected/metadata.json"}
+"test/fixtures/alpha.hbs" {"test/fixtures/alpha.hbs"}
+"test/fixtures/coffee.md" {"test/fixtures/coffee.md"}
+"test/fixtures/complex.md" {"test/fixtures/complex.md"}
+"test/fixtures/content-only.md" {"test/fixtures/content-only.md"}
+"test/fixtures/custom-delims.md" {"test/fixtures/custom-delims.md"}
+"test/fixtures/empty.md" {"test/fixtures/empty.md"}
+"test/fixtures/json.md" {"test/fixtures/json.md"}
+"test/fixtures/metadata.yml" {"test/fixtures/metadata.yml"}
+]

@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"deeper.js" {"deeper.js"}
+".jshintrc" {".jshintrc"}
+"test/deeper.tap.js" {"test/deeper.tap.js"}
+]

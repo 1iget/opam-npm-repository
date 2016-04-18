@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "istanbul-lib-instrument"
+version: "1.0.0-alpha.6"
+maintainer: "gotwarlost <kananthmail-github@yahoo.com>"
+author: "gotwarlost <kananthmail-github@yahoo.com>"
+license: "BSD-3-Clause"
+dev-repo: "git+ssh://git@github.com/istanbuljs/istanbul-lib-instrument.git"
+depends: [
+"escodegen" {>="1.8.0" & <"2.0.0"}
+
+"esprima" {>="2.7.0" & <"3.0.0"}
+
+"istanbul-lib-coverage" {>="1.0.0-alpha" & <"2.0.0"}
+
+]
+
+
+
+

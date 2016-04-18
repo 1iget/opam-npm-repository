@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "stream-combiner"
+version: "0.0.1"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/dominictarr/stream-combiner.git"
+depends: [
+"duplexer" {>="0.0.3" & <"0.1.0"}
+
+]
+
+
+
+

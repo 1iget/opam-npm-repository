@@ -1,0 +1,5 @@
+lib: [
+"copy.js" {"copy.js"}
+"package.json" {"package.json"}
+"readme.mdown" {"readme.mdown"}
+]

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "compress-commons"
+version: "0.4.2"
+maintainer: "ctalkington <chris@christalkington.com>"
+author: "ctalkington <chris@christalkington.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/archiverjs/node-compress-commons.git"
+depends: [
+"buffer-crc32" {>="0.2.1" & <"0.3.0"}
+
+"crc32-stream" {>="0.4.0" & <"0.5.0"}
+
+"node-int64" {>="0.4.0" & <"0.5.0"}
+
+"normalize-path" {>="2.0.0" & <"2.1.0"}
+
+"readable-stream" {>="2.0.0" & <"2.1.0"}
+
+]
+
+
+
+

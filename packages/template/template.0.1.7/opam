@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "template"
+version: "0.1.7"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/template.git"
+depends: [
+"delims" {>="0.1.4" & <"0.2.0"}
+
+"fs-utils" {>="0.4.1" & <"0.5.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"underscore.string" {>="2.3.3" & <"2.4.0"}
+
+]
+
+
+
+

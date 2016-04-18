@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "rfile"
+version: "1.0.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/rfile.git"
+depends: [
+"callsite" {>="1.0.0" & <"1.1.0"}
+
+"resolve" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

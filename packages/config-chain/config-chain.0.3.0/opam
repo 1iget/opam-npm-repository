@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "config-chain"
+version: "0.3.0"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/dominictarr/config-chain.git"
+depends: [
+"proto-list" {>="1.0.0" & <"2.0.0"}
+
+"ini" {>="1.0.2" & <"1.1.0"}
+
+]
+
+
+
+

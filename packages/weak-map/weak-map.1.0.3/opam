@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "weak-map"
+version: "1.0.3"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "Apache 2.0"
+dev-repo: "git://github.com/drses/weak-map.git"
+depends: [
+
+]
+
+
+
+

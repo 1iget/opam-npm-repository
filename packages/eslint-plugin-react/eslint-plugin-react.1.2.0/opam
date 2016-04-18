@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "eslint-plugin-react"
+version: "1.2.0"
+maintainer: "yannickcr <yannick.croissant+npm@gmail.com>"
+author: "yannickcr <yannick.croissant+npm@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/yannickcr/eslint-plugin-react"
+depends: [
+
+]
+
+
+
+

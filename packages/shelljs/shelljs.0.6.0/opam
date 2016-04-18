@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "shelljs"
+version: "0.6.0"
+maintainer: "ariporad <ari@ariporad.com>"
+author: "ariporad <ari@ariporad.com>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/shelljs/shelljs.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "xmlhttprequest"
+version: "1.2.2"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/driverdan/node-XMLHttpRequest.git"
+depends: [
+
+]
+
+
+
+

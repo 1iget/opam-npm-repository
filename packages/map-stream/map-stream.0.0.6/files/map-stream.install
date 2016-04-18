@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"examples/pretty.js" {"examples/pretty.js"}
+".travis.yml" {".travis.yml"}
+"readme.markdown" {"readme.markdown"}
+"package/package.json" {"package/package.json"}
+"package/.npmignore" {"package/.npmignore"}
+"package/LICENCE" {"package/LICENCE"}
+"package/index.js" {"package/index.js"}
+"package/.travis.yml" {"package/.travis.yml"}
+"package/examples/pretty.js" {"package/examples/pretty.js"}
+"package/readme.markdown" {"package/readme.markdown"}
+"package/test/simple-map.asynct.js" {"package/test/simple-map.asynct.js"}
+"test/simple-map.asynct.js" {"test/simple-map.asynct.js"}
+]

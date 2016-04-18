@@ -1,0 +1,1 @@
+Utilities for extracting and replacing GitHub Flavored Markdown code blocks. For example, you could easily find code blocks for a specific language and run the code through a linter.

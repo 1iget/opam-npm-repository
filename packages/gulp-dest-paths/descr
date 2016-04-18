@@ -1,0 +1,1 @@
+Adds destination-related properties to the `file.data.dest` object on vinyl files.

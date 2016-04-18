@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"escodegen.browser.min.js" {"escodegen.browser.min.js"}
+"escodegen.js" {"escodegen.js"}
+"gulpfile.js" {"gulpfile.js"}
+"bin/escodegen.js" {"bin/escodegen.js"}
+"bin/esgenerate.js" {"bin/esgenerate.js"}
+"component.json" {"component.json"}
+".jshintrc" {".jshintrc"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.source-map" {"LICENSE.source-map"}
+".gitattributes" {".gitattributes"}
+]

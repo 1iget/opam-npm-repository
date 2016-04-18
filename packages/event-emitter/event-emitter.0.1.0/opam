@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "event-emitter"
+version: "0.1.0"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "not defined"
+dev-repo: "git://github.com/medikoo/event-emitter.git"
+depends: [
+"es5-ext" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

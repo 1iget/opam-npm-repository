@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "detect-indent"
+version: "4.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/detect-indent"
+depends: [
+"repeating" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

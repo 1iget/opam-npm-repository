@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "regjsgen"
+version: "0.1.0"
+maintainer: "d10 <demoneaux@gmail.com>"
+author: "d10 <demoneaux@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:d10/regjsgen.git"
+depends: [
+"jsesc" {>="0.4.3" & <"0.5.0"}
+
+]
+
+
+
+

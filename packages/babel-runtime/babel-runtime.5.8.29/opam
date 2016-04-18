@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "babel-runtime"
+version: "5.8.29"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/babel/babel.git"
+depends: [
+"core-js" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

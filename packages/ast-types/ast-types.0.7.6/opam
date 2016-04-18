@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ast-types"
+version: "0.7.6"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "MIT"
+dev-repo: "git://github.com/benjamn/ast-types.git"
+depends: [
+
+]
+
+
+
+

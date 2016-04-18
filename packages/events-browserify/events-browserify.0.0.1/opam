@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "events-browserify"
+version: "0.0.1"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/shtylman/events-browserify.git"
+depends: [
+
+]
+
+
+
+

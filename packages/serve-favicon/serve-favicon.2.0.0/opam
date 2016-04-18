@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "serve-favicon"
+version: "2.0.0"
+maintainer: "dougwilson <doug@somethingdoug.com>"
+author: "dougwilson <doug@somethingdoug.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/serve-favicon.git"
+depends: [
+"fresh" {="0.2.2"}
+
+]
+
+
+
+

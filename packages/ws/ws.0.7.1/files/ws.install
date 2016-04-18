@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"lib/BufferPool.js" {"lib/BufferPool.js"}
+"lib/Extensions.js" {"lib/Extensions.js"}
+"lib/PerMessageDeflate.js" {"lib/PerMessageDeflate.js"}
+"lib/Receiver.hixie.js" {"lib/Receiver.hixie.js"}
+"lib/ErrorCodes.js" {"lib/ErrorCodes.js"}
+"lib/Sender.hixie.js" {"lib/Sender.hixie.js"}
+"lib/Sender.js" {"lib/Sender.js"}
+"lib/Validation.fallback.js" {"lib/Validation.fallback.js"}
+"lib/Validation.js" {"lib/Validation.js"}
+"lib/WebSocket.js" {"lib/WebSocket.js"}
+"lib/BufferUtil.js" {"lib/BufferUtil.js"}
+"lib/WebSocketServer.js" {"lib/WebSocketServer.js"}
+"lib/BufferUtil.fallback.js" {"lib/BufferUtil.fallback.js"}
+"lib/browser.js" {"lib/browser.js"}
+"lib/Receiver.js" {"lib/Receiver.js"}
+]

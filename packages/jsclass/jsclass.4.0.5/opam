@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "jsclass"
+version: "4.0.5"
+maintainer: "jcoglan <jcoglan@gmail.com>"
+author: "jcoglan <jcoglan@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/jcoglan/jsclass.git"
+depends: [
+
+]
+
+
+
+

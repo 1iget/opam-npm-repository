@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG" {"CHANGELOG"}
+".jshintrc" {".jshintrc"}
+"UPGRADING.md" {"UPGRADING.md"}
+"appveyor.yml" {"appveyor.yml"}
+"lib/build_config_name.js" {"lib/build_config_name.js"}
+"lib/file_search.js" {"lib/file_search.js"}
+"lib/find_config.js" {"lib/find_config.js"}
+"lib/find_cwd.js" {"lib/find_cwd.js"}
+"lib/parse_options.js" {"lib/parse_options.js"}
+"lib/silent_require.js" {"lib/silent_require.js"}
+".jscsrc" {".jscsrc"}
+]

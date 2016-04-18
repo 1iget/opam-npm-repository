@@ -1,0 +1,1 @@
+Get a user's name from git config at the project or global scope, depending on what git uses in the current context.

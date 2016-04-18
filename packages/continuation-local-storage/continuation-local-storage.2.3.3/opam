@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "continuation-local-storage"
+version: "2.3.3"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "BSD"
+dev-repo: "https://github.com/othiym23/node-continuation-local-storage.git"
+depends: [
+"shimmer" {>="0.7.0" & <"0.8.0"}
+
+"async-listener" {>="0.2.0"}
+
+]
+
+
+
+

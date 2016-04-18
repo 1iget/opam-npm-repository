@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "should"
+version: "4.4.2"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "MIT"
+dev-repo: "https://github.com/shouldjs/should.js.git"
+depends: [
+"should-equal" {="0.2.7"}
+
+"should-format" {="0.0.5"}
+
+]
+
+
+
+

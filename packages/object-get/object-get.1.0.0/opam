@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "object-get"
+version: "1.0.0"
+maintainer: "garlicnation <ajo@google.com>"
+author: "garlicnation <ajo@google.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/garlicnation/object-get.git"
+depends: [
+
+]
+
+
+
+

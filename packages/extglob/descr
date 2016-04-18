@@ -1,0 +1,1 @@
+Convert extended globs to regex-compatible strings. Add (almost) the expressive power of regular expressions to glob patterns.

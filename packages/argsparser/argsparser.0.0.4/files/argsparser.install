@@ -1,0 +1,11 @@
+lib: [
+"" {""}
+".gitignore" {".gitignore"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"test/" {"test/"}
+"test/test.js" {"test/test.js"}
+"lib/argsparser.js" {"lib/argsparser.js"}
+]

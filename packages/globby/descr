@@ -1,0 +1,1 @@
+Extends `glob` with support for multiple patterns and exposes a Promise API

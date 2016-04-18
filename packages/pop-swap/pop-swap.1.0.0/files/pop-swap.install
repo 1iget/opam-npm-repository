@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"pop-swap.js" {"pop-swap.js"}
+"swap.js" {"swap.js"}
+"test/swap-test.js" {"test/swap-test.js"}
+]

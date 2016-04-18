@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "bullets"
+version: "0.2.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/bullets.git"
+depends: [
+"list-item" {>="1.1.1" & <"2.0.0"}
+
+]
+
+
+
+

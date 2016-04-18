@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "rte"
+version: "0.3.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/rte.git"
+depends: [
+"isobject" {>="0.1.1" & <"0.2.0"}
+
+"parse-filepath" {>="0.2.2" & <"0.3.0"}
+
+"rename-path" {>="0.1.0" & <"0.2.0"}
+
+"template" {>="0.2.1" & <"0.3.0"}
+
+"xtend" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

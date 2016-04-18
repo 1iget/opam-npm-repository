@@ -1,0 +1,11 @@
+lib: [
+"" {""}
+"TODO.md" {"TODO.md"}
+"package.json" {"package.json"}
+"test/" {"test/"}
+"test/chaining.js" {"test/chaining.js"}
+"test/discreet.js" {"test/discreet.js"}
+"test/callback.js" {"test/callback.js"}
+"prompt.js" {"prompt.js"}
+"README.md" {"README.md"}
+]

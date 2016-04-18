@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "nested-error-stacks"
+version: "1.0.0"
+maintainer: "mdlavin <matt.lavin@gmail.com>"
+author: "mdlavin <matt.lavin@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/mdlavin/nested-error-stacks.git"
+depends: [
+
+]
+
+
+
+

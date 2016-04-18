@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "bytewise"
+version: "0.1.1"
+maintainer: "deanlandolt <dean@deanlandolt.com>"
+author: "deanlandolt <dean@deanlandolt.com>"
+license: "MIT"
+dev-repo: "https://github.com/deanlandolt/bytewise.git"
+depends: [
+"es6-shim" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

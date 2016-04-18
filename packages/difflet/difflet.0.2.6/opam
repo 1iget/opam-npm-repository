@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "difflet"
+version: "0.2.6"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/difflet.git"
+depends: [
+"traverse" {>="0.6.0" & <"0.7.0"}
+
+"charm" {>="0.1.0" & <"0.2.0"}
+
+"deep-is" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

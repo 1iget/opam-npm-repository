@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"escodegen.js" {"escodegen.js"}
+"bin/esgenerate.js" {"bin/esgenerate.js"}
+"coverage/prettify.js" {"coverage/prettify.js"}
+"coverage/coverage.json" {"coverage/coverage.json"}
+"coverage/index.html" {"coverage/index.html"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov-report/Users/yusuke/dev/escodegen/escodegen.js.html" {"coverage/lcov-report/Users/yusuke/dev/escodegen/escodegen.js.html"}
+"coverage/lcov-report/Users/yusuke/dev/escodegen/index.html" {"coverage/lcov-report/Users/yusuke/dev/escodegen/index.html"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+"coverage/prettify.css" {"coverage/prettify.css"}
+"coverage/Users/yusuke/dev/escodegen/escodegen.js.html" {"coverage/Users/yusuke/dev/escodegen/escodegen.js.html"}
+"coverage/Users/yusuke/dev/escodegen/index.html" {"coverage/Users/yusuke/dev/escodegen/index.html"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.source-map" {"LICENSE.source-map"}
+]

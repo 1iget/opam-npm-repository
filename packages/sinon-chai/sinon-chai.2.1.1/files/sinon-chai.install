@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/sinon-chai.js" {"lib/sinon-chai.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+]

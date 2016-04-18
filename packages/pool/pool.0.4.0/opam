@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "pool"
+version: "0.4.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/mikeal/node-utils.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "umd"
+version: "3.0.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/umd.git"
+depends: [
+
+]
+
+
+
+

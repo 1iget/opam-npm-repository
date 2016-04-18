@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verbrc.md" {".verbrc.md"}
+"templates/authors.md" {"templates/authors.md"}
+"templates/brian.md" {"templates/brian.md"}
+"templates/contributing.md" {"templates/contributing.md"}
+"templates/hariadi.md" {"templates/hariadi.md"}
+"templates/jon.md" {"templates/jon.md"}
+"templates/related-repos-list.md" {"templates/related-repos-list.md"}
+"templates/related-repos.md" {"templates/related-repos.md"}
+]

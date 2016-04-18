@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README" {"README"}
+"LICENSE" {"LICENSE"}
+"ctype.js" {"ctype.js"}
+"ctio.js" {"ctio.js"}
+"ctf.js" {"ctf.js"}
+"CHANGELOG" {"CHANGELOG"}
+"man/man3ctype/ctio.3ctype" {"man/man3ctype/ctio.3ctype"}
+"README.old" {"README.old"}
+"tools/jsl.conf" {"tools/jsl.conf"}
+"tools/jsstyle" {"tools/jsstyle"}
+]

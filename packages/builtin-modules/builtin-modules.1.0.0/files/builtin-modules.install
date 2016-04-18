@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"static.js" {"static.js"}
+"index.js" {"index.js"}
+"builtin-modules.json" {"builtin-modules.json"}
+"license" {"license"}
+"readme.md" {"readme.md"}
+]

@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "body-parser"
+version: "1.12.4"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/body-parser"
+depends: [
+"bytes" {="1.0.0"}
+
+"content-type" {>="1.0.1" & <"1.1.0"}
+
+"debug" {>="2.2.0" & <"2.3.0"}
+
+"depd" {>="1.0.1" & <"1.1.0"}
+
+"iconv-lite" {="0.4.8"}
+
+"on-finished" {>="2.2.1" & <"2.3.0"}
+
+"qs" {="2.4.2"}
+
+"raw-body" {>="2.0.1" & <"2.1.0"}
+
+"type-is" {>="1.6.2" & <"1.7.0"}
+
+]
+
+
+
+

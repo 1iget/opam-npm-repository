@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "async-helpers"
+version: "0.2.5"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/doowb/async-helpers.git"
+depends: [
+"async" {>="0.9.0" & <"0.10.0"}
+
+]
+
+
+
+

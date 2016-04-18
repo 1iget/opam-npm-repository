@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "strings"
+version: "0.4.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/assemble/strings.git"
+depends: [
+"array-flatten" {="0.0.2"}
+
+"array-union" {>="0.1.0" & <"0.2.0"}
+
+"clone" {>="0.1.17" & <"0.2.0"}
+
+"clone-shallow" {>="0.1.1" & <"0.2.0"}
+
+"frep" {>="0.2.1" & <"0.3.0"}
+
+"is-empty" {="0.0.1"}
+
+"isobject" {>="0.1.0" & <"0.2.0"}
+
+"xtend" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

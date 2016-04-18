@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "node-uuid"
+version: "1.4.7"
+maintainer: "broofa <robert@broofa.com>"
+author: "broofa <robert@broofa.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/broofa/node-uuid.git"
+depends: [
+
+]
+
+
+
+

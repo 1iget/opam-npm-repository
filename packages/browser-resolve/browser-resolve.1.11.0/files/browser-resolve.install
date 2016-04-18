@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"empty.js" {"empty.js"}
+"index.js" {"index.js"}
+]

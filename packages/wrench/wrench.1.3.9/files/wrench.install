@@ -1,0 +1,20 @@
+lib: [
+".npmignore" {".npmignore"}
+"lib/" {"lib/"}
+"lib/wrench.js" {"lib/wrench.js"}
+"lib/x.js" {"lib/x.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"tests/" {"tests/"}
+"tests/mkdir.js" {"tests/mkdir.js"}
+"tests/readdir/" {"tests/readdir/"}
+"tests/readdir/bar.txt" {"tests/readdir/bar.txt"}
+"tests/readdir/foo/" {"tests/readdir/foo/"}
+"tests/readdir/foo/bar/" {"tests/readdir/foo/bar/"}
+"tests/readdir/foo/bar/ipsum.js" {"tests/readdir/foo/bar/ipsum.js"}
+"tests/readdir/foo/dolor.md" {"tests/readdir/foo/dolor.md"}
+"tests/readdir/foo/lorem.txt" {"tests/readdir/foo/lorem.txt"}
+"tests/readdir.js" {"tests/readdir.js"}
+"tests/runner.js" {"tests/runner.js"}
+]

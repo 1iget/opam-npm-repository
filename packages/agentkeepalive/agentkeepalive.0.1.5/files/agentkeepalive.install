@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"example/https_agent.js" {"example/https_agent.js"}
+".travis.yml" {".travis.yml"}
+"lib/agent.js" {"lib/agent.js"}
+"Makefile" {"Makefile"}
+"benchmark/proxy.js" {"benchmark/proxy.js"}
+"benchmark/sleep_server.js" {"benchmark/sleep_server.js"}
+"benchmark/readme.md" {"benchmark/readme.md"}
+"benchmark/start.sh" {"benchmark/start.sh"}
+"AUTHORS" {"AUTHORS"}
+"test/agent.js" {"test/agent.js"}
+"test/https_agent.js" {"test/https_agent.js"}
+"test/agenttest-cert.pem" {"test/agenttest-cert.pem"}
+"test/agenttest-key.pem" {"test/agenttest-key.pem"}
+"test/certrequest.csr" {"test/certrequest.csr"}
+"test/genkey.sh" {"test/genkey.sh"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

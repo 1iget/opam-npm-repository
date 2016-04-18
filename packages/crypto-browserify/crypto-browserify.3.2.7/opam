@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "crypto-browserify"
+version: "3.2.7"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/dominictarr/crypto-browserify.git"
+depends: [
+"pbkdf2-compat" {="2.0.1"}
+
+"ripemd160" {="0.2.0"}
+
+"sha.js" {="2.2.6"}
+
+]
+
+
+
+

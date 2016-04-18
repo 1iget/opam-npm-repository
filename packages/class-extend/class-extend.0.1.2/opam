@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "class-extend"
+version: "0.1.2"
+maintainer: "sboudrias <admin@simonboudrias.com>"
+author: "sboudrias <admin@simonboudrias.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/sboudrias/class-extend.git"
+depends: [
+"object-assign" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

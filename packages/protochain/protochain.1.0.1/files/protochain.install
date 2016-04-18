@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"protochain.js" {"protochain.js"}
+"prototype-chain.js" {"prototype-chain.js"}
+"test.js" {"test.js"}
+"Readme.md" {"Readme.md"}
+]

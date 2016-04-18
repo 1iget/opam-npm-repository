@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "tough-cookie"
+version: "0.9.0"
+maintainer: "jstash <jeremy@goinstant.com>"
+author: "jstash <jeremy@goinstant.com>"
+license: "not defined"
+dev-repo: "git://github.com/goinstant/node-cookie.git"
+depends: [
+"punycode" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9nb2luc3RhbnQvTm9kZS1QdW55Q29kZS90YXJiYWxsL21hc3RlciI"}
+
+]
+
+
+
+

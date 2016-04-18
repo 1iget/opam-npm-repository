@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "prepush"
+version: "3.1.4"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/prepush"
+depends: [
+"clix" {>="2.0.3" & <"3.0.0"}
+
+"del" {>="1.2.0" & <"2.0.0"}
+
+"es6-promise" {>="2.3.0" & <"3.0.0"}
+
+"git-toplevel" {>="1.1.0" & <"2.0.0"}
+
+"read-file" {>="0.1.2" & <"0.2.0"}
+
+"read-json-sync" {>="1.1.0" & <"2.0.0"}
+
+"stringformat" {="0.0.5"}
+
+"write" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

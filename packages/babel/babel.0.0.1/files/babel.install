@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"babel.js" {"babel.js"}
+"http.js" {"http.js"}
+"ipc.js" {"ipc.js"}
+"tcp.js" {"tcp.js"}
+"tcpclient.js" {"tcpclient.js"}
+"unix.js" {"unix.js"}
+"websocket.js" {"websocket.js"}
+"adapters/tcp.js" {"adapters/tcp.js"}
+".travis.yml" {".travis.yml"}
+"test/tcp.coffee" {"test/tcp.coffee"}
+]

@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGES" {"CHANGES"}
+"lib/" {"lib/"}
+"lib/index.js" {"lib/index.js"}
+"lib/throbber.js" {"lib/throbber.js"}
+"lib/trim.js" {"lib/trim.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/__playground/" {"test/__playground/"}
+"test/__playground/throbber.formatted.js" {"test/__playground/throbber.formatted.js"}
+"test/__playground/throbber.js" {"test/__playground/throbber.js"}
+"test/index.js" {"test/index.js"}
+"test/throbber.js" {"test/throbber.js"}
+"test/trim.js" {"test/trim.js"}
+]

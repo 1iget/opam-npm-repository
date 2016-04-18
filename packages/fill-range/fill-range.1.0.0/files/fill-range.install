@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"benchmark/check.js" {"benchmark/check.js"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/code/fill-range.js" {"benchmark/code/fill-range.js"}
+"benchmark/fixtures/1-100.js" {"benchmark/fixtures/1-100.js"}
+"benchmark/fixtures/1-5.js" {"benchmark/fixtures/1-5.js"}
+"benchmark/fixtures/2-20-2.js" {"benchmark/fixtures/2-20-2.js"}
+"benchmark/fixtures/a-z.js" {"benchmark/fixtures/a-z.js"}
+"benchmark/fixtures/random.js" {"benchmark/fixtures/random.js"}
+]

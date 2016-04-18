@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "jasmine"
+version: "2.3.2"
+maintainer: "slackersoft <gregg@slackersoft.net>"
+author: "slackersoft <gregg@slackersoft.net>"
+license: "MIT"
+dev-repo: "git+https://github.com/jasmine/jasmine-npm.git"
+depends: [
+"exit" {>="0.1.2" & <"0.2.0"}
+
+"glob" {>="3.2.11" & <"4.0.0"}
+
+"jasmine-core" {>="2.3.0" & <"2.4.0"}
+
+]
+
+
+
+

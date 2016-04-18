@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/map.js" {"lib/map.js"}
+"lib/mapSeries.js" {"lib/mapSeries.js"}
+"test/map.js" {"test/map.js"}
+"test/mapSeries.js" {"test/mapSeries.js"}
+]

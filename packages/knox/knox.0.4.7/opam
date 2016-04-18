@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "knox"
+version: "0.4.7"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "MIT"
+dev-repo: "git://github.com/LearnBoost/knox.git"
+depends: [
+"mime" {>="0.0.0"}
+
+"xml2js" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

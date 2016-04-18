@@ -1,0 +1,14 @@
+lib: [
+".gitmodules" {".gitmodules"}
+".gitignore" {".gitignore"}
+"benchmark.js" {"benchmark.js"}
+"examples.js" {"examples.js"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"lib/querystring.js" {"lib/querystring.js"}
+"test/parse.test.js" {"test/parse.test.js"}
+"test/stringify.test.js" {"test/stringify.test.js"}
+]

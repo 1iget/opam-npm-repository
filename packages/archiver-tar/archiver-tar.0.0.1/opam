@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "archiver-tar"
+version: "0.0.1"
+maintainer: "ctalkington <chris@christalkington.com>"
+author: "ctalkington <chris@christalkington.com>"
+license: "MIT"
+dev-repo: "git+https://ctalkington@github.com/archiverjs/archiver-tar.git"
+depends: [
+"tar-stream" {>="1.1.0" & <"1.2.0"}
+
+"through2" {>="0.6.1" & <"0.7.0"}
+
+]
+
+
+
+

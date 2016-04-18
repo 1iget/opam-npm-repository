@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "deflate-js"
+version: "0.2.3"
+maintainer: "beatgammit <t.jameson.little@gmail.com>"
+author: "beatgammit <t.jameson.little@gmail.com>"
+license: "GPL"
+dev-repo: "git://github.com/beatgammit/deflate-js.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "gfm-code-blocks"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/gfm-code-blocks.git"
+depends: [
+"gfm-code-block-regex" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

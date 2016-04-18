@@ -1,0 +1,1 @@
+Returns an array of names from a module. Includes all enumerable properties with function values, own and inherited.

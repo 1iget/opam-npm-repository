@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"sort-object.js" {"sort-object.js"}
+".gitattributes" {".gitattributes"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"tests/tests.js" {"tests/tests.js"}
+]

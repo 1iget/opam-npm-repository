@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "google-closure-compiler"
+version: "20150315.0.2"
+maintainer: "chadhikes <chadkillingsworth@gmail.com>"
+author: "chadhikes <chadkillingsworth@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "https://github.com/google/closure-compiler.git"
+depends: [
+
+]
+
+
+
+

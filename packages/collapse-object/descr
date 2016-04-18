@@ -1,0 +1,1 @@
+Collapse an object into a string using the syntax from expand-object. This syntax is pretty handy for setting command line arguments, for expanding/collapsing test fixtures, etc.

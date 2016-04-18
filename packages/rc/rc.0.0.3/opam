@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "rc"
+version: "0.0.3"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "BSD"
+
+depends: [
+"config-chain" {>="0.3.2" & <"0.4.0"}
+
+"optimist" {>="0.3.4" & <"0.4.0"}
+
+]
+
+
+
+

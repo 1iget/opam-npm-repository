@@ -1,0 +1,33 @@
+opam-version: "1.2"
+name: "tap"
+version: "0.0.8"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "not defined"
+
+depends: [
+"tap-global-harness" {>="0.0.0" & <"1.0.0"}
+
+"tap-runner" {>="0.0.0" & <"1.0.0" & >="0.0.4"}
+
+"tap-assert" {>="0.0.0" & <"1.0.0"}
+
+"tap-test" {>="0.0.0" & <"1.0.0"}
+
+"tap-harness" {>="0.0.0" & <"1.0.0"}
+
+"tap-results" {>="0.0.0" & <"1.0.0"}
+
+"tap-consumer" {>="0.0.0" & <"1.0.0"}
+
+"tap-producer" {>="0.0.0" & <"1.0.0"}
+
+"inherits" {>="0.0.0"}
+
+"yamlish" {>="0.0.0"}
+
+]
+
+
+
+

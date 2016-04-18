@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "uglify-js"
+version: "2.5.0"
+maintainer: "caires <cairesvs@gmail.com>"
+author: "caires <cairesvs@gmail.com>"
+license: "BSD-2-Clause"
+dev-repo: "https://github.com/mishoo/UglifyJS2.git"
+depends: [
+"async" {>="0.2.6" & <"0.3.0"}
+
+"source-map" {>="0.5.1" & <"0.6.0"}
+
+"uglify-to-browserify" {>="1.0.0" & <"1.1.0"}
+
+"yargs" {>="3.5.4" & <"3.6.0"}
+
+]
+
+
+
+

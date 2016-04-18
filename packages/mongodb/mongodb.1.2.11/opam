@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "mongodb"
+version: "1.2.11"
+maintainer: "christkv <christkv@gmail.com>"
+author: "christkv <christkv@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/mongodb/node-mongodb-native.git"
+depends: [
+"bson" {="0.1.6"}
+
+]
+
+
+
+

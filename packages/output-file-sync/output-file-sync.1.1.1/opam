@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "output-file-sync"
+version: "1.1.1"
+maintainer: "shinnn <snnskwtnb@gmail.com>"
+author: "shinnn <snnskwtnb@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/shinnn/output-file-sync.git"
+depends: [
+"mkdirp" {>="0.5.1" & <"0.6.0"}
+
+"xtend" {>="4.0.0" & <"5.0.0"}
+
+]
+
+
+
+

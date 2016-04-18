@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "promise-resolver"
+version: "1.1.0"
+maintainer: "jamestalmage <james@talmage.io>"
+author: "jamestalmage <james@talmage.io>"
+license: "MIT"
+dev-repo: "git+https://github.com/jamestalmage/promise-resolver.git"
+depends: [
+
+]
+
+
+
+

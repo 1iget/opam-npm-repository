@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"monocle.js" {"monocle.js"}
+".travis.yml" {".travis.yml"}
+"logo.png" {"logo.png"}
+"test/tester.js" {"test/tester.js"}
+"test/sample_files/longbow.js" {"test/sample_files/longbow.js"}
+"test/sample_files/creation3.txt" {"test/sample_files/creation3.txt"}
+"test/sample_files/creation4.txt" {"test/sample_files/creation4.txt"}
+"test/sample_files/creation5.txt" {"test/sample_files/creation5.txt"}
+"test/sample_files/foo.txt" {"test/sample_files/foo.txt"}
+"test/sample_files/nestedDir/servent.txt" {"test/sample_files/nestedDir/servent.txt"}
+"test/sample_files/zap.bat" {"test/sample_files/zap.bat"}
+]

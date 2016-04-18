@@ -1,0 +1,43 @@
+opam-version: "1.2"
+name: "module-deps"
+version: "3.7.10"
+maintainer: "substack <substack@gmail.com>"
+author: "substack <substack@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/module-deps.git"
+depends: [
+"JSONStream" {>="0.10.0" & <"0.11.0"}
+
+"browser-resolve" {>="1.7.0" & <"2.0.0"}
+
+"concat-stream" {>="1.4.5" & <"1.5.0"}
+
+"defined" {>="1.0.0" & <"2.0.0"}
+
+"detective" {>="4.0.0" & <"5.0.0"}
+
+"duplexer2" {="0.0.2"}
+
+"inherits" {>="2.0.1" & <"3.0.0"}
+
+"parents" {>="1.0.0" & <"2.0.0"}
+
+"readable-stream" {>="1.0.27-1" & <"2.0.0"}
+
+"resolve" {>="1.1.3" & <"2.0.0"}
+
+"shallow-copy" {="0.0.1"}
+
+"stream-combiner2" {>="1.0.0" & <"1.1.0"}
+
+"subarg" {>="1.0.0" & <"2.0.0"}
+
+"through2" {>="0.4.1" & <"0.5.0"}
+
+"xtend" {>="4.0.0" & <"5.0.0"}
+
+]
+
+
+
+

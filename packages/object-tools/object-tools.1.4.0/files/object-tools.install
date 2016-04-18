@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/object-tools.js" {"lib/object-tools.js"}
+"test/clone.js" {"test/clone.js"}
+"test/defined.js" {"test/defined.js"}
+"test/exists.js" {"test/exists.js"}
+"test/expression.js" {"test/expression.js"}
+"test/extend.js" {"test/extend.js"}
+"test/extract.js" {"test/extract.js"}
+"test/omit.js" {"test/omit.js"}
+"test/select.js" {"test/select.js"}
+"test/where.js" {"test/where.js"}
+"test/without.js" {"test/without.js"}
+]

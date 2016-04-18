@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"espree.js" {"espree.js"}
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
+"lib/ast-node-types.js" {"lib/ast-node-types.js"}
+"lib/comment-attachment.js" {"lib/comment-attachment.js"}
+"lib/features.js" {"lib/features.js"}
+"lib/token-translator.js" {"lib/token-translator.js"}
+]

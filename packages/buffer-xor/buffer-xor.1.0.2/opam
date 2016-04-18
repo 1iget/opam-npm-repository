@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "buffer-xor"
+version: "1.0.2"
+maintainer: "dcousens <email@dcousens.com>"
+author: "dcousens <email@dcousens.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/crypto-browserify/buffer-xor.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "merge-stream"
+version: "0.1.3"
+maintainer: "grncdr <glurgle@gmail.com>"
+author: "grncdr <glurgle@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/grncdr/merge-stream"
+depends: [
+"through2" {>="0.5.1" & <"0.6.0"}
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "stream-combiner2"
+version: "1.0.2"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/stream-combiner2.git"
+depends: [
+"duplexer2" {>="0.0.2" & <"0.1.0"}
+
+"through2" {>="0.5.1" & <"0.6.0"}
+
+]
+
+
+
+

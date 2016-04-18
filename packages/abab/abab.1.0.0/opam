@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "abab"
+version: "1.0.0"
+maintainer: "jeffcarp <gcarpenterv@gmail.com>"
+author: "jeffcarp <gcarpenterv@gmail.com>"
+license: "ISC"
+dev-repo: "git+https://github.com/jsdom/abab.git"
+depends: [
+
+]
+
+
+
+

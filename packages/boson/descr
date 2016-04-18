@@ -1,0 +1,1 @@
+Use glob patterns to load an array of requireable files or npm modules - like plugins or middleware, optionally passing a config object to each module.

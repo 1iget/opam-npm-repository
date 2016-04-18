@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "underscore.string"
+version: "3.2.1"
+maintainer: "edtsech <edtsech@gmail.com>"
+author: "edtsech <edtsech@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/epeli/underscore.string.git"
+depends: [
+
+]
+
+
+
+

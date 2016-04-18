@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "parse-asn1"
+version: "3.0.1"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "ISC"
+dev-repo: "git://github.com/crypto-browserify/parse-asn1.git"
+depends: [
+"asn1.js" {>="2.0.0" & <"3.0.0"}
+
+"browserify-aes" {>="1.0.0" & <"2.0.0"}
+
+"create-hash" {>="1.1.0" & <"2.0.0"}
+
+"pbkdf2" {>="3.0.3" & <"4.0.0"}
+
+]
+
+
+
+

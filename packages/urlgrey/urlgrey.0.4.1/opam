@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "urlgrey"
+version: "0.4.1"
+maintainer: "cainus <gregg@caines.ca>"
+author: "cainus <gregg@caines.ca>"
+license: "BSD-2-Clause"
+dev-repo: "git://github.com/cainus/urlgrey.git"
+depends: [
+
+]
+
+
+
+

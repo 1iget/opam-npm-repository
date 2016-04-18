@@ -1,0 +1,35 @@
+opam-version: "1.2"
+name: "got"
+version: "6.0.0-rc1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/got"
+depends: [
+"create-error-class" {>="3.0.0" & <"4.0.0"}
+
+"@floatdrop/duplexer2" {>="0.1.4" & <"0.2.0"}
+
+"get-stream" {>="1.1.0" & <"2.0.0"}
+
+"is-plain-obj" {>="1.0.0" & <"2.0.0"}
+
+"is-redirect" {>="1.0.0" & <"2.0.0"}
+
+"is-stream" {>="1.0.0" & <"2.0.0"}
+
+"lowercase-keys" {>="1.0.0" & <"2.0.0"}
+
+"node-status-codes" {>="1.0.0" & <"2.0.0"}
+
+"timed-out" {>="2.0.0" & <"3.0.0"}
+
+"unzip-response" {>="1.0.0" & <"2.0.0"}
+
+"url-parse-lax" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

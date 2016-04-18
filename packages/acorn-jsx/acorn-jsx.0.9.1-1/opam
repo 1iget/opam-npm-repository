@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "acorn-jsx"
+version: "0.9.1-1"
+maintainer: "rreverser <me@rreverser.com>"
+author: "rreverser <me@rreverser.com>"
+license: "not defined"
+dev-repo: "https://github.com/RReverser/acorn-jsx"
+depends: [
+
+]
+
+
+
+

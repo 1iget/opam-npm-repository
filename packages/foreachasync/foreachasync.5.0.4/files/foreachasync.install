@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"test-native.js" {"test-native.js"}
+"test-bluebird.js" {"test-bluebird.js"}
+"forEachAsync4.js" {"forEachAsync4.js"}
+"forEachAsync.js" {"forEachAsync.js"}
+"examples/browser/.npmignore" {"examples/browser/.npmignore"}
+"examples/browser/foreach-settimeout.js" {"examples/browser/foreach-settimeout.js"}
+"examples/browser/foreachasync-settimeout.js" {"examples/browser/foreachasync-settimeout.js"}
+"examples/browser/build.sh" {"examples/browser/build.sh"}
+"examples/browser/settimeout.jade" {"examples/browser/settimeout.jade"}
+"examples/node/.npmignore" {"examples/node/.npmignore"}
+"examples/node/foreach-fs-readdir.js" {"examples/node/foreach-fs-readdir.js"}
+"examples/node/foreachasync-fs-readdir.js" {"examples/node/foreachasync-fs-readdir.js"}
+"examples/node/make-files.sh" {"examples/node/make-files.sh"}
+"bower.json" {"bower.json"}
+"README-4.md" {"README-4.md"}
+]

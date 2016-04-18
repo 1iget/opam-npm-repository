@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "uid-safe"
+version: "1.0.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonathanong/uid-safe"
+depends: [
+"mz" {>="0.0.0" & <"1.0.0"}
+
+"bluebird" {>="2.0.0" & <"3.0.0"}
+
+"base64-url" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

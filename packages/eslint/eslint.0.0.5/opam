@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "eslint"
+version: "0.0.5"
+maintainer: "nzakas <nicholas@nczconsulting.com>"
+author: "nzakas <nicholas@nczconsulting.com>"
+license: "MIT"
+dev-repo: "https://github.com/nzakas/eslint"
+depends: [
+"optimist" {>="0.0.0"}
+
+"estraverse" {>="0.0.0"}
+
+"esprima" {>="0.0.0"}
+
+"jshint" {>="0.0.0"}
+
+]
+
+
+
+

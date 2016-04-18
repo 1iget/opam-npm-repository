@@ -1,0 +1,1 @@
+Thin wrapper around fs.readFile and fs.readFileSync that also strips byte order marks when `utf8` encoding is chosen. Also optionally replaces windows newlines with unix newlines.

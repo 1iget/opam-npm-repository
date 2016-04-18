@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"estraverse.js" {"estraverse.js"}
+".jshintrc" {".jshintrc"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+]

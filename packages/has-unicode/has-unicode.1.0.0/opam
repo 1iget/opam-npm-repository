@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "has-unicode"
+version: "1.0.0"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "https://github.com/iarna/has-unicode"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "falafel"
+version: "1.1.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-falafel.git"
+depends: [
+"acorn" {>="1.0.3" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Find a file, starting with the given cwd and recursively searching up one directory until it's found (or we run out of directories). Async and sync.

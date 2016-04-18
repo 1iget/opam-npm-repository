@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"to-array.js" {"to-array.js"}
+"array.js" {"array.js"}
+"get.js" {"get.js"}
+"index.js" {"index.js"}
+"for-of.js" {"for-of.js"}
+".travis.yml" {".travis.yml"}
+"test/array.js" {"test/array.js"}
+"test/for-of.js" {"test/for-of.js"}
+"test/get.js" {"test/get.js"}
+"test/index.js" {"test/index.js"}
+"test/to-array.js" {"test/to-array.js"}
+".lint" {".lint"}
+]

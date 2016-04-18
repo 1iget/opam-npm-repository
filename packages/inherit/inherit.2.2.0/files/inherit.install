@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"Makefile" {"Makefile"}
+"lib/inherit.js" {"lib/inherit.js"}
+"readme.md" {"readme.md"}
+"test/test.js" {"test/test.js"}
+]

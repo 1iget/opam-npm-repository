@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "class-extend"
+version: "0.1.0"
+maintainer: "sboudrias <admin@simonboudrias.com>"
+author: "sboudrias <admin@simonboudrias.com>"
+license: "MIT"
+dev-repo: "git://github.com/SBoudrias/class-extend.git"
+depends: [
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

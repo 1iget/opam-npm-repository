@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "astw"
+version: "1.2.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/astw.git"
+depends: [
+"esprima-fb" {="3001.1.0-dev-harmony-fb"}
+
+]
+
+
+
+

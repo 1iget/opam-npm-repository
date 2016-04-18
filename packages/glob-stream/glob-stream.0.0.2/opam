@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "glob-stream"
+version: "0.0.2"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/glob-stream.git"
+depends: [
+"coffee-script" {>="0.0.0"}
+
+"glob" {>="0.0.0"}
+
+"event-stream" {>="0.0.0"}
+
+]
+
+
+
+

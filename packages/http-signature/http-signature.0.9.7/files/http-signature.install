@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+"http_signing.md" {"http_signing.md"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/index.js" {"lib/index.js"}
+"lib/parser.js" {"lib/parser.js"}
+"lib/signer.js" {"lib/signer.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/verify.js" {"lib/verify.js"}
+"tst/parser.test.js" {"tst/parser.test.js"}
+"tst/convert.test.js" {"tst/convert.test.js"}
+"tst/rsa_private.pem" {"tst/rsa_private.pem"}
+"tst/rsa_public.pem" {"tst/rsa_public.pem"}
+"tst/signer.test.js" {"tst/signer.test.js"}
+"tst/verify.test.js" {"tst/verify.test.js"}
+]

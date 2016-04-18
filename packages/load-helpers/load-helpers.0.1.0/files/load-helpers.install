@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/function.js" {"test/function.js"}
+"test/get.js" {"test/get.js"}
+"test/helpers.js" {"test/helpers.js"}
+"test/load.js" {"test/load.js"}
+"test/set.js" {"test/set.js"}
+"test/utils.js" {"test/utils.js"}
+"test/fixtures/one.js" {"test/fixtures/one.js"}
+"test/fixtures/three.js" {"test/fixtures/three.js"}
+"test/fixtures/two.js" {"test/fixtures/two.js"}
+"test/fixtures/arr/a.js" {"test/fixtures/arr/a.js"}
+"test/fixtures/hbs/a.js" {"test/fixtures/hbs/a.js"}
+"test/fixtures/obj/a.js" {"test/fixtures/obj/a.js"}
+"test/fixtures/obj/b.js" {"test/fixtures/obj/b.js"}
+"test/fixtures/obj/c.js" {"test/fixtures/obj/c.js"}
+"test/fixtures/wrapped/wrapped.js" {"test/fixtures/wrapped/wrapped.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

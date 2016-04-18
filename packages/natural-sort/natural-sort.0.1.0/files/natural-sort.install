@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"License.md" {"License.md"}
+"Readme.md" {"Readme.md"}
+"bower.json" {"bower.json"}
+"dist/natural-sort.js" {"dist/natural-sort.js"}
+]

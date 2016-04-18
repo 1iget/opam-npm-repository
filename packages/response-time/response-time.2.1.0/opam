@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "response-time"
+version: "2.1.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/response-time"
+depends: [
+"depd" {="0.4.5"}
+
+"on-headers" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

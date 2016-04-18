@@ -1,0 +1,9 @@
+lib: [
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/inflection.js" {"lib/inflection.js"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+]

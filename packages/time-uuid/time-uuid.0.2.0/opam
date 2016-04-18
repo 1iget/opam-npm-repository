@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "time-uuid"
+version: "0.2.0"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git@github.com:medikoo/time-uuid.git"
+depends: [
+"microtime-x" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".gitmodules" {".gitmodules"}
+"lib/crc.js" {"lib/crc.js"}
+"test/crc.js" {"test/crc.js"}
+"test/hello_world.txt" {"test/hello_world.txt"}
+"test/index.html" {"test/index.html"}
+]

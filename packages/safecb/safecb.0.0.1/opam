@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "safecb"
+version: "0.0.1"
+maintainer: "tenaciousmv <mark.vayngrib@lablz.com>"
+author: "tenaciousmv <mark.vayngrib@lablz.com>"
+license: "MIT"
+dev-repo: "https://github.com/mvayngrib/safecb"
+depends: [
+"dezalgo" {>="1.0.2" & <"2.0.0"}
+
+"once" {>="1.3.2" & <"2.0.0"}
+
+]
+
+
+
+

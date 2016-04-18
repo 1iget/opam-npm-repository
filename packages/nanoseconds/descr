@@ -1,0 +1,1 @@
+Convert the process.hrtime array to a single nanoseconds value.

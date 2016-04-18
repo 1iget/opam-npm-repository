@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "ansi"
+version: "0.0.2"
+maintainer: "TooTallNate <nathan@tootallnate.net>"
+author: "TooTallNate <nathan@tootallnate.net>"
+license: "not defined"
+dev-repo: "git://github.com/TooTallNate/ansi.js.git"
+depends: [
+"debug" {>="0.0.0"}
+
+]
+
+
+
+

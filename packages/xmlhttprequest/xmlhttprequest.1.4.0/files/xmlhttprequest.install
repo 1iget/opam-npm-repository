@@ -1,0 +1,17 @@
+lib: [
+"autotest.watchr" {"autotest.watchr"}
+"example/" {"example/"}
+"example/demo.js" {"example/demo.js"}
+"lib/" {"lib/"}
+"lib/XMLHttpRequest.js" {"lib/XMLHttpRequest.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"tests/test-constants.js" {"tests/test-constants.js"}
+"tests/test-events.js" {"tests/test-events.js"}
+"tests/test-exceptions.js" {"tests/test-exceptions.js"}
+"tests/test-headers.js" {"tests/test-headers.js"}
+"tests/test-request-methods.js" {"tests/test-request-methods.js"}
+"tests/test-request-protocols.js" {"tests/test-request-protocols.js"}
+"tests/testdata.txt" {"tests/testdata.txt"}
+]

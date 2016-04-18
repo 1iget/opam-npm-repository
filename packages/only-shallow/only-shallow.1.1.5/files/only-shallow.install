@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/buffer-pure-js.js" {"test/buffer-pure-js.js"}
+"test/deep.js" {"test/deep.js"}
+]

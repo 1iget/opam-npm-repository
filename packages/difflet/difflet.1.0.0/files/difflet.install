@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+"example/cmp_array.js" {"example/cmp_array.js"}
+"example/cmp_object.js" {"example/cmp_object.js"}
+"example/colors.js" {"example/colors.js"}
+"example/comma_first.js" {"example/comma_first.js"}
+"example/diff.js" {"example/diff.js"}
+"example/html.js" {"example/html.js"}
+"example/string.js" {"example/string.js"}
+"test/diffing-NaN.js" {"test/diffing-NaN.js"}
+"test/html.js" {"test/html.js"}
+]

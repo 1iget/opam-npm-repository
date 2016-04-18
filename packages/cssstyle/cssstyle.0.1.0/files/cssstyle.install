@@ -1,0 +1,6 @@
+lib: [
+"lib/" {"lib/"}
+"lib/CSSStyleDeclaration.js" {"lib/CSSStyleDeclaration.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

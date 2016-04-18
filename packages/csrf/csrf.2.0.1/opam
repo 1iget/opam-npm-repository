@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "csrf"
+version: "2.0.1"
+maintainer: "dwolla <michael@dwolla.com>"
+author: "dwolla <michael@dwolla.com>"
+license: "MIT"
+dev-repo: "https://github.com/pillarjs/csrf"
+depends: [
+"rndm" {>="1.0.0" & <"1.1.0"}
+
+"scmp" {="0.0.3"}
+
+"uid-safe" {>="1.0.1" & <"1.1.0"}
+
+"base64-url" {="1.0.0"}
+
+]
+
+
+
+

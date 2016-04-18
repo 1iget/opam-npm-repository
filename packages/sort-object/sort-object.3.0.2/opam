@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "sort-object"
+version: "3.0.2"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/doowb/sort-object.git"
+depends: [
+"bytewise" {>="1.1.0" & <"2.0.0"}
+
+"get-value" {>="2.0.2" & <"3.0.0"}
+
+"is-extendable" {>="0.1.1" & <"0.2.0"}
+
+"sort-asc" {>="0.2.0" & <"0.3.0"}
+
+"sort-desc" {>="0.2.0" & <"0.3.0"}
+
+"union-value" {>="0.2.3" & <"0.3.0"}
+
+]
+
+
+
+

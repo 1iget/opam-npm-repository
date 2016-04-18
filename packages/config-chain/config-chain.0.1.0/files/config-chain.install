@@ -1,0 +1,9 @@
+lib: [
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"npm-install-20941.sh" {"npm-install-20941.sh"}
+"readme.markdown" {"readme.markdown"}
+".gitignore" {".gitignore"}
+"test/find-file.js" {"test/find-file.js"}
+]

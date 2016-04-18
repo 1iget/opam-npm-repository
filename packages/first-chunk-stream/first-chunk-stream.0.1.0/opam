@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "first-chunk-stream"
+version: "0.1.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/first-chunk-stream"
+depends: [
+
+]
+
+
+
+

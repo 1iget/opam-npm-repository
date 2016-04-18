@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "bl"
+version: "0.9.5"
+maintainer: "rvagg <rod@vagg.org>"
+author: "rvagg <rod@vagg.org>"
+license: "MIT"
+dev-repo: "git+https://github.com/rvagg/bl.git"
+depends: [
+"readable-stream" {>="1.0.26" & <"1.1.0"}
+
+]
+
+
+
+

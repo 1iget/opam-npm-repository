@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "readme-badges"
+version: "0.1.4"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/assemble/readme-badges.git"
+depends: [
+"globule" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

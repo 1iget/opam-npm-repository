@@ -1,0 +1,1 @@
+deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results

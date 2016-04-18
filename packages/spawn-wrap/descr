@@ -1,0 +1,1 @@
+Wrap all spawned Node.js child processes by adding environs and arguments ahead of the main JavaScript file argument.

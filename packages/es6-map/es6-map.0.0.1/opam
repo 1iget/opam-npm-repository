@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "es6-map"
+version: "0.0.1"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git://github.com/medikoo/es6-map.git"
+depends: [
+"d" {>="0.1.1" & <"0.2.0"}
+
+"es5-ext" {>="0.10.2" & <"0.11.0"}
+
+"es6-iterator" {="ImdpdDovL2dpdGh1Yi5jb20vbWVkaWtvby9lczYtaXRlcmF0b3IuZ2l0Ig"}
+
+"es6-set" {="ImdpdDovL2dpdGh1Yi5jb20vbWVkaWtvby9lczYtc2V0LmdpdCI"}
+
+"es6-symbol" {="ImdpdDovL2dpdGh1Yi5jb20vbWVkaWtvby9lczYtc3ltYm9sLmdpdCI"}
+
+"event-emitter" {>="0.3.1" & <"0.4.0"}
+
+]
+
+
+
+

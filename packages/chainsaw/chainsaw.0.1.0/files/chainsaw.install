@@ -1,0 +1,9 @@
+lib: [
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"examples/add_do.js" {"examples/add_do.js"}
+"examples/prompt.js" {"examples/prompt.js"}
+"test/chainsaw.js" {"test/chainsaw.js"}
+]

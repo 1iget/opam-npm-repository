@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"examples/pretty.js" {"examples/pretty.js"}
+"readme.markdown" {"readme.markdown"}
+"test/connect.asynct.js" {"test/connect.asynct.js"}
+"test/merge.asynct.js" {"test/merge.asynct.js"}
+"test/pause.asynct.js" {"test/pause.asynct.js"}
+"test/pipeline.asynct.js" {"test/pipeline.asynct.js"}
+"test/readable.asynct.js" {"test/readable.asynct.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/replace.asynct.js" {"test/replace.asynct.js"}
+"test/simple-map.asynct.js" {"test/simple-map.asynct.js"}
+"test/spec.asynct.js" {"test/spec.asynct.js"}
+"test/split.asynct.js" {"test/split.asynct.js"}
+"test/writeArray.asynct.js" {"test/writeArray.asynct.js"}
+"test/readArray.asynct.js" {"test/readArray.asynct.js"}
+"test/helper/index.js" {"test/helper/index.js"}
+]

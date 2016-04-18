@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"pop-clone.js" {"pop-clone.js"}
+"test/pop-clone-test.js" {"test/pop-clone-test.js"}
+]

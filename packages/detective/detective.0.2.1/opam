@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "detective"
+version: "0.2.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-detective.git"
+depends: [
+"esprima" {>="0.9.9" & <"0.10.0"}
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "url-parse"
+version: "1.0.3"
+maintainer: "unshift <npm@unshift.io>"
+author: "unshift <npm@unshift.io>"
+license: "MIT"
+dev-repo: "git+https://github.com/unshiftio/url-parse.git"
+depends: [
+"querystringify" {>="0.0.0" & <"0.1.0"}
+
+"requires-port" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

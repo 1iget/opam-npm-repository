@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "argsparser"
+version: "0.0.3"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/kof/node-argsparser.git"
+depends: [
+
+]
+install: ["sh" "-c" "node ./test/test.js"]
+
+
+

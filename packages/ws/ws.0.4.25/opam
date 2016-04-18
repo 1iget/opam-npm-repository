@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "ws"
+version: "0.4.25"
+maintainer: "einaros <einaros@gmail.com>"
+author: "einaros <einaros@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/einaros/ws.git"
+depends: [
+"commander" {>="0.6.1" & <"0.7.0"}
+
+"tinycolor" {>="0.0.0" & <"1.0.0"}
+
+"options" {="latest"}
+
+]
+install: ["sh" "-c" "(node-gyp rebuild 2> builderror.log) || (exit 0)"]
+
+
+

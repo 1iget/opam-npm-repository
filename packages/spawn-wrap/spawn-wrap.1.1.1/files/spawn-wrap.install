@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"t.js" {"t.js"}
+"shim.js" {"shim.js"}
+".travis.yml" {".travis.yml"}
+"lib/is-windows.js" {"lib/is-windows.js"}
+"lib/win-rebase.js" {"lib/win-rebase.js"}
+".nyc_output/28932.json" {".nyc_output/28932.json"}
+".nyc_output/28934.json" {".nyc_output/28934.json"}
+".nyc_output/28966.json" {".nyc_output/28966.json"}
+"test/basic.js" {"test/basic.js"}
+"test/win-rebase.js" {"test/win-rebase.js"}
+"test/fixtures/script.js" {"test/fixtures/script.js"}
+]

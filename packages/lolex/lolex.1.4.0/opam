@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "lolex"
+version: "1.4.0"
+maintainer: "cjohansen <christian@cjohansen.no>"
+author: "cjohansen <christian@cjohansen.no>"
+license: "BSD-3-Clause"
+dev-repo: "git+ssh://git@github.com/sinonjs/lolex.git"
+depends: [
+
+]
+
+
+
+

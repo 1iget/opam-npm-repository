@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"binding.gyp" {"binding.gyp"}
+"src/spawnSync.cc" {"src/spawnSync.cc"}
+"src/spawnSync.hh" {"src/spawnSync.hh"}
+"src/unix/runner.cc" {"src/unix/runner.cc"}
+"src/unix/runner.hh" {"src/unix/runner.hh"}
+"src/win/runner.cc" {"src/win/runner.cc"}
+"src/win/runner.hh" {"src/win/runner.hh"}
+"test/popen_test.js" {"test/popen_test.js"}
+"test/spawn_test.js" {"test/spawn_test.js"}
+"test/spawn_script/delay.js" {"test/spawn_script/delay.js"}
+"test/spawn_script/uppercase.js" {"test/spawn_script/uppercase.js"}
+]

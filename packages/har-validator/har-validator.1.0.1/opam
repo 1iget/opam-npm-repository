@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "har-validator"
+version: "1.0.1"
+maintainer: "ahmadnassri <ahmad@ahmadnassri.com>"
+author: "ahmadnassri <ahmad@ahmadnassri.com>"
+license: "MIT"
+dev-repo: "https://github.com/ahmadnassri/har-validator.git"
+depends: [
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"commander" {>="2.6.0" & <"3.0.0"}
+
+"is-my-json-valid" {>="2.9.4" & <"3.0.0"}
+
+]
+
+
+
+

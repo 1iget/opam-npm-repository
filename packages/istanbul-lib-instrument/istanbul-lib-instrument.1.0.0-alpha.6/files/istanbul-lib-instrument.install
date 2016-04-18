@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"docs/assets/anchor.js" {"docs/assets/anchor.js"}
+"docs/assets/site.js" {"docs/assets/site.js"}
+"docs/assets/bass.css" {"docs/assets/bass.css"}
+"docs/assets/github.css" {"docs/assets/github.css"}
+"docs/assets/style.css" {"docs/assets/style.css"}
+"docs/index.html" {"docs/index.html"}
+"lib/instrumenter-core.js" {"lib/instrumenter-core.js"}
+"lib/instrumenter.js" {"lib/instrumenter.js"}
+"lib/source-coverage.js" {"lib/source-coverage.js"}
+"lib/vargen-browser.js" {"lib/vargen-browser.js"}
+"lib/vargen.js" {"lib/vargen.js"}
+".doc.yml" {".doc.yml"}
+]

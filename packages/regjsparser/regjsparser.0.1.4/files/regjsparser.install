@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"parser.js" {"parser.js"}
+"CHANGELOG" {"CHANGELOG"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"bin/parser" {"bin/parser"}
+]

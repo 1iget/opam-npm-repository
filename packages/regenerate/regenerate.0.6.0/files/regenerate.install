@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"x.js" {"x.js"}
+"regenerate.js" {"regenerate.js"}
+"identifier.js" {"identifier.js"}
+"old-regenerate.js" {"old-regenerate.js"}
+"head.txt" {"head.txt"}
+"old.txt" {"old.txt"}
+"b" {"b"}
+"a" {"a"}
+"tmp" {"tmp"}
+"LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
+]

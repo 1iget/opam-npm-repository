@@ -1,0 +1,1 @@
+Abstraction for exponential and custom retry strategies for failed operations.

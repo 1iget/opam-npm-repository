@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "derequire"
+version: "2.0.3"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/calvinmetcalf/derequire.git"
+depends: [
+"acorn" {>="0.12.0" & <"0.13.0"}
+
+"concat-stream" {>="1.4.6" & <"2.0.0"}
+
+"escope" {>="2.0.6" & <"3.0.0"}
+
+"through2" {>="2.0.0" & <"3.0.0"}
+
+"yargs" {>="3.4.5" & <"4.0.0"}
+
+]
+
+
+
+

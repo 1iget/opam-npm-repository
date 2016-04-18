@@ -1,0 +1,14 @@
+lib: [
+"test.js" {"test.js"}
+"generate-pubsuffix.js" {"generate-pubsuffix.js"}
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"pkg.jsn" {"pkg.jsn"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"public-suffix.txt" {"public-suffix.txt"}
+"lib/pubsuffix.js" {"lib/pubsuffix.js"}
+"lib/.cookie.js.swn" {"lib/.cookie.js.swn"}
+"lib/.cookie.js.swo" {"lib/.cookie.js.swo"}
+"lib/cookie.js" {"lib/cookie.js"}
+]

@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"read-installed.js" {"read-installed.js"}
+"test/basic.js" {"test/basic.js"}
+"test/dev.js" {"test/dev.js"}
+"test/noargs.js" {"test/noargs.js"}
+"test/peer-dep-at-latest.js" {"test/peer-dep-at-latest.js"}
+"test/fixtures/peer-at-latest/node_modules/debug/package.json" {"test/fixtures/peer-at-latest/node_modules/debug/package.json"}
+"test/fixtures/peer-at-latest/node_modules/strong-task-emitter/package.json" {"test/fixtures/peer-at-latest/node_modules/strong-task-emitter/package.json"}
+]

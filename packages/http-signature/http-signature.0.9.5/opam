@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "http-signature"
+version: "0.9.5"
+maintainer: "mcavage <mcavage@gmail.com>"
+author: "mcavage <mcavage@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/joyent/node-http-signature.git"
+depends: [
+"asn1" {="0.1.7"}
+
+"ctype" {="0.1.0"}
+
+"sprintf" {="0.1.1"}
+
+]
+
+
+
+

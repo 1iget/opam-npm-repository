@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"examples/simple.js" {"examples/simple.js"}
+"jsl.node.conf" {"jsl.node.conf"}
+"Makefile.targ" {"Makefile.targ"}
+".gitmodules" {".gitmodules"}
+"Makefile.deps" {"Makefile.deps"}
+"lib/extsprintf.js" {"lib/extsprintf.js"}
+"Makefile" {"Makefile"}
+]

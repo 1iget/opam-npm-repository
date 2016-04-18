@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"test.js" {"test.js"}
+"index.js" {"index.js"}
+"changelog.md" {"changelog.md"}
+"lib/console.js" {"lib/console.js"}
+"specs/index.js" {"specs/index.js"}
+"specs/fixtures/colored-output.txt" {"specs/fixtures/colored-output.txt"}
+"specs/fixtures/complex-objects.txt" {"specs/fixtures/complex-objects.txt"}
+".travis.yml" {".travis.yml"}
+"screenshot.png" {"screenshot.png"}
+]

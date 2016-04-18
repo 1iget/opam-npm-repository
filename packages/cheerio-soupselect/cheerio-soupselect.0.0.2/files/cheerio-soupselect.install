@@ -1,0 +1,7 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/soupselect.js" {"lib/soupselect.js"}
+]

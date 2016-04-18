@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Connect</title>
+    <meta http-equiv="content-type" value="text/html; charset=utf-8">
+    <style type="text/css">
+      body {
+        font: 13px "Helvetica Neue", "Lucida Grande", "Arial";
+        text-align: center;
+        color: #555;
+        -webkit-text-stroke: 1px rgba(255, 255, 255, 0.1);
+      }
+      h1, h2, h3 {
+        margin: 0;
+        font-size: 22px;
+        font-weight: normal;
+        color: #343434;
+      }
+      h2#Connect {
+        margin-bottom: 25px;
+        font-size: 60px;
+        font-weight: bold;
+      }
+      h2#Connect + p {
+        display: none;
+      }
+	  h3 {
+		margin: 15px 0;
+		padding-left: 10px;
+	    font-size: 16px;
+		border-left: 15px solid #eee;
+	  }
+      h2 {
+        margin-top: 35px;
+        text-shadow: 1px 2px 2px #ddd;
+      }
+      ul {
+        margin: 10px 35px;
+        padding: 0;
+      }
+      ul li .path {
+        padding-left: 5px;
+        font-weight: bold;
+      }
+      ul li .line {
+        padding-right: 5px;
+        font-style: italic;
+      }
+      ul li:first-child .path {
+        padding-left: 0;
+      }
+      p {
+        line-height: 1.5;
+      }
+      p code {
+        padding: 2px 4px;
+        border: 1px solid #ddd;
+      }
+      p em, li em {
+        font-weight: bold;
+      }
+      pre {
+        margin: 25px 0 25px 15px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-box-shadow: 1px 1px 6px #ddd;
+        -moz-box-shadow: 1px 1px 6px #ddd;
+      }
+      table {
+        margin-bottom: 35px;
+        width: 100%;
+        border-collapse: collapse;
+      }
+      table td {
+        padding: 5px 10px;
+        font-size: 14px;
+      }
+      table tr {
+        border-bottom: 1px solid #fff;
+      }
+      table tr:last-child {
+        border-bottom: none;
+      }
+      table td:first-child {
+        width: 150px;
+        color: #343434;
+      }
+      #wrapper {
+        margin: 50px auto;
+        width: 750px;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrapper"><div class='mp'>
+<h2 id='Connect'>Connect</h2>
+<p><code>connect</code> - node server runner</p>
+
+<h2 id="Synopsis">Synopsis</h2>
+
+<pre><code>connect [-H|--host ADDR] [-p|--port NUM]
+        [-n|--workers NUM] [-I|--include PATH]
+        [-E|--env Connect] [-e|--eval CODE] [-C|--chdir PATH]
+        [-c|--config PATH] [-P|--pidfile PATH]
+        [-l|--logfile PATH] [-u|--user ID|Connect] [-g|--group ID|Connect]
+        [-v|--verbose] [-V|--version] [-K|--no-color]
+        [-h|--help] [--ENV VAL]
+        start|stop|restart|status [PATH]
+</code></pre>
+
+<h2 id="Description">Description</h2>
+
+<p>Connect is a dual purpose library, aiding in both rapid development, and deployment of node servers. Connect "middleware" can be stacked to create a robust application within minutes. The <em>connect</em> executable supports launching of both regular <code>net.Server</code>, and <code>connect.Server</code> instances.</p>
+
+<p>The connect executable supplies <em>init.d</em> friendly <em>start</em>, <em>stop</em>, and <em>restart</em> commands, and accept a direct path to the module meant to be run, otherwise defaults to trying both <em>app.js</em> and <em>server.js</em> in the current working directory.</p>
+
+<p>Also to check the status of a process you may use the <em>status</em> command, which
+checks if the process is running.</p>
+
+<h2 id="Executable-Options">Executable Options</h2>
+
+<pre><code>-H, --host ADDR      Host address, defaults to INADDR_ANY
+-p, --port NUM       Port number, defaults to 3000
+-n, --workers NUM    Number of worker processes to spawn
+-I, --include PATH   Unshift the given path to require.paths
+-E, --env Connect       Set environment, defaults to "development"
+-e, --eval CODE      Evaluate the given string
+-C, --chdir PATH     Change to the given path
+-c, --config PATH    Load configuration module
+-P, --pidfile PATH   PID file, defaults to pids/connect.pid
+-l, --logfile PATH   Log file, defaults to logs/connect.log
+-u, --user ID|Connect   Change user with setuid()
+-g, --group ID|Connect  Change group with setgid()
+-v, --verbose        Display verbose output
+-V, --version        Output connect version
+-K, --no-color       Suppress colored terminal output
+-h, --help           Display help information
+--ENV VAL            Sets the given connect environment variable
+</code></pre>
+
+<h2 id="Supported-Environment-Variables">Supported Environment Variables</h2>
+
+<p>Currently the following environment variables may be set
+via the <code>--ENV VAL</code> catchall. For example we can alter the log
+format used via the command line with `connect --logFormat ":method :uri".</p>
+
+<p>Boolean values may use strings such as "yes", "no", "true", "false".</p>
+
+<ul>
+<li>logFormat</li>
+<li>dumpExceptions</li>
+<li>showErrorMessage</li>
+<li>showErrorStack</li>
+<li>methodOverrideKey</li>
+<li>sassRoot</li>
+<li>staticRoot</li>
+</ul>
+
+
+<h2 id="Middleware">Middleware</h2>
+
+<p>Connect middleware is divided into two concepts. First we have <em>filters</em> which perform an action and allow lower middleware to respond to the request, secondly we have <em>providers</em> which are conceptual "end-points", responding to the request without continuing down the stack.</p>
+
+<h2 id="Middleware-Usage">Middleware Usage</h2>
+
+<p>Below is an example which shows usage of the <em>log</em> filter bundled with Connect, as well as the <em>static</em> provider.</p>
+
+<p>The keys <code>filter</code> and <code>provider</code> are used only as short-cuts to bundled middleware, to utilize a custom module we can assign a module's exports to the <code>module</code> key.</p>
+
+<pre><code>module.exports = require('./lib/connect').createServer([
+    { filter: 'log' },
+    { module: require('path/to/custom/middleware') },
+    { provider: 'static', root: __dirname + '/public' }
+]);
+</code></pre>
+
+<p>As shown above the module exports a <code>connect.Server</code> and does not call the <code>listen()</code> method directly. This allows other modules to "mount" this app, as well as allowing the <em>connect</em> executable to control how the server is run.</p>
+
+<p>If you prefer not to use <em>connect</em>, you can simply create a script executable by <em>node</em>, <code>require()</code> the app, then invoke <code>listen()</code>.</p>
+
+<pre><code>#!/usr/bin/env node
+require('./app').listen();
+</code></pre>
+
+<h2 id="Middleware-Authoring">Middleware Authoring</h2>
+
+<p>Middleware is essentially just an object, responding to a <code>handle()</code> method, the example below illustrates how simple it is to create, and utilize custom middleware.</p>
+
+<p>First we define the <code>handle()</code> method, which accepts three arguments, <em>req</em>, <em>res</em>, and <em>next</em>.</p>
+
+<pre><code>var helloWorld = {
+    handle: function(req, res, next){
+        res.writeHead(200, { 'Content-Type: 'text/plain' });
+        res.end('Hello World');
+    }
+};
+
+require('connect').createServer([
+    { module: helloWorld }
+]);
+</code></pre>
+
+<p>The <code>next()</code> function passes control to the next middleware layer in the stack, and may optionally be passed an instanceof <code>Error</code>, at which time only <code>handleError()</code> methods may respond.</p>
+
+<p>If you wish to pass an exception down the stack, you can invoke <code>next()</code> like below:</p>
+
+<pre><code> if (someRequirementIsNotMet) {
+     next(new Error('my requirement was not met!'));
+ }
+</code></pre>
+
+<p>We can take this example further by "exporting" the <code>handle()</code> method, so that other libraries can simply <code>require('hello-world')</code>:</p>
+
+<pre><code># hello-world.js
+exports.handle = function(req, res, next){
+    res.writeHead(200, { 'Content-Type: 'text/plain' });
+    res.end('Hello World');
+};
+
+# app.js
+require('connect').createServer([
+    { module: require('./hello-world') }
+]);
+</code></pre>
+
+<p>If an exception was thrown, or is passesd to <code>next()</code>, middleware may define the <code>handleError()</code> method
+in order to respond (or ignore) the exception. The <code>handleError()</code> method follows the same semantics as
+<code>handle()</code>, for example:</p>
+
+<pre><code>exports.handleError = function(err, req, res, next){
+    // At any time we can call next() without
+    // any arguments to eliminate exceptional status and
+    // continue down the stack
+
+    if (err.code === process.ENOENT) {
+        // We dont want to deal with missing files
+        // so pass the exception
+        next(err);
+    } else {
+        // Respond with a message
+        res.writeHead(200, { 'Content-Type': 'text/plain' })
+        res.end('shit! im broken');
+    }
+};
+</code></pre>
+
+<h2 id="Bundled-Middleware">Bundled Middleware</h2>
+
+<p>Connect ships with several helpful middleware modules,
+the following are currently provided out of the box:</p>
+
+<h3 id="Filters">Filters</h3>
+
+<pre><code>body-decoder     Buffers and parses json and urlencoded request bodies (extenable)
+conditional-get  Provides 304 "Not Modified" support
+error-handler    Handles exceptions thrown, or passed through the stack
+debug            Outputs debugging console to all html responses
+format           Handles url path extensions or "formats"
+gzip             Compresses response bodies with gzip executable
+lint             Aids in middleware development
+log              Provides common logger support, and custom log formats
+method-override  Provides faux HTTP method support by using the "_method" key by default 
+response-time    Responds with the X-Response-Time header in milliseconds
+redirect         Provides req.redirect() with "magic" urls, ex: req.redirect("back")
+</code></pre>
+
+<h3 id="Providers">Providers</h3>
+
+<pre><code>cache-manifest   Provides cache manifest for offline apps
+jsonrpc          Provides JSON-RPC 2.0 support
+sass             Provides auto-compilation of *.sass files
+static           Serves static files
+rest             Provides RESTful routing similar to Sinatra and Express
+</code></pre>
+
+<h3 id="Body-Decoder">Body Decoder</h3>
+
+<p>The <em>body-decoder</em> middleware sniffs the <em>Content-Type</em> header, and
+decodes the request body appropriately. Supported by default are the <em>application/x-www-form-urlencoded</em>,
+and <em>application/json</em> content types. To extend simply:</p>
+
+<pre><code>require('connect/filters/body-decoder').decode['some-mime/type'] = function(str){
+    return decodeSomething(str);
+};
+</code></pre>
+
+</div>
+    </div>
+  </body>
+</html>

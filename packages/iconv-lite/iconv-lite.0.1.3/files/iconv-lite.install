@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/main-test.js" {"test/main-test.js"}
+"test/turkish-test.js" {"test/turkish-test.js"}
+"test/cyrillic-test.js" {"test/cyrillic-test.js"}
+"test/greek-test.js" {"test/greek-test.js"}
+"test/gbk-test.js" {"test/gbk-test.js"}
+"test/gbkFile.txt" {"test/gbkFile.txt"}
+"encodings/western.js" {"encodings/western.js"}
+"encodings/gbk.js" {"encodings/gbk.js"}
+"encodings/cyrillic.js" {"encodings/cyrillic.js"}
+"encodings/greek.js" {"encodings/greek.js"}
+"encodings/turkish.js" {"encodings/turkish.js"}
+"encodings/table/gbk.js" {"encodings/table/gbk.js"}
+]

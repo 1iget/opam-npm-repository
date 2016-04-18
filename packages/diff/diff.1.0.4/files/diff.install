@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"diff.js" {"diff.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"index.html" {"index.html"}
+"style.css" {"style.css"}
+"test/applyPatch.js" {"test/applyPatch.js"}
+"test/createPatch.js" {"test/createPatch.js"}
+"test/diffTest.js" {"test/diffTest.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

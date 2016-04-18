@@ -1,0 +1,10 @@
+lib: [
+".npmignore" {".npmignore"}
+"example.js" {"example.js"}
+"lib/" {"lib/"}
+"lib/ansi.js" {"lib/ansi.js"}
+"nodejs.png" {"nodejs.png"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+]

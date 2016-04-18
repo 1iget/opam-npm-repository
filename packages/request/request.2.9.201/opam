@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "request"
+version: "2.9.201"
+maintainer: "mikeal <mikeal.rogers@gmail.com>"
+author: "mikeal <mikeal.rogers@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/mikeal/request.git"
+depends: [
+
+]
+
+
+
+

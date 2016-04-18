@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"npm-user-validate.js" {"npm-user-validate.js"}
+"test/email.test.js" {"test/email.test.js"}
+"test/pw.test.js" {"test/pw.test.js"}
+"test/username.test.js" {"test/username.test.js"}
+]

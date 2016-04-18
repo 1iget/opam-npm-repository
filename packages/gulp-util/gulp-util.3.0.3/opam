@@ -1,0 +1,43 @@
+opam-version: "1.2"
+name: "gulp-util"
+version: "3.0.3"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "https://github.com/wearefractal/gulp-util"
+depends: [
+"array-differ" {>="1.0.0" & <"2.0.0"}
+
+"array-uniq" {>="1.0.2" & <"2.0.0"}
+
+"beeper" {>="1.0.0" & <"2.0.0"}
+
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"dateformat" {>="1.0.11" & <"2.0.0"}
+
+"lodash.reescape" {>="3.0.0" & <"4.0.0"}
+
+"lodash.reevaluate" {>="3.0.0" & <"4.0.0"}
+
+"lodash.reinterpolate" {>="3.0.0" & <"4.0.0"}
+
+"lodash.template" {>="3.0.0" & <"4.0.0"}
+
+"minimist" {>="1.1.0" & <"2.0.0"}
+
+"multipipe" {>="0.1.2" & <"0.2.0"}
+
+"object-assign" {>="2.0.0" & <"3.0.0"}
+
+"replace-ext" {="0.0.1"}
+
+"through2" {>="0.6.3" & <"0.7.0"}
+
+"vinyl" {>="0.4.3" & <"0.5.0"}
+
+]
+
+
+
+

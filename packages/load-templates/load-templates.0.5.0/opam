@@ -1,0 +1,41 @@
+opam-version: "1.2"
+name: "load-templates"
+version: "0.5.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/load-templates.git"
+depends: [
+"array-slice" {>="0.2.2" & <"0.3.0"}
+
+"debug" {>="2.0.0" & <"3.0.0"}
+
+"for-own" {>="0.1.2" & <"0.2.0"}
+
+"gray-matter" {>="0.6.1" & <"0.7.0"}
+
+"has-any" {>="0.1.0" & <"0.2.0"}
+
+"has-any-deep" {>="0.2.0" & <"0.3.0"}
+
+"kind-of" {>="0.1.0" & <"0.2.0"}
+
+"map-files" {>="0.2.0" & <"0.3.0"}
+
+"object.filter" {>="0.2.0" & <"0.3.0"}
+
+"object.omit" {>="0.2.0" & <"0.3.0"}
+
+"object.pick" {>="0.1.1" & <"0.2.0"}
+
+"object.reduce" {>="0.1.3" & <"0.2.0"}
+
+"omit-empty" {>="0.3.0" & <"0.4.0"}
+
+"option-cache" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

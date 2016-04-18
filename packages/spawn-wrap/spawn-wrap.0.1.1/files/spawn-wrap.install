@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"shim.js" {"shim.js"}
+"t.js" {"t.js"}
+"notes.md" {"notes.md"}
+"test/basic.js" {"test/basic.js"}
+"test/fixtures/script.js" {"test/fixtures/script.js"}
+"TODO.md" {"TODO.md"}
+]

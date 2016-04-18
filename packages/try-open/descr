@@ -1,0 +1,1 @@
+Tries to open a file using fs.openSync (only necessary with sync), fails gracefully if the file path does not exist on the file system. Since fs.existsSync has been deprecated, this can be used as an alternative.

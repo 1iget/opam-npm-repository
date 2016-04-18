@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "imurmurhash"
+version: "0.1.2"
+maintainer: "jensyt <jensyt@gmail.com>"
+author: "jensyt <jensyt@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/jensyt/imurmurhash-js"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,9 @@
+lib: [
+".npmignore" {".npmignore"}
+"grunt.js" {"grunt.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"peakle.js" {"peakle.js"}
+"README" {"README"}
+"test.js" {"test.js"}
+]

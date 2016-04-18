@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "through2-map"
+version: "1.0.1"
+maintainer: "bryce <bryce@ravenwall.com>"
+author: "bryce <bryce@ravenwall.com>"
+license: "MIT"
+dev-repo: "git@github.com:brycebaril/through2-map.git"
+depends: [
+"through2" {>="0.1.0" & <"0.2.0"}
+
+"concat-stream" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

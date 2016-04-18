@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "test-value"
+version: "0.1.0"
+maintainer: "75lb <75pound@gmail.com>"
+author: "75lb <75pound@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/75lb/test-value.git"
+depends: [
+"array-back" {>="1.0.0" & <"2.0.0"}
+
+"typical" {>="2.3.0" & <"3.0.0"}
+
+]
+
+
+
+

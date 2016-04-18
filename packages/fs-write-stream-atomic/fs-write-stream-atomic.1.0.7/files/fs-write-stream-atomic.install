@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"index.js~" {"index.js~"}
+"test/basic.js" {"test/basic.js"}
+"test/chown.js" {"test/chown.js"}
+"test/toolong.js" {"test/toolong.js"}
+"test/basic.js~" {"test/basic.js~"}
+"test/test-chown.3965625346" {"test/test-chown.3965625346"}
+"test/test-chown.574702585" {"test/test-chown.574702585"}
+"test/toolong.js~" {"test/toolong.js~"}
+]

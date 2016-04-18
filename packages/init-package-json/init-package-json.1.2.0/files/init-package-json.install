@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"default-input.js" {"default-input.js"}
+"init-package-json.js" {"init-package-json.js"}
+"example/example-basic.js" {"example/example-basic.js"}
+"example/example-default.js" {"example/example-default.js"}
+"example/example-npm.js" {"example/example-npm.js"}
+"example/init/basic-init.js" {"example/init/basic-init.js"}
+"test/basic.js" {"test/basic.js"}
+"test/npm-defaults.js" {"test/npm-defaults.js"}
+"test/basic.input" {"test/basic.input"}
+]

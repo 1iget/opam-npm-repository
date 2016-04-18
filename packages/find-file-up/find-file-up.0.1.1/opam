@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "find-file-up"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/find-file-up.git"
+depends: [
+"resolve-dir" {>="0.1.0" & <"0.2.0"}
+
+"try-open" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

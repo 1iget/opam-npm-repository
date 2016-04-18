@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"HISTORY.md" {"HISTORY.md"}
+"lib/copy.js" {"lib/copy.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/polyfill.js" {"lib/polyfill.js"}
+"src/copy.js" {"src/copy.js"}
+"src/index.js" {"src/index.js"}
+"src/polyfill.js" {"src/polyfill.js"}
+"build/deepcopy.js" {"build/deepcopy.js"}
+"build/deepcopy.min.js" {"build/deepcopy.min.js"}
+]

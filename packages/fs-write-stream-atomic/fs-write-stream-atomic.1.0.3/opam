@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "fs-write-stream-atomic"
+version: "1.0.3"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "https://github.com/npm/fs-write-stream-atomic"
+depends: [
+"graceful-fs" {>="3.0.2" & <"4.0.0"}
+
+]
+
+
+
+

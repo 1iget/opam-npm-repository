@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"LICENCE" {"LICENCE"}
+"etag.js" {"etag.js"}
+"example.js" {"example.js"}
+"readme.md" {"readme.md"}
+]

@@ -1,0 +1,11 @@
+lib: [
+"changelog" {"changelog"}
+".gitignore" {".gitignore"}
+"wscript" {"wscript"}
+"README.md" {"README.md"}
+"LICENSE.txt" {"LICENSE.txt"}
+"package.json" {"package.json"}
+"lib/contextify.js" {"lib/contextify.js"}
+"test/contextify.js" {"test/contextify.js"}
+"src/contextify.cc" {"src/contextify.cc"}
+]

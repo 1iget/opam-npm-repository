@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "browserify-sign"
+version: "3.0.1"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "ISC"
+dev-repo: "git://github.com/crypto-browserify/browserify-sign.git"
+depends: [
+"bn.js" {>="1.0.0" & <"2.0.0"}
+
+"browserify-rsa" {>="2.0.0" & <"3.0.0"}
+
+"create-hash" {>="1.1.0" & <"2.0.0"}
+
+"create-hmac" {>="1.1.2" & <"2.0.0"}
+
+"elliptic" {>="1.0.0" & <"2.0.0"}
+
+"inherits" {>="2.0.1" & <"3.0.0"}
+
+"parse-asn1" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

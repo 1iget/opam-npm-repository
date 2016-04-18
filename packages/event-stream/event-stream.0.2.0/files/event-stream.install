@@ -1,0 +1,8 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"readme.markdown" {"readme.markdown"}
+"out" {"out"}
+".gitignore" {".gitignore"}
+"examples/pretty.js" {"examples/pretty.js"}
+]

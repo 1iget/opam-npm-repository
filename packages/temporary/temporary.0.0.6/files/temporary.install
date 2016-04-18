@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"examples/dir.js" {"examples/dir.js"}
+"examples/file.js" {"examples/file.js"}
+"History.md" {"History.md"}
+"lib/base.js" {"lib/base.js"}
+"lib/detector.js" {"lib/detector.js"}
+"lib/dir.js" {"lib/dir.js"}
+"lib/file.js" {"lib/file.js"}
+"lib/generator.js" {"lib/generator.js"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+"test/base.test.js" {"test/base.test.js"}
+"test/detector.test.js" {"test/detector.test.js"}
+"test/dir.test.js" {"test/dir.test.js"}
+"test/file.test.js" {"test/file.test.js"}
+"test/generator.test.js" {"test/generator.test.js"}
+]

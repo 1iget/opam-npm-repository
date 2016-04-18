@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "prompt"
+version: "1.0.0"
+maintainer: "indexzero <charlie.robbins@gmail.com>"
+author: "indexzero <charlie.robbins@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/flatiron/prompt.git"
+depends: [
+"colors" {>="1.1.2" & <"2.0.0"}
+
+"pkginfo" {>="0.0.0" & <"1.0.0"}
+
+"read" {>="1.0.0" & <"1.1.0"}
+
+"revalidator" {>="0.1.0" & <"0.2.0"}
+
+"utile" {>="0.3.0" & <"0.4.0"}
+
+"winston" {>="2.1.0" & <"2.2.0"}
+
+]
+
+
+
+

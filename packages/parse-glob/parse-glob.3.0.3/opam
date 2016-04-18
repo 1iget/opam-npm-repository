@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "parse-glob"
+version: "3.0.3"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/parse-glob.git"
+depends: [
+"glob-base" {>="0.3.0" & <"0.4.0"}
+
+"is-dotfile" {>="1.0.0" & <"2.0.0"}
+
+"is-extglob" {>="1.0.0" & <"2.0.0"}
+
+"is-glob" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

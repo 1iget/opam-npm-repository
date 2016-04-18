@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+".jshintrc" {".jshintrc"}
+".jshintignore" {".jshintignore"}
+"bower.json" {"bower.json"}
+".travis.yml" {".travis.yml"}
+"lib/index.js" {"lib/index.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/stringify.js" {"lib/stringify.js"}
+"lib/utils.js" {"lib/utils.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/parse.js" {"test/parse.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/utils.js" {"test/utils.js"}
+]

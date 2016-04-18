@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "liftoff"
+version: "0.2.0"
+maintainer: "tkellen <tyler@sleekcode.net>"
+author: "tkellen <tyler@sleekcode.net>"
+license: "not defined"
+dev-repo: "git://github.com/tkellen/node-liftoff.git"
+depends: [
+"findup-sync" {>="0.1.2" & <"0.2.0"}
+
+"resolve" {>="0.6.1" & <"0.7.0"}
+
+"optimist" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Safely clone node's fs.Stats instances without losing their class methods

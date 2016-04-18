@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"pop-unzip.js" {"pop-unzip.js"}
+"pop-zip.js" {"pop-zip.js"}
+"unzip.js" {"unzip.js"}
+"zip.js" {"zip.js"}
+"test/cases.js" {"test/cases.js"}
+"test/pop-unzip-test.js" {"test/pop-unzip-test.js"}
+"test/pop-zip-test.js" {"test/pop-zip-test.js"}
+"test/unzip-test.js" {"test/unzip-test.js"}
+"test/zip-test.js" {"test/zip-test.js"}
+]

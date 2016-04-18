@@ -1,0 +1,1 @@
+Returns true if any values exist, false if empty. Works for booleans, functions, numbers, strings, nulls, objects and arrays. 

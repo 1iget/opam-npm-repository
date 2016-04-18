@@ -1,0 +1,22 @@
+lib: [
+"node-walk/" {"node-walk/"}
+"node-walk/examples/" {"node-walk/examples/"}
+"node-walk/lib/" {"node-walk/lib/"}
+"node-walk/package.json" {"node-walk/package.json"}
+"node-walk/README.md" {"node-walk/README.md"}
+"node-walk/tests/" {"node-walk/tests/"}
+"node-walk/walk-test.sh" {"node-walk/walk-test.sh"}
+"node-walk/tests/oneDir/" {"node-walk/tests/oneDir/"}
+"node-walk/tests/oneDirWithFiles/" {"node-walk/tests/oneDirWithFiles/"}
+"node-walk/lib/walk-0.9.js" {"node-walk/lib/walk-0.9.js"}
+"node-walk/lib/walk-alternate-implementation.js" {"node-walk/lib/walk-alternate-implementation.js"}
+"node-walk/lib/walk.js" {"node-walk/lib/walk.js"}
+"node-walk/examples/find-slowdown-test.js" {"node-walk/examples/find-slowdown-test.js"}
+"node-walk/examples/find-test.js" {"node-walk/examples/find-test.js"}
+"node-walk/examples/find.js" {"node-walk/examples/find.js"}
+"node-walk/examples/walk-array-emitters.js" {"node-walk/examples/walk-array-emitters.js"}
+"node-walk/examples/walk-older-version.js" {"node-walk/examples/walk-older-version.js"}
+"node-walk/examples/walk-pythonic.js" {"node-walk/examples/walk-pythonic.js"}
+"node-walk/examples/walk-singles-emitter.js" {"node-walk/examples/walk-singles-emitter.js"}
+"node-walk/examples/walk-whenever.js" {"node-walk/examples/walk-whenever.js"}
+]

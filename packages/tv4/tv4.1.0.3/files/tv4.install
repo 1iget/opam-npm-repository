@@ -1,0 +1,58 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"tv4.js" {"tv4.js"}
+"tv4.async-jquery.js" {"tv4.async-jquery.js"}
+"tv4.min.js" {"tv4.min.js"}
+"tests/nodetests.js" {"tests/nodetests.js"}
+"tests/index.php" {"tests/index.php"}
+"tests/js/jquery.js" {"tests/js/jquery.js"}
+"tests/js/render.test-set.js" {"tests/js/render.test-set.js"}
+"tests/js/test-set.js" {"tests/js/test-set.js"}
+"tests/page.test.css" {"tests/page.test.css"}
+"tests/tests/01 - Any types/01 - type.js" {"tests/tests/01 - Any types/01 - type.js"}
+"tests/tests/01 - Any types/02 - enum.js" {"tests/tests/01 - Any types/02 - enum.js"}
+"tests/tests/02 - Numeric/01 - multipleOf.js" {"tests/tests/02 - Numeric/01 - multipleOf.js"}
+"tests/tests/02 - Numeric/02 - min-max.js" {"tests/tests/02 - Numeric/02 - min-max.js"}
+"tests/tests/03 - Strings/01 - min-max length.js" {"tests/tests/03 - Strings/01 - min-max length.js"}
+"tests/tests/03 - Strings/02 - pattern.js" {"tests/tests/03 - Strings/02 - pattern.js"}
+"tests/tests/04 - Arrays/01 - min-max length.js" {"tests/tests/04 - Arrays/01 - min-max length.js"}
+"tests/tests/04 - Arrays/02 - uniqueItems.js" {"tests/tests/04 - Arrays/02 - uniqueItems.js"}
+"tests/tests/04 - Arrays/03 - items (plain).js" {"tests/tests/04 - Arrays/03 - items (plain).js"}
+"tests/tests/04 - Arrays/04 - items (tuple-typing).js" {"tests/tests/04 - Arrays/04 - items (tuple-typing).js"}
+"tests/tests/04 - Arrays/05 - additionalItems.js" {"tests/tests/04 - Arrays/05 - additionalItems.js"}
+"tests/tests/05 - Objects/01 - min-max properties.js" {"tests/tests/05 - Objects/01 - min-max properties.js"}
+"tests/tests/05 - Objects/02 - required.js" {"tests/tests/05 - Objects/02 - required.js"}
+"tests/tests/05 - Objects/03 - properties.js" {"tests/tests/05 - Objects/03 - properties.js"}
+"tests/tests/05 - Objects/04 - patternProperties.js" {"tests/tests/05 - Objects/04 - patternProperties.js"}
+"tests/tests/05 - Objects/05 - additionalProperties - Copy.js" {"tests/tests/05 - Objects/05 - additionalProperties - Copy.js"}
+"tests/tests/05 - Objects/06 - dependencies.js" {"tests/tests/05 - Objects/06 - dependencies.js"}
+"tests/tests/06 - Combinations/01 - allOf.js" {"tests/tests/06 - Combinations/01 - allOf.js"}
+"tests/tests/06 - Combinations/02- anyOf.js" {"tests/tests/06 - Combinations/02- anyOf.js"}
+"tests/tests/06 - Combinations/03 - oneOf.js" {"tests/tests/06 - Combinations/03 - oneOf.js"}
+"tests/tests/06 - Combinations/04 - not.js" {"tests/tests/06 - Combinations/04 - not.js"}
+"tests/tests/07 - $ref/01 - normalise.js" {"tests/tests/07 - $ref/01 - normalise.js"}
+"tests/tests/07 - $ref/02 - list missing URLs.js" {"tests/tests/07 - $ref/02 - list missing URLs.js"}
+"tests/tests/07 - $ref/03 - getSchema.js" {"tests/tests/07 - $ref/03 - getSchema.js"}
+"tests/tests/07 - $ref/04 - ref.js" {"tests/tests/07 - $ref/04 - ref.js"}
+"tests/tests/07 - $ref/05 - inline addressing.js" {"tests/tests/07 - $ref/05 - inline addressing.js"}
+"tests/tests/08 - API/01 - validateResult.js" {"tests/tests/08 - API/01 - validateResult.js"}
+"tests/tests/08 - API/02 - errorCodes existence.js" {"tests/tests/08 - API/02 - errorCodes existence.js"}
+"tests/tests/09 - Multiple errors/01 - validateMultiple.js" {"tests/tests/09 - Multiple errors/01 - validateMultiple.js"}
+"index.html" {"index.html"}
+"LICENSE.txt" {"LICENSE.txt"}
+"tv4.js.php" {"tv4.js.php"}
+"source/api.js" {"source/api.js"}
+"source/basic.js" {"source/basic.js"}
+"source/combinations.js" {"source/combinations.js"}
+"source/normalise-schema.js" {"source/normalise-schema.js"}
+"source/numeric.js" {"source/numeric.js"}
+"source/array.js" {"source/array.js"}
+"source/resolve-uri.js" {"source/resolve-uri.js"}
+"source/string.js" {"source/string.js"}
+"source/validate.js" {"source/validate.js"}
+"source/_footer.js" {"source/_footer.js"}
+"source/_header.js" {"source/_header.js"}
+"source/object.js" {"source/object.js"}
+]

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "browser-pack"
+version: "3.0.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/browser-pack.git"
+depends: [
+"JSONStream" {>="0.8.4" & <"0.9.0"}
+
+"combine-source-map" {>="0.3.0" & <"0.4.0"}
+
+"concat-stream" {>="1.4.1" & <"1.5.0"}
+
+"through2" {>="0.5.1" & <"0.6.0"}
+
+"umd" {>="2.1.0" & <"3.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+".editorconfig" {".editorconfig"}
+"bin/har-validator" {"bin/har-validator"}
+"src/index.js" {"src/index.js"}
+"src/schema.json" {"src/schema.json"}
+".jshintrc" {".jshintrc"}
+"test/fixtures.js" {"test/fixtures.js"}
+"test/validator.js" {"test/validator.js"}
+]

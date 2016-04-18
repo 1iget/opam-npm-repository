@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "core-js"
+version: "0.9.10"
+maintainer: "zloirock <zloirock@zloirock.ru>"
+author: "zloirock <zloirock@zloirock.ru>"
+license: "MIT"
+dev-repo: "https://github.com/zloirock/core-js.git"
+depends: [
+
+]
+
+
+
+

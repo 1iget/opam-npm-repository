@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "morgan"
+version: "1.6.1"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/morgan"
+depends: [
+"basic-auth" {>="1.0.3" & <"1.1.0"}
+
+"debug" {>="2.2.0" & <"2.3.0"}
+
+"depd" {>="1.0.1" & <"1.1.0"}
+
+"on-finished" {>="2.3.0" & <"2.4.0"}
+
+"on-headers" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

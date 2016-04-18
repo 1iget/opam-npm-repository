@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"example/env.js" {"example/env.js"}
+"example/parse.js" {"example/parse.js"}
+"example/quote.js" {"example/quote.js"}
+"readme.markdown" {"readme.markdown"}
+"test/env.js" {"test/env.js"}
+"test/parse.js" {"test/parse.js"}
+"test/quote.js" {"test/quote.js"}
+".travis.yml" {".travis.yml"}
+]

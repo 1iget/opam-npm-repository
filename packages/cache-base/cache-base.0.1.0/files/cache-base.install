@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"test/cache.js" {"test/cache.js"}
+"test/merge.js" {"test/merge.js"}
+"test/forOwn.js" {"test/forOwn.js"}
+"test/functions.js" {"test/functions.js"}
+"test/extend.js" {"test/extend.js"}
+"test/has.js" {"test/has.js"}
+"test/hasOwn.js" {"test/hasOwn.js"}
+"test/keys.js" {"test/keys.js"}
+"test/get-set.js" {"test/get-set.js"}
+"test/fixtures/a.yml" {"test/fixtures/a.yml"}
+"test/fixtures/data/alert.json" {"test/fixtures/data/alert.json"}
+"test/fixtures/data/data.json" {"test/fixtures/data/data.json"}
+"test/fixtures/data/test.json" {"test/fixtures/data/test.json"}
+"test/fixtures/namespace/a.yml" {"test/fixtures/namespace/a.yml"}
+"test/fixtures/namespace/b.yml" {"test/fixtures/namespace/b.yml"}
+"test/fixtures/namespace/c.json" {"test/fixtures/namespace/c.json"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/index.js" {"lib/index.js"}
+"src/index.coffee" {"src/index.coffee"}
+"test/readme.js" {"test/readme.js"}
+"test/test.coffee" {"test/test.coffee"}
+]

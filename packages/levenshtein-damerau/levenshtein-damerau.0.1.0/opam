@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "levenshtein-damerau"
+version: "0.1.0"
+maintainer: "segomos <tonyo@segomos.com>"
+author: "segomos <tonyo@segomos.com>"
+license: "not defined"
+dev-repo: "git@github.com:tony-o/skodld.git"
+depends: [
+
+]
+
+
+
+

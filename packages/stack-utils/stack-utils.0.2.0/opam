@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "stack-utils"
+version: "0.2.0"
+maintainer: "jamestalmage <james@talmage.io>"
+author: "jamestalmage <james@talmage.io>"
+license: "MIT"
+dev-repo: "git+https://github.com/jamestalmage/stack-utils.git"
+depends: [
+
+]
+
+
+
+

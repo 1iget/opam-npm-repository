@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bundle.js" {"bundle.js"}
+"index.js" {"index.js"}
+".zuul.yml" {".zuul.yml"}
+".travis.yml" {".travis.yml"}
+"test/base64.js" {"test/base64.js"}
+"test/compare.js" {"test/compare.js"}
+"test/constructor.js" {"test/constructor.js"}
+"test/deprecated.js" {"test/deprecated.js"}
+"test/methods.js" {"test/methods.js"}
+"test/basic.js" {"test/basic.js"}
+"test/static.js" {"test/static.js"}
+"test/to-string.js" {"test/to-string.js"}
+"test/user-agent.js" {"test/user-agent.js"}
+"test/utf16.js" {"test/utf16.js"}
+"test/write.js" {"test/write.js"}
+"test/slice.js" {"test/slice.js"}
+]

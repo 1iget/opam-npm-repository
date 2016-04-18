@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "node-status-codes"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/sindresorhus/node-status-codes.git"
+depends: [
+
+]
+
+
+
+

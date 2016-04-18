@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "scmp"
+version: "1.0.0"
+maintainer: "freewil <sean@eternalrise.com>"
+author: "freewil <sean@eternalrise.com>"
+license: "BSD"
+dev-repo: "git://github.com/freewil/scmp.git"
+depends: [
+
+]
+
+
+
+

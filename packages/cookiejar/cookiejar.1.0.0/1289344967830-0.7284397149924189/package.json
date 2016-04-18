@@ -1,0 +1,5 @@
+{ "name" : "cookiejar"
+, "version" : "1.0.0"
+, "author": "bradleymeck"
+, "main": "cookiejar.js"
+}

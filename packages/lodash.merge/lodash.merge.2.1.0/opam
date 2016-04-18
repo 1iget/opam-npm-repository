@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "lodash.merge"
+version: "2.1.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash._basecreatecallback" {>="2.1.0" & <"2.2.0"}
+
+"lodash._basemerge" {>="2.1.0" & <"2.2.0"}
+
+"lodash._getarray" {>="2.1.0" & <"2.2.0"}
+
+"lodash.isobject" {>="2.1.0" & <"2.2.0"}
+
+"lodash._releasearray" {>="2.1.0" & <"2.2.0"}
+
+]
+
+
+
+

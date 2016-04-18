@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ctype"
+version: "0.5.5"
+maintainer: "rm <rm@fingolfin.org>"
+author: "rm <rm@fingolfin.org>"
+license: "MIT"
+dev-repo: "https://github.com/rmustacc/node-ctype.git"
+depends: [
+
+]
+
+
+
+

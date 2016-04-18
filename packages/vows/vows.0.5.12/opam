@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "vows"
+version: "0.5.12"
+maintainer: "cloudhead <self@cloudhead.net>"
+author: "cloudhead <self@cloudhead.net>"
+license: "not defined"
+
+depends: [
+"eyes" {>="0.1.6"}
+
+]
+
+
+
+

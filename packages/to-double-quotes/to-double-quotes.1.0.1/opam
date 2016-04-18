@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "to-double-quotes"
+version: "1.0.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/to-double-quotes"
+depends: [
+"get-stdin" {>="3.0.0" & <"4.0.0"}
+
+"meow" {>="3.1.0" & <"4.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "parser-utils"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/parser-utils.git"
+depends: [
+"lodash" {>="2.4.1" & <"3.0.0"}
+
+]
+
+
+
+

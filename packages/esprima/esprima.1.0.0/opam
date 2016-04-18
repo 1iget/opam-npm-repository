@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "esprima"
+version: "1.0.0"
+maintainer: "ariya <ariya.hidayat@gmail.com>"
+author: "ariya <ariya.hidayat@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/ariya/esprima.git"
+depends: [
+
+]
+
+
+
+

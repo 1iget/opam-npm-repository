@@ -1,0 +1,1 @@
+Adds a newline to the end of esformatter output. Will not add newline is the output ends in a newline already.

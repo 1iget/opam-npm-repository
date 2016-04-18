@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "factor-bundle"
+version: "0.1.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/factor-bundle.git"
+depends: [
+"JSONStream" {>="0.7.1" & <"0.8.0"}
+
+"browser-pack" {>="2.0.1" & <"2.1.0"}
+
+"inherits" {>="2.0.1" & <"2.1.0"}
+
+"minimist" {>="0.0.5" & <"0.1.0"}
+
+"stream-combiner" {>="0.0.4" & <"0.1.0"}
+
+"nub" {="0.0.0"}
+
+"toposort" {>="0.2.10" & <"0.3.0"}
+
+]
+
+
+
+

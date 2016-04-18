@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "arr-union"
+version: "3.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/arr-union.git"
+depends: [
+
+]
+
+
+
+

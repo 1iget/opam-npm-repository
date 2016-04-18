@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "acorn-globals"
+version: "1.0.6"
+maintainer: "forbeslindesay <forbes@lindeay.co.uk>"
+author: "forbeslindesay <forbes@lindeay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/acorn-globals.git"
+depends: [
+"acorn" {>="2.1.0" & <"3.0.0"}
+
+]
+
+
+
+

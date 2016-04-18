@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "esformatter-shebang-ignore"
+version: "1.0.0"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/esformatter-shebang-ignore"
+depends: [
+
+]
+
+
+
+

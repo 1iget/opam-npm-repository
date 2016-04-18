@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"templates/fury.md" {"templates/fury.md"}
+"templates/bower.md" {"templates/bower.md"}
+"templates/coderwall.md" {"templates/coderwall.md"}
+"templates/coveralls.md" {"templates/coveralls.md"}
+"templates/david-dev.md" {"templates/david-dev.md"}
+"templates/david.md" {"templates/david.md"}
+"templates/drone.md" {"templates/drone.md"}
+"templates/codeclimate.md" {"templates/codeclimate.md"}
+"templates/grunt.md" {"templates/grunt.md"}
+"templates/npm.md" {"templates/npm.md"}
+"templates/shields-npm-version.md" {"templates/shields-npm-version.md"}
+"templates/shields-standard.md" {"templates/shields-standard.md"}
+"templates/standard.md" {"templates/standard.md"}
+"templates/travis.md" {"templates/travis.md"}
+]

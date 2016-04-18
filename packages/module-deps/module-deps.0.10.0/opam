@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "module-deps"
+version: "0.10.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/module-deps.git"
+depends: [
+"through" {>="2.3.2" & <"2.4.0"}
+
+"JSONStream" {>="0.4.3" & <"0.5.0"}
+
+"browser-resolve" {>="0.1.0" & <"0.2.0"}
+
+"resolve" {>="0.3.0" & <"0.4.0"}
+
+"detective" {>="2.1.1" & <"2.2.0"}
+
+"concat-stream" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

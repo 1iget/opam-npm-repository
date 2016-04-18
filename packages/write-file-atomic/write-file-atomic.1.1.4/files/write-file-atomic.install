@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".nyc_output/47248.json" {".nyc_output/47248.json"}
+".nyc_output/47250.json" {".nyc_output/47250.json"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "syntax-error"
+version: "1.1.5"
+maintainer: "mattdesl <dave.des@gmail.com>"
+author: "mattdesl <dave.des@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-syntax-error.git"
+depends: [
+"acorn" {>="2.7.0" & <"3.0.0"}
+
+]
+
+
+
+

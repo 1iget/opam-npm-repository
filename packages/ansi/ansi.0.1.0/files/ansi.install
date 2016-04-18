@@ -1,0 +1,19 @@
+lib: [
+".npmignore" {".npmignore"}
+"examples/" {"examples/"}
+"examples/beep/" {"examples/beep/"}
+"examples/beep/index.js" {"examples/beep/index.js"}
+"examples/clear/" {"examples/clear/"}
+"examples/clear/index.js" {"examples/clear/index.js"}
+"examples/cursorPosition.js" {"examples/cursorPosition.js"}
+"examples/imgcat/" {"examples/imgcat/"}
+"examples/imgcat/index.js" {"examples/imgcat/index.js"}
+"examples/imgcat/yoshi.png" {"examples/imgcat/yoshi.png"}
+"examples/progress/" {"examples/progress/"}
+"examples/progress/index.js" {"examples/progress/index.js"}
+"lib/" {"lib/"}
+"lib/ansi.js" {"lib/ansi.js"}
+"lib/newlines.js" {"lib/newlines.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

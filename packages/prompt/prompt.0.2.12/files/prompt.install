@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/prompt.html" {"docs/prompt.html"}
+"examples/add-properties.js" {"examples/add-properties.js"}
+"examples/history.js" {"examples/history.js"}
+"examples/nested-properties-prompt.js" {"examples/nested-properties-prompt.js"}
+"examples/old-schema.js" {"examples/old-schema.js"}
+"examples/existing-properties.js" {"examples/existing-properties.js"}
+"examples/password.js" {"examples/password.js"}
+"examples/prompt-override.js" {"examples/prompt-override.js"}
+"examples/property-prompt.js" {"examples/property-prompt.js"}
+"examples/simple-prompt.js" {"examples/simple-prompt.js"}
+"examples/yes-or-no-prompt.js" {"examples/yes-or-no-prompt.js"}
+"examples/override-validation.js" {"examples/override-validation.js"}
+"lib/prompt.js" {"lib/prompt.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/helpers.js" {"test/helpers.js"}
+"test/interactive-prompt-test.js" {"test/interactive-prompt-test.js"}
+"test/macros.js" {"test/macros.js"}
+"test/prompt-test.js" {"test/prompt-test.js"}
+]

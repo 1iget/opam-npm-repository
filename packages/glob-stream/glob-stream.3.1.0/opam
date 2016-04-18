@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "glob-stream"
+version: "3.1.0"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/glob-stream.git"
+depends: [
+"glob" {>="3.2.7" & <"3.3.0"}
+
+"event-stream" {>="3.0.20" & <"3.1.0"}
+
+"minimatch" {>="0.2.12" & <"0.3.0"}
+
+"combine-stream" {="0.0.4"}
+
+"glob2base" {="0.0.2"}
+
+"unique-stream" {="0.0.3"}
+
+]
+
+
+
+

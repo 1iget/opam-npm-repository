@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "fs-vacuum"
+version: "1.1.2"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "ISC"
+dev-repo: "https://github.com/npm/fs-vacuum.git"
+depends: [
+"graceful-fs" {>="3.0.2" & <"4.0.0"}
+
+"rimraf" {>="2.2.8" & <"3.0.0"}
+
+]
+
+
+
+

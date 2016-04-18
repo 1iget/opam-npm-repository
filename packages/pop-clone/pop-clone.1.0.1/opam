@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "pop-clone"
+version: "1.0.1"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "BSD 3-Clause"
+dev-repo: "https://github.com/kriskowal/pop-clone.git"
+depends: [
+"mini-map" {>="1.0.0" & <"2.0.0"}
+
+"pop-equals" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

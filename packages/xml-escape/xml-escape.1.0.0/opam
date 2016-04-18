@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "xml-escape"
+version: "1.0.0"
+maintainer: "mhernandez <michael.hernandez1988@gmail.com>"
+author: "mhernandez <michael.hernandez1988@gmail.com>"
+license: "MIT License"
+dev-repo: "git://github.com/miketheprogrammer/xml-escape.git"
+depends: [
+
+]
+
+
+
+

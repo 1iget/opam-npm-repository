@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+"throwaway.js" {"throwaway.js"}
+"API.md" {"API.md"}
+"bluebird.sublime-workspace" {"bluebird.sublime-workspace"}
+"bluebird.sublime-project" {"bluebird.sublime-project"}
+"throwaway.html" {"throwaway.html"}
+"js/bluebird.js" {"js/bluebird.js"}
+]

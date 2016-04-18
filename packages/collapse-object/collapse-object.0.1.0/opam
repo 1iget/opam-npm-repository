@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "collapse-object"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/collapse-object.git"
+depends: [
+"expand-object" {>="0.3.6" & <"0.4.0"}
+
+"kind-of" {>="2.0.0" & <"3.0.0"}
+
+"regex-flags" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

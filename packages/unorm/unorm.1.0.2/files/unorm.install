@@ -1,0 +1,11 @@
+lib: [
+".npmignore" {".npmignore"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"src/" {"src/"}
+"src/data/" {"src/data/"}
+"src/data/.classpath" {"src/data/.classpath"}
+"src/data/.project" {"src/data/.project"}
+]

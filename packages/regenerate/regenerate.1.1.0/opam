@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "regenerate"
+version: "1.1.0"
+maintainer: "mathias <mathias@qiwi.be>"
+author: "mathias <mathias@qiwi.be>"
+license: "MIT"
+dev-repo: "https://github.com/mathiasbynens/regenerate.git"
+depends: [
+
+]
+
+
+
+

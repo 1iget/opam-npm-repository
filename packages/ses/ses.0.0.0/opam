@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "ses"
+version: "0.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+
+depends: [
+"optimist" {>="0.3.5" & <"0.4.0"}
+
+]
+
+
+
+

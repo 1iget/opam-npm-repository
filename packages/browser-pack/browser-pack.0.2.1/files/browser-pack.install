@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"cmd.js" {"cmd.js"}
+"example/output.js" {"example/output.js"}
+"example/input.json" {"example/input.json"}
+"readme.markdown" {"readme.markdown"}
+"test/pack.js" {"test/pack.js"}
+"test/only_execute_entries.js" {"test/only_execute_entries.js"}
+"test/comment.js" {"test/comment.js"}
+"test/order.js" {"test/order.js"}
+"test/raw.js" {"test/raw.js"}
+".travis.yml" {".travis.yml"}
+]

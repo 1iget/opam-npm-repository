@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".lint" {".lint"}
+".travis.yml" {".travis.yml"}
+"benchmark/many-on.js" {"benchmark/many-on.js"}
+"benchmark/once.js" {"benchmark/once.js"}
+"benchmark/single-on.js" {"benchmark/single-on.js"}
+"CHANGES" {"CHANGES"}
+"lib/all-off.js" {"lib/all-off.js"}
+"lib/core.js" {"lib/core.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/pipe.js" {"lib/pipe.js"}
+"Makefile" {"Makefile"}
+"test/all-off.js" {"test/all-off.js"}
+"test/core.js" {"test/core.js"}
+"test/index.js" {"test/index.js"}
+"test/pipe.js" {"test/pipe.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "browser-request"
+version: "0.3.0"
+maintainer: "jhs <jhs@iriscouch.com>"
+author: "jhs <jhs@iriscouch.com>"
+license: "not defined"
+dev-repo: "git://github.com/iriscouch/browser-request"
+depends: [
+
+]
+
+
+
+

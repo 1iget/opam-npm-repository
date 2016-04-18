@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ordered-read-streams"
+version: "0.0.5"
+maintainer: "armed <artem.medeusheyev@gmail.com>"
+author: "armed <artem.medeusheyev@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/armed/ordered-read-streams.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"docs/api.md" {"docs/api.md"}
+"docs/api.yml" {"docs/api.yml"}
+"docs/install.md" {"docs/install.md"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"verbalise.sublime-project" {"verbalise.sublime-project"}
+"verbalise.sublime-workspace" {"verbalise.sublime-workspace"}
+]

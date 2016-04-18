@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "toml"
+version: "0.1.0"
+maintainer: "binarymuse <brandon@brandontilley.com>"
+author: "binarymuse <brandon@brandontilley.com>"
+license: "MIT"
+dev-repo: "git://github.com/BinaryMuse/toml-node.git"
+depends: [
+
+]
+
+
+
+

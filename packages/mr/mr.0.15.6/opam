@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "mr"
+version: "0.15.6"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+dev-repo: "https://github.com/montagejs/mr.git"
+depends: [
+"q" {="0.9.7"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "querystringify"
+version: "0.0.0"
+maintainer: "V1 <info@3rd-Eden.com>"
+author: "V1 <info@3rd-Eden.com>"
+license: "MIT"
+dev-repo: "https://github.com/unshift/querystringify"
+depends: [
+
+]
+
+
+
+

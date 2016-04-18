@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"templates/examples.js" {"templates/examples.js"}
+"templates/index.js" {"templates/index.js"}
+"templates/params.js" {"templates/params.js"}
+"templates/returns.js" {"templates/returns.js"}
+]

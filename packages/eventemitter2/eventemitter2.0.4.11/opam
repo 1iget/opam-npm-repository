@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "eventemitter2"
+version: "0.4.11"
+maintainer: "hij1nx <hij1nx@me.com>"
+author: "hij1nx <hij1nx@me.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

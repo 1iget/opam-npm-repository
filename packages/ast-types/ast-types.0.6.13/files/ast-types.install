@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"main.js" {"main.js"}
+"def/core.js" {"def/core.js"}
+"def/e4x.js" {"def/e4x.js"}
+"def/es6.js" {"def/es6.js"}
+"def/es7.js" {"def/es7.js"}
+"def/fb-harmony.js" {"def/fb-harmony.js"}
+"def/mozilla.js" {"def/mozilla.js"}
+"lib/equiv.js" {"lib/equiv.js"}
+"lib/node-path.js" {"lib/node-path.js"}
+"lib/path-visitor.js" {"lib/path-visitor.js"}
+"lib/path.js" {"lib/path.js"}
+"lib/scope.js" {"lib/scope.js"}
+"lib/shared.js" {"lib/shared.js"}
+"lib/types.js" {"lib/types.js"}
+".travis.yml" {".travis.yml"}
+]

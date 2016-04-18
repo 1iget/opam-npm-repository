@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"HISTORY.md" {"HISTORY.md"}
+"LICENSE.md" {"LICENSE.md"}
+"out/lib/helpers.js" {"out/lib/helpers.js"}
+]

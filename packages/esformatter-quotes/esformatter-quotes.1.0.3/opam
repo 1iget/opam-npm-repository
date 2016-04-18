@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "esformatter-quotes"
+version: "1.0.3"
+maintainer: "millermedeiros <miller@millermedeiros.com>"
+author: "millermedeiros <miller@millermedeiros.com>"
+license: "MIT"
+dev-repo: "https://github.com/millermedeiros/esformatter-quotes.git"
+depends: [
+
+]
+
+
+
+

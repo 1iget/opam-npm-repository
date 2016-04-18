@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"acorn-to-esprima.js" {"acorn-to-esprima.js"}
+"index.js" {"index.js"}
+"test/babel-eslint.js" {"test/babel-eslint.js"}
+"test/index.js" {"test/index.js"}
+"test/non-regression.js" {"test/non-regression.js"}
+"test/.eslintrc" {"test/.eslintrc"}
+]

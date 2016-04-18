@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-symbol"
+version: "1.0.0"
+maintainer: "ljharb <ljharb@gmail.com>"
+author: "ljharb <ljharb@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/ljharb/is-symbol.git"
+depends: [
+
+]
+
+
+
+

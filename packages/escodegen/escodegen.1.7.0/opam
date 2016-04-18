@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "escodegen"
+version: "1.7.0"
+maintainer: "constellation <utatane.tea@gmail.com>"
+author: "constellation <utatane.tea@gmail.com>"
+license: "BSD-2-Clause"
+dev-repo: "git+ssh://git@github.com/estools/escodegen.git"
+depends: [
+"estraverse" {>="1.9.1" & <"2.0.0"}
+
+"esutils" {>="2.0.2" & <"3.0.0"}
+
+"esprima" {>="1.2.2" & <"2.0.0"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+"source-map" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

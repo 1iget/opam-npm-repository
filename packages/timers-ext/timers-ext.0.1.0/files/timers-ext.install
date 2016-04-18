@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"valid-timeout.js" {"valid-timeout.js"}
+"once.js" {"once.js"}
+"max-timeout.js" {"max-timeout.js"}
+"delay.js" {"delay.js"}
+"CHANGES" {"CHANGES"}
+".travis.yml" {".travis.yml"}
+"test/delay.js" {"test/delay.js"}
+"test/max-timeout.js" {"test/max-timeout.js"}
+"test/once.js" {"test/once.js"}
+"test/valid-timeout.js" {"test/valid-timeout.js"}
+".lint" {".lint"}
+]

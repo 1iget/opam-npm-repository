@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "cookie-parser"
+version: "1.1.0"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/expressjs/cookie-parser.git"
+depends: [
+"cookie" {="0.1.2"}
+
+"cookie-signature" {="1.0.3"}
+
+]
+
+
+
+

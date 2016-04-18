@@ -1,0 +1,8 @@
+lib: [
+"example/" {"example/"}
+"example/example.js" {"example/example.js"}
+"lib/" {"lib/"}
+"lib/read.js" {"lib/read.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

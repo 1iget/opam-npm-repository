@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "es6-symbol"
+version: "2.0.1"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git://github.com/medikoo/es6-symbol.git"
+depends: [
+"d" {>="0.1.1" & <"0.2.0"}
+
+"es5-ext" {>="0.10.5" & <"0.11.0"}
+
+]
+
+
+
+

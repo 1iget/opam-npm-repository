@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "bson-ext"
+version: "0.1.13"
+maintainer: "christkv <christkv@gmail.com>"
+author: "christkv <christkv@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/christkv/bson-ext.git"
+depends: [
+"bindings" {>="1.2.1" & <"2.0.0"}
+
+"nan" {>="2.0.9" & <"2.1.0"}
+
+]
+install: ["sh" "-c" "(node-gyp rebuild 2> builderror.log) || (exit 0)"]
+
+
+

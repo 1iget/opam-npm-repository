@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "write-yaml"
+version: "0.2.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/write-yaml.git"
+depends: [
+"extend-shallow" {>="1.1.4" & <"2.0.0"}
+
+"js-yaml" {>="3.3.1" & <"4.0.0"}
+
+"write" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

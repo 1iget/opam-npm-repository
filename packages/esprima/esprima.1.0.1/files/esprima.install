@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"esprima.js" {"esprima.js"}
+"component.json" {"component.json"}
+"doc/index.html" {"doc/index.html"}
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
+"examples/detectnestedternary.js" {"examples/detectnestedternary.js"}
+"examples/findbooleantrap.js" {"examples/findbooleantrap.js"}
+"examples/tokendist.js" {"examples/tokendist.js"}
+"index.html" {"index.html"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"ChangeLog" {"ChangeLog"}
+]

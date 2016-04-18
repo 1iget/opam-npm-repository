@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "path-platform"
+version: "0.0.1"
+maintainer: "tjfontaine <tjfontaine@gmail.com>"
+author: "tjfontaine <tjfontaine@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/tjfontaine/node-path-platform.git"
+depends: [
+
+]
+
+
+
+

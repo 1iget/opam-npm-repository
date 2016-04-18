@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"mini-map.js" {"mini-map.js"}
+"test/mini-map-test.js" {"test/mini-map-test.js"}
+]

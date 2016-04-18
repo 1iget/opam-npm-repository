@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "superagent"
+version: "0.14.3"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "git://github.com/visionmedia/superagent.git"
+depends: [
+"qs" {="0.5.6"}
+
+"formidable" {="1.0.9"}
+
+"mime" {="1.2.5"}
+
+"emitter" {="ImdpdGh1Yjpjb21wb25lbnQvZW1pdHRlciMxLjAuMCI"}
+
+"methods" {="0.0.1"}
+
+"cookiejar" {="1.3.0"}
+
+"reduce" {="ImdpdGh1YjpyZWR2ZW50dXJlcy9yZWR1Y2UjMzQ2ZDU5Ig"}
+
+]
+
+
+
+

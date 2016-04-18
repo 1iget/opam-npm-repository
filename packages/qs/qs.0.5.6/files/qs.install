@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"benchmark.js" {"benchmark.js"}
+"examples.js" {"examples.js"}
+"index.js" {"index.js"}
+"History.md" {"History.md"}
+".gitmodules" {".gitmodules"}
+"component.json" {"component.json"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"Readme.md" {"Readme.md"}
+"test/parse.js" {"test/parse.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/browser/expect.js" {"test/browser/expect.js"}
+"test/browser/jquery.js" {"test/browser/jquery.js"}
+"test/browser/mocha.js" {"test/browser/mocha.js"}
+"test/browser/qs.js" {"test/browser/qs.js"}
+"test/browser/index.html" {"test/browser/index.html"}
+"test/browser/mocha.css" {"test/browser/mocha.css"}
+"test/browser/qs.css" {"test/browser/qs.css"}
+]

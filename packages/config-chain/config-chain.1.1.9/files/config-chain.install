@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"readme.markdown" {"readme.markdown"}
+"test/broken.js" {"test/broken.js"}
+"test/chain-class.js" {"test/chain-class.js"}
+"test/env.js" {"test/env.js"}
+"test/find-file.js" {"test/find-file.js"}
+"test/get.js" {"test/get.js"}
+"test/ignore-unfound-file.js" {"test/ignore-unfound-file.js"}
+"test/ini.js" {"test/ini.js"}
+"test/save.js" {"test/save.js"}
+"test/broken.json" {"test/broken.json"}
+]

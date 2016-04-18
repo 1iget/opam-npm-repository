@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "raw-body"
+version: "1.1.2"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/stream-utils/raw-body.git"
+depends: [
+"bytes" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

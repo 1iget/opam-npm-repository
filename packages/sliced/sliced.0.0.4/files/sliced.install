@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bench.js" {"bench.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"component.json" {"component.json"}
+"Makefile" {"Makefile"}
+"History.md" {"History.md"}
+"test/index.js" {"test/index.js"}
+"lib/sliced.js" {"lib/sliced.js"}
+]

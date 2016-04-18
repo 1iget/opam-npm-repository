@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "remarkable"
+version: "1.6.1"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/remarkable.git"
+depends: [
+"argparse" {>="0.1.15" & <"0.2.0"}
+
+"autolinker" {>="0.15.0" & <"0.16.0"}
+
+]
+
+
+
+

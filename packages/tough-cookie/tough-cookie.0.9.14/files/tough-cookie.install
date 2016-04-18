@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"generate-pubsuffix.js" {"generate-pubsuffix.js"}
+"test.js" {"test.js"}
+".jshintrc" {".jshintrc"}
+"lib/cookie.js" {"lib/cookie.js"}
+"lib/memstore.js" {"lib/memstore.js"}
+"lib/pubsuffix.js" {"lib/pubsuffix.js"}
+"public-suffix.txt" {"public-suffix.txt"}
+]

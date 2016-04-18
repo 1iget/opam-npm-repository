@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"clear-test.js" {"clear-test.js"}
+"index.js" {"index.js"}
+"object.js" {"object.js"}
+"test/object-test.js" {"test/object-test.js"}
+]

@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/basic.js" {"test/basic.js"}
+"test/bitbucket.js" {"test/bitbucket.js"}
+"test/gist.js" {"test/gist.js"}
+"test/github.js" {"test/github.js"}
+"test/gitlab.js" {"test/gitlab.js"}
+"test/lib/standard-tests.js" {"test/lib/standard-tests.js"}
+]

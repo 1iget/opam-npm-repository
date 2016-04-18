@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"BigInteger.js" {"BigInteger.js"}
+"BigInteger.min.js" {"BigInteger.min.js"}
+"BigInteger.test.js" {"BigInteger.test.js"}
+"BigInt.csproj" {"BigInt.csproj"}
+"BigInt.csproj.user" {"BigInt.csproj.user"}
+"Test.htm" {"Test.htm"}
+]

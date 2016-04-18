@@ -1,0 +1,1 @@
+Pass an array of object paths (e.g. `a.b.c`) and get the first non-undefined value if the property exists, or null if it does not.

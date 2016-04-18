@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "gulp-sourcemaps"
+version: "0.2.0"
+maintainer: "floridoo <florian.reiterer@gmail.com>"
+author: "floridoo <florian.reiterer@gmail.com>"
+license: "ISC"
+dev-repo: "git://github.com/floridoo/gulp-sourcemaps.git"
+depends: [
+"gulp-util" {>="2.2.14" & <"3.0.0"}
+
+"through2" {>="0.4.1" & <"0.5.0"}
+
+"source-map" {>="0.1.33" & <"0.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "get-pkgs"
+version: "0.2.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/get-pkgs.git"
+depends: [
+"ansi-bold" {>="0.1.1" & <"0.2.0"}
+
+"ansi-red" {>="0.1.1" & <"0.2.0"}
+
+"async" {>="1.4.0" & <"2.0.0"}
+
+"filter-object" {>="2.0.0" & <"3.0.0"}
+
+"min-request" {>="1.4.1" & <"2.0.0"}
+
+]
+
+
+
+

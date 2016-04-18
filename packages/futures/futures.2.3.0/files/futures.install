@@ -1,0 +1,6 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"node_modules/forEachAsync-prototype/Array.prototype.forEachAsync.js" {"node_modules/forEachAsync-prototype/Array.prototype.forEachAsync.js"}
+"node_modules/forEachAsync-prototype/package.json" {"node_modules/forEachAsync-prototype/package.json"}
+]

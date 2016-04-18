@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "object-inspect"
+version: "0.2.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/object-inspect.git"
+depends: [
+
+]
+
+
+
+

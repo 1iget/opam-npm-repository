@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "caching-transform"
+version: "0.0.3"
+maintainer: "jamestalmage <james@talmage.io>"
+author: "jamestalmage <james@talmage.io>"
+license: "MIT"
+dev-repo: "git+https://github.com/jamestalmage/caching-transform.git"
+depends: [
+"mkdirp" {>="0.5.1" & <"0.6.0"}
+
+]
+
+
+
+

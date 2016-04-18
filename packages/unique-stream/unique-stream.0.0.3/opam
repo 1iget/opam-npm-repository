@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "unique-stream"
+version: "0.0.3"
+maintainer: "eugeneware <eugene@noblesamurai.com>"
+author: "eugeneware <eugene@noblesamurai.com>"
+license: "BSD"
+dev-repo: "https://github.com/eugeneware/unique-stream"
+depends: [
+
+]
+
+
+
+

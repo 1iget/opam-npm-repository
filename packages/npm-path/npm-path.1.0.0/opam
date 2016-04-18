@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "npm-path"
+version: "1.0.0"
+maintainer: "timoxley <secoif@gmail.com>"
+author: "timoxley <secoif@gmail.com>"
+license: "MIT"
+
+depends: [
+"which" {>="1.0.5" & <"2.0.0"}
+
+]
+
+
+
+

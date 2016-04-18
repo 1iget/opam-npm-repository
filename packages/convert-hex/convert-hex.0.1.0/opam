@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "convert-hex"
+version: "0.1.0"
+maintainer: "jp <jprichardson@gmail.com>"
+author: "jp <jprichardson@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/cryptocoinjs/convert-hex"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"wrench-js/" {"wrench-js/"}
+"wrench-js/lib/" {"wrench-js/lib/"}
+"wrench-js/LICENSE" {"wrench-js/LICENSE"}
+"wrench-js/package.json" {"wrench-js/package.json"}
+"wrench-js/readme.md" {"wrench-js/readme.md"}
+"wrench-js/lib/wrench.js" {"wrench-js/lib/wrench.js"}
+]

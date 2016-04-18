@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "plasma-cache"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/plasma-cache.git"
+depends: [
+"component-emitter" {>="1.2.0" & <"2.0.0"}
+
+"expander" {>="0.3.3" & <"0.4.0"}
+
+"extend-shallow" {>="1.1.4" & <"2.0.0"}
+
+"filter-functions" {>="0.1.0" & <"0.2.0"}
+
+"object.omit" {>="1.1.0" & <"2.0.0"}
+
+"plasma" {>="0.8.2" & <"0.9.0"}
+
+]
+
+
+
+

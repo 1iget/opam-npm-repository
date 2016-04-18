@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "q-fs"
+version: "0.1.31"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+dev-repo: "git://github.com/kriskowal/q-fs.git"
+depends: [
+"q" {="0.8.8"}
+
+"q-io" {="0.0.14"}
+
+"fs-boot" {="0.0.8"}
+
+]
+
+
+
+

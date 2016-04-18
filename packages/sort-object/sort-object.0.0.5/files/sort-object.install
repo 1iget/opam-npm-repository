@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"benchmark.js" {"benchmark.js"}
+"sort-object.js" {"sort-object.js"}
+".gitattributes" {".gitattributes"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+]

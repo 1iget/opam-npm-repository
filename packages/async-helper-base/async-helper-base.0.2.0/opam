@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "async-helper-base"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/async-helper-base.git"
+depends: [
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"lodash" {>="3.5.0" & <"4.0.0"}
+
+]
+
+
+
+

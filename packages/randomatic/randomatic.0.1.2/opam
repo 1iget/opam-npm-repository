@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "randomatic"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/randomatic.git"
+depends: [
+
+]
+
+
+
+

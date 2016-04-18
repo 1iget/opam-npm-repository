@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+"decode.js" {"decode.js"}
+"encode.js" {"encode.js"}
+"index.js" {"index.js"}
+"History.md" {"History.md"}
+".Readme.md.un~" {".Readme.md.un~"}
+".package.json.un~" {".package.json.un~"}
+".travis.yml" {".travis.yml"}
+"License.md" {"License.md"}
+".History.md.un~" {".History.md.un~"}
+"Readme.md" {"Readme.md"}
+"test/common-index.js" {"test/common-index.js"}
+"test/index.js" {"test/index.js"}
+"test/tap-index.js" {"test/tap-index.js"}
+"test/.index.js.un~" {"test/.index.js.un~"}
+]

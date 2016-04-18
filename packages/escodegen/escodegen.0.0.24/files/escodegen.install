@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"escodegen.browser.js" {"escodegen.browser.js"}
+"escodegen.js" {"escodegen.js"}
+".jshintrc" {".jshintrc"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.source-map" {"LICENSE.source-map"}
+"bin/escodegen.js" {"bin/escodegen.js"}
+"bin/esgenerate.js" {"bin/esgenerate.js"}
+"component.json" {"component.json"}
+]

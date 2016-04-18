@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "batch"
+version: "0.2.0"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+
+depends: [
+"mocha" {>="0.0.0"}
+
+"should" {>="0.0.0"}
+
+]
+
+
+
+

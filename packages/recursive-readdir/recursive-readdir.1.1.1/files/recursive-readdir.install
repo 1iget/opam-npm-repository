@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/recursive-raddir-test.js" {"test/recursive-raddir-test.js"}
+"test/testdir/a/a" {"test/testdir/a/a"}
+"test/testdir/a/beans" {"test/testdir/a/beans"}
+"test/testdir/b/123" {"test/testdir/b/123"}
+"test/testdir/b/b/hurp-durp" {"test/testdir/b/b/hurp-durp"}
+"test/testdir/c.txt" {"test/testdir/c.txt"}
+"test/testdir/d.txt" {"test/testdir/d.txt"}
+]

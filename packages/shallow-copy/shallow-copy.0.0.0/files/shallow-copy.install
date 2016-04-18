@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/array.js" {"example/array.js"}
+"example/object.js" {"example/object.js"}
+"readme.markdown" {"readme.markdown"}
+"test/array.js" {"test/array.js"}
+"test/object.js" {"test/object.js"}
+]

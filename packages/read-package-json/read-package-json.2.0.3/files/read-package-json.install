@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"read-json.js" {"read-json.js"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+"test/bin.js" {"test/bin.js"}
+"test/bom.js" {"test/bom.js"}
+"test/helpful.js" {"test/helpful.js"}
+"test/non-json.js" {"test/non-json.js"}
+"test/readmes.js" {"test/readmes.js"}
+"test/fixtures/badbin.json" {"test/fixtures/badbin.json"}
+"test/fixtures/bin/echo" {"test/fixtures/bin/echo"}
+"test/fixtures/bin.json" {"test/fixtures/bin.json"}
+"test/fixtures/bom.json" {"test/fixtures/bom.json"}
+"test/fixtures/emptybin.json" {"test/fixtures/emptybin.json"}
+"test/fixtures/erroneous.json" {"test/fixtures/erroneous.json"}
+"test/fixtures/nobom.json" {"test/fixtures/nobom.json"}
+"test/fixtures/not-json.css" {"test/fixtures/not-json.css"}
+"test/fixtures/readmes/package.json" {"test/fixtures/readmes/package.json"}
+"test/fixtures/readmes/README" {"test/fixtures/readmes/README"}
+"test/fixtures/readmes/README.md" {"test/fixtures/readmes/README.md"}
+"test/fixtures/readmes/readmexxx.yz" {"test/fixtures/readmes/readmexxx.yz"}
+"zunda" {"zunda"}
+]

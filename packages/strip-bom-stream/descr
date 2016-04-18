@@ -1,0 +1,1 @@
+Strip UTF-8 byte order mark (BOM) from a stream

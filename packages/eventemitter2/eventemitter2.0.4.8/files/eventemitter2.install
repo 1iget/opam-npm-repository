@@ -1,0 +1,26 @@
+lib: [
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/eventemitter2.js" {"lib/eventemitter2.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/common.js" {"test/common.js"}
+"test/perf/" {"test/perf/"}
+"test/perf/benchmark.js" {"test/perf/benchmark.js"}
+"test/simple/" {"test/simple/"}
+"test/simple/addListener.js" {"test/simple/addListener.js"}
+"test/simple/emit.js" {"test/simple/emit.js"}
+"test/simple/removeListener.js" {"test/simple/removeListener.js"}
+"test/simple/setMax.js" {"test/simple/setMax.js"}
+"test/simple/ttl.js" {"test/simple/ttl.js"}
+"test/wildcardEvents/" {"test/wildcardEvents/"}
+"test/wildcardEvents/addListener.js" {"test/wildcardEvents/addListener.js"}
+"test/wildcardEvents/all.js" {"test/wildcardEvents/all.js"}
+"test/wildcardEvents/customDelimiter.js" {"test/wildcardEvents/customDelimiter.js"}
+"test/wildcardEvents/k1.js" {"test/wildcardEvents/k1.js"}
+"test/wildcardEvents/options.js" {"test/wildcardEvents/options.js"}
+"test/wildcardEvents/removeListener.js" {"test/wildcardEvents/removeListener.js"}
+"test/wildcardEvents/ttl.js" {"test/wildcardEvents/ttl.js"}
+]

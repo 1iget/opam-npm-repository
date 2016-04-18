@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "stringify-changelog"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/stringify-changelog.git"
+depends: [
+"columnify" {>="1.4.1" & <"2.0.0"}
+
+"js-yaml" {>="3.2.7" & <"4.0.0"}
+
+"mixin-deep" {>="1.0.1" & <"2.0.0"}
+
+"moment" {>="2.9.0" & <"3.0.0"}
+
+]
+
+
+
+

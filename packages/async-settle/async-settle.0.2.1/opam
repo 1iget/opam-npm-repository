@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "async-settle"
+version: "0.2.1"
+maintainer: "phated <blaine@iceddev.com>"
+author: "phated <blaine@iceddev.com>"
+license: "MIT"
+dev-repo: "git://github.com/phated/async-settle"
+depends: [
+"async-done" {>="0.4.0" & <"0.5.0"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "stringformat"
+version: "0.0.4"
+maintainer: "jcayzac <julien.cayzac@gmail.com>"
+author: "jcayzac <julien.cayzac@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/jcayzac/stringformat.js.git"
+depends: [
+
+]
+
+
+
+

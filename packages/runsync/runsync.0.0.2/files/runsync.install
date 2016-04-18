@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"src/spawnSync.cc" {"src/spawnSync.cc"}
+"src/spawnSync.hh" {"src/spawnSync.hh"}
+"src/unix/runner.cc" {"src/unix/runner.cc"}
+"src/unix/runner.hh" {"src/unix/runner.hh"}
+"src/win/runner.cc" {"src/win/runner.cc"}
+"src/win/runner.hh" {"src/win/runner.hh"}
+]

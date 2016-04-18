@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "walk"
+version: "2.3.3"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/coolaj86/node-walk.git"
+depends: [
+"foreachasync" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

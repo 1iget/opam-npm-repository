@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "regexp-escape"
+version: "0.0.1"
+maintainer: "jnylen <jnylen@gmail.com>"
+author: "jnylen <jnylen@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/nylen/node-regexp-escape"
+depends: [
+
+]
+
+
+
+

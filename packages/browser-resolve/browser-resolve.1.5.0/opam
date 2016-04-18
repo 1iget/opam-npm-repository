@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "browser-resolve"
+version: "1.5.0"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/shtylman/node-browser-resolve.git"
+depends: [
+"resolve" {="1.0.0"}
+
+]
+
+
+
+

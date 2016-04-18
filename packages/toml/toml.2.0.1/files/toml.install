@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"benchmark.js" {"benchmark.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/compiler.js" {"lib/compiler.js"}
+"lib/parser.js" {"lib/parser.js"}
+"test/smoke.js" {"test/smoke.js"}
+"test/test_toml.js" {"test/test_toml.js"}
+"test/bad.toml" {"test/bad.toml"}
+"test/example.toml" {"test/example.toml"}
+"test/hard_example.toml" {"test/hard_example.toml"}
+"test/table_arrays_easy.toml" {"test/table_arrays_easy.toml"}
+"test/table_arrays_hard.toml" {"test/table_arrays_hard.toml"}
+"src/toml.peg" {"src/toml.peg"}
+"generate.sh" {"generate.sh"}
+]

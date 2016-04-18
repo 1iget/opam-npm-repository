@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"buffertools.js" {"buffertools.js"}
+"test.js" {"test.js"}
+"binding.gyp" {"binding.gyp"}
+"buffertools.cc" {"buffertools.cc"}
+"BoyerMoore.h" {"BoyerMoore.h"}
+"AUTHORS" {"AUTHORS"}
+".mailmap" {".mailmap"}
+]

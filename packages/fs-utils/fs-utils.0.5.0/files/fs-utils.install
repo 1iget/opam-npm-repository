@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+"bower.json" {"bower.json"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"test/fs.async.js" {"test/fs.async.js"}
+"test/fs.js" {"test/fs.js"}
+"test/path.js" {"test/path.js"}
+"test/fixtures/foo.md" {"test/fixtures/foo.md"}
+"test/fixtures/test.json" {"test/fixtures/test.json"}
+"test/fixtures/test.txt" {"test/fixtures/test.txt"}
+"test/fixtures/test.yaml" {"test/fixtures/test.yaml"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

@@ -1,0 +1,1 @@
+shim for require.main.filename() that works in as many environments as possible

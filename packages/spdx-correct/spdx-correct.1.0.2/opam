@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "spdx-correct"
+version: "1.0.2"
+maintainer: "kemitchell <kyle@kemitchell.com>"
+author: "kemitchell <kyle@kemitchell.com>"
+license: "Apache-2.0"
+dev-repo: "git+https://github.com/kemitchell/spdx-correct.js.git"
+depends: [
+"spdx-license-ids" {>="1.0.2" & <"2.0.0"}
+
+]
+
+
+
+

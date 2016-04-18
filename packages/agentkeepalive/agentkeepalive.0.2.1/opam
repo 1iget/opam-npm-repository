@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "agentkeepalive"
+version: "0.2.1"
+maintainer: "fengmk2 <fengmk2@gmail.com>"
+author: "fengmk2 <fengmk2@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/TBEDP/agentkeepalive.git"
+depends: [
+
+]
+
+
+
+

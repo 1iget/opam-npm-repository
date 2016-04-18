@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "istanbul-reports"
+version: "1.0.0-alpha.4"
+maintainer: "gotwarlost <kananthmail-github@yahoo.com>"
+author: "gotwarlost <kananthmail-github@yahoo.com>"
+license: "BSD-3-Clause"
+dev-repo: "git+ssh://git@github.com/istanbuljs/istanbul-reports.git"
+depends: [
+"handlebars" {>="4.0.3" & <"5.0.0"}
+
+]
+
+
+
+

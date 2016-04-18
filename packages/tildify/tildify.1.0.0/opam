@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "tildify"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/tildify"
+depends: [
+"user-home" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

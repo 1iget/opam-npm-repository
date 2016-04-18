@@ -1,0 +1,1 @@
+Create variable names from module names. Like `gulp-jshint` => `jshint`. Useful for yeoman generators, or for loaders for gulp, assemble, and grunt plugins.

@@ -1,0 +1,43 @@
+.\" generated with Ronn/v0.7.3
+.\" http://github.com/rtomayko/ronn/tree/0.7.3
+.
+.TH "FLASH" "" "June 2010" "" ""
+.
+.SH "NAME"
+\fBflash\fR
+.
+.SH "Flash"
+The \fIflash\fR middleware provides persistent messaging\. This middleware requires \fIsession\fR to function\.
+.
+.IP "" 4
+.
+.nf
+
+req\.flash(\'info\', \'email sent\');
+req\.flash(\'error\', \'email delivery failed\');
+req\.flash(\'info\', \'email re\-sent\');
+// => 2
+
+req\.flash(\'info\');
+// => [\'email sent\', \'email re\-sent\']
+
+req\.flash(\'info\');
+// => []
+
+req\.flash();
+// => { error: [\'email delivery failed\'], info: [] }
+.
+.fi
+.
+.IP "" 0
+.
+.SH "See Also"
+.
+.IP "\(bu" 4
+cookieDecoder
+.
+.IP "\(bu" 4
+session
+.
+.IP "" 0
+

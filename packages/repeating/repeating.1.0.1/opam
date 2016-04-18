@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "repeating"
+version: "1.0.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/repeating"
+depends: [
+"is-finite" {>="1.0.0" & <"2.0.0"}
+
+"meow" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

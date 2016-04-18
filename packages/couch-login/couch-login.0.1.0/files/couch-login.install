@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"couch-login.js" {"couch-login.js"}
+"test/basic.js" {"test/basic.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is"
+version: "0.2.4"
+maintainer: "onirame <enrico.marino@email.com>"
+author: "onirame <enrico.marino@email.com>"
+license: "not defined"
+dev-repo: "git://github.com/enricomarino/is.git"
+depends: [
+
+]
+
+
+
+

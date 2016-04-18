@@ -1,0 +1,20 @@
+lib: [
+".travis.yml" {".travis.yml"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"lib/logging.js" {"lib/logging.js"}
+"lib/niceTime.js" {"lib/niceTime.js"}
+"lib/style.js" {"lib/style.js"}
+"test/logging.test.js" {"test/logging.test.js"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/logging.iml" {".idea/logging.iml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".idea/dictionaries/dgreene.xml" {".idea/dictionaries/dgreene.xml"}
+".idea/dictionaries/dylan.xml" {".idea/dictionaries/dylan.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+]

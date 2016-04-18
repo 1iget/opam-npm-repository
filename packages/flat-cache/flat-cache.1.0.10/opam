@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "flat-cache"
+version: "1.0.10"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/royriojas/flat-cache.git"
+depends: [
+"del" {>="2.0.2" & <"3.0.0"}
+
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+"read-json-sync" {>="1.1.0" & <"2.0.0"}
+
+"write" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

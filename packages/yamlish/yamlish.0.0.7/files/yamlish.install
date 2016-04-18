@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"yamlish.js" {"yamlish.js"}
+"yamlish-py/.npmignore" {"yamlish-py/.npmignore"}
+"yamlish-py/.travis.yml" {"yamlish-py/.travis.yml"}
+"yamlish-py/README.rst" {"yamlish-py/README.rst"}
+"yamlish-py/setup.py" {"yamlish-py/setup.py"}
+"yamlish-py/test/__init__.py" {"yamlish-py/test/__init__.py"}
+"yamlish-py/test/test_input.py" {"yamlish-py/test/test_input.py"}
+"yamlish-py/test/test_load.py" {"yamlish-py/test/test_load.py"}
+"yamlish-py/test/test_output.py" {"yamlish-py/test/test_output.py"}
+"yamlish-py/test/test_reader.py" {"yamlish-py/test/test_reader.py"}
+"yamlish-py/test/test_reader_nonUTF8.py" {"yamlish-py/test/test_reader_nonUTF8.py"}
+"yamlish-py/test/test_writer.py" {"yamlish-py/test/test_writer.py"}
+"yamlish-py/yamlish.py" {"yamlish-py/yamlish.py"}
+]

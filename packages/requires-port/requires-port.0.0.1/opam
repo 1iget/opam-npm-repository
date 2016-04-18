@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "requires-port"
+version: "0.0.1"
+maintainer: "v1 <info@3rd-Eden.com>"
+author: "v1 <info@3rd-Eden.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/unshiftio/requires-port.git"
+depends: [
+
+]
+
+
+
+

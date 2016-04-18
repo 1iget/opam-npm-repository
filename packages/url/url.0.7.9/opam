@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "url"
+version: "0.7.9"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/coolaj86/node.git"
+depends: [
+"querystring" {>="0.1.0" & <"0.2.0"}
+
+"punycode" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

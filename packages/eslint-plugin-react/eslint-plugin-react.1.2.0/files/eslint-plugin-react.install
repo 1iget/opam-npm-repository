@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/rules/display-name.js" {"lib/rules/display-name.js"}
+"lib/rules/no-multi-comp.js" {"lib/rules/no-multi-comp.js"}
+"lib/rules/prop-types.js" {"lib/rules/prop-types.js"}
+"lib/rules/self-closing-comp.js" {"lib/rules/self-closing-comp.js"}
+"lib/rules/wrap-multilines.js" {"lib/rules/wrap-multilines.js"}
+"History.md" {"History.md"}
+]

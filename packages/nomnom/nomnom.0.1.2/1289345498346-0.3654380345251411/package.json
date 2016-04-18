@@ -1,0 +1,14 @@
+{
+    "name": "nomnom",
+    "description": "Limited option parser",
+    "version": "0.1.2",
+    "author": "Heather Arthur <fayearthur@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/harthur/nomnomargs"
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./lib/nomnom"
+}

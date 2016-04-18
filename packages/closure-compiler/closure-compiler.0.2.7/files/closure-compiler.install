@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Cakefile" {"Cakefile"}
+"LICENSE.txt" {"LICENSE.txt"}
+"lib/index.js" {"lib/index.js"}
+"lib/vendor/compiler.jar" {"lib/vendor/compiler.jar"}
+"src/index.coffee" {"src/index.coffee"}
+"update_compiler.sh" {"update_compiler.sh"}
+]

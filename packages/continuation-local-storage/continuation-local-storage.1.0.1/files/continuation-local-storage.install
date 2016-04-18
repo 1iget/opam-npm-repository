@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"context.js" {"context.js"}
+"test/bind.tap.js" {"test/bind.tap.js"}
+"test/namespaces.tap.js" {"test/namespaces.tap.js"}
+"test/nesting.tap.js" {"test/nesting.tap.js"}
+"test/simple.tap.js" {"test/simple.tap.js"}
+]

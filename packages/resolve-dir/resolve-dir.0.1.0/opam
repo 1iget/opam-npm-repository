@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "resolve-dir"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/resolve-dir.git"
+depends: [
+"expand-tilde" {>="1.2.0" & <"2.0.0"}
+
+"global-modules" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

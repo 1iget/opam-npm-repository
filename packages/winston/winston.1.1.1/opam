@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "winston"
+version: "1.1.1"
+maintainer: "indexzero <charlie.robbins@gmail.com>"
+author: "indexzero <charlie.robbins@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/winstonjs/winston.git"
+depends: [
+"async" {>="1.0.0" & <"1.1.0"}
+
+"colors" {>="1.0.0" & <"1.1.0"}
+
+"cycle" {>="1.0.0" & <"1.1.0"}
+
+"eyes" {>="0.1.0" & <"0.2.0"}
+
+"isstream" {>="0.1.0" & <"0.2.0"}
+
+"pkginfo" {>="0.3.0" & <"0.4.0"}
+
+"stack-trace" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

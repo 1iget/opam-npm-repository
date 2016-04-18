@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "isemail"
+version: "1.1.0"
+maintainer: "skeggse <skeggse@gmail.com>"
+author: "skeggse <skeggse@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/globesherpa/node-isemail.git"
+depends: [
+
+]
+
+
+
+

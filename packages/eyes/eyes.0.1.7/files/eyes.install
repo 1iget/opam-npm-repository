@@ -1,0 +1,8 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"Makefile" {"Makefile"}
+"README.md" {"README.md"}
+"lib/eyes.js" {"lib/eyes.js"}
+"test/eyes-test.js" {"test/eyes-test.js"}
+]

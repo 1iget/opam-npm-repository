@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"Readme.md" {"Readme.md"}
+"AUTHORS" {"AUTHORS"}
+"lib/buster-format.js" {"lib/buster-format.js"}
+"test/buster-format-test.js" {"test/buster-format-test.js"}
+"jsTestDriver.conf" {"jsTestDriver.conf"}
+".travis.yml" {".travis.yml"}
+"run-tests" {"run-tests"}
+]

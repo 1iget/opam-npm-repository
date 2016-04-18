@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "add-to-path"
+version: "1.1.1"
+maintainer: "kentcdodds <kent@doddsfamily.us>"
+author: "kentcdodds <kent@doddsfamily.us>"
+license: "MIT"
+dev-repo: "git+https://github.com/kentcdodds/node-add-to-path.git"
+depends: [
+
+]
+
+
+
+

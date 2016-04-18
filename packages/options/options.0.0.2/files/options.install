@@ -1,0 +1,10 @@
+lib: [
+"lib/" {"lib/"}
+"lib/options.js" {"lib/options.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"test/" {"test/"}
+"test/options.test.js" {"test/options.test.js"}
+".gitignore" {".gitignore"}
+"README.md" {"README.md"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "xml"
+version: "0.0.9"
+maintainer: "dylang <dylang@gmail.com>"
+author: "dylang <dylang@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/dylang/node-xml"
+depends: [
+
+]
+
+
+
+

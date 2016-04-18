@@ -1,0 +1,128 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"register.js" {"register.js"}
+"register-without-polyfill.js" {"register-without-polyfill.js"}
+"polyfill.js" {"polyfill.js"}
+"bin/babel-external-helpers.js" {"bin/babel-external-helpers.js"}
+"bin/babel-node.js" {"bin/babel-node.js"}
+"bin/babel-plugin.js" {"bin/babel-plugin.js"}
+"bin/babel.js" {"bin/babel.js"}
+"lib/_babel-node.js" {"lib/_babel-node.js"}
+"lib/babel-external-helpers.js" {"lib/babel-external-helpers.js"}
+"lib/babel-node.js" {"lib/babel-node.js"}
+"lib/babel/dir.js" {"lib/babel/dir.js"}
+"lib/babel/file.js" {"lib/babel/file.js"}
+"lib/babel/index.js" {"lib/babel/index.js"}
+"lib/babel/util.js" {"lib/babel/util.js"}
+"lib/babel-plugin/index.js" {"lib/babel-plugin/index.js"}
+"lib/babel-plugin/templates/README.md" {"lib/babel-plugin/templates/README.md"}
+"lib/babel-plugin/templates/index.js" {"lib/babel-plugin/templates/index.js"}
+"scripts/bootstrap.sh" {"scripts/bootstrap.sh"}
+"src/_babel-node.js" {"src/_babel-node.js"}
+"src/babel-external-helpers.js" {"src/babel-external-helpers.js"}
+"src/babel-node.js" {"src/babel-node.js"}
+"src/babel/dir.js" {"src/babel/dir.js"}
+"src/babel/file.js" {"src/babel/file.js"}
+"src/babel/index.js" {"src/babel/index.js"}
+"src/babel/util.js" {"src/babel/util.js"}
+"src/babel-plugin/index.js" {"src/babel-plugin/index.js"}
+"src/babel-plugin/templates/README.md" {"src/babel-plugin/templates/README.md"}
+"src/babel-plugin/templates/index.js" {"src/babel-plugin/templates/index.js"}
+"test/index.js" {"test/index.js"}
+"test/.babelrc" {"test/.babelrc"}
+"test/fixtures/babel/dir --out-dir --source-maps inline/in-files/src/foo.js" {"test/fixtures/babel/dir --out-dir --source-maps inline/in-files/src/foo.js"}
+"test/fixtures/babel/dir --out-dir --source-maps inline/in-files/src/bar/bar.js" {"test/fixtures/babel/dir --out-dir --source-maps inline/in-files/src/bar/bar.js"}
+"test/fixtures/babel/dir --out-dir --source-maps inline/options.json" {"test/fixtures/babel/dir --out-dir --source-maps inline/options.json"}
+"test/fixtures/babel/dir --out-dir --source-maps inline/out-files/lib/foo.js" {"test/fixtures/babel/dir --out-dir --source-maps inline/out-files/lib/foo.js"}
+"test/fixtures/babel/dir --out-dir --source-maps inline/out-files/lib/bar/bar.js" {"test/fixtures/babel/dir --out-dir --source-maps inline/out-files/lib/bar/bar.js"}
+"test/fixtures/babel/dir --out-dir --source-maps inline/stdout.txt" {"test/fixtures/babel/dir --out-dir --source-maps inline/stdout.txt"}
+"test/fixtures/babel/--blacklist/options.json" {"test/fixtures/babel/--blacklist/options.json"}
+"test/fixtures/babel/--blacklist/stdin.txt" {"test/fixtures/babel/--blacklist/stdin.txt"}
+"test/fixtures/babel/--blacklist/stdout.txt" {"test/fixtures/babel/--blacklist/stdout.txt"}
+"test/fixtures/babel/--only/in-files/src/bar/index.js" {"test/fixtures/babel/--only/in-files/src/bar/index.js"}
+"test/fixtures/babel/--only/in-files/src/foo/index.js" {"test/fixtures/babel/--only/in-files/src/foo/index.js"}
+"test/fixtures/babel/--only/options.json" {"test/fixtures/babel/--only/options.json"}
+"test/fixtures/babel/--only/out-files/lib/bar/index.js" {"test/fixtures/babel/--only/out-files/lib/bar/index.js"}
+"test/fixtures/babel/--only/stdout.txt" {"test/fixtures/babel/--only/stdout.txt"}
+"test/fixtures/babel/--whitelist/options.json" {"test/fixtures/babel/--whitelist/options.json"}
+"test/fixtures/babel/--whitelist/stdin.txt" {"test/fixtures/babel/--whitelist/stdin.txt"}
+"test/fixtures/babel/--whitelist/stdout.txt" {"test/fixtures/babel/--whitelist/stdout.txt"}
+"test/fixtures/babel/.stdin --out-file --source-maps/options.json" {"test/fixtures/babel/.stdin --out-file --source-maps/options.json"}
+"test/fixtures/babel/.stdin --out-file --source-maps/out-files/test.js" {"test/fixtures/babel/.stdin --out-file --source-maps/out-files/test.js"}
+"test/fixtures/babel/.stdin --out-file --source-maps/out-files/test.js.map" {"test/fixtures/babel/.stdin --out-file --source-maps/out-files/test.js.map"}
+"test/fixtures/babel/.stdin --out-file --source-maps/stdin.txt" {"test/fixtures/babel/.stdin --out-file --source-maps/stdin.txt"}
+"test/fixtures/babel/.stdin --source-maps inline/options.json" {"test/fixtures/babel/.stdin --source-maps inline/options.json"}
+"test/fixtures/babel/.stdin --source-maps inline/stdin.txt" {"test/fixtures/babel/.stdin --source-maps inline/stdin.txt"}
+"test/fixtures/babel/.stdin --source-maps inline/stdout.txt" {"test/fixtures/babel/.stdin --source-maps inline/stdout.txt"}
+"test/fixtures/babel/dir --out-dir/in-files/src/foo.js" {"test/fixtures/babel/dir --out-dir/in-files/src/foo.js"}
+"test/fixtures/babel/dir --out-dir/in-files/src/bar/bar.js" {"test/fixtures/babel/dir --out-dir/in-files/src/bar/bar.js"}
+"test/fixtures/babel/dir --out-dir/options.json" {"test/fixtures/babel/dir --out-dir/options.json"}
+"test/fixtures/babel/dir --out-dir/out-files/lib/foo.js" {"test/fixtures/babel/dir --out-dir/out-files/lib/foo.js"}
+"test/fixtures/babel/dir --out-dir/out-files/lib/bar/bar.js" {"test/fixtures/babel/dir --out-dir/out-files/lib/bar/bar.js"}
+"test/fixtures/babel/dir --out-dir/stdout.txt" {"test/fixtures/babel/dir --out-dir/stdout.txt"}
+"test/fixtures/babel/dir --out-dir --source-maps/in-files/src/foo.js" {"test/fixtures/babel/dir --out-dir --source-maps/in-files/src/foo.js"}
+"test/fixtures/babel/dir --out-dir --source-maps/in-files/src/bar/bar.js" {"test/fixtures/babel/dir --out-dir --source-maps/in-files/src/bar/bar.js"}
+"test/fixtures/babel/dir --out-dir --source-maps/options.json" {"test/fixtures/babel/dir --out-dir --source-maps/options.json"}
+"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/foo.js" {"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/foo.js"}
+"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/bar/bar.js" {"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/bar/bar.js"}
+"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/bar/bar.js.map" {"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/bar/bar.js.map"}
+"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/foo.js.map" {"test/fixtures/babel/dir --out-dir --source-maps/out-files/lib/foo.js.map"}
+"test/fixtures/babel/dir --out-dir --source-maps/stdout.txt" {"test/fixtures/babel/dir --out-dir --source-maps/stdout.txt"}
+"test/fixtures/babel/--ignore/in-files/src/bar/index.js" {"test/fixtures/babel/--ignore/in-files/src/bar/index.js"}
+"test/fixtures/babel/--ignore/in-files/src/foo/foo.js" {"test/fixtures/babel/--ignore/in-files/src/foo/foo.js"}
+"test/fixtures/babel/--ignore/options.json" {"test/fixtures/babel/--ignore/options.json"}
+"test/fixtures/babel/--ignore/out-files/lib/bar/index.js" {"test/fixtures/babel/--ignore/out-files/lib/bar/index.js"}
+"test/fixtures/babel/--ignore/stdout.txt" {"test/fixtures/babel/--ignore/stdout.txt"}
+"test/fixtures/babel/filename --out-file/in-files/script.js" {"test/fixtures/babel/filename --out-file/in-files/script.js"}
+"test/fixtures/babel/filename --out-file/options.json" {"test/fixtures/babel/filename --out-file/options.json"}
+"test/fixtures/babel/filename --out-file/out-files/script2.js" {"test/fixtures/babel/filename --out-file/out-files/script2.js"}
+"test/fixtures/babel/filename --out-file --source-maps inline/in-files/script.js" {"test/fixtures/babel/filename --out-file --source-maps inline/in-files/script.js"}
+"test/fixtures/babel/filename --out-file --source-maps inline/options.json" {"test/fixtures/babel/filename --out-file --source-maps inline/options.json"}
+"test/fixtures/babel/filename --out-file --source-maps inline/out-files/script2.js" {"test/fixtures/babel/filename --out-file --source-maps inline/out-files/script2.js"}
+"test/fixtures/babel/filenames --out-file/in-files/script.js" {"test/fixtures/babel/filenames --out-file/in-files/script.js"}
+"test/fixtures/babel/filenames --out-file/in-files/script2.js" {"test/fixtures/babel/filenames --out-file/in-files/script2.js"}
+"test/fixtures/babel/filenames --out-file/options.json" {"test/fixtures/babel/filenames --out-file/options.json"}
+"test/fixtures/babel/filenames --out-file/out-files/script3.js" {"test/fixtures/babel/filenames --out-file/out-files/script3.js"}
+"test/fixtures/babel/filenames --out-file --source-maps/in-files/script.js" {"test/fixtures/babel/filenames --out-file --source-maps/in-files/script.js"}
+"test/fixtures/babel/filenames --out-file --source-maps/in-files/script2.js" {"test/fixtures/babel/filenames --out-file --source-maps/in-files/script2.js"}
+"test/fixtures/babel/filenames --out-file --source-maps/options.json" {"test/fixtures/babel/filenames --out-file --source-maps/options.json"}
+"test/fixtures/babel/filenames --out-file --source-maps/out-files/script3.js" {"test/fixtures/babel/filenames --out-file --source-maps/out-files/script3.js"}
+"test/fixtures/babel/filenames --out-file --source-maps/out-files/script3.js.map" {"test/fixtures/babel/filenames --out-file --source-maps/out-files/script3.js.map"}
+"test/fixtures/babel/filenames --out-file --source-maps inline/in-files/script.js" {"test/fixtures/babel/filenames --out-file --source-maps inline/in-files/script.js"}
+"test/fixtures/babel/filenames --out-file --source-maps inline/in-files/script2.js" {"test/fixtures/babel/filenames --out-file --source-maps inline/in-files/script2.js"}
+"test/fixtures/babel/filenames --out-file --source-maps inline/options.json" {"test/fixtures/babel/filenames --out-file --source-maps inline/options.json"}
+"test/fixtures/babel/filenames --out-file --source-maps inline/out-files/script3.js" {"test/fixtures/babel/filenames --out-file --source-maps inline/out-files/script3.js"}
+"test/fixtures/babel/stdin/stdin.txt" {"test/fixtures/babel/stdin/stdin.txt"}
+"test/fixtures/babel/stdin/stdout.txt" {"test/fixtures/babel/stdin/stdout.txt"}
+"test/fixtures/babel/stdin --filename/options.json" {"test/fixtures/babel/stdin --filename/options.json"}
+"test/fixtures/babel/stdin --filename/stderr.txt" {"test/fixtures/babel/stdin --filename/stderr.txt"}
+"test/fixtures/babel/stdin --filename/stdin.txt" {"test/fixtures/babel/stdin --filename/stdin.txt"}
+"test/fixtures/babel/stdin --out-file/options.json" {"test/fixtures/babel/stdin --out-file/options.json"}
+"test/fixtures/babel/stdin --out-file/out-files/script.js" {"test/fixtures/babel/stdin --out-file/out-files/script.js"}
+"test/fixtures/babel/stdin --out-file/stdin.txt" {"test/fixtures/babel/stdin --out-file/stdin.txt"}
+"test/fixtures/babel-external-helpers/--output-type global/options.json" {"test/fixtures/babel-external-helpers/--output-type global/options.json"}
+"test/fixtures/babel-external-helpers/--output-type global/stdout.txt" {"test/fixtures/babel-external-helpers/--output-type global/stdout.txt"}
+"test/fixtures/babel-external-helpers/--output-type umd/options.json" {"test/fixtures/babel-external-helpers/--output-type umd/options.json"}
+"test/fixtures/babel-external-helpers/--output-type umd/stdout.txt" {"test/fixtures/babel-external-helpers/--output-type umd/stdout.txt"}
+"test/fixtures/babel-external-helpers/--output-type var/options.json" {"test/fixtures/babel-external-helpers/--output-type var/options.json"}
+"test/fixtures/babel-external-helpers/--output-type var/stdout.txt" {"test/fixtures/babel-external-helpers/--output-type var/stdout.txt"}
+"test/fixtures/babel-external-helpers/--whitelist/options.json" {"test/fixtures/babel-external-helpers/--whitelist/options.json"}
+"test/fixtures/babel-external-helpers/--whitelist/stdout.txt" {"test/fixtures/babel-external-helpers/--whitelist/stdout.txt"}
+"test/fixtures/babel-node/--eval/options.json" {"test/fixtures/babel-node/--eval/options.json"}
+"test/fixtures/babel-node/--extensions/in-files/foo.bar" {"test/fixtures/babel-node/--extensions/in-files/foo.bar"}
+"test/fixtures/babel-node/--extensions/options.json" {"test/fixtures/babel-node/--extensions/options.json"}
+"test/fixtures/babel-node/--print/options.json" {"test/fixtures/babel-node/--print/options.json"}
+"test/fixtures/babel-node/directory/in-files/foo/index.js" {"test/fixtures/babel-node/directory/in-files/foo/index.js"}
+"test/fixtures/babel-node/directory/options.json" {"test/fixtures/babel-node/directory/options.json"}
+"test/fixtures/babel-node/directory/stdout.txt" {"test/fixtures/babel-node/directory/stdout.txt"}
+"test/fixtures/babel-node/filename/in-files/bar.js" {"test/fixtures/babel-node/filename/in-files/bar.js"}
+"test/fixtures/babel-node/filename/options.json" {"test/fixtures/babel-node/filename/options.json"}
+"test/fixtures/babel-node/filename/stdout.txt" {"test/fixtures/babel-node/filename/stdout.txt"}
+"test/fixtures/babel-node/require/in-files/bar2.js" {"test/fixtures/babel-node/require/in-files/bar2.js"}
+"test/fixtures/babel-node/require/in-files/foo2.js" {"test/fixtures/babel-node/require/in-files/foo2.js"}
+"test/fixtures/babel-node/require/in-files/not_node_modules.jsx" {"test/fixtures/babel-node/require/in-files/not_node_modules.jsx"}
+"test/fixtures/babel-node/require/options.json" {"test/fixtures/babel-node/require/options.json"}
+"test/fixtures/babel-node/require/stdout.txt" {"test/fixtures/babel-node/require/stdout.txt"}
+]

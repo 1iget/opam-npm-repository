@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "loggly"
+version: "0.1.4"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/nodejitsu/node-loggly.git"
+depends: [
+"pool" {>="0.4.1"}
+
+"request" {>="1.1.1"}
+
+]
+
+
+
+

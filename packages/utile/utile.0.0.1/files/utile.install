@@ -1,0 +1,8 @@
+lib: [
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/index.js" {"lib/index.js"}
+"lib/read.js" {"lib/read.js"}
+"test/common-test.js" {"test/common-test.js"}
+]

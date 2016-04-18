@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "arrayify-compact"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/arrayify-compact.git"
+depends: [
+"arr-flatten" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

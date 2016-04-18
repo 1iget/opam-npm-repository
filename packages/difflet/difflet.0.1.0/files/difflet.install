@@ -1,0 +1,11 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+"example/string.js" {"example/string.js"}
+"example/html.js" {"example/html.js"}
+"example/colors.js" {"example/colors.js"}
+"example/comma_first.js" {"example/comma_first.js"}
+"test/html.js" {"test/html.js"}
+]

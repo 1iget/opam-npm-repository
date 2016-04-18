@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+".lint" {".lint"}
+".travis.yml" {".travis.yml"}
+"CHANGES" {"CHANGES"}
+"Makefile" {"Makefile"}
+"lib/microtime.js" {"lib/microtime.js"}
+"test/microtime.js" {"test/microtime.js"}
+]

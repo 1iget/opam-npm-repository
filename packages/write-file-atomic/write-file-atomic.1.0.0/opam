@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "write-file-atomic"
+version: "1.0.0"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git@github.com:iarna/write-file-atomic.git"
+depends: [
+"slide" {>="1.1.5" & <"2.0.0"}
+
+]
+
+
+
+

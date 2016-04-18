@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"lib/extract.js" {"lib/extract.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"fixtures/assemble.js" {"fixtures/assemble.js"}
+]

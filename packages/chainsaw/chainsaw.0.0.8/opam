@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "chainsaw"
+version: "0.0.8"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "MIT/X11"
+dev-repo: "git://github.com/substack/node-chainsaw.git"
+depends: [
+"traverse" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

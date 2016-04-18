@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "got"
+version: "2.2.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/got"
+depends: [
+"duplexify" {>="3.2.0" & <"4.0.0"}
+
+"object-assign" {>="2.0.0" & <"3.0.0"}
+
+"read-all-stream" {>="0.1.0" & <"0.2.0"}
+
+"timed-out" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

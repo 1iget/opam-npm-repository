@@ -1,0 +1,67 @@
+opam-version: "1.2"
+name: "ansi-colors"
+version: "0.1.0"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/doowb/ansi-colors.git"
+depends: [
+"ansi-bgblack" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bgblue" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bgcyan" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bggreen" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bgmagenta" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bgred" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bgwhite" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bgyellow" {>="0.1.1" & <"0.2.0"}
+
+"ansi-black" {>="0.1.1" & <"0.2.0"}
+
+"ansi-blue" {>="0.1.1" & <"0.2.0"}
+
+"ansi-bold" {>="0.1.1" & <"0.2.0"}
+
+"ansi-cyan" {>="0.1.1" & <"0.2.0"}
+
+"ansi-dim" {>="0.1.1" & <"0.2.0"}
+
+"ansi-gray" {>="0.1.1" & <"0.2.0"}
+
+"ansi-green" {>="0.1.1" & <"0.2.0"}
+
+"ansi-grey" {>="0.1.1" & <"0.2.0"}
+
+"ansi-hidden" {>="0.1.1" & <"0.2.0"}
+
+"ansi-inverse" {>="0.1.1" & <"0.2.0"}
+
+"ansi-italic" {>="0.1.1" & <"0.2.0"}
+
+"ansi-magenta" {>="0.1.1" & <"0.2.0"}
+
+"ansi-red" {>="0.1.1" & <"0.2.0"}
+
+"ansi-reset" {>="0.1.1" & <"0.2.0"}
+
+"ansi-strikethrough" {>="0.1.1" & <"0.2.0"}
+
+"ansi-underline" {>="0.1.1" & <"0.2.0"}
+
+"ansi-white" {>="0.1.1" & <"0.2.0"}
+
+"ansi-yellow" {>="0.1.1" & <"0.2.0"}
+
+"lazy-cache" {>="0.2.4" & <"0.3.0"}
+
+]
+
+
+
+

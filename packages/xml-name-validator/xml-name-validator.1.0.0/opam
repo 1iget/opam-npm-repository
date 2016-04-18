@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "xml-name-validator"
+version: "1.0.0"
+maintainer: "domenic <domenic@domenicdenicola.com>"
+author: "domenic <domenic@domenicdenicola.com>"
+license: "WTFPL"
+dev-repo: "https://github.com/jsdom/xml-name-validator"
+depends: [
+
+]
+
+
+
+

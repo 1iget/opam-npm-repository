@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "mz"
+version: "2.3.1"
+maintainer: "coderhaoxin <coderhaoxin@outlook.com>"
+author: "coderhaoxin <coderhaoxin@outlook.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/normalize/mz.git"
+depends: [
+"any-promise" {>="1.0.0" & <"2.0.0"}
+
+"object-assign" {>="4.0.1" & <"5.0.0"}
+
+"thenify-all" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

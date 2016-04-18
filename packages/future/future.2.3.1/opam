@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "future"
+version: "2.3.1"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/coolaj86/futures.git"
+depends: [
+
+]
+
+
+
+

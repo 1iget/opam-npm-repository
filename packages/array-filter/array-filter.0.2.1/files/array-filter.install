@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/filter.js" {"test/filter.js"}
+"test/holes.js" {"test/holes.js"}
+"test/modify.js" {"test/modify.js"}
+"test/self.js" {"test/self.js"}
+"test/this-arg.js" {"test/this-arg.js"}
+"test/typecheck.js" {"test/typecheck.js"}
+]

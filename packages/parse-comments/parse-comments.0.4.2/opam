@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "parse-comments"
+version: "0.4.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/parse-comments.git"
+depends: [
+"arrayify-compact" {>="0.1.0" & <"0.2.0"}
+
+"extract-comments" {>="0.7.3" & <"0.8.0"}
+
+"gfm-code-blocks" {>="0.2.0" & <"0.3.0"}
+
+"inflection" {>="1.7.0" & <"2.0.0"}
+
+"lodash" {>="3.6.0" & <"4.0.0"}
+
+"parse-code-context" {>="0.1.3" & <"0.2.0"}
+
+]
+
+
+
+

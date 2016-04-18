@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "class-utils"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/class-utils.git"
+depends: [
+"define-property" {>="0.2.5" & <"0.3.0"}
+
+"isobject" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

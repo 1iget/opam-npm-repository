@@ -1,0 +1,1 @@
+Simple wrapper around eslint with support for globs and cache, so files that not changed can be skipped, if previous run passed

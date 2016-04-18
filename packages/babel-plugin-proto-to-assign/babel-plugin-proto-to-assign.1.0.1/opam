@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "babel-plugin-proto-to-assign"
+version: "1.0.1"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+
+depends: [
+"lodash" {>="3.9.3" & <"4.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"_prelude.js" {"_prelude.js"}
+"prelude.js" {"prelude.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/foo.js" {"example/foo.js"}
+"example/output.js" {"example/output.js"}
+"example/self.js" {"example/self.js"}
+"example/input.json" {"example/input.json"}
+"example/sourcemap/output.js" {"example/sourcemap/output.js"}
+"example/sourcemap/input.json" {"example/sourcemap/input.json"}
+"bin/cmd.js" {"bin/cmd.js"}
+"bin/prepublish.js" {"bin/prepublish.js"}
+"readme.markdown" {"readme.markdown"}
+"test/comment.js" {"test/comment.js"}
+"test/only_execute_entries.js" {"test/only_execute_entries.js"}
+"test/order.js" {"test/order.js"}
+"test/pack.js" {"test/pack.js"}
+"test/raw.js" {"test/raw.js"}
+"test/source-maps-existing.js" {"test/source-maps-existing.js"}
+"test/source-maps.js" {"test/source-maps.js"}
+"test/this.js" {"test/this.js"}
+"test/unicode.js" {"test/unicode.js"}
+]

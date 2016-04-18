@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "collections"
+version: "0.1.13"
+maintainer: "lmsp <sijie0413@gmail.com>"
+author: "lmsp <sijie0413@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/kriskowal/collections.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "config-cache"
+version: "6.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/config-cache.git"
+depends: [
+"arr-flatten" {>="1.0.1" & <"2.0.0"}
+
+"array-union" {>="1.0.1" & <"2.0.0"}
+
+"component-emitter" {>="1.2.0" & <"2.0.0"}
+
+"extend-shallow" {>="1.1.4" & <"2.0.0"}
+
+"get-value" {>="1.1.5" & <"2.0.0"}
+
+"kind-of" {>="2.0.0" & <"3.0.0"}
+
+"lazy-cache" {>="0.1.0" & <"0.2.0"}
+
+"object.omit" {>="1.1.0" & <"2.0.0"}
+
+"set-value" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

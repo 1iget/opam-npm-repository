@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"unify.js" {"unify.js"}
+"pipe.js" {"pipe.js"}
+"index.js" {"index.js"}
+"has-listeners.js" {"has-listeners.js"}
+"all-off.js" {"all-off.js"}
+"benchmark/many-on.js" {"benchmark/many-on.js"}
+"benchmark/single-on.js" {"benchmark/single-on.js"}
+"CHANGES" {"CHANGES"}
+".travis.yml" {".travis.yml"}
+".testignore" {".testignore"}
+"test/all-off.js" {"test/all-off.js"}
+"test/has-listeners.js" {"test/has-listeners.js"}
+"test/index.js" {"test/index.js"}
+"test/pipe.js" {"test/pipe.js"}
+"test/unify.js" {"test/unify.js"}
+".lint" {".lint"}
+]

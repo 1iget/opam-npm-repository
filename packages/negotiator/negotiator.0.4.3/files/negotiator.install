@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"lib/charset.js" {"lib/charset.js"}
+"lib/encoding.js" {"lib/encoding.js"}
+"lib/language.js" {"lib/language.js"}
+"lib/mediaType.js" {"lib/mediaType.js"}
+"lib/negotiator.js" {"lib/negotiator.js"}
+"readme.md" {"readme.md"}
+]

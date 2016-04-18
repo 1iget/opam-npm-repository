@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "npm-install-checks"
+version: "0.0.1"
+maintainer: "robertkowalski <rok@kowalski.gd>"
+author: "robertkowalski <rok@kowalski.gd>"
+license: "BSD-2-Clause"
+dev-repo: "git://github.com/robertkowalski/npm-install-checks.git"
+depends: [
+"npmlog" {="0.0.6"}
+
+"semver" {>="2.2.1" & <"2.3.0"}
+
+]
+
+
+
+

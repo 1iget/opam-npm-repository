@@ -1,0 +1,1 @@
+type-check allows you to check the types of JavaScript values at runtime with a Haskell like type syntax.

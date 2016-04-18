@@ -1,0 +1,1 @@
+Write a YAML or JSON file to disk. Automatically detects the format to write based on extension. Or pass `ext` on the options.

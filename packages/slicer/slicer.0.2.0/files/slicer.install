@@ -1,0 +1,9 @@
+lib: [
+".gitignore" {".gitignore"}
+".travis.yml" {".travis.yml"}
+"Jakefile.js" {"Jakefile.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/slicer.js" {"test/slicer.js"}
+"src/lib/slicer.js" {"src/lib/slicer.js"}
+]

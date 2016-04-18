@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "get-first"
+version: "0.1.2"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/get-first.git"
+depends: [
+"get-value" {>="2.0.2" & <"3.0.0"}
+
+]
+
+
+
+

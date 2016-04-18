@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"BigInteger.js" {"BigInteger.js"}
+"BigInteger.min.js" {"BigInteger.min.js"}
+"my.conf.js" {"my.conf.js"}
+".travis.yml" {".travis.yml"}
+"benchmark/benchmark.js" {"benchmark/benchmark.js"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/testWorker.js" {"benchmark/testWorker.js"}
+"benchmark/tests.js" {"benchmark/tests.js"}
+"benchmark/index.html" {"benchmark/index.html"}
+"benchmark/wait.gif" {"benchmark/wait.gif"}
+"spec/spec.js" {"spec/spec.js"}
+"spec/SpecRunner.html" {"spec/SpecRunner.html"}
+"spec/lib/jasmine-2.1.3/boot.js" {"spec/lib/jasmine-2.1.3/boot.js"}
+"spec/lib/jasmine-2.1.3/console.js" {"spec/lib/jasmine-2.1.3/console.js"}
+"spec/lib/jasmine-2.1.3/jasmine-html.js" {"spec/lib/jasmine-2.1.3/jasmine-html.js"}
+"spec/lib/jasmine-2.1.3/jasmine.js" {"spec/lib/jasmine-2.1.3/jasmine.js"}
+"spec/lib/jasmine-2.1.3/jasmine.css" {"spec/lib/jasmine-2.1.3/jasmine.css"}
+"spec/lib/jasmine-2.1.3/jasmine_favicon.png" {"spec/lib/jasmine-2.1.3/jasmine_favicon.png"}
+"spec/support/jasmine.json" {"spec/support/jasmine.json"}
+]

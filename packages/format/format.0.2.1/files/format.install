@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"format-min.js" {"format-min.js"}
+"format.js" {"format.js"}
+"test_format.js" {"test_format.js"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+"component.json" {"component.json"}
+]

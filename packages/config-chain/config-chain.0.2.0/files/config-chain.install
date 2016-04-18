@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"test/find-file.js" {"test/find-file.js"}
+"test/ini.js" {"test/ini.js"}
+"readme.markdown" {"readme.markdown"}
+"node_modules/ini/package.json" {"node_modules/ini/package.json"}
+"node_modules/ini/README.md" {"node_modules/ini/README.md"}
+"node_modules/ini/LICENSE" {"node_modules/ini/LICENSE"}
+"node_modules/ini/ini.js" {"node_modules/ini/ini.js"}
+"node_modules/ini/test/foo.js" {"node_modules/ini/test/foo.js"}
+"node_modules/ini/test/bar.js" {"node_modules/ini/test/bar.js"}
+"node_modules/ini/test/fixtures/foo.ini" {"node_modules/ini/test/fixtures/foo.ini"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "cssom"
+version: "0.3.1"
+maintainer: "nv <me@elv1s.ru>"
+author: "nv <me@elv1s.ru>"
+license: "MIT"
+dev-repo: "git+https://github.com/nv/CSSOM.git"
+depends: [
+
+]
+
+
+
+

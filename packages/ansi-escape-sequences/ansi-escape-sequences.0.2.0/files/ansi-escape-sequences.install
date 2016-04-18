@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"bin/cli.js" {"bin/cli.js"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/ansi-escape-sequences.js" {"lib/ansi-escape-sequences.js"}
+".jshintrc" {".jshintrc"}
+"test/test.js" {"test/test.js"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "matchdep"
+version: "0.1.1"
+maintainer: "tkellen <tyler@sleekcode.net>"
+author: "tkellen <tyler@sleekcode.net>"
+license: "not defined"
+dev-repo: "git://github.com/tkellen/node-matchdep.git"
+depends: [
+"minimatch" {>="0.2.9" & <"0.3.0"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "hoek"
+version: "2.16.1"
+maintainer: "hueniverse <eran@hueniverse.com>"
+author: "hueniverse <eran@hueniverse.com>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/hapijs/hoek.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "lodash.map"
+version: "2.2.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash.createcallback" {>="2.2.0" & <"2.3.0"}
+
+"lodash.forown" {>="2.2.0" & <"2.3.0"}
+
+]
+
+
+
+

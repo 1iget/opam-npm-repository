@@ -1,0 +1,1 @@
+Template helper for concatenating a list of files using glob patterns. Should work with handlebars, lodash or any template engine that allows helper functions.

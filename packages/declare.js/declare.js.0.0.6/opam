@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "declare.js"
+version: "0.0.6"
+maintainer: "damartin <doug@dougamartin.com>"
+author: "damartin <doug@dougamartin.com>"
+license: "MIT"
+dev-repo: "git@github.com:doug-martin/declare.js.git"
+depends: [
+"grunt" {>="0.4.1" & <"0.5.0"}
+
+]
+
+
+
+

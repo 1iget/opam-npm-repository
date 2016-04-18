@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".eslintrc" {".eslintrc"}
+"eslint-plugin-react.sublime-project" {"eslint-plugin-react.sublime-project"}
+"eslint-plugin-react.sublime-workspace" {"eslint-plugin-react.sublime-workspace"}
+"lib/rules/no-multi-comp.js" {"lib/rules/no-multi-comp.js"}
+"lib/rules/prop-types.js" {"lib/rules/prop-types.js"}
+"test.jsx" {"test.jsx"}
+]

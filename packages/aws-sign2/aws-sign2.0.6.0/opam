@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "aws-sign2"
+version: "0.6.0"
+maintainer: "mikeal <mikeal.rogers@gmail.com>"
+author: "mikeal <mikeal.rogers@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "git+https://github.com/mikeal/aws-sign.git"
+depends: [
+
+]
+
+
+
+

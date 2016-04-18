@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"base64.js" {"base64.js"}
+"base64.min.js" {"base64.min.js"}
+"Makefile" {"Makefile"}
+"test/base64.coffee" {"test/base64.coffee"}
+]

@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"q.js" {"q.js"}
+"queue.js" {"queue.js"}
+]

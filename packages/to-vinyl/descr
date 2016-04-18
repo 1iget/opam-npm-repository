@@ -1,0 +1,1 @@
+Convert an object to a vinyl file object. Safely mixes additional properties onto the file object without overwriting properties added by vinyl.

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+"benchmark/fastApply.js" {"benchmark/fastApply.js"}
+"History.md" {"History.md"}
+"License.md" {"License.md"}
+"Readme.md" {"Readme.md"}
+]

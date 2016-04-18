@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "regexpu"
+version: "0.2.3"
+maintainer: "mathias <mathias@qiwi.be>"
+author: "mathias <mathias@qiwi.be>"
+license: "MIT"
+dev-repo: "https://github.com/mathiasbynens/regexpu.git"
+depends: [
+"recast" {>="0.8.0" & <"0.9.0"}
+
+"regenerate" {>="1.0.0" & <"2.0.0"}
+
+"regjsgen" {>="0.2.0" & <"0.3.0"}
+
+"regjsparser" {>="0.1.2" & <"0.2.0"}
+
+]
+
+
+
+

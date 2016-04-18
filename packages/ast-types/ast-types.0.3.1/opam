@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "ast-types"
+version: "0.3.1"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "not defined"
+dev-repo: "git://github.com/benjamn/ast-types.git"
+depends: [
+"ast-path" {>="0.1.1" & <"0.2.0"}
+
+"esprima" {>="1.0.3"}
+
+"whiskey" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

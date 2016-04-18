@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "bluebird"
+version: "1.0.3"
+maintainer: "esailija <petka_antonov@hotmail.com>"
+author: "esailija <petka_antonov@hotmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/petkaantonov/bluebird.git"
+depends: [
+
+]
+
+
+
+

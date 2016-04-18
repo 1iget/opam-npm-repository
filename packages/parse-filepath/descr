@@ -1,0 +1,1 @@
+Parse a filepath into an object. Falls back on the native node.js `path.parse` method if it exists.

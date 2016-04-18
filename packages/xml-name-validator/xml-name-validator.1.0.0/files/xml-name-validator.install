@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/generated-parser.js" {"lib/generated-parser.js"}
+"lib/xml-name-validator.js" {"lib/xml-name-validator.js"}
+"lib/grammar.pegjs" {"lib/grammar.pegjs"}
+]

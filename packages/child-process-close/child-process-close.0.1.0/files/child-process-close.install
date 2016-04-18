@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/test-exec.js" {"test/test-exec.js"}
+"test/test-fork.js" {"test/test-fork.js"}
+"test/test-spawn-and-execfile.js" {"test/test-spawn-and-execfile.js"}
+"test/test.js" {"test/test.js"}
+"test/worker-fork.js" {"test/worker-fork.js"}
+"test/worker-spawn.js" {"test/worker-spawn.js"}
+]

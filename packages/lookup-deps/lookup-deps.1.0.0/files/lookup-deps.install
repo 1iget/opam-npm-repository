@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"lib/basename.js" {"lib/basename.js"}
+"lib/first.js" {"lib/first.js"}
+"lib/hasOwn.js" {"lib/hasOwn.js"}
+"lib/hyphenate.js" {"lib/hyphenate.js"}
+"lib/ext.js" {"lib/ext.js"}
+"lib/isDir.js" {"lib/isDir.js"}
+"lib/isFile.js" {"lib/isFile.js"}
+"lib/last.js" {"lib/last.js"}
+"lib/lookup.js" {"lib/lookup.js"}
+"lib/name.js" {"lib/name.js"}
+"lib/escapeDot.js" {"lib/escapeDot.js"}
+"lib/names.js" {"lib/names.js"}
+"lib/dirname.js" {"lib/dirname.js"}
+"lib/segments.js" {"lib/segments.js"}
+"lib/camelize.js" {"lib/camelize.js"}
+"lib/slashify.js" {"lib/slashify.js"}
+"lib/index.js" {"lib/index.js"}
+]

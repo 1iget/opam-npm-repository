@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "babel-plugin-react-constant-elements"
+version: "1.0.2"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/babel-plugins/babel-plugin-react-constant-elements.git"
+depends: [
+
+]
+
+
+
+

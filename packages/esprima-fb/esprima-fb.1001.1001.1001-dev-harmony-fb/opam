@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "esprima-fb"
+version: "1001.1001.1001-dev-harmony-fb"
+maintainer: "jeffmo <jeff@anafx.com>"
+author: "jeffmo <jeff@anafx.com>"
+license: "not defined"
+dev-repo: "http://github.com/facebook/esprima.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"test/signal-exit-test.js" {"test/signal-exit-test.js"}
+"test/fixtures/end-of-execution.js" {"test/fixtures/end-of-execution.js"}
+"test/fixtures/exit.js" {"test/fixtures/exit.js"}
+"test/fixtures/sigint.js" {"test/fixtures/sigint.js"}
+"test/fixtures/sigterm.js" {"test/fixtures/sigterm.js"}
+]

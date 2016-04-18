@@ -1,0 +1,7 @@
+.DS_Store
+pids
+logs
+results
+*.pid
+*.log
+lib-cov

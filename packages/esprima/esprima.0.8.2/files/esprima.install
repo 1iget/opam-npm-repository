@@ -1,0 +1,26 @@
+lib: [
+"esprima.js" {"esprima.js"}
+"index.html" {"index.html"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"assets/style.css" {"assets/style.css"}
+"demo/parse.html" {"demo/parse.html"}
+"bin/esparse.js" {"bin/esparse.js"}
+"test/benchmarks.html" {"test/benchmarks.html"}
+"test/benchmarks.js" {"test/benchmarks.js"}
+"test/compare.html" {"test/compare.html"}
+"test/compare.js" {"test/compare.js"}
+"test/compat.html" {"test/compat.html"}
+"test/compat.js" {"test/compat.js"}
+"test/index.html" {"test/index.html"}
+"test/reflect.js" {"test/reflect.js"}
+"test/test.js" {"test/test.js"}
+"test/3rdparty/benchmark.js" {"test/3rdparty/benchmark.js"}
+"test/3rdparty/jsdefs.js" {"test/3rdparty/jsdefs.js"}
+"test/3rdparty/jslex.js" {"test/3rdparty/jslex.js"}
+"test/3rdparty/jsparse.js" {"test/3rdparty/jsparse.js"}
+"test/3rdparty/parse-js.js" {"test/3rdparty/parse-js.js"}
+"test/3rdparty/Tokenizer.js" {"test/3rdparty/Tokenizer.js"}
+"test/3rdparty/ZeParser.js" {"test/3rdparty/ZeParser.js"}
+]

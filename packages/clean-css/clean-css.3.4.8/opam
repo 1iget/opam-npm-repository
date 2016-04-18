@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "clean-css"
+version: "3.4.8"
+maintainer: "goalsmashers <jakub@goalsmashers.com>"
+author: "goalsmashers <jakub@goalsmashers.com>"
+license: "MIT"
+dev-repo: "https://github.com/jakubpawlowicz/clean-css.git"
+depends: [
+"commander" {>="2.8.0" & <"2.9.0"}
+
+"source-map" {>="0.4.0" & <"0.5.0"}
+
+]
+
+
+
+

@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "joi"
+version: "4.3.0"
+maintainer: "hueniverse <eran@hueniverse.com>"
+author: "hueniverse <eran@hueniverse.com>"
+license: "not defined"
+dev-repo: "git://github.com/spumko/joi"
+depends: [
+"hoek" {>="2.1.0" & <"3.0.0"}
+
+"topo" {>="1.0.0" & <"2.0.0"}
+
+"isemail" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

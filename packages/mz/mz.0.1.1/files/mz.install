@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"_promisify.js" {"_promisify.js"}
+"_promisify_all.js" {"_promisify_all.js"}
+"child_process.js" {"child_process.js"}
+"dns.js" {"dns.js"}
+"fs.js" {"fs.js"}
+"zlib.js" {"zlib.js"}
+"crypto.js" {"crypto.js"}
+]

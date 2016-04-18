@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "stream-consume"
+version: "0.1.0"
+maintainer: "aroneous <aron.nopanen@gmail.com>"
+author: "aroneous <aron.nopanen@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/aroneous/stream-consume.git"
+depends: [
+
+]
+
+
+
+

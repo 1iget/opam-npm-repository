@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "lazystream"
+version: "0.2.0"
+maintainer: "jpommerening <jonas.pommerening@gmail.com>"
+author: "jpommerening <jonas.pommerening@gmail.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/jpommerening/node-lazystream.git"
+depends: [
+"readable-stream" {>="1.0.2" & <"1.1.0"}
+
+]
+
+
+
+

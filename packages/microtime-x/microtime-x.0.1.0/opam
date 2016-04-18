@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "microtime-x"
+version: "0.1.0"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git@github.com:medikoo/microtime-x.git"
+depends: [
+"microtime" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

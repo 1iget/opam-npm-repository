@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "fsevents"
+version: "1.0.7"
+maintainer: "bajtos <miro.bajtos@gmail.com>"
+author: "bajtos <miro.bajtos@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/strongloop/fsevents.git"
+depends: [
+"nan" {>="2.1.0" & <"3.0.0"}
+
+"node-pre-gyp" {>="0.6.19" & <"0.7.0"}
+
+]
+install: ["sh" "-c" "node-pre-gyp install --fallback-to-build"]
+
+
+

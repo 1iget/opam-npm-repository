@@ -1,0 +1,1 @@
+An Error subclass that will chain nested Errors and dump nested stacktraces

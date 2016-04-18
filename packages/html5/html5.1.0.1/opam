@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "html5"
+version: "1.0.1"
+maintainer: "aredridel <aredridel@nbtsc.org>"
+author: "aredridel <aredridel@nbtsc.org>"
+license: "MIT"
+dev-repo: "https://github.com/aredridel/html5"
+depends: [
+"jsdom" {>="1.0.0" & <"2.0.0"}
+
+"opts" {>="1.2.1" & <"2.0.0"}
+
+"html5-entities" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

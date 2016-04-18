@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "detective"
+version: "4.1.1"
+maintainer: "substack <substack@gmail.com>"
+author: "substack <substack@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-detective.git"
+depends: [
+"acorn" {>="1.0.3" & <"2.0.0"}
+
+"defined" {>="1.0.0" & <"2.0.0"}
+
+"escodegen" {>="1.4.1" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"convert-hex.js" {"convert-hex.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+]

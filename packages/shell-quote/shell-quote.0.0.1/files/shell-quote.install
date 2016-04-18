@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"example/parse.js" {"example/parse.js"}
+"example/quote.js" {"example/quote.js"}
+"test/parse.js" {"test/parse.js"}
+"test/quote.js" {"test/quote.js"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+]

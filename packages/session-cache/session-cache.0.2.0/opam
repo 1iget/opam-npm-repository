@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "session-cache"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/doowb/session-cache.git"
+depends: [
+"continuation-local-storage" {>="3.1.1" & <"4.0.0"}
+
+]
+
+
+
+

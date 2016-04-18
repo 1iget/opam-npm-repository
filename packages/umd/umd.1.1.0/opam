@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "umd"
+version: "1.1.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/umd.git"
+depends: [
+"rfile" {>="1.0.0" & <"1.1.0"}
+
+"ruglify" {>="1.0.0" & <"1.1.0"}
+
+"through" {>="2.2.7" & <"2.3.0"}
+
+"uglify-js" {>="2.2.5" & <"2.3.0"}
+
+]
+
+
+
+

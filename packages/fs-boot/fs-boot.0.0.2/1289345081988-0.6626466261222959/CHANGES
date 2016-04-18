@@ -1,0 +1,9 @@
+
+0.0.2
+
+ * synced dependencies
+
+0.0.1
+
+ * removed erroneous "util" package dependency.
+

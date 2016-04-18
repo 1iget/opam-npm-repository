@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "should-format"
+version: "0.0.7"
+maintainer: "btd <bardadymchik@gmail.com>"
+author: "btd <bardadymchik@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/shouldjs/format.git"
+depends: [
+"should-type" {="0.0.4"}
+
+]
+
+
+
+

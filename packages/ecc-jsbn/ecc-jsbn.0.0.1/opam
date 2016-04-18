@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "ecc-jsbn"
+version: "0.0.1"
+maintainer: "quartzjer <jeremie@jabber.org>"
+author: "quartzjer <jeremie@jabber.org>"
+license: "MIT"
+dev-repo: "https://github.com/quartzjer/ecc-jsbn.git"
+depends: [
+"jsbn" {="ImdpdCtodHRwczovL2dpdGh1Yi5jb20vcnlub21hZC9qc2JuLmdpdCI"}
+
+]
+
+
+
+

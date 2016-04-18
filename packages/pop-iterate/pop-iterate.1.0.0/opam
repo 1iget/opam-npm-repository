@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "pop-iterate"
+version: "1.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "MIT"
+dev-repo: "https://github.com/kriskowal/pop-iterate.git"
+depends: [
+"jasminum" {>="0.0.4" & <"0.0.5"}
+
+]
+
+
+
+

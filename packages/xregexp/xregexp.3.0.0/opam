@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "xregexp"
+version: "3.0.0"
+maintainer: "slevithan <steves_list@hotmail.com>"
+author: "slevithan <steves_list@hotmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/slevithan/xregexp.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Map over an array of values in parallel or series, passing each through the async iterator. Optionally, specify lifecycle extension points for before the iterator runs, after completion, or upon error.

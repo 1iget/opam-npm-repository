@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "js-comments-template"
+version: "0.6.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/js-comments-template.git"
+depends: [
+
+]
+
+
+
+

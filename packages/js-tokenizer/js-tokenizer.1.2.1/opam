@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "js-tokenizer"
+version: "1.2.1"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/dominictarr/js-tokenizer.git"
+depends: [
+
+]
+
+
+
+

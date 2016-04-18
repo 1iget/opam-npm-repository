@@ -1,0 +1,11 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"testling/test.sh" {"testling/test.sh"}
+"testling/run.js" {"testling/run.js"}
+"example/run/bundle.js" {"example/run/bundle.js"}
+"example/run/index.html" {"example/run/index.html"}
+"example/run/server.js" {"example/run/server.js"}
+"example/run/entry.js" {"example/run/entry.js"}
+]

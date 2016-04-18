@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"README.md" {"README.md"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/prompt.html" {"docs/prompt.html"}
+"examples/existing-properties.js" {"examples/existing-properties.js"}
+"examples/add-properties.js" {"examples/add-properties.js"}
+"examples/history.js" {"examples/history.js"}
+"examples/password.js" {"examples/password.js"}
+"examples/property-prompt.js" {"examples/property-prompt.js"}
+"examples/simple-prompt.js" {"examples/simple-prompt.js"}
+"lib/prompt.js" {"lib/prompt.js"}
+"test/helpers.js" {"test/helpers.js"}
+"test/interactive-prompt-test.js" {"test/interactive-prompt-test.js"}
+"test/prompt-test.js" {"test/prompt-test.js"}
+]

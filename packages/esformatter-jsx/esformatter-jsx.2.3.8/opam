@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "esformatter-jsx"
+version: "2.3.8"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/royriojas/esformatter-jsx.git"
+depends: [
+"babel-core" {>="5.8.25" & <"6.0.0"}
+
+"esformatter-ignore" {>="0.1.3" & <"0.2.0"}
+
+"extend" {>="2.0.1" & <"3.0.0"}
+
+"falafel" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9yb3lyaW9qYXMvZnJlc2gtZmFsYWZlbC90YXJiYWxsL2ZpeC1wYXJzZS1pc3N1ZSI"}
+
+"js-beautify" {>="1.5.10" & <"2.0.0"}
+
+]
+
+
+
+

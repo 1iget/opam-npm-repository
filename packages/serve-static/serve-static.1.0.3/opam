@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "serve-static"
+version: "1.0.3"
+maintainer: "dougwilson <doug@somethingdoug.com>"
+author: "dougwilson <doug@somethingdoug.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/serve-static.git"
+depends: [
+"send" {="0.2.0"}
+
+]
+
+
+
+

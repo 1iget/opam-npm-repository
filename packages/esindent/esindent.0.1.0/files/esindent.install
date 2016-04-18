@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/esindent.js" {"lib/esindent.js"}
+"test/runner.js" {"test/runner.js"}
+"test/transform.spec.js" {"test/transform.spec.js"}
+"test/compare/default-in.js" {"test/compare/default-in.js"}
+"test/compare/default-out.js" {"test/compare/default-out.js"}
+]

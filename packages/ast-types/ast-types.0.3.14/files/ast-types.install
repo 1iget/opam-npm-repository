@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"main.js" {"main.js"}
+".travis.yml" {".travis.yml"}
+"def/core.js" {"def/core.js"}
+"def/e4x.js" {"def/e4x.js"}
+"def/es6.js" {"def/es6.js"}
+"def/fb-harmony.js" {"def/fb-harmony.js"}
+"def/mozilla.js" {"def/mozilla.js"}
+"lib/node-path.js" {"lib/node-path.js"}
+"lib/scope.js" {"lib/scope.js"}
+"lib/shared.js" {"lib/shared.js"}
+"lib/traverse.js" {"lib/traverse.js"}
+"lib/types.js" {"lib/types.js"}
+"test/run.js" {"test/run.js"}
+"test/data/backbone.js" {"test/data/backbone.js"}
+"test/data/jquery-1.9.1.js" {"test/data/jquery-1.9.1.js"}
+]

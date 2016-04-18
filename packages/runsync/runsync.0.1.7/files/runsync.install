@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"src/build.js" {"src/build.js"}
+"src/runsync.cc" {"src/runsync.cc"}
+"src/runsync.hh" {"src/runsync.hh"}
+]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"fsevents.js" {"fsevents.js"}
+"API.md" {"API.md"}
+"binding.gyp" {"binding.gyp"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"nodefsevents.cc" {"nodefsevents.cc"}
+]

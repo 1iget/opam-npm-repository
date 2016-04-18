@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "protochain"
+version: "1.0.0"
+maintainer: "timoxley <secoif@gmail.com>"
+author: "timoxley <secoif@gmail.com>"
+license: "ISC"
+dev-repo: "https://github.com/timoxley/protochain.git"
+depends: [
+"babel" {>="4.6.6" & <"5.0.0"}
+
+"tape" {>="3.5.0" & <"4.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "wtf8"
+version: "0.1.1"
+maintainer: "lautis <lautis@gmail.com>"
+author: "lautis <lautis@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/lautis/wtf8.git"
+depends: [
+
+]
+
+build: ["sh" "-c" "node-waf configure build"]
+
+

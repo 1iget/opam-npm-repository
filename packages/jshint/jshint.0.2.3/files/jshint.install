@@ -1,0 +1,12 @@
+lib: [
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"HELP" {"HELP"}
+"lib/hint.js" {"lib/hint.js"}
+"lib/jslint_reporter.js" {"lib/jslint_reporter.js"}
+"lib/cli.js" {"lib/cli.js"}
+"bin/hint" {"bin/hint"}
+"packages/jshint/README.markdown" {"packages/jshint/README.markdown"}
+"packages/jshint/jshint.js" {"packages/jshint/jshint.js"}
+]

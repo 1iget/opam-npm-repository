@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "clix-logger"
+version: "0.1.0"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/clix-logger"
+depends: [
+"chalk" {>="1.1.0" & <"2.0.0"}
+
+"extend" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

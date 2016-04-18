@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "line-numbers"
+version: "0.1.0"
+maintainer: "lydell <simon.lydell@gmail.com>"
+author: "lydell <simon.lydell@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lydell/line-numbers"
+depends: [
+"left-pad" {="0.0.3"}
+
+]
+
+
+
+

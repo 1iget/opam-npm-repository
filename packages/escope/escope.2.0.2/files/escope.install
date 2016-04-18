@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"escope.js" {"escope.js"}
+"gulpfile.coffee" {"gulpfile.coffee"}
+"build/bundle.js" {"build/bundle.js"}
+".jshintrc" {".jshintrc"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"bower.json" {"bower.json"}
+]

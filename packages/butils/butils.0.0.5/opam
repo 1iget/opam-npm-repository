@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "butils"
+version: "0.0.5"
+maintainer: "nathan-lafreniere <quitlahok@gmail.com>"
+author: "nathan-lafreniere <quitlahok@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/nlf/node-butils.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "punycode"
+version: "0.2.2"
+maintainer: "wizard <wizard@roborooter.com>"
+author: "wizard <wizard@roborooter.com>"
+license: "not defined"
+dev-repo: "git://github.com/bestiejs/punycode.js.git"
+depends: [
+
+]
+
+
+
+

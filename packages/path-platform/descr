@@ -1,0 +1,1 @@
+Provide access to win32 and posix path operations; sourced directly from upstream Node.js

@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"node.js" {"node.js"}
+"browser.js" {"browser.js"}
+"adhoc.js" {"adhoc.js"}
+"bootstrap.js" {"bootstrap.js"}
+"bootstrap-node.js" {"bootstrap-node.js"}
+"require.js" {"require.js"}
+".travis.yml" {".travis.yml"}
+"adhoc.html" {"adhoc.html"}
+"LICENSE.md" {"LICENSE.md"}
+"CHANGES.md" {"CHANGES.md"}
+"packages/q/package.json" {"packages/q/package.json"}
+"packages/q/.npmignore" {"packages/q/.npmignore"}
+"packages/q/LICENSE" {"packages/q/LICENSE"}
+"packages/q/q.js" {"packages/q/q.js"}
+"packages/q/queue.js" {"packages/q/queue.js"}
+"bin/mr" {"bin/mr"}
+]

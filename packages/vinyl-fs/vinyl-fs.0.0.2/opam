@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "vinyl-fs"
+version: "0.0.2"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/vinyl-fs.git"
+depends: [
+"vinyl" {>="0.2.0" & <"0.3.0"}
+
+"glob-stream" {>="3.1.5" & <"3.2.0"}
+
+"glob-watcher" {>="0.0.1" & <"0.1.0"}
+
+"mkdirp" {>="0.3.5" & <"0.4.0"}
+
+"graceful-fs" {>="2.0.1" & <"2.1.0"}
+
+"map-stream" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

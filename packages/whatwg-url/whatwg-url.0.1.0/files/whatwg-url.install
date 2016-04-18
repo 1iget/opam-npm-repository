@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".settings/settings.json" {".settings/settings.json"}
+"lib/url.js" {"lib/url.js"}
+]

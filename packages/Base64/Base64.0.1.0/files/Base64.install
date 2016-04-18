@@ -1,0 +1,9 @@
+lib: [
+"base64.js" {"base64.js"}
+"base64.min.js" {"base64.min.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"spec/base64_spec.coffee" {"spec/base64_spec.coffee"}
+"spec/spec_helper.js" {"spec/spec_helper.js"}
+]

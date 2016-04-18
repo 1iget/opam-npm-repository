@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-accessor-descriptor"
+version: "0.1.6"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/is-accessor-descriptor.git"
+depends: [
+"kind-of" {>="3.0.2" & <"4.0.0"}
+
+]
+
+
+
+

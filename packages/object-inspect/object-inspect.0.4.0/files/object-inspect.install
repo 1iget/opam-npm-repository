@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/all.js" {"example/all.js"}
+"example/circular.js" {"example/circular.js"}
+"example/fn.js" {"example/fn.js"}
+"example/inspect.js" {"example/inspect.js"}
+"readme.markdown" {"readme.markdown"}
+"test/circular.js" {"test/circular.js"}
+"test/fn.js" {"test/fn.js"}
+"test/holes.js" {"test/holes.js"}
+"test/lowbyte.js" {"test/lowbyte.js"}
+"test/undef.js" {"test/undef.js"}
+"test/browser/dom.js" {"test/browser/dom.js"}
+]

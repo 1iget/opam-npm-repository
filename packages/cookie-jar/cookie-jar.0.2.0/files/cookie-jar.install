@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"jar.js" {"jar.js"}
+"tests/run.js" {"tests/run.js"}
+"tests/test-cookie.js" {"tests/test-cookie.js"}
+"tests/test-cookiejar.js" {"tests/test-cookiejar.js"}
+]

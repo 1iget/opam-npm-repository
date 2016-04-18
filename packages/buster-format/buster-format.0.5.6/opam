@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "buster-format"
+version: "0.5.6"
+maintainer: "cjohansen <christian@cjohansen.no>"
+author: "cjohansen <christian@cjohansen.no>"
+license: "not defined"
+dev-repo: "git://gitorious.org/buster/buster-format.git"
+depends: [
+"buster-core" {="0.6.4"}
+
+]
+
+
+
+

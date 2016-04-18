@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sequencify"
+version: "0.0.6"
+maintainer: "robrich <robrich@robrich.org>"
+author: "robrich <robrich@robrich.org>"
+license: "not defined"
+dev-repo: "git://github.com/robrich/sequencify.git"
+depends: [
+
+]
+
+
+
+

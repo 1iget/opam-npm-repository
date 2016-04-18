@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/all.js" {"example/all.js"}
+"example/circular.js" {"example/circular.js"}
+"example/fn.js" {"example/fn.js"}
+"example/inspect.js" {"example/inspect.js"}
+"readme.markdown" {"readme.markdown"}
+"test/values.js" {"test/values.js"}
+"test/deep.js" {"test/deep.js"}
+"test/element.js" {"test/element.js"}
+"test/err.js" {"test/err.js"}
+"test/circular.js" {"test/circular.js"}
+"test/holes.js" {"test/holes.js"}
+"test/inspect.js" {"test/inspect.js"}
+"test/lowbyte.js" {"test/lowbyte.js"}
+"test/undef.js" {"test/undef.js"}
+"test/fn.js" {"test/fn.js"}
+"test/browser/dom.js" {"test/browser/dom.js"}
+]

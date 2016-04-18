@@ -1,0 +1,1 @@
+Properly escape JSON for usage as an object literal inside of a `<script>` tag

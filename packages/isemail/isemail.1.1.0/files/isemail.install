@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"dns-no-mx.js" {"dns-no-mx.js"}
+".travis.yml" {".travis.yml"}
+"lib/isemail.js" {"lib/isemail.js"}
+"Makefile" {"Makefile"}
+"test/isemail.js" {"test/isemail.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

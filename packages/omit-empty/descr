@@ -1,0 +1,1 @@
+Recursively omit empty properties from an object. Omits empty objects, arrays, strings or zero.

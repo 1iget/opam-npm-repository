@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"bin/cli.coffee" {"bin/cli.coffee"}
+"bin/gulp" {"bin/gulp"}
+"lib/createFilesStream.coffee" {"lib/createFilesStream.coffee"}
+"lib/createFileStream.coffee" {"lib/createFileStream.coffee"}
+"lib/main.coffee" {"lib/main.coffee"}
+"lib/readFile.coffee" {"lib/readFile.coffee"}
+"test/file-utils.coffee" {"test/file-utils.coffee"}
+"test/file.coffee" {"test/file.coffee"}
+"test/files.coffee" {"test/files.coffee"}
+"test/fixtures/stuff/run.dmc" {"test/fixtures/stuff/run.dmc"}
+"test/fixtures/stuff/test.dmc" {"test/fixtures/stuff/test.dmc"}
+"test/fixtures/test/run.jade" {"test/fixtures/test/run.jade"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/tasks.coffee" {"test/tasks.coffee"}
+]

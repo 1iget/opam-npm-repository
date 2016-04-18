@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"config-defs.js" {"config-defs.js"}
+"npmconf.js" {"npmconf.js"}
+".eslintrc" {".eslintrc"}
+".jshintrc" {".jshintrc"}
+"lib/find-prefix.js" {"lib/find-prefix.js"}
+"lib/load-prefix.js" {"lib/load-prefix.js"}
+"lib/load-uid.js" {"lib/load-uid.js"}
+"lib/set-user.js" {"lib/set-user.js"}
+"test/00-setup.js" {"test/00-setup.js"}
+"test/basic.js" {"test/basic.js"}
+"test/builtin.js" {"test/builtin.js"}
+"test/project.js" {"test/project.js"}
+"test/save.js" {"test/save.js"}
+"test/fixtures/package.json" {"test/fixtures/package.json"}
+"test/fixtures/.npmrc" {"test/fixtures/.npmrc"}
+"test/fixtures/builtin" {"test/fixtures/builtin"}
+"test/fixtures/globalconfig" {"test/fixtures/globalconfig"}
+"test/fixtures/userconfig" {"test/fixtures/userconfig"}
+]

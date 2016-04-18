@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "fs-utils"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/assemble/fs-utils.git"
+depends: [
+"iconv-lite" {>="0.2.11" & <"0.3.0"}
+
+]
+
+
+
+

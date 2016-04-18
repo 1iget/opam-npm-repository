@@ -1,0 +1,14 @@
+lib: [
+".gitignore" {".gitignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"README.md" {"README.md"}
+".gitignore~" {".gitignore~"}
+"test/cyrillic-test.js~" {"test/cyrillic-test.js~"}
+"test/main-test.js~" {"test/main-test.js~"}
+"test/main-test.js" {"test/main-test.js"}
+"test/cyrillic-test.js" {"test/cyrillic-test.js"}
+"encodings/cyrillic.js" {"encodings/cyrillic.js"}
+"encodings/cyrillic.js~" {"encodings/cyrillic.js~"}
+]

@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"test.js" {"test.js"}
+"index.js" {"index.js"}
+".coveralls.yml" {".coveralls.yml"}
+".jscsrc" {".jscsrc"}
+".jshintignore" {".jshintignore"}
+".jshintrc" {".jshintrc"}
+".editorconfig" {".editorconfig"}
+"Makefile" {"Makefile"}
+"history.md" {"history.md"}
+"license.md" {"license.md"}
+"readme.md" {"readme.md"}
+".gitattributes" {".gitattributes"}
+".travis.yml" {".travis.yml"}
+]

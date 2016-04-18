@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "braces"
+version: "1.8.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/braces.git"
+depends: [
+"expand-range" {>="1.8.1" & <"2.0.0"}
+
+"lazy-cache" {>="0.2.3" & <"0.3.0"}
+
+"preserve" {>="0.2.0" & <"0.3.0"}
+
+"repeat-element" {>="1.1.2" & <"2.0.0"}
+
+]
+
+
+
+

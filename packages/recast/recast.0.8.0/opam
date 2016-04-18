@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "recast"
+version: "0.8.0"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "MIT"
+dev-repo: "git://github.com/benjamn/recast.git"
+depends: [
+"esprima-fb" {>="7001.1.0-dev-harmony-fb" & <"7001.2.0"}
+
+"source-map" {="0.1.32"}
+
+"private" {>="0.1.5" & <"0.2.0"}
+
+"cls" {>="0.1.3" & <"0.2.0"}
+
+"ast-types" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

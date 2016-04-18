@@ -1,0 +1,17 @@
+lib: [
+"bench/" {"bench/"}
+"bench/block-stream-pause.js" {"bench/block-stream-pause.js"}
+"bench/block-stream.js" {"bench/block-stream.js"}
+"bench/dropper-pause.js" {"bench/dropper-pause.js"}
+"bench/dropper.js" {"bench/dropper.js"}
+"block-stream.js" {"block-stream.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/basic.js" {"test/basic.js"}
+"test/nopad-thorough.js" {"test/nopad-thorough.js"}
+"test/nopad.js" {"test/nopad.js"}
+"test/pause-resume.js" {"test/pause-resume.js"}
+"test/thorough.js" {"test/thorough.js"}
+"test/two-stream.js" {"test/two-stream.js"}
+]

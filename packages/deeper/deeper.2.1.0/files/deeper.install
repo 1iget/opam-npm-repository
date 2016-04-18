@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+".jshintrc" {".jshintrc"}
+"test/basic.js" {"test/basic.js"}
+"test/buffer-buffertools.js" {"test/buffer-buffertools.js"}
+"test/buffer-native-equals.js" {"test/buffer-native-equals.js"}
+"test/buffer-pure-js.js" {"test/buffer-pure-js.js"}
+]

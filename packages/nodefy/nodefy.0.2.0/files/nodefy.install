@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bin/nodefy" {"bin/nodefy"}
+"src/converter.js" {"src/converter.js"}
+"src/parser.js" {"src/parser.js"}
+"test/convert.spec.js" {"test/convert.spec.js"}
+"test/helpers.js" {"test/helpers.js"}
+"test/parse.spec.js" {"test/parse.spec.js"}
+"test/files/basic-in.js" {"test/files/basic-in.js"}
+"test/files/magic-in.js" {"test/files/magic-in.js"}
+"test/files/magic-out.js" {"test/files/magic-out.js"}
+"test/files/named_mixed-in.js" {"test/files/named_mixed-in.js"}
+"test/files/basic-out.js" {"test/files/basic-out.js"}
+"test/files/simplified_cjs-in.js" {"test/files/simplified_cjs-in.js"}
+"test/files/no_define-in.js" {"test/files/no_define-in.js"}
+"test/files/no_define-out.js" {"test/files/no_define-out.js"}
+"test/files/simplified_cjs-out.js" {"test/files/simplified_cjs-out.js"}
+"test/files/named_mixed-out.js" {"test/files/named_mixed-out.js"}
+"test/files/nested/magic_remaped-in.js" {"test/files/nested/magic_remaped-in.js"}
+"test/files/nested/magic_remaped-out.js" {"test/files/nested/magic_remaped-out.js"}
+]

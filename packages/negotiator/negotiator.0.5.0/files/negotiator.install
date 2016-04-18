@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"HISTORY.md" {"HISTORY.md"}
+"lib/charset.js" {"lib/charset.js"}
+"lib/encoding.js" {"lib/encoding.js"}
+"lib/language.js" {"lib/language.js"}
+"lib/mediaType.js" {"lib/mediaType.js"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-integer"
+version: "1.0.6"
+maintainer: "parshap <supster+npm@gmail.com>"
+author: "parshap <supster+npm@gmail.com>"
+license: "WTFPL"
+dev-repo: "git+ssh://git@github.com/parshap/js-is-integer.git"
+depends: [
+"is-finite" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

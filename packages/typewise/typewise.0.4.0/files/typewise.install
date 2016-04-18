@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"context.js" {"context.js"}
+"typewise.js" {"typewise.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"test/compare.js" {"test/compare.js"}
+"test/util.js" {"test/util.js"}
+]

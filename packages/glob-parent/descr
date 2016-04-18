@@ -1,0 +1,1 @@
+Strips glob magic from a string to provide the parent path

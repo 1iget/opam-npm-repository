@@ -1,0 +1,1 @@
+finds an item in an array matching a predicate function, and returns its index

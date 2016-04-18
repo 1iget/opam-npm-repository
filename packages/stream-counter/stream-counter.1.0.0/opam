@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "stream-counter"
+version: "1.0.0"
+maintainer: "superjoe <superjoe30@gmail.com>"
+author: "superjoe <superjoe30@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/superjoe30/node-stream-counter.git"
+depends: [
+
+]
+
+
+
+

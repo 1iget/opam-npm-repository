@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "gaze"
+version: "0.5.2"
+maintainer: "joshperry <josh@6bit.com>"
+author: "joshperry <josh@6bit.com>"
+license: "not defined"
+dev-repo: "git://github.com/shama/gaze.git"
+depends: [
+"globule" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

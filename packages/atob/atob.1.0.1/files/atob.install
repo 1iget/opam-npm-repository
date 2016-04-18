@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"bin/atob.js" {"bin/atob.js"}
+]

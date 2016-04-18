@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG" {"CHANGELOG"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"lib/zip-stream.js" {"lib/zip-stream.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]

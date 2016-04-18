@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "acorn"
+version: "0.1.0"
+maintainer: "marijn <marijnh@gmail.com>"
+author: "marijn <marijnh@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

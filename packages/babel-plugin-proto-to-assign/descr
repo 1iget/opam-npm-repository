@@ -1,0 +1,1 @@
+Babel plugin for turning __proto__ into a shallow property clone

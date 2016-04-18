@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG" {"CHANGELOG"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/crc32-stream.js" {"lib/crc32-stream.js"}
+"test/checksum.js" {"test/checksum.js"}
+"test/helpers/index.js" {"test/helpers/index.js"}
+]

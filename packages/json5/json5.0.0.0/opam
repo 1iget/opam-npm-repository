@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "json5"
+version: "0.0.0"
+maintainer: "aseemk <aseem.kishore@gmail.com>"
+author: "aseemk <aseem.kishore@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

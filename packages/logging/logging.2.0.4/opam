@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "logging"
+version: "2.0.4"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/dylang/logging"
+depends: [
+
+]
+
+
+
+

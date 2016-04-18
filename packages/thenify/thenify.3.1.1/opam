@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "thenify"
+version: "3.1.1"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/thenables/thenify.git"
+depends: [
+"native-or-bluebird" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

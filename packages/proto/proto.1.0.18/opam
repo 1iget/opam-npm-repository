@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "proto"
+version: "1.0.18"
+maintainer: "fresheneesz <bitetrudpublic@gmailc.om>"
+author: "fresheneesz <bitetrudpublic@gmailc.om>"
+license: "not defined"
+dev-repo: "git://github.com/fresheneesz/proto"
+depends: [
+
+]
+
+
+
+

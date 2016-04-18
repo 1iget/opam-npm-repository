@@ -1,0 +1,61 @@
+opam-version: "1.2"
+name: "babel-core"
+version: "6.0.17"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/babel/babel/tree/master/packages/babel-core"
+depends: [
+"babel-code-frame" {>="6.0.15" & <"7.0.0"}
+
+"babel-generator" {>="6.0.15" & <"7.0.0"}
+
+"babel-helpers" {>="6.0.17" & <"7.0.0"}
+
+"babel-messages" {>="6.0.15" & <"7.0.0"}
+
+"babel-template" {>="6.0.16" & <"7.0.0"}
+
+"babel-runtime" {>="5.0.0" & <"6.0.0"}
+
+"babel-traverse" {>="6.0.17" & <"7.0.0"}
+
+"babel-types" {>="6.0.17" & <"7.0.0"}
+
+"babylon" {>="6.0.17" & <"7.0.0"}
+
+"convert-source-map" {>="1.1.0" & <"2.0.0"}
+
+"debug" {>="2.1.1" & <"3.0.0"}
+
+"esutils" {>="2.0.0" & <"3.0.0"}
+
+"home-or-tmp" {>="1.0.0" & <"2.0.0"}
+
+"json5" {>="0.4.0" & <"0.5.0"}
+
+"lodash" {>="3.10.0" & <"4.0.0"}
+
+"minimatch" {>="2.0.3" & <"3.0.0"}
+
+"path-exists" {>="1.0.0" & <"2.0.0"}
+
+"path-is-absolute" {>="1.0.0" & <"2.0.0"}
+
+"private" {>="0.1.6" & <"0.2.0"}
+
+"regenerator" {="0.8.35"}
+
+"shebang-regex" {>="1.0.0" & <"2.0.0"}
+
+"slash" {>="1.0.0" & <"2.0.0"}
+
+"source-map" {>="0.4.0" & <"0.5.0"}
+
+"source-map-support" {>="0.2.10" & <"0.3.0"}
+
+]
+
+
+
+

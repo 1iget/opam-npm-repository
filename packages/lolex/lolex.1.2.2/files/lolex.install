@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"lolex.js" {"lolex.js"}
+"Readme.md" {"Readme.md"}
+".travis.yml" {".travis.yml"}
+".editorconfig" {".editorconfig"}
+".jslintrc" {".jslintrc"}
+"src/lolex.js" {"src/lolex.js"}
+".min-wd" {".min-wd"}
+"script/ci-test.sh" {"script/ci-test.sh"}
+"test/lolex-test.js" {"test/lolex-test.js"}
+]

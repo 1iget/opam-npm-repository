@@ -1,0 +1,37 @@
+opam-version: "1.2"
+name: "esbeautifier"
+version: "8.0.4"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/royriojas/esbeautifier.git"
+depends: [
+"clix" {>="2.0.13" & <"3.0.0"}
+
+"dispatchy" {>="1.0.3" & <"2.0.0"}
+
+"esformatter" {>="0.8.1" & <"0.9.0"}
+
+"esformatter-collapse-objects" {>="0.4.1" & <"0.5.0"}
+
+"esformatter-eol-last" {>="1.0.0" & <"2.0.0"}
+
+"esformatter-jsx" {>="4.0.6" & <"5.0.0"}
+
+"esformatter-quotes" {>="1.0.2" & <"2.0.0"}
+
+"extend" {>="3.0.0" & <"4.0.0"}
+
+"file-entry-cache" {>="1.2.4" & <"2.0.0"}
+
+"hash-string" {>="1.0.0" & <"2.0.0"}
+
+"stringformat" {="0.0.5"}
+
+"write" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

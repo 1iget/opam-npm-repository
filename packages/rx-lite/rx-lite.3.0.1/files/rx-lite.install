@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"rx.lite.js" {"rx.lite.js"}
+"rx.lite.min.js" {"rx.lite.min.js"}
+"readme.md" {"readme.md"}
+"rx.lite.map" {"rx.lite.map"}
+]

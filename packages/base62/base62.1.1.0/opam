@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "base62"
+version: "1.1.0"
+maintainer: "andrewnez <andrewnez@gmail.com>"
+author: "andrewnez <andrewnez@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/andrew/base62.js.git"
+depends: [
+
+]
+
+
+
+

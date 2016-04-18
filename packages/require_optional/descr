@@ -1,0 +1,1 @@
+Allows you declare optionalPeerDependencies that can be satisfied by the top level module but ignored if they are not.

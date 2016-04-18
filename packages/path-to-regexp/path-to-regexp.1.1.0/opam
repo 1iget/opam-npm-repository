@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "path-to-regexp"
+version: "1.1.0"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "MIT"
+dev-repo: "https://github.com/pillarjs/path-to-regexp.git"
+depends: [
+"isarray" {="0.0.1"}
+
+]
+
+
+
+

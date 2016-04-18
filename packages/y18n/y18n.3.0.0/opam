@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "y18n"
+version: "3.0.0"
+maintainer: "bcoe <ben@npmjs.com>"
+author: "bcoe <ben@npmjs.com>"
+license: "ISC"
+dev-repo: "git+ssh://git@github.com/bcoe/y18n.git"
+depends: [
+
+]
+
+
+
+

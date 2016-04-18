@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "npm-user-validate"
+version: "0.0.2"
+maintainer: "robertkowalski <rok@kowalski.gd>"
+author: "robertkowalski <rok@kowalski.gd>"
+license: "BSD"
+dev-repo: "https://github.com/robertkowalski/npm-user-validate"
+depends: [
+
+]
+
+
+
+

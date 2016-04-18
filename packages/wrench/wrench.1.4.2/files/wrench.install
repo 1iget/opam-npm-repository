@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"lib/wrench.js" {"lib/wrench.js"}
+"lib/x.js" {"lib/x.js"}
+"readme.md" {"readme.md"}
+"tests/copydirsync_unix.js" {"tests/copydirsync_unix.js"}
+"tests/mkdir.js" {"tests/mkdir.js"}
+"tests/readdir.js" {"tests/readdir.js"}
+"tests/runner.js" {"tests/runner.js"}
+"tests/readdir/bar.txt" {"tests/readdir/bar.txt"}
+"tests/readdir/foo/bar/ipsum.js" {"tests/readdir/foo/bar/ipsum.js"}
+"tests/readdir/foo/dolor.md" {"tests/readdir/foo/dolor.md"}
+"tests/readdir/foo/lorem.txt" {"tests/readdir/foo/lorem.txt"}
+"tests/shown/.hidden/dolor.md" {"tests/shown/.hidden/dolor.md"}
+"tests/shown/.hidden.txt" {"tests/shown/.hidden.txt"}
+"tests/shown/bar.txt" {"tests/shown/bar.txt"}
+"tests/shown/foo/bar/ipsum.js" {"tests/shown/foo/bar/ipsum.js"}
+"tests/shown/foo/dolor.md" {"tests/shown/foo/dolor.md"}
+"tests/shown/foo/lorem.txt" {"tests/shown/foo/lorem.txt"}
+"tests/withsymlinks/test" {"tests/withsymlinks/test"}
+]

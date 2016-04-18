@@ -1,0 +1,14 @@
+lib: [
+"" {""}
+"asyncify.js" {"asyncify.js"}
+"browser-dirname.js" {"browser-dirname.js"}
+"chainify.js" {"chainify.js"}
+"emitter.js" {"emitter.js"}
+"forEachAsync.js" {"forEachAsync.js"}
+"future.js" {"future.js"}
+"index.js" {"index.js"}
+"join.js" {"join.js"}
+"loop.js" {"loop.js"}
+"package.json" {"package.json"}
+"sequence.js" {"sequence.js"}
+]

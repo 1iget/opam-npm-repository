@@ -1,0 +1,1 @@
+Provide flexible methods that accept callbacks and return promises without requiring a Promise implementation exist

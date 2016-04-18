@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lockfile.js" {"lockfile.js"}
+"bar" {"bar"}
+"foo" {"foo"}
+"test/basic.js" {"test/basic.js"}
+"test/stale-contention.js" {"test/stale-contention.js"}
+"test/fixtures/bad-child.js" {"test/fixtures/bad-child.js"}
+"test/fixtures/child.js" {"test/fixtures/child.js"}
+]

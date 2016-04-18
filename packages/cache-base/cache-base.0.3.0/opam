@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "cache-base"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/cache-base.git"
+depends: [
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"get-value" {>="1.0.2" & <"2.0.0"}
+
+"kind-of" {>="1.1.0" & <"2.0.0"}
+
+"lodash" {>="3.2.0" & <"4.0.0"}
+
+"option-cache" {>="1.1.0" & <"2.0.0"}
+
+]
+
+
+
+

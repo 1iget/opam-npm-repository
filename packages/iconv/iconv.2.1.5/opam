@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "iconv"
+version: "2.1.5"
+maintainer: "bnoordhuis <info@bnoordhuis.nl>"
+author: "bnoordhuis <info@bnoordhuis.nl>"
+license: "ISC"
+dev-repo: "git://github.com/bnoordhuis/node-iconv.git"
+depends: [
+"nan" {>="1.4.3" & <"1.5.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

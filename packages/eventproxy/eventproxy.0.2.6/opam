@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "eventproxy"
+version: "0.2.6"
+maintainer: "jacksontian <shyvo1987@gmail.com>"
+author: "jacksontian <shyvo1987@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/JacksonTian/eventproxy.git"
+depends: [
+"debug" {="0.7.2"}
+
+]
+
+
+
+

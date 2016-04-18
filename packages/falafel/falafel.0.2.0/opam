@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "falafel"
+version: "0.2.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-falafel.git"
+depends: [
+"esprima" {="ImdpdDovL2dpdGh1Yi5jb20vc3Vic3RhY2svZXNwcmltYS5naXQjaXMta2V5d29yZCI"}
+
+]
+
+
+
+

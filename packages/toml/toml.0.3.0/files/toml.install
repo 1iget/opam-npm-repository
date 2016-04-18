@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"toml.js" {"toml.js"}
+".travis.yml" {".travis.yml"}
+"test/smoke.js" {"test/smoke.js"}
+"test/test_toml.js" {"test/test_toml.js"}
+"test/example.toml" {"test/example.toml"}
+"toml.jison" {"toml.jison"}
+]

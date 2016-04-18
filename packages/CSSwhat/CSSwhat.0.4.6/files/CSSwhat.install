@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+"tests/test.js" {"tests/test.js"}
+"tests/out.json" {"tests/out.json"}
+]

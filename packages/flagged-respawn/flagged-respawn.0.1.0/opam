@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "flagged-respawn"
+version: "0.1.0"
+maintainer: "tkellen <tyler@sleekcode.net>"
+author: "tkellen <tyler@sleekcode.net>"
+license: "not defined"
+dev-repo: "git://github.com/tkellen/node-flagged-respawn.git"
+depends: [
+
+]
+
+
+
+

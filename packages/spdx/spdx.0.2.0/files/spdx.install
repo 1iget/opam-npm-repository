@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE.md" {"LICENSE.md"}
+".jshintrc" {".jshintrc"}
+".editorconfig" {".editorconfig"}
+".travis.yml" {".travis.yml"}
+".gitattributes" {".gitattributes"}
+".jscsrc" {".jscsrc"}
+"source/parser.generated.js" {"source/parser.generated.js"}
+"source/spdx.js" {"source/spdx.js"}
+"source/exceptions.json" {"source/exceptions.json"}
+"source/licenses.json" {"source/licenses.json"}
+]

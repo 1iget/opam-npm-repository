@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ansistyles"
+version: "0.1.0"
+maintainer: "thlorenz <thlorenz@gmx.de>"
+author: "thlorenz <thlorenz@gmx.de>"
+license: "MIT"
+dev-repo: "git://github.com/thlorenz/ansistyles.git"
+depends: [
+
+]
+
+
+
+

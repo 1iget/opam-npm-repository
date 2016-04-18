@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/hoek.png" {"images/hoek.png"}
+"lib/escape.js" {"lib/escape.js"}
+"lib/index.js" {"lib/index.js"}
+"AUTHORS" {"AUTHORS"}
+"test/escaper.js" {"test/escaper.js"}
+"test/index.js" {"test/index.js"}
+"test/modules/test1.js" {"test/modules/test1.js"}
+"test/modules/test2.js" {"test/modules/test2.js"}
+"test/modules/test3.js" {"test/modules/test3.js"}
+"test/modules/ignore.txt" {"test/modules/ignore.txt"}
+]

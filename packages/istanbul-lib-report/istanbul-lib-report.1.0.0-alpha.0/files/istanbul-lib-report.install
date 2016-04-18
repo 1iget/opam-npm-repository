@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/context.js" {"lib/context.js"}
+"lib/file-writer.js" {"lib/file-writer.js"}
+"lib/path.js" {"lib/path.js"}
+"lib/report-source.js" {"lib/report-source.js"}
+"lib/summarizer.js" {"lib/summarizer.js"}
+"lib/tree.js" {"lib/tree.js"}
+"lib/watermarks.js" {"lib/watermarks.js"}
+"lib/xml-writer.js" {"lib/xml-writer.js"}
+]

@@ -1,0 +1,15 @@
+lib: [
+"index.js" {"index.js"}
+"README.markdown" {"README.markdown"}
+"package.json" {"package.json"}
+"examples/emitter.js" {"examples/emitter.js"}
+"examples/sync.js" {"examples/sync.js"}
+"examples/callback.js" {"examples/callback.js"}
+"test/foo.js" {"test/foo.js"}
+"test/cycle.js" {"test/cycle.js"}
+"test/module.js" {"test/module.js"}
+"test/foo/x" {"test/foo/x"}
+"test/foo/a/y" {"test/foo/a/y"}
+"test/foo/a/b/z" {"test/foo/a/b/z"}
+"test/foo/a/b/c/w" {"test/foo/a/b/c/w"}
+]

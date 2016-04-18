@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"punycode.js" {"punycode.js"}
+"punycode.min.js" {"punycode.min.js"}
+"LICENSE-GPL.txt" {"LICENSE-GPL.txt"}
+"LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
+]

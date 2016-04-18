@@ -1,0 +1,6 @@
+lib: [
+".gitignore" {".gitignore"}
+"Jakefile.js" {"Jakefile.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

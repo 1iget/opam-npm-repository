@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "jasminum"
+version: "0.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+
+depends: [
+"q" {>="2.0.0" & <"2.1.0"}
+
+"collections" {>="2.0.0" & <"2.1.0"}
+
+"glob" {>="3.2.8" & <"3.3.0"}
+
+"colors" {>="0.6.2" & <"0.7.0"}
+
+"optimist" {>="0.6.1" & <"0.7.0"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"logo.png" {"logo.png"}
+"waltz.jpg" {"waltz.jpg"}
+]

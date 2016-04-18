@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "multipipe"
+version: "0.0.0"
+maintainer: "juliangruber <julian@juliangruber.com>"
+author: "juliangruber <julian@juliangruber.com>"
+license: "not defined"
+dev-repo: "git://github.com/segmentio/multipipe"
+depends: [
+"duplexer2" {="0.0.1"}
+
+]
+
+
+
+

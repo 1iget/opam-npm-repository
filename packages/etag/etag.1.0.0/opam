@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "etag"
+version: "1.0.0"
+maintainer: "kesla <david.bjorklund@gmail.com>"
+author: "kesla <david.bjorklund@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/kesla/etag.git"
+depends: [
+
+]
+
+
+
+

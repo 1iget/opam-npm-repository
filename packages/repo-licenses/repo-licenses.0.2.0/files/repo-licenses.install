@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verbrc.md" {".verbrc.md"}
+"templates/LICENSE-Apache-2.0" {"templates/LICENSE-Apache-2.0"}
+"templates/LICENSE-GPL-2.0" {"templates/LICENSE-GPL-2.0"}
+"templates/LICENSE-MIT" {"templates/LICENSE-MIT"}
+"templates/LICENSE-MPL-2.0" {"templates/LICENSE-MPL-2.0"}
+]

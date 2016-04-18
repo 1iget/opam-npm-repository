@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "function-name"
+version: "0.0.2"
+maintainer: "tootallnate <nathan@tootallnate.net>"
+author: "tootallnate <nathan@tootallnate.net>"
+license: "not defined"
+dev-repo: "git://github.com/TooTallNate/node-function-name.git"
+depends: [
+"bindings" {>="0.0.0"}
+
+"nan" {>="0.8.0" & <"0.9.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "base-loader"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/base-loader.git"
+depends: [
+"map-files" {>="0.7.4" & <"0.8.0"}
+
+"relative" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

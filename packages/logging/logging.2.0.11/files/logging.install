@@ -1,0 +1,19 @@
+lib: [
+".gitexcludes" {".gitexcludes"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"lib/logging.js" {"lib/logging.js"}
+"lib/niceTime.js" {"lib/niceTime.js"}
+"lib/style.js" {"lib/style.js"}
+"test/logging.test.js" {"test/logging.test.js"}
+"test/nodemon-ignore" {"test/nodemon-ignore"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/logging.iml" {".idea/logging.iml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".idea/dictionaries/dylan.xml" {".idea/dictionaries/dylan.xml"}
+]

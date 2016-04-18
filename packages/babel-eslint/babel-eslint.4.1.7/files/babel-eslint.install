@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"eslint-tester.js" {"eslint-tester.js"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+".eslintrc" {".eslintrc"}
+".gitmodules" {".gitmodules"}
+".travis.yml" {".travis.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"test/babel-eslint.js" {"test/babel-eslint.js"}
+"test/integration.js" {"test/integration.js"}
+"test/non-regression.js" {"test/non-regression.js"}
+"test/fixtures/rules/strict/function-with.js" {"test/fixtures/rules/strict/function-with.js"}
+"test/fixtures/rules/strict/function-without.js" {"test/fixtures/rules/strict/function-without.js"}
+"test/fixtures/rules/strict/global-with-function-with.js" {"test/fixtures/rules/strict/global-with-function-with.js"}
+"test/fixtures/rules/strict/global-with-function-without.js" {"test/fixtures/rules/strict/global-with-function-without.js"}
+"test/fixtures/rules/strict/global-with.js" {"test/fixtures/rules/strict/global-with.js"}
+"test/fixtures/rules/strict/none.js" {"test/fixtures/rules/strict/none.js"}
+]

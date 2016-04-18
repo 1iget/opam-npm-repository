@@ -1,0 +1,1 @@
+Returns true when the given `name` matches any of the path properties on a vinyl file

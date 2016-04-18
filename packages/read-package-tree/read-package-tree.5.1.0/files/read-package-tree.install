@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"rpt.js" {"rpt.js"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+"test/fixtures/bad/package.json" {"test/fixtures/bad/package.json"}
+"test/fixtures/deep/.keep" {"test/fixtures/deep/.keep"}
+"test/fixtures/deep-archy.txt" {"test/fixtures/deep-archy.txt"}
+"test/fixtures/empty/node_modules/foo/package.json" {"test/fixtures/empty/node_modules/foo/package.json"}
+"test/fixtures/linkedroot-archy.txt" {"test/fixtures/linkedroot-archy.txt"}
+"test/fixtures/other/archy.txt" {"test/fixtures/other/archy.txt"}
+"test/fixtures/other/node_modules/.bin" {"test/fixtures/other/node_modules/.bin"}
+"test/fixtures/root/package.json" {"test/fixtures/root/package.json"}
+"test/fixtures/root/archy.txt" {"test/fixtures/root/archy.txt"}
+"test/fixtures/selflink/package.json" {"test/fixtures/selflink/package.json"}
+"test/fixtures/selflink/archy.txt" {"test/fixtures/selflink/archy.txt"}
+]

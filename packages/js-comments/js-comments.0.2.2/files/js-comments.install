@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"lib/comments.js" {"lib/comments.js"}
+"lib/condense.js" {"lib/condense.js"}
+"lib/format.js" {"lib/format.js"}
+".verbrc.md" {".verbrc.md"}
+"test/parse.js" {"test/parse.js"}
+"test/strip.js" {"test/strip.js"}
+"test/test.js" {"test/test.js"}
+"test/actual/comments.json" {"test/actual/comments.json"}
+"test/actual/comments.md" {"test/actual/comments.md"}
+"test/fixtures/api.js" {"test/fixtures/api.js"}
+"test/fixtures/block.js" {"test/fixtures/block.js"}
+"test/fixtures/opts.js" {"test/fixtures/opts.js"}
+"test/fixtures/params.js" {"test/fixtures/params.js"}
+"test/fixtures/return.js" {"test/fixtures/return.js"}
+"test/fixtures/strings.js" {"test/fixtures/strings.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

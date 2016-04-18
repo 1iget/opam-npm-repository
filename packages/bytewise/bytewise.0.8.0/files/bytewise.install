@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"bytewise.js" {"bytewise.js"}
+"hex.js" {"hex.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/bench.js" {"test/bench.js"}
+"test/index.js" {"test/index.js"}
+"test/order.js" {"test/order.js"}
+"test/serialization.js" {"test/serialization.js"}
+]

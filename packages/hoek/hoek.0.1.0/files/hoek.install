@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/index.js" {"test/index.js"}
+"test/modules/test1.js" {"test/modules/test1.js"}
+"test/modules/test3.js" {"test/modules/test3.js"}
+"test/modules/test2.js" {"test/modules/test2.js"}
+"Makefile" {"Makefile"}
+"lib/index.js" {"lib/index.js"}
+".travis.yml" {".travis.yml"}
+"images/hoek.png" {"images/hoek.png"}
+]

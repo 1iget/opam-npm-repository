@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".verbrc.md" {".verbrc.md"}
+"benchmark/check.js" {"benchmark/check.js"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/code/do-while-slice.js" {"benchmark/code/do-while-slice.js"}
+"benchmark/code/do-while.js" {"benchmark/code/do-while.js"}
+"benchmark/code/lib-array-flatten.js" {"benchmark/code/lib-array-flatten.js"}
+"benchmark/code/while-args.js" {"benchmark/code/while-args.js"}
+"benchmark/code/while-depth.js" {"benchmark/code/while-depth.js"}
+"benchmark/code/while-no-depth-check.js" {"benchmark/code/while-no-depth-check.js"}
+"benchmark/code/while-no-depth-typeof.js" {"benchmark/code/while-no-depth-typeof.js"}
+"benchmark/code/while-no-depth.js" {"benchmark/code/while-no-depth.js"}
+"benchmark/fixtures/large.js" {"benchmark/fixtures/large.js"}
+"benchmark/fixtures/medium.js" {"benchmark/fixtures/medium.js"}
+"benchmark/fixtures/small.js" {"benchmark/fixtures/small.js"}
+"bower.json" {"bower.json"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+]

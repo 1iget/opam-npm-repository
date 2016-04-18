@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "babel-helpers"
+version: "6.0.12"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/babel/babel.git"
+depends: [
+"babel-runtime" {>="6.0.12" & <"7.0.0"}
+
+"babel-template" {>="6.0.12" & <"7.0.0"}
+
+]
+
+
+
+

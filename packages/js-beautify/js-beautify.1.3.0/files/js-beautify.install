@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"js/index.js" {"js/index.js"}
+"js/bin/css-beautify.js" {"js/bin/css-beautify.js"}
+"js/bin/html-beautify.js" {"js/bin/html-beautify.js"}
+"js/bin/js-beautify.js" {"js/bin/js-beautify.js"}
+"js/config/defaults.json" {"js/config/defaults.json"}
+"js/lib/beautify-css.js" {"js/lib/beautify-css.js"}
+"js/lib/beautify-html.js" {"js/lib/beautify-html.js"}
+"js/lib/beautify.js" {"js/lib/beautify.js"}
+"js/lib/cli.js" {"js/lib/cli.js"}
+"js/lib/unpackers/javascriptobfuscator_unpacker.js" {"js/lib/unpackers/javascriptobfuscator_unpacker.js"}
+"js/lib/unpackers/myobfuscate_unpacker.js" {"js/lib/unpackers/myobfuscate_unpacker.js"}
+"js/lib/unpackers/p_a_c_k_e_r_unpacker.js" {"js/lib/unpackers/p_a_c_k_e_r_unpacker.js"}
+"js/lib/unpackers/urlencode_unpacker.js" {"js/lib/unpackers/urlencode_unpacker.js"}
+"js/test/beautify-tests.js" {"js/test/beautify-tests.js"}
+"js/test/node-beautify-tests.js" {"js/test/node-beautify-tests.js"}
+"js/test/sanitytest.js" {"js/test/sanitytest.js"}
+"js/test/run-tests" {"js/test/run-tests"}
+"js/test/shell-smoke-test.sh" {"js/test/shell-smoke-test.sh"}
+]

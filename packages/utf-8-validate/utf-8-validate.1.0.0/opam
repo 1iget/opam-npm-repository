@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "utf-8-validate"
+version: "1.0.0"
+maintainer: "V1 <info@3rd-Eden.com>"
+author: "V1 <info@3rd-Eden.com>"
+license: "MIT"
+dev-repo: "https://github.com/websockets/utf-8-validate"
+depends: [
+"bindings" {>="1.2.0" & <"1.3.0"}
+
+"nan" {>="1.6.0" & <"1.7.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"mine.js" {"mine.js"}
+"test/chained.js" {"test/chained.js"}
+"test/generators.js" {"test/generators.js"}
+"test/nested.js" {"test/nested.js"}
+"test/return.js" {"test/return.js"}
+"test/shebang.js" {"test/shebang.js"}
+"test/sparse-array.js" {"test/sparse-array.js"}
+"test/strings.js" {"test/strings.js"}
+"test/weird_whitespace.js" {"test/weird_whitespace.js"}
+"test/yield.js" {"test/yield.js"}
+"test/files/chained.js" {"test/files/chained.js"}
+"test/files/generators.js" {"test/files/generators.js"}
+"test/files/nested.js" {"test/files/nested.js"}
+"test/files/shebang.js" {"test/files/shebang.js"}
+"test/files/sparse-array.js" {"test/files/sparse-array.js"}
+"test/files/strings.js" {"test/files/strings.js"}
+"test/files/weird_whitespace.js" {"test/files/weird_whitespace.js"}
+"test/files/word.js" {"test/files/word.js"}
+"test/files/yield.js" {"test/files/yield.js"}
+]

@@ -1,0 +1,39 @@
+opam-version: "1.2"
+name: "node-gyp"
+version: "0.9.0"
+maintainer: "TooTallNate <nathan@tootallnate.net>"
+author: "TooTallNate <nathan@tootallnate.net>"
+license: "not defined"
+dev-repo: "git://github.com/TooTallNate/node-gyp.git"
+depends: [
+"glob" {>="3.0.0" & <"4.0.0"}
+
+"graceful-fs" {>="1.0.0" & <"2.0.0"}
+
+"fstream" {>="0.1.13" & <"0.2.0"}
+
+"minimatch" {>="0.2.0" & <"0.3.0"}
+
+"mkdirp" {>="0.3.0" & <"0.4.0"}
+
+"nopt" {>="2.0.0" & <"3.0.0"}
+
+"npmlog" {>="0.0.0" & <"1.0.0"}
+
+"osenv" {>="0.0.0" & <"1.0.0"}
+
+"request" {>="2.9.0" & <"2.10.0"}
+
+"rimraf" {>="2.0.0" & <"3.0.0"}
+
+"semver" {>="1.0.0" & <"2.0.0"}
+
+"tar" {>="0.1.12" & <"0.2.0"}
+
+"which" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

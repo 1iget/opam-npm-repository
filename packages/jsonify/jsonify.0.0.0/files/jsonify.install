@@ -1,0 +1,9 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"test/stringify.js" {"test/stringify.js"}
+"test/parse.js" {"test/parse.js"}
+"lib/stringify.js" {"lib/stringify.js"}
+"lib/parse.js" {"lib/parse.js"}
+]

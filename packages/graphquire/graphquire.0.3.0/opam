@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "graphquire"
+version: "0.3.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/Gozala/graphquire.git"
+depends: [
+
+]
+
+
+
+

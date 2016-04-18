@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "template-init"
+version: "0.1.2"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "Not defined"
+dev-repo: "git://github.com/assemble/template-init.git"
+depends: [
+"gulp-util" {>="3.0.1" & <"4.0.0"}
+
+"lodash" {>="2.4.1" & <"3.0.0"}
+
+"template-utils" {>="0.1.8" & <"0.2.0"}
+
+"through2" {>="0.6.3" & <"0.7.0"}
+
+]
+
+
+
+

@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "derequire"
+version: "0.6.1"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/calvinmetcalf/derequire.git"
+depends: [
+"estraverse" {>="1.5.0" & <"1.6.0"}
+
+"esprima-six" {>="0.0.3" & <"0.1.0"}
+
+"esrefactor" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

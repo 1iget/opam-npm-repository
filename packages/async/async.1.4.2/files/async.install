@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/async.js" {"lib/async.js"}
+]

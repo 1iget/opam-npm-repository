@@ -1,0 +1,18 @@
+lib: [
+".gitmodules" {".gitmodules"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"readme.markdown" {"readme.markdown"}
+"out" {"out"}
+".gitignore" {".gitignore"}
+"examples/pretty.js" {"examples/pretty.js"}
+"test/split.asynct.js" {"test/split.asynct.js"}
+"test/simple-map.asynct.js" {"test/simple-map.asynct.js"}
+"test/readArray.asynct.js" {"test/readArray.asynct.js"}
+"test/pipe.async.js" {"test/pipe.async.js"}
+"test/writeArray.asynct.js" {"test/writeArray.asynct.js"}
+"test/package.json" {"test/package.json"}
+"test/.gitignore" {"test/.gitignore"}
+"test/readme.markdown" {"test/readme.markdown"}
+]

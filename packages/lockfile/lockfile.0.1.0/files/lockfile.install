@@ -1,0 +1,12 @@
+lib: [
+"" {""}
+"lib/" {"lib/"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._README.mdown" {"._README.mdown"}
+"README.mdown" {"README.mdown"}
+"src/" {"src/"}
+"src/._lockfile.coffee" {"src/._lockfile.coffee"}
+"src/lockfile.coffee" {"src/lockfile.coffee"}
+"lib/lockfile.js" {"lib/lockfile.js"}
+]

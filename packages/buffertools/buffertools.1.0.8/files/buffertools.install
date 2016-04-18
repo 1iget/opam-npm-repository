@@ -1,0 +1,24 @@
+lib: [
+"buffertools.cc" {"buffertools.cc"}
+"binding.gyp" {"binding.gyp"}
+"build/" {"build/"}
+"build/Release/" {"build/Release/"}
+"build/Release/.deps/" {"build/Release/.deps/"}
+"build/Release/.deps/all.deps" {"build/Release/.deps/all.deps"}
+"build/Release/.deps/Release/" {"build/Release/.deps/Release/"}
+"build/Release/.deps/Release/buffertools.node.d" {"build/Release/.deps/Release/buffertools.node.d"}
+"build/Release/.deps/Release/obj.target/" {"build/Release/.deps/Release/obj.target/"}
+"build/Release/.deps/Release/obj.target/buffertools.node.d" {"build/Release/.deps/Release/obj.target/buffertools.node.d"}
+"build/Release/.deps/Release/obj.target/buffertools/" {"build/Release/.deps/Release/obj.target/buffertools/"}
+"build/Release/.deps/Release/obj.target/buffertools/buffertools.o.d" {"build/Release/.deps/Release/obj.target/buffertools/buffertools.o.d"}
+"build/.wafpickle-7" {"build/.wafpickle-7"}
+".mailmap" {".mailmap"}
+"BoyerMoore.h" {"BoyerMoore.h"}
+"test.js" {"test.js"}
+"AUTHORS" {"AUTHORS"}
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"wscript" {"wscript"}
+"buffertools.js" {"buffertools.js"}
+]

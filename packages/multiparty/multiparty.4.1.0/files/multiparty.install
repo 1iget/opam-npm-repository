@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"coverage/coverage.json" {"coverage/coverage.json"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/node-multiparty/index.html" {"coverage/lcov-report/node-multiparty/index.html"}
+"coverage/lcov-report/node-multiparty/index.js.html" {"coverage/lcov-report/node-multiparty/index.js.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+]

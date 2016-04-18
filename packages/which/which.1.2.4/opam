@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "which"
+version: "1.2.4"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/node-which.git"
+depends: [
+"is-absolute" {>="0.1.7" & <"0.2.0"}
+
+"isexe" {>="1.1.1" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"component.json" {"component.json"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+]

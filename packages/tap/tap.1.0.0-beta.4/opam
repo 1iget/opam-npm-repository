@@ -1,0 +1,45 @@
+opam-version: "1.2"
+name: "tap"
+version: "1.0.0-beta.4"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "Not defined"
+dev-repo: "git+https://github.com/isaacs/node-tap.git"
+depends: [
+"buffer-equal" {>="0.0.0" & <"0.1.0"}
+
+"deep-equal" {>="1.0.0" & <"2.0.0"}
+
+"difflet" {>="0.2.0" & <"0.3.0"}
+
+"events-to-array" {>="1.0.1" & <"2.0.0"}
+
+"exit-code" {>="1.0.1" & <"2.0.0"}
+
+"glob" {>="4.4.1" & <"5.0.0"}
+
+"inherits" {>="0.0.0"}
+
+"js-yaml" {="ImdpdDovL2dpdGh1Yi5jb20vaXNhYWNzL2pzLXlhbWwuZ2l0Ig"}
+
+"mkdirp" {>="0.5.0" & <"0.6.0"}
+
+"nopt" {>="3.0.1" & <"4.0.0"}
+
+"runforcover" {>="0.0.2" & <"0.1.0"}
+
+"slide" {>="0.0.0"}
+
+"supports-color" {>="1.3.1" & <"2.0.0"}
+
+"tap-mocha-reporter" {>="0.0.0" | >="1.0.0" & <"0.1.0" | >="1.0.0" & >="0.0.0" | <"2.0.0" & <"0.1.0" | <"2.0.0"}
+
+"tap-parser" {>="1.0.1" & <"2.0.0"}
+
+"yamlish" {>="0.0.0"}
+
+]
+
+
+
+

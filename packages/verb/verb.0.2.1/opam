@@ -1,0 +1,79 @@
+opam-version: "1.2"
+name: "verb"
+version: "0.2.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/assemble/verb.git"
+depends: [
+"async" {>="0.6.0" & <"0.7.0"}
+
+"chai" {>="1.9.1" & <"1.10.0"}
+
+"chalk" {>="0.4.0" & <"0.5.0"}
+
+"change-case" {>="2.0.1" & <"2.1.0"}
+
+"coffee-script" {>="1.7.1" & <"1.8.0"}
+
+"columnify" {>="0.1.2" & <"0.2.0"}
+
+"config-file" {>="0.1.8" & <"0.2.0"}
+
+"cwd" {>="0.3.0" & <"0.4.0"}
+
+"delims" {>="0.1.2" & <"0.2.0"}
+
+"find" {>="0.1.5" & <"0.2.0"}
+
+"frep" {>="0.2.0" & <"0.3.0"}
+
+"fs-utils" {>="0.3.9" & <"0.4.0"}
+
+"gray-matter" {>="0.3.4" & <"0.4.0"}
+
+"list-methods" {>="0.3.0" & <"0.4.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"marked" {>="0.3.2" & <"0.4.0"}
+
+"marked-extras" {>="0.2.2" & <"0.3.0"}
+
+"marked-toc" {>="0.2.3" & <"0.3.0"}
+
+"minimatch" {>="0.2.14" & <"0.3.0"}
+
+"moment" {>="2.5.1" & <"2.6.0"}
+
+"relative" {>="0.1.2" & <"0.2.0"}
+
+"remote-origin-url" {>="0.2.1" & <"0.3.0"}
+
+"repo-licenses" {>="0.1.0" & <"0.2.0"}
+
+"repo-templates" {>="0.1.4" & <"0.2.0"}
+
+"scrawl" {>="0.0.5" & <"0.1.0"}
+
+"strip-banner" {>="0.1.1" & <"0.2.0"}
+
+"template" {>="0.1.5" & <"0.2.0"}
+
+"toml" {>="2.0.4" & <"2.1.0"}
+
+"verb-contrib-templates" {>="0.0.5" & <"0.1.0"}
+
+"verb-readme-badges" {>="0.0.5" & <"0.1.0"}
+
+"verb-readme-includes" {>="0.1.1" & <"0.2.0"}
+
+"parse-authors" {>="0.1.0" & <"0.2.0"}
+
+"repeat-string" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

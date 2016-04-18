@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"test/validator-test.js" {"test/validator-test.js"}
+"example/webservice.js" {"example/webservice.js"}
+"lib/revalidator.js" {"lib/revalidator.js"}
+".travis.yml" {".travis.yml"}
+]

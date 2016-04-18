@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "read-data"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/read-data.git"
+depends: [
+"async" {>="0.9.0" & <"0.10.0"}
+
+"graceful-fs" {>="3.0.4" & <"4.0.0"}
+
+"js-yaml" {>="3.2.2" & <"4.0.0"}
+
+]
+
+
+
+

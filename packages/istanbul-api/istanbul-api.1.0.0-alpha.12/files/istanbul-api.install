@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".doc.yml" {".doc.yml"}
+"docs/assets/anchor.js" {"docs/assets/anchor.js"}
+"docs/assets/site.js" {"docs/assets/site.js"}
+"docs/assets/bass.css" {"docs/assets/bass.css"}
+"docs/assets/github.css" {"docs/assets/github.css"}
+"docs/assets/style.css" {"docs/assets/style.css"}
+"docs/index.html" {"docs/index.html"}
+"lib/config.js" {"lib/config.js"}
+"lib/file-matcher.js" {"lib/file-matcher.js"}
+"lib/input-error.js" {"lib/input-error.js"}
+"lib/reporter.js" {"lib/reporter.js"}
+"lib/run-check-coverage.js" {"lib/run-check-coverage.js"}
+"lib/run-cover.js" {"lib/run-cover.js"}
+"lib/run-instrument.js" {"lib/run-instrument.js"}
+"lib/run-reports.js" {"lib/run-reports.js"}
+]

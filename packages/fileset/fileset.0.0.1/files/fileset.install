@@ -1,0 +1,11 @@
+lib: [
+"Cakefile" {"Cakefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"src/fileset.coffee" {"src/fileset.coffee"}
+"documentation/docco.css" {"documentation/docco.css"}
+"documentation/fileset.html" {"documentation/fileset.html"}
+"lib/fileset.js" {"lib/fileset.js"}
+"tests/callback.js" {"tests/callback.js"}
+"tests/emitter.js" {"tests/emitter.js"}
+]

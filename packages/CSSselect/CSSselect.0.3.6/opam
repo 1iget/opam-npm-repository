@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "CSSselect"
+version: "0.3.6"
+maintainer: "feedic <me@feedic.com>"
+author: "feedic <me@feedic.com>"
+license: "BSD-like"
+dev-repo: "git://github.com/fb55/CSSselect.git"
+depends: [
+"CSSwhat" {>="0.4.0" & <"0.5.0"}
+
+"domutils" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

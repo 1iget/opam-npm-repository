@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "chokidar"
+version: "0.8.4"
+maintainer: "paulmillr <paul@paulmillr.com>"
+author: "paulmillr <paul@paulmillr.com>"
+license: "not defined"
+dev-repo: "https://github.com/paulmillr/chokidar.git"
+depends: [
+"fsevents" {="ImdpdGh1YjpwaXBvYnNjdXJlL2ZzZXZlbnRzIzdkY2RmOWZhM2Y4OTU2NjEwZmQ2ZjY5ZjcyYzY3YmFjZTJkZTcxMzgi"}
+
+"recursive-readdir" {="0.0.2"}
+
+]
+
+
+
+

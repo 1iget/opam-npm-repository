@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"bin/jasmine.js" {"bin/jasmine.js"}
+".travis.yml" {".travis.yml"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jasmine-npm.iml" {".idea/jasmine-npm.iml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"lib/command.js" {"lib/command.js"}
+"lib/console_reporter.js" {"lib/console_reporter.js"}
+"lib/jasmine.js" {"lib/jasmine.js"}
+"lib/examples/jasmine.json" {"lib/examples/jasmine.json"}
+"tasks/jasmine.js" {"tasks/jasmine.js"}
+]

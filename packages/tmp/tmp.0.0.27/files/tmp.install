@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"cleanup.sh" {"cleanup.sh"}
+"lib/tmp.js" {"lib/tmp.js"}
+".travis.yml" {".travis.yml"}
+"test/base.js" {"test/base.js"}
+"test/file-sync-test.js" {"test/file-sync-test.js"}
+"test/file-test.js" {"test/file-test.js"}
+"test/graceful-sync.js" {"test/graceful-sync.js"}
+"test/graceful.js" {"test/graceful.js"}
+"test/dir-test.js" {"test/dir-test.js"}
+"test/keep.js" {"test/keep.js"}
+"test/name-test.js" {"test/name-test.js"}
+"test/spawn-sync.js" {"test/spawn-sync.js"}
+"test/spawn.js" {"test/spawn.js"}
+"test/unsafe-sync.js" {"test/unsafe-sync.js"}
+"test/dir-sync-test.js" {"test/dir-sync-test.js"}
+"test/unsafe.js" {"test/unsafe.js"}
+"test/keep-sync.js" {"test/keep-sync.js"}
+"test/symlinkme/file.js" {"test/symlinkme/file.js"}
+]

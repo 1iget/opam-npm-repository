@@ -1,0 +1,5 @@
+lib: [
+"package.json" {"package.json"}
+"acorn-to-esprima.js" {"acorn-to-esprima.js"}
+"index.js" {"index.js"}
+]

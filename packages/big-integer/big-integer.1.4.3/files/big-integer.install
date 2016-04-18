@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"BigInteger.js" {"BigInteger.js"}
+"BigInteger.min.js" {"BigInteger.min.js"}
+".travis.yml" {".travis.yml"}
+"spec/spec.js" {"spec/spec.js"}
+"spec/lib/jasmine-2.1.3/boot.js" {"spec/lib/jasmine-2.1.3/boot.js"}
+"spec/lib/jasmine-2.1.3/console.js" {"spec/lib/jasmine-2.1.3/console.js"}
+"spec/lib/jasmine-2.1.3/jasmine-html.js" {"spec/lib/jasmine-2.1.3/jasmine-html.js"}
+"spec/lib/jasmine-2.1.3/jasmine.js" {"spec/lib/jasmine-2.1.3/jasmine.js"}
+"spec/lib/jasmine-2.1.3/jasmine.css" {"spec/lib/jasmine-2.1.3/jasmine.css"}
+"spec/lib/jasmine-2.1.3/jasmine_favicon.png" {"spec/lib/jasmine-2.1.3/jasmine_favicon.png"}
+"spec/SpecRunner.html" {"spec/SpecRunner.html"}
+"spec/support/jasmine.json" {"spec/support/jasmine.json"}
+"Test.htm" {"Test.htm"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "nodeunit"
+version: "0.5.4"
+maintainer: "caolan <caolan@caolanmcmahon.com>"
+author: "caolan <caolan@caolanmcmahon.com>"
+license: "not defined"
+dev-repo: "git://github.com/caolan/nodeunit.git"
+depends: [
+
+]
+
+
+
+

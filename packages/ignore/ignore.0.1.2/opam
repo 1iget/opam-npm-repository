@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "ignore"
+version: "0.1.2"
+maintainer: "kael <i@kael.me>"
+author: "kael <i@kael.me>"
+license: "MIT"
+dev-repo: "git://github.com/kaelzhang/ignore.git"
+depends: [
+"glob" {>="3.2.6" & <"3.3.0"}
+
+"ignore-rules" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"fsevents.js" {"fsevents.js"}
+"Readme.md" {"Readme.md"}
+"binding.gyp" {"binding.gyp"}
+".tern-project" {".tern-project"}
+"fsevents-0.3.0.tgz" {"fsevents-0.3.0.tgz"}
+"fsevents.cc" {"fsevents.cc"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"src/async.cc" {"src/async.cc"}
+"src/constants.cc" {"src/constants.cc"}
+"src/locking.cc" {"src/locking.cc"}
+"src/methods.cc" {"src/methods.cc"}
+"src/storage.cc" {"src/storage.cc"}
+"src/thread.cc" {"src/thread.cc"}
+"test/fsevents.js" {"test/fsevents.js"}
+"test/function.js" {"test/function.js"}
+"test/temp/created-fsevent" {"test/temp/created-fsevent"}
+]

@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/clear.js" {"test/clear.js"}
+"test/renderSync.js" {"test/renderSync.js"}
+"test/get.js" {"test/get.js"}
+"test/helpers.async.js" {"test/helpers.async.js"}
+"test/helpers.js" {"test/helpers.js"}
+"test/default.js" {"test/default.js"}
+"test/load.js" {"test/load.js"}
+"test/render.js" {"test/render.js"}
+"test/register.js" {"test/register.js"}
+"test/spec.js" {"test/spec.js"}
+"test/init.js" {"test/init.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/fixtures/name.hbs" {"test/fixtures/name.hbs"}
+"test/fixtures/name.jade" {"test/fixtures/name.jade"}
+"test/fixtures/name.tmpl" {"test/fixtures/name.tmpl"}
+]

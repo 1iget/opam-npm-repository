@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "agent-base"
+version: "1.0.2"
+maintainer: "tootallnate <nathan@tootallnate.net>"
+author: "tootallnate <nathan@tootallnate.net>"
+license: "MIT"
+dev-repo: "git://github.com/TooTallNate/node-agent-base.git"
+depends: [
+
+]
+
+
+
+

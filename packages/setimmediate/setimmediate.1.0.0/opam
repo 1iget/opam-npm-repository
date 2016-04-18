@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "setimmediate"
+version: "1.0.0"
+maintainer: "domenic <domenic@domenicdenicola.com>"
+author: "domenic <domenic@domenicdenicola.com>"
+license: "MIT"
+dev-repo: "git://github.com/NobleJS/setImmediate.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,20 @@
+lib: [
+"" {""}
+"test/" {"test/"}
+"test/foo.js" {"test/foo.js"}
+"test/foo/" {"test/foo/"}
+"test/foo/x" {"test/foo/x"}
+"test/foo/a/" {"test/foo/a/"}
+"test/foo/a/b/" {"test/foo/a/b/"}
+"test/foo/a/b/z" {"test/foo/a/b/z"}
+"test/foo/a/b/c/" {"test/foo/a/b/c/"}
+"test/foo/a/b/c/w" {"test/foo/a/b/c/w"}
+"test/foo/a/y" {"test/foo/a/y"}
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+"examples/" {"examples/"}
+"examples/callback.js" {"examples/callback.js"}
+"examples/sync.js" {"examples/sync.js"}
+"examples/emitter.js" {"examples/emitter.js"}
+"package.json" {"package.json"}
+]

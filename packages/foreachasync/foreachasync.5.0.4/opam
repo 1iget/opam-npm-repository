@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "foreachasync"
+version: "5.0.4"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "Apache2"
+dev-repo: "git://github.com/FuturesJS/forEachAsync.git"
+depends: [
+"bluebird" {>="2.5.3" & <"3.0.0"}
+
+]
+
+
+
+

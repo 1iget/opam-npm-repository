@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"beautify.js" {"beautify.js"}
+"cli.js" {"cli.js"}
+"index.js" {"index.js"}
+".gitmodules" {".gitmodules"}
+"config/defaults.json" {"config/defaults.json"}
+"config/options.json" {"config/options.json"}
+"license.txt" {"license.txt"}
+"tests/beautify-tests.js" {"tests/beautify-tests.js"}
+"tests/sanitytest.js" {"tests/sanitytest.js"}
+"tests/run-tests" {"tests/run-tests"}
+]

@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"async-shim.js" {"async-shim.js"}
+"browser.js" {"browser.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/index.js" {"test/index.js"}
+"test/fixtures.json" {"test/fixtures.json"}
+"test/index.html" {"test/index.html"}
+]

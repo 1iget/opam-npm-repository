@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "plugin-error"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/plugin-error.git"
+depends: [
+"ansi-cyan" {>="0.1.1" & <"0.2.0"}
+
+"ansi-red" {>="0.1.1" & <"0.2.0"}
+
+"arr-diff" {>="1.0.1" & <"2.0.0"}
+
+"arr-union" {>="2.0.1" & <"3.0.0"}
+
+"extend-shallow" {>="1.1.2" & <"2.0.0"}
+
+]
+
+
+
+

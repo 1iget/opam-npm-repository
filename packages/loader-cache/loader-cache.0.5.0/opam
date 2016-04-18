@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "loader-cache"
+version: "0.5.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/loader-cache.git"
+depends: [
+"arr-flatten" {>="1.0.1" & <"2.0.0"}
+
+"bluebird" {>="2.9.27" & <"3.0.0"}
+
+"event-stream" {>="3.3.1" & <"4.0.0"}
+
+"is-stream" {>="1.0.1" & <"2.0.0"}
+
+"kind-of" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

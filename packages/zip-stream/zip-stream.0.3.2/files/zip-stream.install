@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/headers.js" {"lib/headers.js"}
+"lib/zip-stream.js" {"lib/zip-stream.js"}
+"lib/util/DeflateRawChecksum.js" {"lib/util/DeflateRawChecksum.js"}
+"lib/util/index.js" {"lib/util/index.js"}
+]

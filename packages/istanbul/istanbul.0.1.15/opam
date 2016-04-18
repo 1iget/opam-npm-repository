@@ -1,0 +1,33 @@
+opam-version: "1.2"
+name: "istanbul"
+version: "0.1.15"
+maintainer: "gotwarlost <kananthmail-github@yahoo.com>"
+author: "gotwarlost <kananthmail-github@yahoo.com>"
+license: "not defined"
+
+depends: [
+"esprima" {>="0.9.0" & <"0.10.0"}
+
+"escodegen" {>="0.0.0" & <"0.1.0"}
+
+"handlebars" {>="1.0.0" & <"1.1.0"}
+
+"mkdirp" {>="0.3.0" & <"0.4.0"}
+
+"nopt" {>="2.0.0" & <"2.1.0"}
+
+"fileset" {>="0.1.0" & <"0.2.0"}
+
+"which" {>="1.0.0" & <"1.1.0"}
+
+"async" {>="0.1.0" & <"0.2.0"}
+
+"abbrev" {>="1.0.0" & <"1.1.0"}
+
+"wordwrap" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

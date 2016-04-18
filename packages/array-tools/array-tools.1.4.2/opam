@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "array-tools"
+version: "1.4.2"
+maintainer: "75lb <75pound@gmail.com>"
+author: "75lb <75pound@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/75lb/array-tools.git"
+depends: [
+"object-tools" {>="1.1.0" & <"2.0.0"}
+
+"typical" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

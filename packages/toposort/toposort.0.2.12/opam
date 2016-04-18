@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "toposort"
+version: "0.2.12"
+maintainer: "marcelklehr <mklehr@gmx.net>"
+author: "marcelklehr <mklehr@gmx.net>"
+license: "MIT"
+dev-repo: "git+https://github.com/marcelklehr/toposort.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"esquery.js" {"esquery.js"}
+"parser.js" {"parser.js"}
+"license.txt" {"license.txt"}
+]

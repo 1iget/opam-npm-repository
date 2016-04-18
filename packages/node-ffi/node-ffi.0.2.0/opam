@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "node-ffi"
+version: "0.2.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/rbranson/node-ffi.git"
+depends: [
+
+]
+
+build: ["sh" "-c" "node-waf configure build"]
+remove: [
+  [ "sh" "-c" "node-waf clean" ] 
+]
+

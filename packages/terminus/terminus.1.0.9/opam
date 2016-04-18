@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "terminus"
+version: "1.0.9"
+maintainer: "bryce <bryce@ravenwall.com>"
+author: "bryce <bryce@ravenwall.com>"
+license: "MIT"
+dev-repo: "git://github.com/brycebaril/node-terminus.git"
+depends: [
+"readable-stream" {>="1.1.10" & <"1.2.0"}
+
+"xtend" {>="2.1.2" & <"2.2.0"}
+
+]
+
+
+
+

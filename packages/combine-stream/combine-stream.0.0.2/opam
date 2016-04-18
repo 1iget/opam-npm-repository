@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "combine-stream"
+version: "0.0.2"
+maintainer: "deoxxa <deoxxa@fknsrs.biz>"
+author: "deoxxa <deoxxa@fknsrs.biz>"
+license: "BSD"
+dev-repo: "git://github.com/deoxxa/combine-stream.git"
+depends: [
+"readable-stream" {="ImdpdDovL2dpdGh1Yi5jb20vZGVveHhhL3JlYWRhYmxlLXN0cmVhbS5naXQjZml4LWlzc3VlLTY2Ig"}
+
+]
+
+
+
+

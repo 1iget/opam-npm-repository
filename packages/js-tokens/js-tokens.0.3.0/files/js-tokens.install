@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"generate-index.js" {"generate-index.js"}
+"index.js" {"index.js"}
+"changelog.md" {"changelog.md"}
+"regex.coffee" {"regex.coffee"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+"test/index.js" {"test/index.js"}
+"test/fixtures/base64.js" {"test/fixtures/base64.js"}
+"test/fixtures/division.js" {"test/fixtures/division.js"}
+"test/fixtures/errors.js" {"test/fixtures/errors.js"}
+"test/fixtures/regex.js" {"test/fixtures/regex.js"}
+"test/fixtures/base64.json" {"test/fixtures/base64.json"}
+"test/fixtures/division.json" {"test/fixtures/division.json"}
+"test/fixtures/errors.json" {"test/fixtures/errors.json"}
+"test/fixtures/regex.json" {"test/fixtures/regex.json"}
+]

@@ -1,0 +1,10 @@
+lib: [
+"LICENSE.txt" {"LICENSE.txt"}
+"package.json" {"package.json"}
+".gitignore" {".gitignore"}
+"README.md" {"README.md"}
+"wscript" {"wscript"}
+"test/contextify.js" {"test/contextify.js"}
+"lib/contextify.js" {"lib/contextify.js"}
+"src/contextify.cc" {"src/contextify.cc"}
+]

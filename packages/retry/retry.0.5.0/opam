@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "retry"
+version: "0.5.0"
+maintainer: "tim-kos <tim@debuggable.com>"
+author: "tim-kos <tim@debuggable.com>"
+license: "not defined"
+dev-repo: "git://github.com/felixge/node-retry.git"
+depends: [
+
+]
+
+
+
+

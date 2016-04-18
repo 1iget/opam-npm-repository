@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "csurf"
+version: "1.2.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/expressjs/csurf"
+depends: [
+"uid2" {>="0.0.2" & <"0.1.0"}
+
+"scmp" {>="0.0.3" & <"0.1.0"}
+
+]
+
+
+
+

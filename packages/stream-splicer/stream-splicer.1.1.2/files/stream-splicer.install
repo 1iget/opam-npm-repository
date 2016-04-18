@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/header.js" {"example/header.js"}
+"readme.markdown" {"readme.markdown"}
+"test/combiner.js" {"test/combiner.js"}
+"test/empty.js" {"test/empty.js"}
+"test/multipush.js" {"test/multipush.js"}
+"test/multiunshift.js" {"test/multiunshift.js"}
+"test/nested.js" {"test/nested.js"}
+"test/combiner_stream.js" {"test/combiner_stream.js"}
+"test/pop.js" {"test/pop.js"}
+"test/push.js" {"test/push.js"}
+"test/shift.js" {"test/shift.js"}
+"test/splice.js" {"test/splice.js"}
+"test/unshift.js" {"test/unshift.js"}
+"test/nested_middle.js" {"test/nested_middle.js"}
+]

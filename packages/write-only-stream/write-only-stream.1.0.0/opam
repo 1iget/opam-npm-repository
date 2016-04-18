@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "write-only-stream"
+version: "1.0.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/write-only-stream.git"
+depends: [
+"readable-stream" {>="1.1.13" & <"2.0.0"}
+
+]
+
+
+
+

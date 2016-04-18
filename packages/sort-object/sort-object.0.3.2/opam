@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "sort-object"
+version: "0.3.2"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/helpers/sort-object.git"
+depends: [
+"sort-asc" {>="0.1.0" & <"0.2.0"}
+
+"sort-desc" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

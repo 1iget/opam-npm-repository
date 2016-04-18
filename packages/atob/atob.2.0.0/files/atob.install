@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"browser-atob.js" {"browser-atob.js"}
+"node-atob.js" {"node-atob.js"}
+"test.js" {"test.js"}
+"LICENSE.DOCS" {"LICENSE.DOCS"}
+"bin/atob.js" {"bin/atob.js"}
+]

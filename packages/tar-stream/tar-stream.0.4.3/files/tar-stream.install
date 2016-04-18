@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"extract.js" {"extract.js"}
+"headers.js" {"headers.js"}
+"index.js" {"index.js"}
+"pack.js" {"pack.js"}
+".travis.yml" {".travis.yml"}
+"test/extract.js" {"test/extract.js"}
+"test/pack.js" {"test/pack.js"}
+"test/fixtures/index.js" {"test/fixtures/index.js"}
+"test/fixtures/invalid.tgz" {"test/fixtures/invalid.tgz"}
+"test/fixtures/long-name.tar" {"test/fixtures/long-name.tar"}
+"test/fixtures/multi-file.tar" {"test/fixtures/multi-file.tar"}
+"test/fixtures/name-is-100.tar" {"test/fixtures/name-is-100.tar"}
+"test/fixtures/one-file.tar" {"test/fixtures/one-file.tar"}
+"test/fixtures/types.tar" {"test/fixtures/types.tar"}
+"test/fixtures/unicode-bsd.tar" {"test/fixtures/unicode-bsd.tar"}
+"test/fixtures/unicode.tar" {"test/fixtures/unicode.tar"}
+]

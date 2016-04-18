@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "wd"
+version: "0.2.25"
+maintainer: "admc <adam.christian@gmail.com>"
+author: "admc <adam.christian@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/admc/wd.git"
+depends: [
+"archiver" {>="0.10.0" & <"0.11.0"}
+
+"async" {>="0.9.0" & <"0.10.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"q" {>="1.0.1" & <"1.1.0"}
+
+"request" {>="2.36.0" & <"2.37.0"}
+
+"underscore.string" {>="2.3.3" & <"2.4.0"}
+
+"vargs" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

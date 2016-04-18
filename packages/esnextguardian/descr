@@ -1,0 +1,1 @@
+Load your ES6+ files if the user's environment supports it, otherwise gracefully fallback to your ES5 files.

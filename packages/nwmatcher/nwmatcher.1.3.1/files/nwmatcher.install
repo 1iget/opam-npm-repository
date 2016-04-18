@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README" {"README"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"dist/lint.log" {"dist/lint.log"}
+"lib/ender/bridge.js" {"lib/ender/bridge.js"}
+"lib/prototype/selector_engine.js" {"lib/prototype/selector_engine.js"}
+"src/nwmatcher-base.js" {"src/nwmatcher-base.js"}
+"src/nwmatcher-noqsa.js" {"src/nwmatcher-noqsa.js"}
+"src/nwmatcher.js" {"src/nwmatcher.js"}
+"src/modules/nwmatcher-cache.js" {"src/modules/nwmatcher-cache.js"}
+"src/modules/nwmatcher-jquery.js" {"src/modules/nwmatcher-jquery.js"}
+"src/modules/nwmatcher-pseudos.js" {"src/modules/nwmatcher-pseudos.js"}
+"src/modules/nwmatcher-shortcuts.js" {"src/modules/nwmatcher-shortcuts.js"}
+"src/modules/nwmatcher-traversal.js" {"src/modules/nwmatcher-traversal.js"}
+"src/modules/nwmatcher-webforms.js" {"src/modules/nwmatcher-webforms.js"}
+]

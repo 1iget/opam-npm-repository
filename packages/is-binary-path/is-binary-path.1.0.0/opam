@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-binary-path"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/is-binary-path"
+depends: [
+"binary-extensions" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

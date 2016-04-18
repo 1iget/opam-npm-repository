@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cwd"
+version: "0.5.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/cwd.git"
+depends: [
+"look-up" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

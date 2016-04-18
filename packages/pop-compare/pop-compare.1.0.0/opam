@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "pop-compare"
+version: "1.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "3-Clause BSD"
+dev-repo: "https://github.com/kriskowal/pop-compare.git"
+depends: [
+
+]
+
+
+
+

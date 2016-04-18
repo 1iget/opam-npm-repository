@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "formidable"
+version: "0.9.3"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+
+depends: [
+"gently" {>="0.7.0"}
+
+]
+
+
+
+

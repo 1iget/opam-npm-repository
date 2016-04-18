@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "browserify-zlib"
+version: "0.1.1"
+maintainer: "devongovett <devongovett@gmail.com>"
+author: "devongovett <devongovett@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/devongovett/browserify-zlib.git"
+depends: [
+"pako" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

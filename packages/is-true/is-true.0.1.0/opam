@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-true"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "https://github.com/jonschlinkert/is-true.git"
+depends: [
+"is-plain-object" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

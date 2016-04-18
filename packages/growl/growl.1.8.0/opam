@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "growl"
+version: "1.8.0"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "git://github.com/visionmedia/node-growl.git"
+depends: [
+
+]
+
+
+
+

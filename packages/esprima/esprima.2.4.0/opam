@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "esprima"
+version: "2.4.0"
+maintainer: "ariya <ariya.hidayat@gmail.com>"
+author: "ariya <ariya.hidayat@gmail.com>"
+license: "BSD-2-Clause"
+dev-repo: "https://github.com/jquery/esprima.git"
+depends: [
+
+]
+
+
+
+

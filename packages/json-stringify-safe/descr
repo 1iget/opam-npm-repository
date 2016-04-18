@@ -1,0 +1,1 @@
+Like JSON.stringify, but doesn't blow up on circular refs.

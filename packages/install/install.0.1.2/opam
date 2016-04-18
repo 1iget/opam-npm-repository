@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "install"
+version: "0.1.2"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "not defined"
+dev-repo: "git://github.com/benjamn/install.git"
+depends: [
+"whiskey" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

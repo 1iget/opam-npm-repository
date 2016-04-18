@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "jju"
+version: "0.4.2"
+maintainer: "rlidwka <alex@kocharin.ru>"
+author: "rlidwka <alex@kocharin.ru>"
+license: "WTFPL"
+dev-repo: "git://github.com/rlidwka/jju"
+depends: [
+
+]
+
+
+
+

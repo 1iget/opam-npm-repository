@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "mjsunit.runner"
+version: "0.1.2"
+maintainer: "Elijah Insua <tmpvar@gmail.com>"
+author: "Elijah Insua <tmpvar@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

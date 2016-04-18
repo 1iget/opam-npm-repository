@@ -1,0 +1,12 @@
+lib: [
+"README" {"README"}
+"test/" {"test/"}
+"test/buster-format-test.js" {"test/buster-format-test.js"}
+"AUTHORS" {"AUTHORS"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"run-tests" {"run-tests"}
+"jsTestDriver.conf" {"jsTestDriver.conf"}
+"lib/" {"lib/"}
+"lib/buster-format.js" {"lib/buster-format.js"}
+]

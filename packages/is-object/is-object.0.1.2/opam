@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-object"
+version: "0.1.2"
+maintainer: "raynos <raynos2@gmail.com>"
+author: "raynos <raynos2@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/Colingo/is-object.git"
+depends: [
+
+]
+
+
+
+

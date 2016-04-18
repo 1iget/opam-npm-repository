@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "argparse"
+version: "1.0.1"
+maintainer: "vitaly <vitaly@rcdesign.ru>"
+author: "vitaly <vitaly@rcdesign.ru>"
+license: "MIT"
+dev-repo: "git://github.com/nodeca/argparse.git"
+depends: [
+"lodash" {>="3.2.0" & <"3.3.0"}
+
+"sprintf-js" {>="1.0.2" & <"1.1.0"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "nwmatcher"
+version: "1.3.7"
+maintainer: "rvagg <rod@vagg.org>"
+author: "rvagg <rod@vagg.org>"
+license: "not defined"
+dev-repo: "git://github.com/dperini/nwmatcher.git"
+depends: [
+
+]
+
+
+
+

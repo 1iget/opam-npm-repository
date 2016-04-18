@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"npa.js" {"npa.js"}
+"test/basic.js" {"test/basic.js"}
+"test/bitbucket.js" {"test/bitbucket.js"}
+"test/github.js" {"test/github.js"}
+"test/gitlab.js" {"test/gitlab.js"}
+"test/windows.js" {"test/windows.js"}
+"test/bitbucket.js~" {"test/bitbucket.js~"}
+"test/github.js~" {"test/github.js~"}
+"test/gitlab.js~" {"test/gitlab.js~"}
+]

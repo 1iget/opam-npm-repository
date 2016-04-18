@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "long-stack-traces"
+version: "0.1.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

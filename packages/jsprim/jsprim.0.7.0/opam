@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "jsprim"
+version: "0.7.0"
+maintainer: "dap <dap@cs.brown.edu>"
+author: "dap <dap@cs.brown.edu>"
+license: "MIT"
+dev-repo: "git://github.com/davepacheco/node-jsprim.git"
+depends: [
+"extsprintf" {="1.0.2"}
+
+"json-schema" {="0.2.2"}
+
+"verror" {="1.3.6"}
+
+]
+
+
+
+

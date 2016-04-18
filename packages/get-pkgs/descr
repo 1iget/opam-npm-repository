@@ -1,0 +1,1 @@
+Get the package.json for an array of repos from the npm registry, optionally filtering properties using glob patterns.

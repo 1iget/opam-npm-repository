@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "tweetnacl"
+version: "0.10.0"
+maintainer: "dchest <dmitry@codingrobots.com>"
+author: "dchest <dmitry@codingrobots.com>"
+license: "Public domain"
+dev-repo: "https://github.com/dchest/tweetnacl-js.git"
+depends: [
+
+]
+
+
+
+

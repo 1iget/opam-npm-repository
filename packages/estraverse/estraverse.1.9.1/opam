@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "estraverse"
+version: "1.9.1"
+maintainer: "constellation <utatane.tea@gmail.com>"
+author: "constellation <utatane.tea@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/estools/estraverse.git"
+depends: [
+
+]
+
+
+
+

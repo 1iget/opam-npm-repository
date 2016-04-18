@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/cast.js" {"lib/cast.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/coerce.js" {"lib/coerce.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/parse-string.js" {"lib/parse-string.js"}
+]

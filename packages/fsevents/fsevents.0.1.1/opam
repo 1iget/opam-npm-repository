@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "fsevents"
+version: "0.1.1"
+maintainer: "phidelta <phidelta@phideltacity.net>"
+author: "phidelta <phidelta@phideltacity.net>"
+license: "not defined"
+
+depends: [
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

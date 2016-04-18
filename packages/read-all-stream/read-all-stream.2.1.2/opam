@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "read-all-stream"
+version: "2.1.2"
+maintainer: "floatdrop <floatdrop@gmail.com>"
+author: "floatdrop <floatdrop@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/floatdrop/read-all-stream"
+depends: [
+"readable-stream" {>="1.1.13" & <"1.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "type-check"
+version: "0.2.0"
+maintainer: "gkz <z@georgezahariev.com>"
+author: "gkz <z@georgezahariev.com>"
+license: "not defined"
+dev-repo: "git://github.com/gkz/type-check.git"
+depends: [
+"prelude-ls" {>="1.0.3" & <"1.1.0"}
+
+]
+
+
+
+

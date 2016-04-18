@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"lib/kerberos.js" {"lib/kerberos.js"}
+"lib/kerberos_context.h" {"lib/kerberos_context.h"}
+"lib/kerberos.cc" {"lib/kerberos.cc"}
+"lib/kerberos.h" {"lib/kerberos.h"}
+"lib/base64.c" {"lib/base64.c"}
+"lib/kerberos_context.cc" {"lib/kerberos_context.cc"}
+"lib/base64.h" {"lib/base64.h"}
+"lib/kerberosgss.c" {"lib/kerberosgss.c"}
+"lib/kerberosgss.h" {"lib/kerberosgss.h"}
+"lib/win32/kerberos.cc" {"lib/win32/kerberos.cc"}
+"lib/win32/kerberos.h" {"lib/win32/kerberos.h"}
+"lib/win32/kerberos_sspi.c" {"lib/win32/kerberos_sspi.c"}
+"lib/win32/kerberos_sspi.h" {"lib/win32/kerberos_sspi.h"}
+"lib/worker.cc" {"lib/worker.cc"}
+"lib/worker.h" {"lib/worker.h"}
+"test/kerberos_tests.js" {"test/kerberos_tests.js"}
+"test/kerberos_win32_test.js" {"test/kerberos_win32_test.js"}
+]

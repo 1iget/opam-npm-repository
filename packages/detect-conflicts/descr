@@ -1,0 +1,1 @@
+Check for conflicts, and get prompted for action (when needed), before writing a file to disk.

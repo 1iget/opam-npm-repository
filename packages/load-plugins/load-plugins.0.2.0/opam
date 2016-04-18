@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "load-plugins"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/load-plugins.git"
+depends: [
+"app-name" {>="0.2.0" & <"0.3.0"}
+
+"object.defaults" {>="0.1.0" & <"0.2.0"}
+
+"resolve-dep" {>="0.5.3" & <"0.6.0"}
+
+]
+
+
+
+

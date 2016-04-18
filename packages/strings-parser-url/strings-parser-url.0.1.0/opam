@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "strings-parser-url"
+version: "0.1.0"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/assemble/strings-parser-url.git"
+depends: [
+
+]
+
+
+
+

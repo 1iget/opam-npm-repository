@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+".verb.md" {".verb.md"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"lib/cache.js" {"lib/cache.js"}
+"lib/storage.js" {"lib/storage.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]

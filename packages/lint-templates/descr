@@ -1,0 +1,1 @@
+Finds helpers that aren't registered and variables that aren't defined on the context. Can be used as a middleware with assemble, Template, verb, generate, and other apps built on Template.

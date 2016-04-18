@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "callbackify"
+version: "0.1.0"
+maintainer: "jden <jason@denizac.org>"
+author: "jden <jason@denizac.org>"
+license: "MIT"
+dev-repo: "git@github.com:jden/callbackify.git"
+depends: [
+
+]
+
+
+
+

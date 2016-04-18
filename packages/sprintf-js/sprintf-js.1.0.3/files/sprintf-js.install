@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"gruntfile.js" {"gruntfile.js"}
+"dist/angular-sprintf.min.js" {"dist/angular-sprintf.min.js"}
+"dist/sprintf.min.js" {"dist/sprintf.min.js"}
+"dist/angular-sprintf.min.js.map" {"dist/angular-sprintf.min.js.map"}
+"dist/angular-sprintf.min.map" {"dist/angular-sprintf.min.map"}
+"dist/sprintf.min.js.map" {"dist/sprintf.min.js.map"}
+"dist/sprintf.min.map" {"dist/sprintf.min.map"}
+"bower.json" {"bower.json"}
+"src/angular-sprintf.js" {"src/angular-sprintf.js"}
+"src/sprintf.js" {"src/sprintf.js"}
+"demo/angular.html" {"demo/angular.html"}
+"test/test.js" {"test/test.js"}
+]

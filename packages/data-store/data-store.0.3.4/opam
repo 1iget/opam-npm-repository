@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "data-store"
+version: "0.3.4"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/data-store.git"
+depends: [
+"clone-deep" {>="0.1.1" & <"0.2.0"}
+
+"delete" {>="0.1.5" & <"0.2.0"}
+
+"extend-shallow" {>="0.2.0" & <"0.3.0"}
+
+"graceful-fs" {>="3.0.4" & <"4.0.0"}
+
+"kind-of" {>="0.1.2" & <"0.2.0"}
+
+]
+
+
+
+

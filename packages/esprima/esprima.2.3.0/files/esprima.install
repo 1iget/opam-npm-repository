@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"esprima.js" {"esprima.js"}
+"ChangeLog" {"ChangeLog"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
+"test/run.js" {"test/run.js"}
+"test/runner.js" {"test/runner.js"}
+]

@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"lib/index.js" {"lib/index.js"}
+"lib/spinner.js" {"lib/spinner.js"}
+"lib/terminal.js" {"lib/terminal.js"}
+"tests/test-terminal.js" {"tests/test-terminal.js"}
+]

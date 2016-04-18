@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "inherit"
+version: "1.0.4"
+maintainer: "dfilatov <dfilatov@yandex-team.ru>"
+author: "dfilatov <dfilatov@yandex-team.ru>"
+license: "not defined"
+dev-repo: "git://github.com/dfilatov/node-inherit.git"
+depends: [
+
+]
+
+
+
+

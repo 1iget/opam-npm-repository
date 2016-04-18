@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"normalize-git-url.js" {"normalize-git-url.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+".eslintrc" {".eslintrc"}
+"test/basic.js" {"test/basic.js"}
+]

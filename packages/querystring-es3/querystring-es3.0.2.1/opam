@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "querystring-es3"
+version: "0.2.1"
+maintainer: "spaintrain <mc.s.pain.how.er+npm@gmail.com>"
+author: "spaintrain <mc.s.pain.how.er+npm@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/mike-spainhower/querystring.git"
+depends: [
+
+]
+
+
+
+

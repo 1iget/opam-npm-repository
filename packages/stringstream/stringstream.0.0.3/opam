@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "stringstream"
+version: "0.0.3"
+maintainer: "hichaelmart <michael.hart.au@gmail.com>"
+author: "hichaelmart <michael.hart.au@gmail.com>"
+license: "BSD"
+dev-repo: "https://github.com/mhart/StringStream.git"
+depends: [
+
+]
+
+
+
+

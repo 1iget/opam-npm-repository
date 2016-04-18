@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"tv4.async-jquery.js" {"tv4.async-jquery.js"}
+"tv4.js" {"tv4.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"lang/de.js" {"lang/de.js"}
+]

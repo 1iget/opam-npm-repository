@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "nth-check"
+version: "1.0.1"
+maintainer: "feedic <me@feedic.com>"
+author: "feedic <me@feedic.com>"
+license: "BSD"
+dev-repo: "https://github.com/fb55/nth-check"
+depends: [
+"boolbase" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

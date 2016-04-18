@@ -1,0 +1,26 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"binary.cc" {"binary.cc"}
+"binary.h" {"binary.h"}
+"bson.cc" {"bson.cc"}
+"bson.h" {"bson.h"}
+"code.cc" {"code.cc"}
+"code.h" {"code.h"}
+"dbref.cc" {"dbref.cc"}
+"dbref.h" {"dbref.h"}
+"local.cc" {"local.cc"}
+"local.h" {"local.h"}
+"long.cc" {"long.cc"}
+"long.h" {"long.h"}
+"Makefile" {"Makefile"}
+"objectid.cc" {"objectid.cc"}
+"objectid.h" {"objectid.h"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"test_bson.js" {"test_bson.js"}
+"test_full_bson.js" {"test_full_bson.js"}
+"timestamp.cc" {"timestamp.cc"}
+"timestamp.h" {"timestamp.h"}
+"wscript" {"wscript"}
+]

@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"configs/mocha.json" {"configs/mocha.json"}
+".travis.yml" {".travis.yml"}
+"bin/runner.js" {"bin/runner.js"}
+"changelog.md" {"changelog.md"}
+"lib/chai-init.js" {"lib/chai-init.js"}
+"lib/console.js" {"lib/console.js"}
+"lib/mocha-runner.js" {"lib/mocha-runner.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/chai.js" {"specs/chai.js"}
+"specs/sinon.js" {"specs/sinon.js"}
+"npm-shrinkwrap.json" {"npm-shrinkwrap.json"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]

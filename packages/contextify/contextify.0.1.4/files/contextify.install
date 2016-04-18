@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"binding.gyp" {"binding.gyp"}
+"test/contextify.js" {"test/contextify.js"}
+"src/contextify.cc" {"src/contextify.cc"}
+"lib/contextify.js" {"lib/contextify.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"wscript" {"wscript"}
+"changelog" {"changelog"}
+]

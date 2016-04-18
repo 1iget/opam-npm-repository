@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "helper-codelinks"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/helpers/helper-codelinks.git"
+depends: [
+"api-toc" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

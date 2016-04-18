@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "negotiator"
+version: "0.2.5"
+maintainer: "federomero <federomero@gmail.com>"
+author: "federomero <federomero@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/federomero/negotiator.git"
+depends: [
+
+]
+
+
+
+

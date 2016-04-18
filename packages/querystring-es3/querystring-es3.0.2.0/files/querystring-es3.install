@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"decode.js" {"decode.js"}
+"encode.js" {"encode.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"License.md" {"License.md"}
+"Readme.md" {"Readme.md"}
+"test/common-index.js" {"test/common-index.js"}
+"test/index.js" {"test/index.js"}
+"test/tap-index.js" {"test/tap-index.js"}
+]

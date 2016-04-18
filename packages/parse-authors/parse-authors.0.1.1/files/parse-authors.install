@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.yml" {".verbrc.yml"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/fixtures/AUTHORS" {"test/fixtures/AUTHORS"}
+"test/fixtures/NAME" {"test/fixtures/NAME"}
+"test/fixtures/NO-EMAIL" {"test/fixtures/NO-EMAIL"}
+"test/fixtures/NO-URL" {"test/fixtures/NO-URL"}
+]

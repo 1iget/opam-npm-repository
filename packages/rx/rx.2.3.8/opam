@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "rx"
+version: "2.3.8"
+maintainer: "vvilhonen <vesa@vilhonen.com>"
+author: "vvilhonen <vesa@vilhonen.com>"
+license: "not defined"
+dev-repo: "https://github.com/Reactive-Extensions/RxJS.git"
+depends: [
+
+]
+
+
+
+

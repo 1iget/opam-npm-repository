@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "type-is"
+version: "1.5.7"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/jshttp/type-is"
+depends: [
+"media-typer" {="0.3.0"}
+
+"mime-types" {>="2.0.9" & <"2.1.0"}
+
+]
+
+
+
+

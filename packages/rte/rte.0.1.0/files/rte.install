@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"lib/ext.js" {"lib/ext.js"}
+"lib/rename.js" {"lib/rename.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/dest.js" {"test/dest.js"}
+"test/parse.js" {"test/parse.js"}
+"test/set.js" {"test/set.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/test.js" {"test/test.js"}
+"test/utils-ext.js" {"test/utils-ext.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

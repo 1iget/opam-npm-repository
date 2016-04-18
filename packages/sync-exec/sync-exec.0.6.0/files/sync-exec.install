@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"coffee/lib/create-pipes.coffee" {"coffee/lib/create-pipes.coffee"}
+"coffee/lib/proxy.coffee" {"coffee/lib/proxy.coffee"}
+"coffee/lib/read-pipes.coffee" {"coffee/lib/read-pipes.coffee"}
+"coffee/lib/timeout.coffee" {"coffee/lib/timeout.coffee"}
+"coffee/sync-exec.coffee" {"coffee/sync-exec.coffee"}
+"js/sync-exec.js" {"js/sync-exec.js"}
+"js/lib/create-pipes.js" {"js/lib/create-pipes.js"}
+"js/lib/proxy.js" {"js/lib/proxy.js"}
+"js/lib/read-pipes.js" {"js/lib/read-pipes.js"}
+"js/lib/timeout.js" {"js/lib/timeout.js"}
+"Makefile" {"Makefile"}
+"test/example.coffee" {"test/example.coffee"}
+"test/sh/err.sh" {"test/sh/err.sh"}
+"test/sh/out.sh" {"test/sh/out.sh"}
+]

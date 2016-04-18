@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"templates/prefix.md" {"templates/prefix.md"}
+"templates/title-link.md" {"templates/title-link.md"}
+"templates/title.md" {"templates/title.md"}
+]

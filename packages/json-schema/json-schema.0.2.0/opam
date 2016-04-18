@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "json-schema"
+version: "0.2.0"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "not defined"
+dev-repo: "http://github.com/kriszyp/json-schema"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "lockfile"
+version: "0.4.2"
+maintainer: "trevorburnham <trevorburnham@gmail.com>"
+author: "trevorburnham <trevorburnham@gmail.com>"
+license: "BSD"
+dev-repo: "git://github.com/isaacs/lockfile"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "ruglify"
+version: "1.0.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/ruglify.git"
+depends: [
+"rfile" {>="1.0.0" & <"1.1.0"}
+
+"uglify-js" {>="2.2.0" & <"2.3.0"}
+
+]
+
+
+
+

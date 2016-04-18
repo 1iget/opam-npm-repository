@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "install"
+version: "0.2.4"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "MIT"
+dev-repo: "git://github.com/benjamn/install.git"
+depends: [
+
+]
+
+
+
+

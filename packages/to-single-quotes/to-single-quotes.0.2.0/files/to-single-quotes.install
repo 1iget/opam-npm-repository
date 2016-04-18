@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"cli.js" {"cli.js"}
+"to-single-quotes.js" {"to-single-quotes.js"}
+"readme.md" {"readme.md"}
+]

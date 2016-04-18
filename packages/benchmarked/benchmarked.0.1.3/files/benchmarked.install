@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+"example/constr.js" {"example/constr.js"}
+"example/index.js" {"example/index.js"}
+"example/methods.js" {"example/methods.js"}
+"example/code/index-of.js" {"example/code/index-of.js"}
+"example/code/last-index-of.js" {"example/code/last-index-of.js"}
+"example/code/re-exec.js" {"example/code/re-exec.js"}
+"example/code/re-search.js" {"example/code/re-search.js"}
+"example/code/re-test.js" {"example/code/re-test.js"}
+"example/code/slice.js" {"example/code/slice.js"}
+"example/code/substr.js" {"example/code/substr.js"}
+"example/code/substring.js" {"example/code/substring.js"}
+"example/code/while.js" {"example/code/while.js"}
+"example/fixtures/long.txt" {"example/fixtures/long.txt"}
+"example/fixtures/medium.txt" {"example/fixtures/medium.txt"}
+"example/fixtures/short.txt" {"example/fixtures/short.txt"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+]

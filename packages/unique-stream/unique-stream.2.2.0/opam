@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "unique-stream"
+version: "2.2.0"
+maintainer: "eugeneware <eugene@noblesamurai.com>"
+author: "eugeneware <eugene@noblesamurai.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/eugeneware/unique-stream.git"
+depends: [
+"through2-filter" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

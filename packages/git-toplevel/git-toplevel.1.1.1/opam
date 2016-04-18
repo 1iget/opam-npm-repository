@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "git-toplevel"
+version: "1.1.1"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/git-toplevel"
+depends: [
+"es6-promise" {>="3.0.2" & <"4.0.0"}
+
+"jq-trim" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

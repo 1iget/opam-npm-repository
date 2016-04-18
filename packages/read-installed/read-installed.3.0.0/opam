@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "read-installed"
+version: "3.0.0"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/read-installed"
+depends: [
+"debuglog" {>="1.0.1" & <"2.0.0"}
+
+"read-package-json" {>="1.0.0" & <"2.0.0"}
+
+"semver" {>="2.0.0" | >="3.0.0" & <"3.0.0" | >="3.0.0" & >="2.0.0" | <"4.0.0" & <"3.0.0" | <"4.0.0"}
+
+"slide" {>="1.1.3" & <"1.2.0"}
+
+"util-extend" {>="1.0.1" & <"2.0.0"}
+
+"graceful-fs" {>="2.0.0" | >="3.0.0" & <"3.0.0" | >="3.0.0" & >="2.0.0" | <"4.0.0" & <"3.0.0" | <"4.0.0"}
+
+]
+
+
+
+

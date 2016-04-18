@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"README.md~" {"README.md~"}
+"test/basic.js" {"test/basic.js"}
+"test/npa-basic.js" {"test/npa-basic.js"}
+"test/npa-windows.js" {"test/npa-windows.js"}
+]

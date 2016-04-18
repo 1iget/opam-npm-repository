@@ -1,0 +1,7 @@
+lib: [
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"example.js" {"example.js"}
+".npmignore" {".npmignore"}
+]

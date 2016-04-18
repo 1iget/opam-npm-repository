@@ -1,0 +1,5 @@
+lib: [
+"http-errors.js" {"http-errors.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

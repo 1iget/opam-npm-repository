@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "libyaml"
+version: "0.2.2"
+maintainer: "stephank <stephan@kochen.nl>"
+author: "stephank <stephan@kochen.nl>"
+license: "not defined"
+dev-repo: "http://github.com/stephank/yaml.node.git"
+depends: [
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

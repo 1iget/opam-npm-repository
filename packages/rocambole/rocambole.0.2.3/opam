@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "rocambole"
+version: "0.2.3"
+maintainer: "millermedeiros <miller@millermedeiros.com>"
+author: "millermedeiros <miller@millermedeiros.com>"
+license: "MIT"
+dev-repo: "https://github.com/millermedeiros/rocambole.git"
+depends: [
+"esprima" {>="1.0.2" & <"1.1.0"}
+
+]
+
+
+
+

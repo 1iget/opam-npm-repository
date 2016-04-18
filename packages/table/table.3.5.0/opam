@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "table"
+version: "3.5.0"
+maintainer: "gajus <gk@anuary.com>"
+author: "gajus <gk@anuary.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/gajus/table.git"
+depends: [
+"ansi" {>="0.3.0" & <"0.4.0"}
+
+"ansi-slice" {>="1.2.0" & <"2.0.0"}
+
+"bluebird" {>="2.10.2" & <"3.0.0"}
+
+"chalk" {>="1.1.1" & <"2.0.0"}
+
+"lodash" {>="3.10.1" & <"4.0.0"}
+
+"string-width" {>="1.0.1" & <"2.0.0"}
+
+"strip-ansi" {>="3.0.0" & <"4.0.0"}
+
+"tv4" {>="1.2.7" & <"2.0.0"}
+
+"xregexp" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

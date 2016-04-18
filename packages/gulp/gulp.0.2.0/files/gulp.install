@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/tasks.js" {"test/tasks.js"}
+"test/dest.js" {"test/dest.js"}
+"test/watch.js" {"test/watch.js"}
+"test/src.js" {"test/src.js"}
+"test/file-utils.js" {"test/file-utils.js"}
+"test/fixtures/test/run.jade" {"test/fixtures/test/run.jade"}
+"test/fixtures/copy/example.txt" {"test/fixtures/copy/example.txt"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/fixtures/stuff/test.dmc" {"test/fixtures/stuff/test.dmc"}
+"test/fixtures/stuff/run.dmc" {"test/fixtures/stuff/run.dmc"}
+"test/out-fixtures/copy/example.txt" {"test/out-fixtures/copy/example.txt"}
+".travis.yml" {".travis.yml"}
+"lib/createOutputStream.js" {"lib/createOutputStream.js"}
+"lib/watchFile.js" {"lib/watchFile.js"}
+"lib/readFile.js" {"lib/readFile.js"}
+"lib/createInputStream.js" {"lib/createInputStream.js"}
+"bin/gulp" {"bin/gulp"}
+]

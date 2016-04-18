@@ -1,0 +1,10 @@
+lib: [
+"examples/" {"examples/"}
+"examples/hello.js" {"examples/hello.js"}
+"lib/" {"lib/"}
+"lib/simplesets.js" {"lib/simplesets.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/testsets.js" {"test/testsets.js"}
+]

@@ -1,0 +1,1 @@
+Template helper to resolve the path to a file in node_modules. This is mostly useful during development.

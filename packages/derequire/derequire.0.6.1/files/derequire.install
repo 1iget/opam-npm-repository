@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"readme.md" {"readme.md"}
+"test/pouchdb.dereq.js" {"test/pouchdb.dereq.js"}
+"test/pouchdb.js" {"test/pouchdb.js"}
+"test/test.js" {"test/test.js"}
+]

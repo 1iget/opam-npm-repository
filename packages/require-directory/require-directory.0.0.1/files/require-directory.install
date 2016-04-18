@@ -1,0 +1,8 @@
+lib: [
+".gitignore" {".gitignore"}
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+]

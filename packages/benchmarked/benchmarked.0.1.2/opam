@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "benchmarked"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/benchmarked.git"
+depends: [
+"ansi" {>="0.3.0" & <"0.4.0"}
+
+"benchmark" {>="1.0.0" & <"2.0.0"}
+
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"extend-shallow" {>="0.1.0" & <"0.2.0"}
+
+"file-reader" {>="0.1.0" & <"0.2.0"}
+
+"for-own" {>="0.1.2" & <"0.2.0"}
+
+"has-value" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

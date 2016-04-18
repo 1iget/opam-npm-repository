@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"utils.js" {"utils.js"}
+"index.js" {"index.js"}
+"gulpfile.js" {"gulpfile.js"}
+".verb.md" {".verb.md"}
+".editorconfig" {".editorconfig"}
+".jshintrc" {".jshintrc"}
+"test/test.js" {"test/test.js"}
+"test/fixtures/a.js" {"test/fixtures/a.js"}
+"test/fixtures/b.js" {"test/fixtures/b.js"}
+"test/fixtures/c.js" {"test/fixtures/c.js"}
+"test/fixtures/a.md" {"test/fixtures/a.md"}
+"test/fixtures/a.txt" {"test/fixtures/a.txt"}
+"test/fixtures/b.md" {"test/fixtures/b.md"}
+"test/fixtures/b.txt" {"test/fixtures/b.txt"}
+"test/fixtures/c.md" {"test/fixtures/c.md"}
+"test/fixtures/c.txt" {"test/fixtures/c.txt"}
+]

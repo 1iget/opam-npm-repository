@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"gulpfile.js" {"gulpfile.js"}
+"dist/index.js" {"dist/index.js"}
+"dist/mapANSIEscapeCodes.js" {"dist/mapANSIEscapeCodes.js"}
+"dist/slice.js" {"dist/slice.js"}
+"dist/trim.js" {"dist/trim.js"}
+"dist/index.js.map" {"dist/index.js.map"}
+"dist/mapANSIEscapeCodes.js.map" {"dist/mapANSIEscapeCodes.js.map"}
+"dist/slice.js.map" {"dist/slice.js.map"}
+"dist/trim.js.map" {"dist/trim.js.map"}
+".babelrc" {".babelrc"}
+"src/index.js" {"src/index.js"}
+"src/mapANSIEscapeCodes.js" {"src/mapANSIEscapeCodes.js"}
+"src/slice.js" {"src/slice.js"}
+"src/trim.js" {"src/trim.js"}
+".travis.yml" {".travis.yml"}
+"test/mapANSIEscapeCodes.js" {"test/mapANSIEscapeCodes.js"}
+"test/slice.js" {"test/slice.js"}
+"test/trim.js" {"test/trim.js"}
+]

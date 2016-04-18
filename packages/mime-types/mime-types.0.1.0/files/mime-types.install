@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"build.js" {"build.js"}
+"Makefile" {"Makefile"}
+"component.json" {"component.json"}
+"lib/index.js" {"lib/index.js"}
+"lib/custom.json" {"lib/custom.json"}
+"lib/mime.json" {"lib/mime.json"}
+"lib/node.json" {"lib/node.json"}
+"test/mime.js" {"test/mime.js"}
+"test/test.js" {"test/test.js"}
+]

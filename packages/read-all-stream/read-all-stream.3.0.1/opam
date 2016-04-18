@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "read-all-stream"
+version: "3.0.1"
+maintainer: "floatdrop <floatdrop@gmail.com>"
+author: "floatdrop <floatdrop@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/floatdrop/read-all-stream"
+depends: [
+"pinkie-promise" {>="1.0.0" & <"2.0.0"}
+
+"readable-stream" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

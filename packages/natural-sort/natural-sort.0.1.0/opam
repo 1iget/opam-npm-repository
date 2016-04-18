@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "natural-sort"
+version: "0.1.0"
+maintainer: "tomekwi <t.wiszniewski@gmail.com>"
+author: "tomekwi <t.wiszniewski@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/studio-b12/natural-sort.git"
+depends: [
+
+]
+
+
+
+

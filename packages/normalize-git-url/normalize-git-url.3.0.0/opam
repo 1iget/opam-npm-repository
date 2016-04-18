@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "normalize-git-url"
+version: "3.0.0"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "ISC"
+dev-repo: "git+https://github.com/npm/normalize-git-url.git"
+depends: [
+
+]
+
+
+
+

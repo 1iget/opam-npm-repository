@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "find-index"
+version: "0.1.0"
+maintainer: "jsdf <james@jsdf.co>"
+author: "jsdf <james@jsdf.co>"
+license: "MIT"
+dev-repo: "git://github.com/jsdf/find-index.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "url2"
+version: "1.0.3"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+dev-repo: "git://github.com/kriskowal/url2.git"
+depends: [
+"url" {>="0.7.9" & <"0.8.0"}
+
+]
+
+
+
+

@@ -1,0 +1,9 @@
+lib: [
+".gitignore" {".gitignore"}
+".gitmodules" {".gitmodules"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/crc.js" {"lib/crc.js"}
+"test/crc.js" {"test/crc.js"}
+]

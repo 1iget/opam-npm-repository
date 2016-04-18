@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/main.coffee" {"lib/main.coffee"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/fixtures/whatsgoingon/test.js" {"test/fixtures/whatsgoingon/test.js"}
+"test/main.coffee" {"test/main.coffee"}
+]

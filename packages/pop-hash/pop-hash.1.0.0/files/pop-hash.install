@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"browser-pop-hash.js" {"browser-pop-hash.js"}
+"pop-hash.js" {"pop-hash.js"}
+]

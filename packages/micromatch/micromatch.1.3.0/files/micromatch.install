@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"lib/chars.js" {"lib/chars.js"}
+"lib/expand.js" {"lib/expand.js"}
+"lib/glob.js" {"lib/glob.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/utils.js" {"lib/utils.js"}
+]

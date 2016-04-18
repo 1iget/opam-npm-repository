@@ -1,0 +1,1 @@
+Basic template helpers for printing messages out to the console. Useful for debugging context in templates. Should work with any template engine.

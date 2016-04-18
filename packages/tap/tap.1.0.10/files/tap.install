@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"AUTHORS" {"AUTHORS"}
+"TODO.md" {"TODO.md"}
+"bin/mochatap.js" {"bin/mochatap.js"}
+"bin/run.js" {"bin/run.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"lib/assert.js" {"lib/assert.js"}
+"lib/mocha.js" {"lib/mocha.js"}
+"lib/root.js" {"lib/root.js"}
+"lib/stack.js" {"lib/stack.js"}
+"lib/synonyms.js" {"lib/synonyms.js"}
+"lib/test.js" {"lib/test.js"}
+"scripts/generate-test-test.js" {"scripts/generate-test-test.js"}
+]

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/sorter.js" {"coverage/lcov-report/sorter.js"}
+"coverage/lcov-report/__root__/index.html" {"coverage/lcov-report/__root__/index.html"}
+"coverage/lcov-report/__root__/index.js.html" {"coverage/lcov-report/__root__/index.js.html"}
+"coverage/lcov-report/base.css" {"coverage/lcov-report/base.css"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov-report/sort-arrow-sprite.png" {"coverage/lcov-report/sort-arrow-sprite.png"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+"test/basic.js" {"test/basic.js"}
+]

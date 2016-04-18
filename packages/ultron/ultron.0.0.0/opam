@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "ultron"
+version: "0.0.0"
+maintainer: "V1 <info@3rd-Eden.com>"
+author: "V1 <info@3rd-Eden.com>"
+license: "MIT"
+dev-repo: "https://github.com/unshiftio/ultron"
+depends: [
+"querystringify" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

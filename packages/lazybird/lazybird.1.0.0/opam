@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "lazybird"
+version: "1.0.0"
+maintainer: "assaf <assaf@labnotes.org>"
+author: "assaf <assaf@labnotes.org>"
+license: "not defined"
+dev-repo: "http://github.com/assaf/lazybird"
+depends: [
+"bluebird" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

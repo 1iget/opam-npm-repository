@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "negotiator"
+version: "0.5.0"
+maintainer: "federomero <federomero@gmail.com>"
+author: "federomero <federomero@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/jshttp/negotiator"
+depends: [
+
+]
+
+
+
+

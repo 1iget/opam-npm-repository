@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "boson"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/boson"
+depends: [
+"resolve-dep" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

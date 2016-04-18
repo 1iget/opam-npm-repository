@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/cloneBuffer.js" {"lib/cloneBuffer.js"}
+"lib/inspectStream.js" {"lib/inspectStream.js"}
+"lib/isBuffer.js" {"lib/isBuffer.js"}
+"lib/isNull.js" {"lib/isNull.js"}
+"lib/isStream.js" {"lib/isStream.js"}
+"test/File.js" {"test/File.js"}
+"test/cloneBuffer.js" {"test/cloneBuffer.js"}
+"test/inspectStream.js" {"test/inspectStream.js"}
+"test/isBuffer.js" {"test/isBuffer.js"}
+"test/isNull.js" {"test/isNull.js"}
+"test/isStream.js" {"test/isStream.js"}
+]

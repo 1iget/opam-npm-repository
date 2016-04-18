@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "clix"
+version: "2.0.7"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/clix"
+depends: [
+"clix-logger" {>="0.1.3" & <"0.2.0"}
+
+"extend" {>="3.0.0" & <"4.0.0"}
+
+"glob-expand" {>="0.1.0" & <"0.2.0"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+"os-homedir" {>="1.0.1" & <"2.0.0"}
+
+"path-is-absolute" {>="1.0.0" & <"2.0.0"}
+
+"read-json-sync" {>="1.1.0" & <"2.0.0"}
+
+"stringformat" {="0.0.5"}
+
+]
+
+
+
+

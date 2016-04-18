@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "har-validator"
+version: "1.8.0"
+maintainer: "ahmadnassri <ahmad@ahmadnassri.com>"
+author: "ahmadnassri <ahmad@ahmadnassri.com>"
+license: "ISC"
+dev-repo: "git+https://github.com/ahmadnassri/har-validator.git"
+depends: [
+"bluebird" {>="2.9.30" & <"3.0.0"}
+
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"commander" {>="2.8.1" & <"3.0.0"}
+
+"is-my-json-valid" {>="2.12.0" & <"3.0.0"}
+
+]
+
+
+
+

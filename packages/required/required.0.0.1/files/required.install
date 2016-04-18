@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"makefile" {"makefile"}
+"test/runner.js" {"test/runner.js"}
+"test/fixtures/native.js" {"test/fixtures/native.js"}
+"test/fixtures/none.js" {"test/fixtures/none.js"}
+"test/fixtures/one_local.js" {"test/fixtures/one_local.js"}
+"test/fixtures/native.js.dep" {"test/fixtures/native.js.dep"}
+"test/fixtures/none.js.dep" {"test/fixtures/none.js.dep"}
+"test/fixtures/one_local.js.dep" {"test/fixtures/one_local.js.dep"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

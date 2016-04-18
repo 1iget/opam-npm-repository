@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "tunnel-agent"
+version: "0.4.2"
+maintainer: "mikeal <mikeal.rogers@gmail.com>"
+author: "mikeal <mikeal.rogers@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "git+https://github.com/mikeal/tunnel-agent.git"
+depends: [
+
+]
+
+
+
+

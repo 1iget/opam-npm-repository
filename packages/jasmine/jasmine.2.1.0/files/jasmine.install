@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"Gruntfile.js" {"Gruntfile.js"}
+"lib/command.js" {"lib/command.js"}
+"lib/console_reporter.js" {"lib/console_reporter.js"}
+"lib/jasmine.js" {"lib/jasmine.js"}
+"lib/examples/jasmine.json" {"lib/examples/jasmine.json"}
+"bin/jasmine.js" {"bin/jasmine.js"}
+".travis.yml" {".travis.yml"}
+"release_notes/2.1.0.md" {"release_notes/2.1.0.md"}
+"tasks/jasmine.js" {"tasks/jasmine.js"}
+]

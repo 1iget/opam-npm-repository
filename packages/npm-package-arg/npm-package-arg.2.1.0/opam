@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "npm-package-arg"
+version: "2.1.0"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "https://github.com/npm/npm-package-arg"
+depends: [
+"semver" {>="2.3.0" | >="3.0.0" & <"3.0.0" | >="3.0.0" & >="2.3.0" | <"4.0.0" & <"3.0.0" | <"4.0.0"}
+
+]
+
+
+
+

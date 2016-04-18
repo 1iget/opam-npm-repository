@@ -1,0 +1,21 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"test/resolver.js" {"test/resolver.js"}
+"test/mock.js" {"test/mock.js"}
+"test/filter.js" {"test/filter.js"}
+"test/core.js" {"test/core.js"}
+"test/resolver/mug.js" {"test/resolver/mug.js"}
+"test/resolver/mug.coffee" {"test/resolver/mug.coffee"}
+"test/resolver/cup.coffee" {"test/resolver/cup.coffee"}
+"test/resolver/foo.js" {"test/resolver/foo.js"}
+"test/resolver/other_path/root.js" {"test/resolver/other_path/root.js"}
+"test/resolver/other_path/lib/other-lib.js" {"test/resolver/other_path/lib/other-lib.js"}
+"test/resolver/baz/quux.js" {"test/resolver/baz/quux.js"}
+"test/resolver/baz/package.json" {"test/resolver/baz/package.json"}
+"test/resolver/baz/doom.js" {"test/resolver/baz/doom.js"}
+"test/resolver/bar/node_modules/foo/index.js" {"test/resolver/bar/node_modules/foo/index.js"}
+"test/resolver/biz/node_modules/tiv/index.js" {"test/resolver/biz/node_modules/tiv/index.js"}
+"test/resolver/biz/node_modules/grux/index.js" {"test/resolver/biz/node_modules/grux/index.js"}
+]

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"json5.js" {"json5.js"}
+"test/index.js" {"test/index.js"}
+"test/examples/npm-package.json" {"test/examples/npm-package.json"}
+"test/examples/readme.json5" {"test/examples/readme.json5"}
+]

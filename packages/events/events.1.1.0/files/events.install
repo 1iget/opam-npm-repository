@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"events.js" {"events.js"}
+"History.md" {"History.md"}
+"Readme.md" {"Readme.md"}
+".travis.yml" {".travis.yml"}
+".zuul.yml" {".zuul.yml"}
+"tests/add-listeners.js" {"tests/add-listeners.js"}
+"tests/legacy-compat.js" {"tests/legacy-compat.js"}
+"tests/listener-count.js" {"tests/listener-count.js"}
+"tests/listeners-side-effects.js" {"tests/listeners-side-effects.js"}
+"tests/listeners.js" {"tests/listeners.js"}
+"tests/index.js" {"tests/index.js"}
+"tests/modify-in-emit.js" {"tests/modify-in-emit.js"}
+"tests/num-args.js" {"tests/num-args.js"}
+"tests/once.js" {"tests/once.js"}
+"tests/remove-all-listeners.js" {"tests/remove-all-listeners.js"}
+"tests/remove-listeners.js" {"tests/remove-listeners.js"}
+"tests/common.js" {"tests/common.js"}
+"tests/set-max-listeners-side-effects.js" {"tests/set-max-listeners-side-effects.js"}
+"tests/check-listener-leaks.js" {"tests/check-listener-leaks.js"}
+"tests/subclass.js" {"tests/subclass.js"}
+"tests/max-listeners.js" {"tests/max-listeners.js"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "collections"
+version: "3.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+dev-repo: "git+ssh://git@github.com/montagejs/collections.git"
+depends: [
+"weak-map" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

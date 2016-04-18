@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/lookup.js" {"lib/lookup.js"}
+"lib/map-deps.js" {"lib/map-deps.js"}
+"lib/noop.js" {"lib/noop.js"}
+"lib/resolve.js" {"lib/resolve.js"}
+"lib/task.js" {"lib/task.js"}
+]

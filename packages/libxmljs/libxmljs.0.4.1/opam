@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "libxmljs"
+version: "0.4.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/polotek/libxmljs.git"
+depends: [
+
+]
+
+build: ["sh" "-c" "make node"]
+remove: [
+  [ "sh" "-c" "make clean" ] 
+]
+

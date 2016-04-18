@@ -1,0 +1,281 @@
+diff --git a/README.md b/README.md
+index c67883f..8c09df0 100644
+--- a/README.md
++++ b/README.md
+@@ -7,16 +7,25 @@ nomnom is a small option parser for node and CommonJS. It just parses your args
+ 	  { name: 'config',
+ 	    string: '-c PATH, --config=PATH',
+ 	    default: 'config.json',
+-	    help: 'JSON file with tests to run'},
+-	
++	    help: 'JSON file with tests to run'
++	  },
+ 	  { name: 'debug',
+-	    string: '-d'}
++	    string: '-d',
++	    help: 'Use debug mode'
++	  }
+ 	];
+ 	
+ 	var options = nomnom.parseArgs(opts);
+ 
+ 	if(options.debug)
+ 	  // do stuff
++	
++You don't even have to specify anything if you don't want to:
++	var options = nomnom.parseArgs();
++
++	var url = options[0]; // get the first positional arg
++	var debug = options.debug // see if --debug was specified
++  var verbose = options.v // see if -v was specified
+ 
+ # Install
+ for [node.js](http://nodejs.org/) and [npm](http://github.com/isaacs/npm):
+@@ -31,18 +40,20 @@ By default, nomnom parses [node](http://nodejs.org/)'s `process.argv`. You can a
+ All parsed arguments that don't fit the `-a` or `--atomic` format and aren't attached to an option are positional and can be matched on via the `position`:
+ 	var opts = [
+ 	  { name: 'filename',
+-	    position: 0 }
++	    position: 0,
++	    help: 'file to edit'
++	  }
+ 	];
+ 	var options = nomnom.parseArgs(opts);
+ 	
+ 	sys.puts(options.filename);
+ 	
+-You don't even have to specify anything if you don't want to:
+-	var options = nomnom.parseArgs();
+-	
+-	var url = options[0]; // get the first positional arg
+-	var debug = options.debug // see if --debug was specified
++Values are JSON parsed, so `--debug=true --count=3 --file=log.txt` would give you:
++	{ debug: true,
++		count: 3,
++		file: "log.txt"
++	}
+ 	
+ Nomnom prints out a usage message if `--help` or `-h` is an argument. You can disable this with the `printHelp` flag and specify the printing function with `printFunc` if you're not using node:
+ 
+-	nomnom.parseArgs(opts, {printHelp: false});
++		nomnom.parseArgs(opts, {printHelp: false});
+diff --git a/lib/nomnom.js b/lib/nomnom.js
+index 99fb2f3..b7f6f03 100644
+--- a/lib/nomnom.js
++++ b/lib/nomnom.js
+@@ -18,7 +18,7 @@ ArgParser.prototype = {
+     process.exit(0);
+   },
+   
+-  getOption : function(arg) {
++  option : function(arg) {
+     var match = new Option({});
+     this.options.forEach(function(option) {
+       if(option.matches(arg))
+@@ -27,17 +27,17 @@ ArgParser.prototype = {
+     return match;
+   },
+   
+-  getOptName : function(arg) {
+-    var option = this.getOption(arg);
+-    return this.getOption(arg).name || arg;
++  optName : function(arg) {
++    var option = this.option(arg);
++    return this.option(arg).name || arg;
+   },
+   
+-  getDefault : function(arg) {
+-    return this.getOption(arg).default || true;
++  default : function(arg) {
++    return this.option(arg).default || true;
+   },
+   
+   expectsValue : function(arg) {
+-    return this.getOption(arg).expectsValue();
++    return this.option(arg).expectsValue();
+   },
+   
+   parse : function(args) {
+@@ -61,38 +61,35 @@ ArgParser.prototype = {
+     args.reduce(function(arg, val) {
+       /* word */
+       if(arg.isValue()) {
+-        positionals.push(arg.getValue());
++        positionals.push(arg.value);
+       }
+       /* -c */
+-      else if(arg.isShort()) {
++      else if(arg.chars) {
+         /* -cfv */
+-        (arg.getChars()).forEach(function(ch) {
+-          ret[this.getOptName(ch)] = this.getDefault(ch);
++        (arg.chars).forEach(function(ch) {
++          ret[this.optName(ch)] = this.default(ch);
+         }, that);
+         /* -c 3 */
+         if(val.isValue()) {
+-          var value = val.getValue();
+-          var last = arg.lastChar();
+-          if(that.expectsValue(last)) {
+-            ret[that.getOptName(last)] = value;
++          if(that.expectsValue(arg.lastChar)) {
++            ret[that.optName(arg.lastChar)] = val.value;
+             return new Arg(""); // skip next turn - swallow arg
+           }
+         }
+       }
+       /* --config=tests.json */
+-      else if(arg.isLong()) {
+-        var key = arg.getKey()
+-        var value = arg.getValue()
++      else if(arg.lg) {
++        var value = arg.value;
+         /* --debug */
+         if(value == undefined)
+-          value = that.getDefault(key)
+-        ret[that.getOptName(key)] = value;
++          value = that.default(arg.lg)
++        ret[that.optName(arg.lg)] = value;
+       }
+       return val;
+     });
+ 
+     positionals.forEach(function(pos, index) {
+-      ret[this.getOptName(index)] = pos;
++      ret[this.optName(index)] = pos;
+     }, this);
+ 
+     return ret;
+@@ -108,9 +105,14 @@ ArgParser.prototype = {
+     });
+     // assume there are no gaps in the specified pos. args
+     positionals.forEach(function(pos) {
+-      str += " " + (pos.name || "arg" + pos.position); 
++      str += " <" + (pos.name || "arg" + pos.position) + ">"; 
+     });
+-    str += " [options]\n\noptions:\n"
++    str += " [options]\n\n";
++
++    positionals.forEach(function(pos) {
++      str += pos.name + "\t" + (pos.help || "") + "\n"; 
++    });
++    str += "\noptions:\n"
+     
+     this.options.forEach(function(option) {
+       if(option.position == undefined)
+@@ -121,15 +123,14 @@ ArgParser.prototype = {
+ }
+ 
+ Option = function(opt) {
+-  // 0 - str, 1 - char, 2 - metavar, 3 - key, 3 - metavar
+   this.string = opt.string || (opt.name ? "--" + opt.name : "");
+   var matches = /^(?:\-(\w+?)(?:\s+([^-][^\s]*))?)?\,?\s*(?:\-\-(.+?)(?:=(.+))?)?$/
+                 .exec(this.string);
+-  this.short = matches[1];
++  this.sh = matches[1];
+   this.metavar = matches[2] || matches[4]
+-  this.long = matches[3];
++  this.lg = matches[3];
+ 
+-  this.name = opt.name || this.long || this.short;
++  this.name = opt.name || this.lg || this.sh;
+   this.default = opt.default;
+   this.help = opt.help;
+   this.position = opt.position;
+@@ -137,7 +138,7 @@ Option = function(opt) {
+ 
+ Option.prototype = {
+   matches : function(arg) {
+-    return this.long == arg || this.short == arg || this.position == arg;
++    return this.lg == arg || this.sh == arg || this.position == arg;
+   },
+   
+   expectsValue : function() {
+@@ -151,43 +152,40 @@ Arg = function(str) {
+ }
+ 
+ Arg.prototype = {
+-  shortRegex : /^\-(\w+?)(?:\s+(.*))?$/,
+-  
+-  longRegex : /^\-\-(.+?)(?:=(.+))?$/,
++  shRegex : /^\-(\w+?)$/,
++
++  lgRegex : /^\-\-(.+?)(?:=(.+))?$/,
+   
+-  isShort : function() {
+-    return this.shortRegex.test(this.str);
+-  },
++  valRegex : /^[^\-]/,
+   
+-  isValue : function() {
+-    return this.str && !this.isShort() && !this.isLong();
++  get chars() {
++    var matches = this.shRegex.exec(this.str);
++    return matches && matches[1].split("");
+   },
+-  
+-  isLong : function() {
+-    return this.longRegex.test(this.str);
++
++  get value() {
++    if(this.str) {
++      var val = this.valRegex.test(this.str) ? this.str
++                  : this.lgRegex.exec(this.str)[2];
++      try { // try to infer type by JSON parsing the string
++        val = JSON.parse(val)
++      } catch(e) {}
++      return val;
++    }
+   },
+   
+-  getChars : function() {
+-    if(this.isShort())
+-      return this.shortRegex.exec(this.str)[1].split("");
++  get lg() {
++    var matches = this.lgRegex.exec(this.str);
++    return matches && matches[1];
+   },
+-  
+-  lastChar : function() {
++
++  get lastChar() {
+     return this.str[this.str.length - 1];
+   },
+-  
+-  getKey : function() {
+-    if(this.isLong())
+-      return this.longRegex.exec(this.str)[1];
+-  },
+-  
+-  getValue : function() {
+-    var val = this.isValue() ? this.str : this.longRegex.exec(this.str)[2];
+-    try { // try to infer type by JSON parsing the string
+-      val = JSON.parse(val)
+-    } catch(e) {}
+-    return val;
+-  },
++
++  isValue : function() {
++    return this.str && this.valRegex.test(this.str);
++  }
+ }
+ 
+ exports.ArgParser = ArgParser;
+diff --git a/test/help.js b/test/help.js
+index bd6cc7a..eedbd6a 100644
+--- a/test/help.js
++++ b/test/help.js
+@@ -34,9 +34,9 @@ var opts = [
+ ];
+ 
+ var parser = new nomnom.ArgParser(opts);
+-assert.equal(strip(parser.helpString()), strip("usage: <script> aname0\
+-    aname1 aname2 [options]options:-d"));
++assert.equal(strip(parser.helpString()), strip("usage: <script> <aname0>\
++    <aname1> <aname2> [options] aname0 aname1 aname2 options:-d"));
+     
+ parser = new nomnom.ArgParser(opts, {script: 'test.js'});
+-assert.equal(strip(parser.helpString()), strip("usage: test.js aname0\
+-        aname1 aname2 [options]options:-d"));
++assert.equal(strip(parser.helpString()), strip("usage: test.js <aname0>\
++        <aname1> <aname2> [options] aname0 aname1 aname2 options:-d"));

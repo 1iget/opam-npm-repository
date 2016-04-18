@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+"lib/async.js" {"lib/async.js"}
+"lib/filter.js" {"lib/filter.js"}
+"lib/sync.js" {"lib/sync.js"}
+".travis.yml" {".travis.yml"}
+]

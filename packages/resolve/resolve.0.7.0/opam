@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "resolve"
+version: "0.7.0"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/node-resolve.git"
+depends: [
+
+]
+
+
+
+

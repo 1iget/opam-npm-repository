@@ -1,0 +1,1 @@
+Return an array of resolved filepaths for require-able local or named npm modules. Wildcard (glob) patterns may be used.

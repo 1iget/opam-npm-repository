@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "tap-parser"
+version: "1.2.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/tap-parser.git"
+depends: [
+"events-to-array" {>="1.0.1" & <"2.0.0"}
+
+"inherits" {>="2.0.1" & <"2.1.0"}
+
+"js-yaml" {>="3.2.7" & <"4.0.0"}
+
+"readable-stream" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"Makefile" {"Makefile"}
+"lib/inherit.js" {"lib/inherit.js"}
+"test/test.js" {"test/test.js"}
+]

@@ -1,0 +1,75 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"mocha.css" {"mocha.css"}
+"mocha.js" {"mocha.js"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"test.js" {"test.js"}
+"bin/mocha" {"bin/mocha"}
+"bin/mocha-debug" {"bin/mocha-debug"}
+"support/compile.js" {"support/compile.js"}
+"support/tail.js" {"support/tail.js"}
+"lib/hook.js" {"lib/hook.js"}
+"lib/mocha.js" {"lib/mocha.js"}
+"lib/runnable.js" {"lib/runnable.js"}
+"lib/runner.js" {"lib/runner.js"}
+"lib/suite.js" {"lib/suite.js"}
+"lib/test.js" {"lib/test.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/browser/tty.js" {"lib/browser/tty.js"}
+"lib/browser/events.js" {"lib/browser/events.js"}
+"lib/interfaces/bdd.js" {"lib/interfaces/bdd.js"}
+"lib/interfaces/exports.js" {"lib/interfaces/exports.js"}
+"lib/interfaces/index.js" {"lib/interfaces/index.js"}
+"lib/interfaces/tdd.js" {"lib/interfaces/tdd.js"}
+"lib/reporters/base.js" {"lib/reporters/base.js"}
+"lib/reporters/doc.js" {"lib/reporters/doc.js"}
+"lib/reporters/dot.js" {"lib/reporters/dot.js"}
+"lib/reporters/html.js" {"lib/reporters/html.js"}
+"lib/reporters/index.js" {"lib/reporters/index.js"}
+"lib/reporters/json-stream.js" {"lib/reporters/json-stream.js"}
+"lib/reporters/json.js" {"lib/reporters/json.js"}
+"lib/reporters/landing.js" {"lib/reporters/landing.js"}
+"lib/reporters/list.js" {"lib/reporters/list.js"}
+"lib/reporters/spec.js" {"lib/reporters/spec.js"}
+"lib/reporters/progress.js" {"lib/reporters/progress.js"}
+"lib/reporters/tap.js" {"lib/reporters/tap.js"}
+"test/duration.js" {"test/duration.js"}
+"test/fs.js" {"test/fs.js"}
+"test/globals.js" {"test/globals.js"}
+"test/hook.async.js" {"test/hook.async.js"}
+"test/hook.sync.js" {"test/hook.sync.js"}
+"test/hook.sync.nested.js" {"test/hook.sync.nested.js"}
+"test/http.js" {"test/http.js"}
+"test/http.meta.2.js" {"test/http.meta.2.js"}
+"test/http.meta.js" {"test/http.meta.js"}
+"test/merge.js" {"test/merge.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/multiple.done.js" {"test/multiple.done.js"}
+"test/pending.js" {"test/pending.js"}
+"test/runnable.js" {"test/runnable.js"}
+"test/test.coffee" {"test/test.coffee"}
+"test/timeout.js" {"test/timeout.js"}
+"test/uncaught.js" {"test/uncaught.js"}
+"test/browser/array.js" {"test/browser/array.js"}
+"test/browser/index.html" {"test/browser/index.html"}
+"test/browser/style.css" {"test/browser/style.css"}
+"test/interfaces/bdd.js" {"test/interfaces/bdd.js"}
+"test/interfaces/exports.js" {"test/interfaces/exports.js"}
+"test/interfaces/tdd.js" {"test/interfaces/tdd.js"}
+"test/misc/cascade.js" {"test/misc/cascade.js"}
+"test/misc/grep.js" {"test/misc/grep.js"}
+"test/misc/nontty.js" {"test/misc/nontty.js"}
+"editors/JavaScript mocha.tmbundle/info.plist" {"editors/JavaScript mocha.tmbundle/info.plist"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - after each.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - after each.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - after.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - after.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - before each.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - before each.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet"}
+"editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet"}
+]

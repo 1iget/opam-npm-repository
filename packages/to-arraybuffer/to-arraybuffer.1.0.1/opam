@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "to-arraybuffer"
+version: "1.0.1"
+maintainer: "jhiesey <john@hiesey.com>"
+author: "jhiesey <john@hiesey.com>"
+license: "MIT"
+dev-repo: "git://github.com/jhiesey/to-arraybuffer.git"
+depends: [
+
+]
+
+
+
+

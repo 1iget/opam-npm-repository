@@ -1,0 +1,12 @@
+lib: [
+".gitignore" {".gitignore"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"src/cheerio.coffee" {"src/cheerio.coffee"}
+"src/parser.coffee" {"src/parser.coffee"}
+"src/renderer.coffee" {"src/renderer.coffee"}
+"src/utils.coffee" {"src/utils.coffee"}
+"tests/benchmark.coffee" {"tests/benchmark.coffee"}
+"tests/htmlparser.test.coffee" {"tests/htmlparser.test.coffee"}
+"tests/initial/basic.html" {"tests/initial/basic.html"}
+]

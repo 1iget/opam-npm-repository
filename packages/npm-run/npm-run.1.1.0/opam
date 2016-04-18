@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "npm-run"
+version: "1.1.0"
+maintainer: "timoxley <secoif@gmail.com>"
+author: "timoxley <secoif@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/timoxley/npm-run.git"
+depends: [
+"minimist" {>="1.1.0" & <"2.0.0"}
+
+"npm-path" {>="1.0.1" & <"2.0.0"}
+
+"runsync" {>="0.1.8" & <"0.2.0"}
+
+"serializerr" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

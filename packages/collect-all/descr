@@ -1,0 +1,1 @@
+Returns a stream which becomes readable once all input is received

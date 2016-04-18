@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"regenerate.js" {"regenerate.js"}
+"LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
+]

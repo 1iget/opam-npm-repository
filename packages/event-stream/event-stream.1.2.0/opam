@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "event-stream"
+version: "1.2.0"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/dominictarr/event-stream.git"
+depends: [
+"optimist" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "browserify"
+version: "1.2.4"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "MIT/X11"
+dev-repo: "git://github.com/substack/node-browserify.git"
+depends: [
+"detective" {>="0.0.1" & <"0.1.0"}
+
+"resolve" {>="0.0.4" & <"0.1.0"}
+
+"nub" {>="0.0.0" & <"0.1.0"}
+
+"commondir" {>="0.0.0" & <"0.1.0"}
+
+"coffee-script" {>="1.1.1" & <"1.2.0"}
+
+]
+
+
+
+

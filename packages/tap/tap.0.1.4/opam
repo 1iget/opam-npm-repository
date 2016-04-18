@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "tap"
+version: "0.1.4"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "Not defined"
+dev-repo: "git://github.com/isaacs/node-tap.git"
+depends: [
+"inherits" {>="0.0.0"}
+
+"yamlish" {>="0.0.0"}
+
+"slide" {>="0.0.0"}
+
+"runforcover" {>="0.0.2" & <"0.1.0"}
+
+]
+
+
+
+

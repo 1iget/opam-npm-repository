@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "node-pre-gyp"
+version: "0.5.3"
+maintainer: "springmeyer <dane@dbsgeo.com>"
+author: "springmeyer <dane@dbsgeo.com>"
+license: "not defined"
+dev-repo: "git://github.com/mapbox/node-pre-gyp.git"
+depends: [
+"nopt" {>="2.2.0" & <"2.3.0"}
+
+"npmlog" {>="0.0.6" & <"0.1.0"}
+
+"request" {>="2.0.0" & <"3.0.0"}
+
+"semver" {>="2.2.1" & <"2.3.0"}
+
+"tar" {>="0.1.19" & <"0.2.0"}
+
+"tar-pack" {>="2.0.0" & <"2.1.0"}
+
+"mkdirp" {>="0.3.5" & <"0.4.0"}
+
+"rc" {>="0.3.4" & <"0.4.0"}
+
+"rimraf" {>="2.2.5" & <"2.3.0"}
+
+]
+
+
+
+

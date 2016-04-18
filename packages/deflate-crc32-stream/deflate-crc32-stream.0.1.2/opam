@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "deflate-crc32-stream"
+version: "0.1.2"
+maintainer: "ctalkington <chris@christalkington.com>"
+author: "ctalkington <chris@christalkington.com>"
+license: "not defined"
+dev-repo: "https://github.com/ctalkington/node-deflate-crc32-stream.git"
+depends: [
+"buffer-crc32" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

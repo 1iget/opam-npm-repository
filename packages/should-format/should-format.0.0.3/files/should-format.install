@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"tests/test.js" {"tests/test.js"}
+"tests/browser/mocha.js" {"tests/browser/mocha.js"}
+"tests/browser/tests.js" {"tests/browser/tests.js"}
+"tests/browser/index.html" {"tests/browser/index.html"}
+"tests/browser/mocha.css" {"tests/browser/mocha.css"}
+]

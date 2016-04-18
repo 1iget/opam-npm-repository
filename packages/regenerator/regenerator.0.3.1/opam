@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "regenerator"
+version: "0.3.1"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "BSD"
+dev-repo: "git://github.com/facebook/regenerator.git"
+depends: [
+"commander" {>="2.0.0" & <"2.1.0"}
+
+"esprima" {="ImdpdDovL2dpdGh1Yi5jb20vYXJpeWEvZXNwcmltYS5naXQjaGFybW9ueSI"}
+
+"ast-types" {>="0.3.8"}
+
+"recast" {>="0.4.25" & <"0.5.0"}
+
+"private" {>="0.0.5" & <"0.1.0"}
+
+"defs" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

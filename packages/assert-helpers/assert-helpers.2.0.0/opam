@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "assert-helpers"
+version: "2.0.0"
+maintainer: "balupton <b@lupton.cc>"
+author: "balupton <b@lupton.cc>"
+license: "Not defined"
+dev-repo: "git+ssh://git@github.com/bevry/assert-helpers.git"
+depends: [
+
+]
+
+
+
+

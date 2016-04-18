@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "hooker"
+version: "0.2.3"
+maintainer: "cowboy <cowboy@rj3.net>"
+author: "cowboy <cowboy@rj3.net>"
+license: "not defined"
+dev-repo: "git://github.com/cowboy/javascript-hooker.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "del"
+version: "0.1.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/del"
+depends: [
+"each-async" {>="0.1.3" & <"0.2.0"}
+
+"globby" {>="0.1.1" & <"0.2.0"}
+
+"is-path-cwd" {>="0.1.0" & <"0.2.0"}
+
+"is-path-in-cwd" {>="0.1.0" & <"0.2.0"}
+
+"rimraf" {>="2.2.8" & <"3.0.0"}
+
+]
+
+
+
+

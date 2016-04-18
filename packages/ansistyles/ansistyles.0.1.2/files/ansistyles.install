@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"ansistyles.js" {"ansistyles.js"}
+".travis.yml" {".travis.yml"}
+"test/ansistyles.js" {"test/ansistyles.js"}
+]

@@ -1,0 +1,9 @@
+lib: [
+"diff.js" {"diff.js"}
+"index.html" {"index.html"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"style.css" {"style.css"}
+"test/diffTest.js" {"test/diffTest.js"}
+]

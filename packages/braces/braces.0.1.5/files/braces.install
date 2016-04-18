@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"examples.js" {"examples.js"}
+"test.js" {"test.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/fixtures/expand-basic.js" {"benchmark/fixtures/expand-basic.js"}
+"benchmark/fixtures/expand-nested.js" {"benchmark/fixtures/expand-nested.js"}
+"benchmark/fixtures/expand-range.js" {"benchmark/fixtures/expand-range.js"}
+"benchmark/libs/brace-expansion.js" {"benchmark/libs/brace-expansion.js"}
+"benchmark/libs/braces.js" {"benchmark/libs/braces.js"}
+"benchmark/libs/minimatch.js" {"benchmark/libs/minimatch.js"}
+"benchmark/libs/pathname-expansion.js" {"benchmark/libs/pathname-expansion.js"}
+".verb.md" {".verb.md"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+]

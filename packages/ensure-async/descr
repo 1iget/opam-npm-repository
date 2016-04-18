@@ -1,0 +1,1 @@
+Wrap an async function and ensure it calls its callback on a later tick of the event loop.

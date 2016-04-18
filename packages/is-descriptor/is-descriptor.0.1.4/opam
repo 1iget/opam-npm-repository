@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "is-descriptor"
+version: "0.1.4"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/is-descriptor.git"
+depends: [
+"is-accessor-descriptor" {>="0.1.6" & <"0.2.0"}
+
+"is-data-descriptor" {>="0.1.4" & <"0.2.0"}
+
+"kind-of" {>="3.0.2" & <"4.0.0"}
+
+"lazy-cache" {>="1.0.3" & <"2.0.0"}
+
+]
+
+
+
+

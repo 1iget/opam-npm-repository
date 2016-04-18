@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "useragent"
+version: "2.0.0"
+maintainer: "V1 <info@3rd-Eden.com>"
+author: "V1 <info@3rd-Eden.com>"
+license: "Not defined"
+dev-repo: "http://github.com/3rd-Eden/useragent.git"
+depends: [
+
+]
+
+
+
+

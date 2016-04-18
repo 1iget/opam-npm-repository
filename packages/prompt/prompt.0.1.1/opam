@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "prompt"
+version: "0.1.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/nodejitsu/node-prompt.git"
+depends: [
+"async" {>="0.1.0" & <"0.2.0"}
+
+"colors" {>="0.0.0" & <"1.0.0"}
+
+"winston" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "zip-stream"
+version: "0.3.2"
+maintainer: "ctalkington <chris@christalkington.com>"
+author: "ctalkington <chris@christalkington.com>"
+license: "not defined"
+dev-repo: "https://github.com/ctalkington/node-zip-stream.git"
+depends: [
+"crc32-stream" {>="0.2.0" & <"0.3.0"}
+
+"readable-stream" {>="1.0.24" & <"1.1.0"}
+
+"lodash.defaults" {>="2.4.1" & <"2.5.0"}
+
+"buffer-crc32" {>="0.2.1" & <"0.3.0"}
+
+"debug" {>="0.8.0" & <"0.9.0"}
+
+]
+
+
+
+

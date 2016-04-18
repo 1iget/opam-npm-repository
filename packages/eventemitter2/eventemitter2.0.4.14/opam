@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "eventemitter2"
+version: "0.4.14"
+maintainer: "hij1nx <hij1nx@me.com>"
+author: "hij1nx <hij1nx@me.com>"
+license: "MIT"
+dev-repo: "git://github.com/hij1nx/EventEmitter2.git"
+depends: [
+
+]
+
+
+
+

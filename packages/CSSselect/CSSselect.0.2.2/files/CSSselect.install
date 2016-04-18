@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"browser_functions.js" {"browser_functions.js"}
+"index.js" {"index.js"}
+"tests/bench.js" {"tests/bench.js"}
+"tests/helper.js" {"tests/helper.js"}
+"tests/slickspeed.js" {"tests/slickspeed.js"}
+"tests/docs/W3C_Selectors.html" {"tests/docs/W3C_Selectors.html"}
+"tests/qwery/tests.js" {"tests/qwery/tests.js"}
+"tests/qwery/index.html" {"tests/qwery/index.html"}
+]

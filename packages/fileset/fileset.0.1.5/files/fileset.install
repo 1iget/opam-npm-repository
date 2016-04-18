@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"lib/fileset.js" {"lib/fileset.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"tests/helper.js" {"tests/helper.js"}
+"tests/test.js" {"tests/test.js"}
+"tests/fixtures/an (odd) filename.js" {"tests/fixtures/an (odd) filename.js"}
+]

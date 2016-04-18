@@ -1,0 +1,15 @@
+lib: [
+".npmignore" {".npmignore"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/" {"lib/"}
+"lib/string.coffee" {"lib/string.coffee"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"string.js" {"string.js"}
+"string.min.js" {"string.min.js"}
+"test/" {"test/"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/string.test.coffee" {"test/string.test.coffee"}
+]

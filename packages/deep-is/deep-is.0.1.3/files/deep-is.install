@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+"example/cmp.js" {"example/cmp.js"}
+"test/NaN.js" {"test/NaN.js"}
+"test/cmp.js" {"test/cmp.js"}
+"test/neg-vs-pos-0.js" {"test/neg-vs-pos-0.js"}
+]

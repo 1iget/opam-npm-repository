@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "node-v8-clone"
+version: "0.2.0"
+maintainer: "wicked <alexey.kupershtokh@gmail.com>"
+author: "wicked <alexey.kupershtokh@gmail.com>"
+license: "BSD"
+dev-repo: "git://github.com/AlexeyKupershtokh/node-v8-clone.git"
+depends: [
+"lodash" {>="0.0.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

@@ -1,0 +1,10 @@
+lib: [
+"CHANGES" {"CHANGES"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"qq.js" {"qq.js"}
+"README" {"README"}
+"test/all.js" {"test/all.js"}
+"test/deep.js" {"test/deep.js"}
+"test/lazy.js" {"test/lazy.js"}
+]

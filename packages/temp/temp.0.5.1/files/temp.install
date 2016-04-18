@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"examples/grepcount.js" {"examples/grepcount.js"}
+"examples/pdfcreator.js" {"examples/pdfcreator.js"}
+"lib/temp.js" {"lib/temp.js"}
+"temp-0.5.1.tgz" {"temp-0.5.1.tgz"}
+"test/temp-test.js" {"test/temp-test.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "q"
+version: "1.1.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "Not defined"
+dev-repo: "git://github.com/kriskowal/q.git"
+depends: [
+
+]
+
+
+
+

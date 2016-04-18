@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"bin/jshint" {"bin/jshint"}
+"src/cli/cli.js" {"src/cli/cli.js"}
+"src/cli/defaults.json" {"src/cli/defaults.json"}
+"src/platforms/rhino.js" {"src/platforms/rhino.js"}
+"src/reporters/checkstyle.js" {"src/reporters/checkstyle.js"}
+"src/reporters/default.js" {"src/reporters/default.js"}
+"src/reporters/jslint_xml.js" {"src/reporters/jslint_xml.js"}
+"src/reporters/non_error.js" {"src/reporters/non_error.js"}
+"src/shared/messages.js" {"src/shared/messages.js"}
+"src/shared/vars.js" {"src/shared/vars.js"}
+"src/stable/jshint.js" {"src/stable/jshint.js"}
+"src/stable/lex.js" {"src/stable/lex.js"}
+"src/stable/reg.js" {"src/stable/reg.js"}
+"src/stable/state.js" {"src/stable/state.js"}
+"src/stable/style.js" {"src/stable/style.js"}
+]

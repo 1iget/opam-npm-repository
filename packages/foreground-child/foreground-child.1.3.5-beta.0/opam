@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "foreground-child"
+version: "1.3.5-beta.0"
+maintainer: "isaacs <isaacs@npmjs.com>"
+author: "isaacs <isaacs@npmjs.com>"
+license: "ISC"
+dev-repo: "git+https://github.com/tapjs/foreground-child.git"
+depends: [
+"cross-spawn-async" {>="2.1.1" & <"3.0.0"}
+
+"signal-exit" {>="2.0.0" & <"3.0.0"}
+
+"which" {>="1.2.1" & <"2.0.0"}
+
+]
+
+
+
+

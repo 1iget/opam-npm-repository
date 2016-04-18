@@ -1,0 +1,5 @@
+lib: [
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"binary-extensions.json" {"binary-extensions.json"}
+]

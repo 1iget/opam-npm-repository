@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "to-template"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/to-template.git"
+depends: [
+"is-plain-object" {>="1.0.0" & <"2.0.0"}
+
+"to-vinyl" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

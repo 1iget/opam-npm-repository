@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README" {"README"}
+"LICENSE" {"LICENSE"}
+"fs-boot.js" {"fs-boot.js"}
+"CHANGES" {"CHANGES"}
+"test/directory.js" {"test/directory.js"}
+]

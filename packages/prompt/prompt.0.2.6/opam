@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "prompt"
+version: "0.2.6"
+maintainer: "jesusabdullah <josh.holbrook@gmail.com>"
+author: "jesusabdullah <josh.holbrook@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/flatiron/prompt.git"
+depends: [
+"pkginfo" {>="0.0.0" & <"1.0.0"}
+
+"read" {>="1.0.0" & <"1.1.0"}
+
+"revalidator" {>="0.1.0" & <"0.2.0"}
+
+"utile" {>="0.1.0" & <"0.2.0"}
+
+"winston" {>="0.6.0" & <"0.7.0"}
+
+]
+
+
+
+

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "q-fs"
+version: "0.0.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "http://github.com/kriskowal/q-fs.git"
+depends: [
+"util" {="0.0.0"}
+
+"q" {="0.0.3"}
+
+"q-io" {="0.0.0"}
+
+"fs-boot" {="0.0.0"}
+
+]
+
+
+
+

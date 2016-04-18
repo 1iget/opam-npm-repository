@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "eventsource"
+version: "0.1.1"
+maintainer: "aslakhellesoy <aslak.hellesoy@gmail.com>"
+author: "aslakhellesoy <aslak.hellesoy@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/aslakhellesoy/eventsource-node.git"
+depends: [
+
+]
+
+
+
+

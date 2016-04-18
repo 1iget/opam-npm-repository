@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "cmd-shim"
+version: "1.0.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/cmd-shim.git"
+depends: [
+"graceful-fs" {>="1.2.0" & <"1.3.0"}
+
+"rimraf" {>="2.0.0" & <"3.0.0"}
+
+"mkdirp" {>="0.3.3" & <"0.4.0"}
+
+"slide" {>="1.0.0" & <"2.0.0"}
+
+"npmlog" {>="0.0.0" & <"1.0.0"}
+
+]
+
+
+
+

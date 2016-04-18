@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/clone.js" {"lib/clone.js"}
+"src/clone.cc" {"src/clone.cc"}
+"examples/example.js" {"examples/example.js"}
+"bench/deep.js" {"bench/deep.js"}
+"bench/regexp.js" {"bench/regexp.js"}
+"bench/class.js" {"bench/class.js"}
+"bench/arrays.js" {"bench/arrays.js"}
+"bench/number.js" {"bench/number.js"}
+"bench/object.js" {"bench/object.js"}
+"bench/date.js" {"bench/date.js"}
+"bench/deep_array.js" {"bench/deep_array.js"}
+"binding.gyp" {"binding.gyp"}
+".travis.yml" {".travis.yml"}
+"test/deep.js" {"test/deep.js"}
+"test/test.js" {"test/test.js"}
+]

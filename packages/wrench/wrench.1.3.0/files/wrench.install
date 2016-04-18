@@ -1,0 +1,6 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"lib/wrench.js" {"lib/wrench.js"}
+]

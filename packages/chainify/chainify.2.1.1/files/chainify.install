@@ -1,0 +1,4 @@
+lib: [
+"chainify.js" {"chainify.js"}
+"package.json" {"package.json"}
+]

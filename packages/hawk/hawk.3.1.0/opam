@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "hawk"
+version: "3.1.0"
+maintainer: "hueniverse <eran@hueniverse.com>"
+author: "hueniverse <eran@hueniverse.com>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/hueniverse/hawk.git"
+depends: [
+"hoek" {>="2.0.0" & <"3.0.0"}
+
+"boom" {>="2.8.0" & <"3.0.0"}
+
+"cryptiles" {>="2.0.0" & <"3.0.0"}
+
+"sntp" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

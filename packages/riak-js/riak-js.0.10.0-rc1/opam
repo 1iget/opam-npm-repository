@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "riak-js"
+version: "0.10.0-rc1"
+maintainer: "frank06 <francisco.treacy@gmail.com>"
+author: "frank06 <francisco.treacy@gmail.com>"
+license: "not defined"
+
+depends: [
+"xml" {="0.0.7"}
+
+"butils" {="latest"}
+
+"protobuf.js" {="latest"}
+
+"riakpbc" {="0.0.10"}
+
+]
+
+
+
+

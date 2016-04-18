@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-glob"
+version: "2.0.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/is-glob.git"
+depends: [
+"is-extglob" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

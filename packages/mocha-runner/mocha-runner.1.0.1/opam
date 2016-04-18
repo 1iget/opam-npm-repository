@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "mocha-runner"
+version: "1.0.1"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/esbeautifier"
+depends: [
+"file-entry-cache" {>="1.0.1" & <"2.0.0"}
+
+"glob-expand" {="0.0.2"}
+
+"lodash.merge" {>="3.0.2" & <"4.0.0"}
+
+"obj-util" {>="1.0.0" & <"2.0.0"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+"read-json-sync" {>="1.1.0" & <"2.0.0"}
+
+"stringformat" {="0.0.5"}
+
+]
+
+
+
+

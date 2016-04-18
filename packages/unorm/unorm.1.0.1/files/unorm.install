@@ -1,0 +1,24 @@
+lib: [
+".npmignore" {".npmignore"}
+"download-source.sh" {"download-source.sh"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"package.sh" {"package.sh"}
+"README.markdown" {"README.markdown"}
+"src/" {"src/"}
+"src/data/" {"src/data/"}
+"src/data/.classpath" {"src/data/.classpath"}
+"src/data/.project" {"src/data/.project"}
+"src/data/CompositionExclusions.txt" {"src/data/CompositionExclusions.txt"}
+"src/data/NormalizationTest.txt" {"src/data/NormalizationTest.txt"}
+"src/data/readme.txt" {"src/data/readme.txt"}
+"src/data/src/" {"src/data/src/"}
+"src/data/src/UnormNormalizerBuilder.java" {"src/data/src/UnormNormalizerBuilder.java"}
+"src/data/UnicodeData.txt" {"src/data/UnicodeData.txt"}
+"src/index.html" {"src/index.html"}
+"src/test.html" {"src/test.html"}
+"src/unittest.js" {"src/unittest.js"}
+"src/unorm.js" {"src/unorm.js"}
+"src/unormdata.js" {"src/unormdata.js"}
+]

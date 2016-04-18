@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "temporary"
+version: "0.0.2"
+maintainer: "vesln <hi@vesln.com>"
+author: "vesln <hi@vesln.com>"
+license: "not defined"
+dev-repo: "git://github.com/vesln/temporary.git"
+depends: [
+"package" {="1.0.0"}
+
+]
+
+
+
+

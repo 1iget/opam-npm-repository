@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/encoding.js" {"lib/encoding.js"}
+"test/test.js" {"test/test.js"}
+]

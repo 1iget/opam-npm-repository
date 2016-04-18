@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "pop-hash"
+version: "1.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "MIT"
+dev-repo: "https://github.com/kriskowal/pop-hash.git"
+depends: [
+"objhash" {>="1.0.5" & <"2.0.0"}
+
+"weak-map" {>="1.0.5" & <"2.0.0"}
+
+]
+
+
+
+

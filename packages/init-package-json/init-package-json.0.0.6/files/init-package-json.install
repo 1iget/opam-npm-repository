@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"default-input.js" {"default-input.js"}
+"example.js" {"example.js"}
+"init-package-json.js" {"init-package-json.js"}
+"test/basic.js" {"test/basic.js"}
+"test/basic.input" {"test/basic.input"}
+]

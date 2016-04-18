@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"chmodr.js" {"chmodr.js"}
+".nyc_output/61779.json" {".nyc_output/61779.json"}
+".nyc_output/61781.json" {".nyc_output/61781.json"}
+".nyc_output/61783.json" {".nyc_output/61783.json"}
+".nyc_output/61785.json" {".nyc_output/61785.json"}
+".nyc_output/61787.json" {".nyc_output/61787.json"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+"test/symlink-sync.js" {"test/symlink-sync.js"}
+"test/symlink.js" {"test/symlink.js"}
+"test/sync.js" {"test/sync.js"}
+]

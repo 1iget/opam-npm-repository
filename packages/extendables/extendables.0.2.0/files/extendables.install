@@ -1,0 +1,8 @@
+lib: [
+".gitignore" {".gitignore"}
+"extendables.js" {"extendables.js"}
+"History.md" {"History.md"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"test/test-extendables.js" {"test/test-extendables.js"}
+]

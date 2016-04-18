@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-binary"
+version: "0.1.0"
+maintainer: "alessioalex <alexandru.vladutu@gmail.com>"
+author: "alessioalex <alexandru.vladutu@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/alessioalex/is-binary"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+"isstream.js" {"isstream.js"}
+"LICENSE.md" {"LICENSE.md"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+]

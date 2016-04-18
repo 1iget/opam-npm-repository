@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "template-init"
+version: "0.4.1"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "Not defined"
+dev-repo: "git://github.com/assemble/template-init.git"
+depends: [
+"init-file-loader" {>="0.1.1" & <"0.2.0"}
+
+"plugin-error" {>="0.1.0" & <"0.2.0"}
+
+"through2" {>="0.6.5" & <"0.7.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "arr-map"
+version: "2.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/arr-map.git"
+depends: [
+"make-iterator" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

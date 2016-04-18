@@ -1,0 +1,13 @@
+lib: [
+"" {""}
+".gitignore" {".gitignore"}
+"buffertools.cc" {"buffertools.cc"}
+"BoyerMoore.h" {"BoyerMoore.h"}
+".cproject" {".cproject"}
+"test.js" {"test.js"}
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"wscript" {"wscript"}
+"buffertools.js" {"buffertools.js"}
+".project" {".project"}
+]

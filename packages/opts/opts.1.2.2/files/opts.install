@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"examples/" {"examples/"}
+"examples/example3.js" {"examples/example3.js"}
+"examples/example2.js" {"examples/example2.js"}
+"examples/example4.js" {"examples/example4.js"}
+"examples/example1.js" {"examples/example1.js"}
+".hgtags" {".hgtags"}
+"js/" {"js/"}
+"js/opts.js" {"js/opts.js"}
+".hgignore" {".hgignore"}
+"LICENSE" {"LICENSE"}
+"README" {"README"}
+]

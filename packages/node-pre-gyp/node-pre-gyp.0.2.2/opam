@@ -1,0 +1,33 @@
+opam-version: "1.2"
+name: "node-pre-gyp"
+version: "0.2.2"
+maintainer: "springmeyer <dane@dbsgeo.com>"
+author: "springmeyer <dane@dbsgeo.com>"
+license: "not defined"
+dev-repo: "git://github.com/springmeyer/node-pre-gyp.git"
+depends: [
+"nopt" {>="2.0.0" & <"3.0.0"}
+
+"npmlog" {>="0.0.0" & <"1.0.0"}
+
+"request" {>="2.0.0" & <"3.0.0"}
+
+"semver" {>="2.1.0" & <"2.2.0"}
+
+"tar" {>="0.0.0" & <"1.0.0"}
+
+"tar-pack" {>="0.0.0"}
+
+"mkdirp" {>="0.0.0"}
+
+"aws-sdk" {>="2.0.0-rc6" & <"2.1.0"}
+
+"rc" {>="0.3.2" & <"0.4.0"}
+
+"rimraf" {>="0.0.0"}
+
+]
+
+
+
+

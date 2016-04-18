@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "only-shallow"
+version: "1.1.0"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "ISC"
+dev-repo: "git+https://github.com/othiym23/only-shallow.git"
+depends: [
+
+]
+
+
+
+

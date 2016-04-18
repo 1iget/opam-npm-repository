@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"browser_functions.js" {"browser_functions.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/attributes.js" {"lib/attributes.js"}
+"lib/basefunctions.js" {"lib/basefunctions.js"}
+"lib/compile.js" {"lib/compile.js"}
+"lib/general.js" {"lib/general.js"}
+"lib/nth-check.js" {"lib/nth-check.js"}
+"lib/pseudos.js" {"lib/pseudos.js"}
+"lib/sort.js" {"lib/sort.js"}
+"test/test.js" {"test/test.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/nwmatcher/LICENSE" {"test/nwmatcher/LICENSE"}
+"test/nwmatcher/index.js" {"test/nwmatcher/index.js"}
+"test/nwmatcher/test.html" {"test/nwmatcher/test.html"}
+"test/qwery/index.js" {"test/qwery/index.js"}
+"test/qwery/index.html" {"test/qwery/index.html"}
+"test/tools/bench.js" {"test/tools/bench.js"}
+"test/tools/helper.js" {"test/tools/helper.js"}
+"test/tools/slickspeed.js" {"test/tools/slickspeed.js"}
+"test/tools/docs/W3C_Selectors.html" {"test/tools/docs/W3C_Selectors.html"}
+]

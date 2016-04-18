@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/common-dir.js" {"lib/common-dir.js"}
+"test/commonDir.js" {"test/commonDir.js"}
+]

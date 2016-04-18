@@ -1,0 +1,20 @@
+lib: [
+".gitignore" {".gitignore"}
+"examples/" {"examples/"}
+"examples/test.chrome.js" {"examples/test.chrome.js"}
+"examples/test.ondemand.ie.js" {"examples/test.ondemand.ie.js"}
+"examples/test.ondemand.js" {"examples/test.ondemand.js"}
+"lib/" {"lib/"}
+"lib/bin.js" {"lib/bin.js"}
+"lib/main.js" {"lib/main.js"}
+"LICENSE.APACHE2" {"LICENSE.APACHE2"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/unit/" {"test/unit/"}
+"test/unit/assets/" {"test/unit/assets/"}
+"test/unit/assets/test-page.html" {"test/unit/assets/test-page.html"}
+"test/unit/basic-test.coffee" {"test/unit/basic-test.coffee"}
+"test/unit/per-method-test.coffee" {"test/unit/per-method-test.coffee"}
+]

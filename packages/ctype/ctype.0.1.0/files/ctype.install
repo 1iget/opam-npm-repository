@@ -1,0 +1,18 @@
+lib: [
+"CHANGELOG" {"CHANGELOG"}
+"ctio.js" {"ctio.js"}
+"ctype.js" {"ctype.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README" {"README"}
+"tools/jsstyle" {"tools/jsstyle"}
+"tst/ctype/tst.basicr.js" {"tst/ctype/tst.basicr.js"}
+"tst/ctype/tst.basicw.js" {"tst/ctype/tst.basicw.js"}
+"tst/ctio/float/tst.rfloat.js" {"tst/ctio/float/tst.rfloat.js"}
+"tst/ctio/float/tst.wfloat.js" {"tst/ctio/float/tst.wfloat.js"}
+"tst/ctio/int/tst.rint.js" {"tst/ctio/int/tst.rint.js"}
+"tst/ctio/int/tst.wint.js" {"tst/ctio/int/tst.wint.js"}
+"tst/ctio/uint/tst.roundtrip.js" {"tst/ctio/uint/tst.roundtrip.js"}
+"tst/ctio/uint/tst.ruint.js" {"tst/ctio/uint/tst.ruint.js"}
+"tst/ctio/uint/tst.wuint.js" {"tst/ctio/uint/tst.wuint.js"}
+]

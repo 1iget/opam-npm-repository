@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "os-locale"
+version: "1.2.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/sindresorhus/os-locale.git"
+depends: [
+"exec-file-sync" {>="2.0.0" & <"3.0.0"}
+
+"lcid" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

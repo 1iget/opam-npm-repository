@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verb.md" {".verb.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"lib/index.js" {"lib/index.js"}
+"lib/middleware/escape.js" {"lib/middleware/escape.js"}
+"lib/middleware/index.js" {"lib/middleware/index.js"}
+"lib/middleware/parallel.js" {"lib/middleware/parallel.js"}
+"lib/utils/headings.js" {"lib/utils/headings.js"}
+"lib/utils/index.js" {"lib/utils/index.js"}
+"lib/utils/toTemplate.js" {"lib/utils/toTemplate.js"}
+"lib/utils/toVinyl.js" {"lib/utils/toVinyl.js"}
+"lib/utils/vinylProps.js" {"lib/utils/vinylProps.js"}
+"test/test.js" {"test/test.js"}
+"test/expected/template-object.js" {"test/expected/template-object.js"}
+"test/fixtures/delims.md" {"test/fixtures/delims.md"}
+".travis.yml" {".travis.yml"}
+]

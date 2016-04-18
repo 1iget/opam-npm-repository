@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-unc-path"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/is-unc-path.git"
+depends: [
+"unc-path-regex" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "object-omit"
+version: "1.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/object-omit.git"
+depends: [
+"for-own" {>="0.1.2" & <"0.2.0"}
+
+"isobject" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

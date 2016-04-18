@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "spdx-license-ids"
+version: "1.0.2"
+maintainer: "shinnn <snnskwtnb@gmail.com>"
+author: "shinnn <snnskwtnb@gmail.com>"
+license: "Unlicense"
+dev-repo: "git+https://github.com/shinnn/spdx-license-ids.git"
+depends: [
+
+]
+
+
+
+

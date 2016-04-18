@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "timers-browserify"
+version: "1.0.0"
+maintainer: "jryans <jryans@gmail.com>"
+author: "jryans <jryans@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/jryans/timers-browserify.git"
+depends: [
+"setimmediate" {>="1.0.1" & <"1.1.0"}
+
+]
+
+
+
+

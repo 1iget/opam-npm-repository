@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"README.md~" {"README.md~"}
+"encodings/dbcs-codec.js" {"encodings/dbcs-codec.js"}
+"encodings/dbcs-data.js" {"encodings/dbcs-data.js"}
+"encodings/index.js" {"encodings/index.js"}
+"encodings/internal.js" {"encodings/internal.js"}
+"encodings/sbcs-codec.js" {"encodings/sbcs-codec.js"}
+"encodings/sbcs-data-generated.js" {"encodings/sbcs-data-generated.js"}
+"encodings/sbcs-data.js" {"encodings/sbcs-data.js"}
+"encodings/tables/big5-added.json" {"encodings/tables/big5-added.json"}
+"encodings/tables/cp932-added.json" {"encodings/tables/cp932-added.json"}
+"encodings/tables/cp936.json" {"encodings/tables/cp936.json"}
+"encodings/tables/cp949.json" {"encodings/tables/cp949.json"}
+"encodings/tables/cp950.json" {"encodings/tables/cp950.json"}
+"encodings/tables/gb18030-ranges.json" {"encodings/tables/gb18030-ranges.json"}
+"encodings/tables/gbk-added.json" {"encodings/tables/gbk-added.json"}
+"encodings/tables/shiftjis.json" {"encodings/tables/shiftjis.json"}
+]

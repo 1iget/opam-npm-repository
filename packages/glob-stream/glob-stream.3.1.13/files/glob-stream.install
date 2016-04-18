@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/main.js" {"test/main.js"}
+"test/fixtures/.swag" {"test/fixtures/.swag"}
+"test/fixtures/stuff/run.dmc" {"test/fixtures/stuff/run.dmc"}
+"test/fixtures/stuff/test.dmc" {"test/fixtures/stuff/test.dmc"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/fixtures/whatsgoingon/test.js" {"test/fixtures/whatsgoingon/test.js"}
+"test/fixtures/whatsgoingon/hey/isaidhey/whatsgoingon/test.txt" {"test/fixtures/whatsgoingon/hey/isaidhey/whatsgoingon/test.txt"}
+]

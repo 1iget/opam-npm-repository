@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"read-json.js" {"read-json.js"}
+"test/basic.js" {"test/basic.js"}
+"test/non-json.js" {"test/non-json.js"}
+"test/fixtures/not-json.css" {"test/fixtures/not-json.css"}
+]

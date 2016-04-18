@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "promzard"
+version: "0.2.1"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/promzard"
+depends: [
+"read" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

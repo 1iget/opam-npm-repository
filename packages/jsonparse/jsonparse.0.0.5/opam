@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "jsonparse"
+version: "0.0.5"
+maintainer: "creationix <tim@creationix.com>"
+author: "creationix <tim@creationix.com>"
+license: "MIT"
+dev-repo: "http://github.com/creationix/jsonparse.git"
+depends: [
+
+]
+
+
+
+

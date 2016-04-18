@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"_promisify.js" {"_promisify.js"}
+"_promisify_all.js" {"_promisify_all.js"}
+"fs.js" {"fs.js"}
+"crypto.js" {"crypto.js"}
+"dns.js" {"dns.js"}
+"zlib.js" {"zlib.js"}
+"child_process.js" {"child_process.js"}
+".travis.yml" {".travis.yml"}
+"HISTORY.md" {"HISTORY.md"}
+]

@@ -1,0 +1,33 @@
+opam-version: "1.2"
+name: "gulp"
+version: "2.6.1"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/gulp.git"
+depends: [
+"event-stream" {>="3.0.16" & <"3.1.0"}
+
+"glob-stream" {>="0.1.0" & <"0.2.0"}
+
+"mkdirp" {>="0.3.5" & <"0.4.0"}
+
+"optimist" {>="0.6.0" & <"0.7.0"}
+
+"gulp-util" {>="1.1.1" & <"1.2.0"}
+
+"gaze" {>="0.4.3" & <"0.5.0"}
+
+"orchestrator" {>="0.1.0" & <"0.2.0"}
+
+"resolve" {>="0.6.1" & <"0.7.0"}
+
+"semver" {>="2.2.1" & <"2.3.0"}
+
+"findup-sync" {>="0.1.2" & <"0.2.0"}
+
+]
+
+
+
+

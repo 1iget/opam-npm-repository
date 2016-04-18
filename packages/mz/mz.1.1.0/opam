@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "mz"
+version: "1.1.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/normalize/mz"
+depends: [
+"native-or-bluebird" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

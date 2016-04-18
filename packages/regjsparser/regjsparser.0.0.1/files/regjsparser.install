@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"parser.js" {"parser.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"test/create_ref.js" {"test/create_ref.js"}
+"test/index.js" {"test/index.js"}
+"test/parse_input.json" {"test/parse_input.json"}
+"test/parse_output.json" {"test/parse_output.json"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "vinyl"
+version: "0.2.2"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/vinyl.git"
+depends: [
+"clone-stats" {="0.0.0"}
+
+]
+
+
+
+

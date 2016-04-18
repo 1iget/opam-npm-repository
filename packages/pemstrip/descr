@@ -1,0 +1,1 @@
+Strips PKI artifacts down to plain base64-encoded strings, and bundles them back up.

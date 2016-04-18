@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "extended"
+version: "0.0.1"
+maintainer: "damartin <doug@dougamartin.com>"
+author: "damartin <doug@dougamartin.com>"
+license: "MIT"
+dev-repo: "git:git@github.com:doug-martin/extended.git"
+depends: [
+"extender" {="0.0.4"}
+
+]
+
+
+
+

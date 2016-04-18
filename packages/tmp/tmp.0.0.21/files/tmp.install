@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"lib/tmp.js" {"lib/tmp.js"}
+"test/base.js" {"test/base.js"}
+"test/dir-test.js" {"test/dir-test.js"}
+"test/file-test.js" {"test/file-test.js"}
+"test/graceful.js" {"test/graceful.js"}
+"test/keep.js" {"test/keep.js"}
+"test/name-test.js" {"test/name-test.js"}
+"test/spawn.js" {"test/spawn.js"}
+"test/unsafe.js" {"test/unsafe.js"}
+"test/symlinkme/file.js" {"test/symlinkme/file.js"}
+"test-all.sh" {"test-all.sh"}
+]

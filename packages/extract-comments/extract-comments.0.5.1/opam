@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "extract-comments"
+version: "0.5.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/extract-comments.git"
+depends: [
+"map-files" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

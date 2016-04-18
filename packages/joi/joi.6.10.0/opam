@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "joi"
+version: "6.10.0"
+maintainer: "hueniverse <eran@hueniverse.com>"
+author: "hueniverse <eran@hueniverse.com>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/hapijs/joi.git"
+depends: [
+"hoek" {>="2.0.0" & <"3.0.0"}
+
+"topo" {>="1.0.0" & <"2.0.0"}
+
+"isemail" {>="1.0.0" & <"2.0.0"}
+
+"moment" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

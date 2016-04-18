@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "lru-queue"
+version: "0.1.0"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git://github.com/medikoo/lru-queue.git"
+depends: [
+"es5-ext" {>="0.10.2" & <"0.11.0"}
+
+]
+
+
+
+

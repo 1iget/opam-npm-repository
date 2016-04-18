@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "glob-parent"
+version: "1.2.0"
+maintainer: "es128 <elan.shanker+npm@gmail.com>"
+author: "es128 <elan.shanker+npm@gmail.com>"
+license: "ISC"
+dev-repo: "https://github.com/es128/glob-parent"
+depends: [
+"is-glob" {>="1.1.1" & <"2.0.0"}
+
+]
+
+
+
+

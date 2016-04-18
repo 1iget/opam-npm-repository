@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"fstream-npm.js" {"fstream-npm.js"}
+"example/bundle.js" {"example/bundle.js"}
+"example/dir-tar.js" {"example/dir-tar.js"}
+"example/dir.js" {"example/dir.js"}
+"example/example.js" {"example/example.js"}
+"example/ig-tar.js" {"example/ig-tar.js"}
+"example/tar.js" {"example/tar.js"}
+]

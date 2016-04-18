@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "asn1.js"
+version: "0.6.6"
+maintainer: "fedor.indutny <fedor.indutny@gmail.com>"
+author: "fedor.indutny <fedor.indutny@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:indutny/asn1.js"
+depends: [
+"bn.js" {>="0.16.0" & <"0.17.0"}
+
+]
+
+
+
+

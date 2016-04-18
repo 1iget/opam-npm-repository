@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "stream-browserify"
+version: "2.0.1"
+maintainer: "substack <substack@gmail.com>"
+author: "substack <substack@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/stream-browserify.git"
+depends: [
+"inherits" {>="2.0.1" & <"2.1.0"}
+
+"readable-stream" {>="2.0.2" & <"3.0.0"}
+
+]
+
+
+
+

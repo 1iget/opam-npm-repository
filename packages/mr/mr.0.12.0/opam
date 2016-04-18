@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "mr"
+version: "0.12.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+
+depends: [
+"q" {>="0.8.11" & <"0.10.0"}
+
+]
+
+
+
+

@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+".gitmodules" {".gitmodules"}
+"CHANGES.md" {"CHANGES.md"}
+"jsl.node.conf" {"jsl.node.conf"}
+"lib/jsprim.js" {"lib/jsprim.js"}
+"test/basic.js" {"test/basic.js"}
+"test/extraprops.js" {"test/extraprops.js"}
+"test/hrtimeadd.js" {"test/hrtimeadd.js"}
+"test/hrtimediff.js" {"test/hrtimediff.js"}
+"test/hrtimesecs.js" {"test/hrtimesecs.js"}
+"test/merge.js" {"test/merge.js"}
+"test/validate-bench.js" {"test/validate-bench.js"}
+"test/validate.js" {"test/validate.js"}
+"Makefile.targ" {"Makefile.targ"}
+]

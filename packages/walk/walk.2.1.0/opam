@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "walk"
+version: "2.1.0"
+maintainer: "coolaj86 <coolaj86@gmail.com>"
+author: "coolaj86 <coolaj86@gmail.com>"
+license: "not defined"
+
+depends: [
+"forEachAsync" {>="2.1.0"}
+
+]
+
+
+
+

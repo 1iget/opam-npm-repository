@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"License" {"License"}
+"Makefile" {"Makefile"}
+"equation.gif" {"equation.gif"}
+"example/dns.js" {"example/dns.js"}
+"lib/retry.js" {"lib/retry.js"}
+"lib/retry_operation.js" {"lib/retry_operation.js"}
+"test/common.js" {"test/common.js"}
+"test/runner.js" {"test/runner.js"}
+"test/integration/test-retry-operation.js" {"test/integration/test-retry-operation.js"}
+"test/integration/test-timeouts.js" {"test/integration/test-timeouts.js"}
+]

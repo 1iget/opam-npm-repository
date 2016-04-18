@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "long"
+version: "1.1.5"
+maintainer: "dcode <dcode@dcode.io>"
+author: "dcode <dcode@dcode.io>"
+license: "Apache-2.0"
+dev-repo: "https://github.com/dcodeIO/Long.js.git"
+depends: [
+
+]
+
+
+
+

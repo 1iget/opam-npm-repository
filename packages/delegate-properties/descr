@@ -1,0 +1,1 @@
+Deep-clone properties from one object to another and make them non-enumerable, or make existing properties on an object non-enumerable.

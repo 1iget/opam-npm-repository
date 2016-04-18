@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "unzip-response"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/unzip-response"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "useragent"
+version: "1.0.6"
+maintainer: "V1 <info@3rd-Eden.com>"
+author: "V1 <info@3rd-Eden.com>"
+license: "not defined"
+dev-repo: "git://github.com/3rd-Eden/useragent.git"
+depends: [
+"yamlparser" {="0.0.2"}
+
+"request" {="2.2.9"}
+
+"semver" {="1.0.12"}
+
+]
+
+
+
+

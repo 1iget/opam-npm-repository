@@ -1,0 +1,8 @@
+lib: [
+"" {""}
+"cookiejar.js" {"cookiejar.js"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"tests/" {"tests/"}
+"tests/test.js" {"tests/test.js"}
+]

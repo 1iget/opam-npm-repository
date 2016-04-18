@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"HISTORY.md" {"HISTORY.md"}
+"bower.json" {"bower.json"}
+"lib/deepcopy.js" {"lib/deepcopy.js"}
+"test/test-deepcopy.js" {"test/test-deepcopy.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/test-deepcopy.html" {"test/test-deepcopy.html"}
+"testem.json" {"testem.json"}
+]

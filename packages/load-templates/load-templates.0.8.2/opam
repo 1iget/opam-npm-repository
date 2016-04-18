@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "load-templates"
+version: "0.8.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "https://github.com/jonschlinkert/load-templates"
+depends: [
+"array-union" {>="1.0.1" & <"2.0.0"}
+
+"defaults-deep" {>="0.2.2" & <"0.3.0"}
+
+"extend-shallow" {>="1.1.4" & <"2.0.0"}
+
+"globby" {>="2.0.0" & <"3.0.0"}
+
+"is-glob" {>="2.0.0" & <"3.0.0"}
+
+"kind-of" {>="1.1.0" & <"2.0.0"}
+
+"object.omit" {>="1.1.0" & <"2.0.0"}
+
+"object.pick" {>="1.1.1" & <"2.0.0"}
+
+"relative" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

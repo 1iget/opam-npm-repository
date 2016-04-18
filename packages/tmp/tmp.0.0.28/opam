@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "tmp"
+version: "0.0.28"
+maintainer: "raszi <npm@spam.raszi.hu>"
+author: "raszi <npm@spam.raszi.hu>"
+license: "MIT"
+dev-repo: "git://github.com/raszi/node-tmp.git"
+depends: [
+"os-tmpdir" {>="1.0.1" & <"1.1.0"}
+
+]
+
+
+
+

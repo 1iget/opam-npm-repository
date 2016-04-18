@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "wodge"
+version: "0.6.7"
+maintainer: "75lb <75pound@gmail.com>"
+author: "75lb <75pound@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/75lb/wodge"
+depends: [
+
+]
+
+
+
+

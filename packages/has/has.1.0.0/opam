@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "has"
+version: "1.0.0"
+maintainer: "tarruda <tpadilha84@gmail.com>"
+author: "tarruda <tpadilha84@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/tarruda/has.git"
+depends: [
+
+]
+
+
+
+

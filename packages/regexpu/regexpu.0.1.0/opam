@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "regexpu"
+version: "0.1.0"
+maintainer: "mathias <mathias@qiwi.be>"
+author: "mathias <mathias@qiwi.be>"
+license: "MIT"
+dev-repo: "https://github.com/mathiasbynens/regexpu.git"
+depends: [
+"esprima" {="ImdpdCtodHRwczovL2dpdGh1Yi5jb20vbWF0aGlhc2J5bmVucy9lc3ByaW1hLWVzNi1yZWdleHAuZ2l0Ig"}
+
+"recast" {>="0.7.0" & <"0.8.0"}
+
+"regenerate" {>="0.6.4" & <"0.7.0"}
+
+"regjsgen" {>="0.1.2" & <"0.2.0"}
+
+"regjsparser" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

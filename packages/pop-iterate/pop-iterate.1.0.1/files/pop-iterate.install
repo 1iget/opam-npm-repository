@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"array-iterator.js" {"array-iterator.js"}
+"iteration.js" {"iteration.js"}
+"object-iterator.js" {"object-iterator.js"}
+"pop-iterate.js" {"pop-iterate.js"}
+"test/pop-iterate-test.js" {"test/pop-iterate-test.js"}
+]

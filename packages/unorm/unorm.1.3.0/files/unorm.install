@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"LICENSE.md" {"LICENSE.md"}
+".travis.yml" {".travis.yml"}
+"data/CompositionExclusions.txt" {"data/CompositionExclusions.txt"}
+"data/NormalizationTest.txt" {"data/NormalizationTest.txt"}
+"data/UnicodeData.txt" {"data/UnicodeData.txt"}
+"examples/basic-usage/basic-usage-in-node.js" {"examples/basic-usage/basic-usage-in-node.js"}
+"lib/unorm.js" {"lib/unorm.js"}
+".jshintrc" {".jshintrc"}
+"test/normalization.js" {"test/normalization.js"}
+"test/simple.js" {"test/simple.js"}
+]

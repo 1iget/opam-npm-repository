@@ -1,0 +1,12 @@
+lib: [
+".npmignore" {".npmignore"}
+"lib/" {"lib/"}
+"lib/options.js" {"lib/options.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/fixtures/" {"test/fixtures/"}
+"test/fixtures/test.conf" {"test/fixtures/test.conf"}
+"test/options.test.js" {"test/options.test.js"}
+]

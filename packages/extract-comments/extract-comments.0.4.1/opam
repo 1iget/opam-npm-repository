@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "extract-comments"
+version: "0.4.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/extract-comments.git"
+depends: [
+"mixin-deep" {>="0.1.0" & <"0.2.0"}
+
+"line-count" {>="0.1.0" & <"0.2.0"}
+
+"lodash" {>="2.4.1" & <"3.0.0"}
+
+"map-files" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,13 @@
+lib: [
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"src/lib/base.js" {"src/lib/base.js"}
+"src/lib/resource.js" {"src/lib/resource.js"}
+"example/base.js" {"example/base.js"}
+"example/config/general.json" {"example/config/general.json"}
+"example/controllers/index.js" {"example/controllers/index.js"}
+"example/resources/mongo.js" {"example/resources/mongo.js"}
+"example/views/layout.jqtpl" {"example/views/layout.jqtpl"}
+"example/views/index/index.jqtpl" {"example/views/index/index.jqtpl"}
+]

@@ -1,0 +1,1 @@
+Read a glob of files, dynamically choosing the reader or requiring the files based on the file extension.

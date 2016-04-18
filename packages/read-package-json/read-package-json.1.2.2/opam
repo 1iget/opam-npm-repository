@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "read-package-json"
+version: "1.2.2"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/read-package-json.git"
+depends: [
+"glob" {>="4.0.2" & <"5.0.0"}
+
+"lru-cache" {>="2.0.0" & <"3.0.0"}
+
+"normalize-package-data" {>="0.3.0" & <"0.4.0"}
+
+"graceful-fs" {>="2.0.0" | >="3.0.0" & <"3.0.0" | >="3.0.0" & >="2.0.0" | <"4.0.0" & <"3.0.0" | <"4.0.0"}
+
+]
+
+
+
+

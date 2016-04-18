@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"comments.js" {"comments.js"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/args.js" {"test/args.js"}
+"test/context.js" {"test/context.js"}
+"test/actual/assemble.js" {"test/actual/assemble.js"}
+"test/actual/cache.js" {"test/actual/cache.js"}
+"test/actual/script.js" {"test/actual/script.js"}
+"test/fixtures/assemble.js" {"test/fixtures/assemble.js"}
+"test/fixtures/cache.js" {"test/fixtures/cache.js"}
+"test/fixtures/script.js" {"test/fixtures/script.js"}
+"test/helpers/utils.js" {"test/helpers/utils.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+".gitattributes" {".gitattributes"}
+]

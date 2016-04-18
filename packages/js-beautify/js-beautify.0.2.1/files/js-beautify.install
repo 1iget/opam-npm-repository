@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+".gitmodules" {".gitmodules"}
+".npmignore" {".npmignore"}
+"beautify.js" {"beautify.js"}
+"cli.js" {"cli.js"}
+"index.js" {"index.js"}
+"license.txt" {"license.txt"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"config/defaults.json" {"config/defaults.json"}
+"config/options.json" {"config/options.json"}
+"tests/beautify-tests.js" {"tests/beautify-tests.js"}
+"tests/run-tests" {"tests/run-tests"}
+"tests/sanitytest.js" {"tests/sanitytest.js"}
+]

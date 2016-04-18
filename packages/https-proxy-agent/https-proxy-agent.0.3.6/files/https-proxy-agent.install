@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"https-proxy-agent.js" {"https-proxy-agent.js"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"test/test.js" {"test/test.js"}
+"test/ssl-cert-snakeoil.key" {"test/ssl-cert-snakeoil.key"}
+"test/ssl-cert-snakeoil.pem" {"test/ssl-cert-snakeoil.pem"}
+]

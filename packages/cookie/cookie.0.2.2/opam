@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "cookie"
+version: "0.2.2"
+maintainer: "defunctzombie <shtylman@gmail.com>"
+author: "defunctzombie <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/jshttp/cookie"
+depends: [
+
+]
+
+
+
+

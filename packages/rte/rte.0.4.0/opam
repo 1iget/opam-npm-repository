@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "rte"
+version: "0.4.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/rte.git"
+depends: [
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"mixin-deep" {>="0.1.0" & <"0.2.0"}
+
+"parse-filepath" {>="0.3.1" & <"0.4.0"}
+
+]
+
+
+
+

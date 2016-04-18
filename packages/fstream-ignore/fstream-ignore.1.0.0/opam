@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "fstream-ignore"
+version: "1.0.0"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/fstream-ignore.git"
+depends: [
+"fstream" {>="0.1.17" & <"0.2.0"}
+
+"inherits" {>="2.0.0" & <"3.0.0"}
+
+"minimatch" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

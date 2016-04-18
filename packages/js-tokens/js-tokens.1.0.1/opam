@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "js-tokens"
+version: "1.0.1"
+maintainer: "lydell <simon.lydell@gmail.com>"
+author: "lydell <simon.lydell@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lydell/js-tokens.git"
+depends: [
+
+]
+
+
+
+

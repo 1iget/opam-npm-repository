@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "json-stable-stringify"
+version: "0.0.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/json-stable-stringify.git"
+depends: [
+"jsonify" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

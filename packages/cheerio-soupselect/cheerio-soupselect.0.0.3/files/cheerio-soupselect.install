@@ -1,0 +1,10 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/soupselect.js" {"lib/soupselect.js"}
+"test/index.html" {"test/index.html"}
+"test/test.coffee" {"test/test.coffee"}
+]

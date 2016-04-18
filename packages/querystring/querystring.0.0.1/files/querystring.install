@@ -1,0 +1,10 @@
+lib: [
+"" {""}
+"History.md" {"History.md"}
+"lib/" {"lib/"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"test/" {"test/"}
+"test/test-querystring.js" {"test/test-querystring.js"}
+"lib/querystring.js" {"lib/querystring.js"}
+]

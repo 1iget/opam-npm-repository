@@ -1,0 +1,4 @@
+lib: [
+"asyncify.js" {"asyncify.js"}
+"package.json" {"package.json"}
+]

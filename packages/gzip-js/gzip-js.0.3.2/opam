@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "gzip-js"
+version: "0.3.2"
+maintainer: "beatgammit <t.jameson.little@gmail.com>"
+author: "beatgammit <t.jameson.little@gmail.com>"
+license: "GPL"
+dev-repo: "git://github.com/beatgammit/gzip-js.git"
+depends: [
+"crc32" {>="0.2.2"}
+
+"deflate-js" {>="0.2.2"}
+
+]
+
+
+
+

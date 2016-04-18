@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "q-io"
+version: "1.13.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/kriskowal/q-io.git"
+depends: [
+"q" {>="1.0.1" & <"2.0.0"}
+
+"qs" {>="1.2.1" & <"2.0.0"}
+
+"url2" {>="0.0.0" & <"0.0.1"}
+
+"mime" {>="1.2.11" & <"2.0.0"}
+
+"mimeparse" {>="0.1.4" & <"0.2.0"}
+
+"collections" {>="0.2.0" & <"0.3.0"}
+
+"iconv-lite" {>="0.4.8" & <"0.5.0"}
+
+"strip-bom" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

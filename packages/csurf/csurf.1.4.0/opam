@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "csurf"
+version: "1.4.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/expressjs/csurf"
+depends: [
+"cookie" {="0.1.2"}
+
+"cookie-signature" {="1.0.4"}
+
+"csrf-tokens" {>="2.0.0" & <"2.1.0"}
+
+]
+
+
+
+

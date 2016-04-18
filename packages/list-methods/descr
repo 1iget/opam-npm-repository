@@ -1,0 +1,1 @@
+Easily generate a JSON or markdown list (sorted array) of property names of all enumerable properties, own and inherited, of objects that have function values.

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"lib/encoding.js" {"lib/encoding.js"}
+"lib/iconv-loader.js" {"lib/iconv-loader.js"}
+"test/test.js" {"test/test.js"}
+]

@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "q-io"
+version: "1.4.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+dev-repo: "http://github.com/kriskowal/q-io.git"
+depends: [
+"q" {>="0.8.0" & <"0.9.0" & >="0.8.11"}
+
+"qs" {>="0.1.0" & <"0.2.0"}
+
+"url2" {>="0.0.0" & <"0.1.0"}
+
+"mime" {>="1.2.0" & <"1.3.0"}
+
+"mimeparse" {>="0.1.0" & <"0.2.0"}
+
+"collections" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

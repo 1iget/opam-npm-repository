@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"uuid.js" {"uuid.js"}
+"rng.js" {"rng.js"}
+"rng-browser.js" {"rng-browser.js"}
+"buffer-browser.js" {"buffer-browser.js"}
+"buffer.js" {"buffer.js"}
+"misc/compare.js" {"misc/compare.js"}
+"misc/perf.js" {"misc/perf.js"}
+"benchmark/package.json" {"benchmark/package.json"}
+"benchmark/README.md" {"benchmark/README.md"}
+"benchmark/benchmark.js" {"benchmark/benchmark.js"}
+"benchmark/bench.gnu" {"benchmark/bench.gnu"}
+"benchmark/bench.sh" {"benchmark/bench.sh"}
+"benchmark/benchmark-native.c" {"benchmark/benchmark-native.c"}
+"LICENSE.md" {"LICENSE.md"}
+".travis.yml" {".travis.yml"}
+"test/test.js" {"test/test.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

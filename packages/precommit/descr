@@ -1,0 +1,1 @@
+Yet another precommit module that will run tasks defined in a config file or in a `package.json` file, stashing anything that is not supposed to be commited before run the scripts to avoid false positives when running validation like tasks

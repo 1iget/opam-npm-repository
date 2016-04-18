@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".editorconfig" {".editorconfig"}
+".editorconfig~" {".editorconfig~"}
+"index.js~" {"index.js~"}
+"test/test.js" {"test/test.js"}
+"test/test.js~" {"test/test.js~"}
+]

@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "jade"
+version: "0.31.2"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "git://github.com/visionmedia/jade"
+depends: [
+"commander" {="1.1.1"}
+
+"mkdirp" {>="0.3.0" & <"0.4.0"}
+
+"transformers" {="2.0.1"}
+
+"character-parser" {="1.0.2"}
+
+"monocle" {="0.1.48"}
+
+"with" {="1.0.4"}
+
+]
+
+
+
+

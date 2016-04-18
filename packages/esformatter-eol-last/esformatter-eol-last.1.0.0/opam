@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "esformatter-eol-last"
+version: "1.0.0"
+maintainer: "briandipalma <offler@gmail.com>"
+author: "briandipalma <offler@gmail.com>"
+license: "ISC"
+dev-repo: "https://github.com/briandipalma/esformatter-eol-last.git"
+depends: [
+"string.prototype.endswith" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

@@ -1,0 +1,5 @@
+lib: [
+"package.json" {"package.json"}
+"globals.json" {"globals.json"}
+"readme.md" {"readme.md"}
+]

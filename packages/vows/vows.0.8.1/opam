@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "vows"
+version: "0.8.1"
+maintainer: "cloudhead <self@cloudhead.net>"
+author: "cloudhead <self@cloudhead.net>"
+license: "MIT"
+dev-repo: "https://github.com/cloudhead/vows.git"
+depends: [
+"eyes" {>="0.1.6" & <"0.2.0"}
+
+"diff" {>="1.0.8" & <"1.1.0"}
+
+"glob" {>="4.0.6" & <"4.1.0"}
+
+]
+
+
+
+

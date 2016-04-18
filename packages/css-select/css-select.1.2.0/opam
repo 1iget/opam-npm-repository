@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "css-select"
+version: "1.2.0"
+maintainer: "feedic <me@feedic.com>"
+author: "feedic <me@feedic.com>"
+license: "BSD-like"
+dev-repo: "git://github.com/fb55/css-select.git"
+depends: [
+"css-what" {>="2.1.0" & <"2.2.0"}
+
+"domutils" {="1.5.1"}
+
+"boolbase" {>="1.0.0" & <"1.1.0"}
+
+"nth-check" {>="1.0.1" & <"1.1.0"}
+
+]
+
+
+
+

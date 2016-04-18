@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.mdown" {"README.mdown"}
+"lib/lockfile.js" {"lib/lockfile.js"}
+"src/lockfile.coffee" {"src/lockfile.coffee"}
+]

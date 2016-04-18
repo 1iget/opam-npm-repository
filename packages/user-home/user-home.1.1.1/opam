@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "user-home"
+version: "1.1.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/user-home"
+depends: [
+
+]
+
+
+
+

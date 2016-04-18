@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "deeper"
+version: "1.0.1"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "Apache License 2.0"
+dev-repo: "https://github.com/othiym23/deeper.git"
+depends: [
+"buffertools" {>="1.1.0" & <"1.2.0"}
+
+]
+
+
+
+

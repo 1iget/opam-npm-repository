@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "marked-toc"
+version: "0.1.5"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/marked-toc.git"
+depends: [
+"marked" {>="0.2.10" & <"0.3.0"}
+
+"lodash" {>="2.4.0" & <"2.5.0"}
+
+]
+
+
+
+

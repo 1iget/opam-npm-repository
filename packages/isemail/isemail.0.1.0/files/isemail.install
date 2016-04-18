@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"lib/flow.js" {"lib/flow.js"}
+"lib/isemail.js" {"lib/isemail.js"}
+"test/isemail.js" {"test/isemail.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

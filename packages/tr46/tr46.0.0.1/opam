@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "tr46"
+version: "0.0.1"
+maintainer: "sebmaster <sebmaster16@gmail.com>"
+author: "sebmaster <sebmaster16@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/Sebmaster/tr46.js.git"
+depends: [
+
+]
+
+
+
+

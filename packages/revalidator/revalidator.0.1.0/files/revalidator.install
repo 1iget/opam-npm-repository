@@ -1,0 +1,9 @@
+lib: [
+".gitignore" {".gitignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"example/webservice.js" {"example/webservice.js"}
+"lib/revalidator.js" {"lib/revalidator.js"}
+"test/validator-test.js" {"test/validator-test.js"}
+]

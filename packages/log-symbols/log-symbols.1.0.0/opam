@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "log-symbols"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/log-symbols"
+depends: [
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+]
+
+
+
+

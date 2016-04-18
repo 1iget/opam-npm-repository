@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "spawn-wrap"
+version: "0.0.0"
+maintainer: "isaacs <isaacs@npmjs.com>"
+author: "isaacs <isaacs@npmjs.com>"
+license: "ISC"
+dev-repo: "git+https://github.com/isaacs/spawn-wrap.git"
+depends: [
+"which" {>="1.0.9" & <"2.0.0"}
+
+]
+
+
+
+

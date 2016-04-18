@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "delims"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/delims.git"
+depends: [
+"arrayify-compact" {>="0.1.0" & <"0.2.0"}
+
+"xtend" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

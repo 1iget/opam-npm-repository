@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "base-methods"
+version: "0.3.1"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/base-methods.git"
+depends: [
+"class-utils" {>="0.2.2" & <"0.3.0"}
+
+"collection-visit" {>="0.2.1" & <"0.3.0"}
+
+"component-emitter" {>="1.2.0" & <"2.0.0"}
+
+"define-property" {>="0.2.5" & <"0.3.0"}
+
+"get-value" {>="1.2.1" & <"2.0.0"}
+
+"lazy-cache" {>="0.2.4" & <"0.3.0"}
+
+"set-value" {>="0.2.0" & <"0.3.0"}
+
+"unset-value" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

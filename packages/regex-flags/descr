@@ -1,0 +1,1 @@
+Does one simple thing - gets the flags from a regular expression. Useful for cloning and any library that uses or generates regular expressions that are created from other regular expressions.

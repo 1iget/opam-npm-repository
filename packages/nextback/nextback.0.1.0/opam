@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "nextback"
+version: "0.1.0"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/nextback.git"
+depends: [
+
+]
+
+
+
+

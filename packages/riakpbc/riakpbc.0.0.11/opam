@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "riakpbc"
+version: "0.0.11"
+maintainer: "nathan-lafreniere <quitlahok@gmail.com>"
+author: "nathan-lafreniere <quitlahok@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com:nlf/riakpbc.git"
+depends: [
+"protobuf.js" {="latest"}
+
+"butils" {="latest"}
+
+]
+
+
+
+

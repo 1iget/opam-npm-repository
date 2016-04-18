@@ -1,0 +1,5 @@
+lib: [
+"future.js" {"future.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

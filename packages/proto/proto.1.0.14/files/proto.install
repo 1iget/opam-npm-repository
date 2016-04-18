@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"build.js" {"build.js"}
+"proto.js" {"proto.js"}
+"testProxy.js" {"testProxy.js"}
+"MIT_LICENSE" {"MIT_LICENSE"}
+"generatedBuilds/proto.amd.js" {"generatedBuilds/proto.amd.js"}
+"generatedBuilds/proto.amd.min.js" {"generatedBuilds/proto.amd.min.js"}
+"generatedBuilds/proto.common.js" {"generatedBuilds/proto.common.js"}
+"generatedBuilds/proto.global.js" {"generatedBuilds/proto.global.js"}
+"generatedBuilds/proto.global.min.js" {"generatedBuilds/proto.global.min.js"}
+"test/protoTest.js" {"test/protoTest.js"}
+]

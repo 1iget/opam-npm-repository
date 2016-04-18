@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"Makefile" {"Makefile"}
+"test/ignore.js" {"test/ignore.js"}
+"test/fixtures/.aignore" {"test/fixtures/.aignore"}
+"test/fixtures/.bignore" {"test/fixtures/.bignore"}
+]

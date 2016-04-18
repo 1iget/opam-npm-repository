@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"bignum.cc" {"bignum.cc"}
+"examples/gen.js" {"examples/gen.js"}
+"examples/simple.js" {"examples/simple.js"}
+"examples/perfect.js" {"examples/perfect.js"}
+"binding.gyp" {"binding.gyp"}
+"README.markdown" {"README.markdown"}
+"test/big.js" {"test/big.js"}
+"test/seed.js" {"test/seed.js"}
+"test/buf.js" {"test/buf.js"}
+]

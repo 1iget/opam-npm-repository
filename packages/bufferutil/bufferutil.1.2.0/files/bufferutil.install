@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"fallback.js" {"fallback.js"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+".travis.yml" {".travis.yml"}
+"src/bufferutil.cc" {"src/bufferutil.cc"}
+]

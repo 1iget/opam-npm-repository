@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "content-type"
+version: "1.0.0"
+maintainer: "deoxxa <deoxxa@fknsrs.biz>"
+author: "deoxxa <deoxxa@fknsrs.biz>"
+license: "MIT"
+dev-repo: "https://github.com/jshttp/content-type"
+depends: [
+
+]
+
+
+
+

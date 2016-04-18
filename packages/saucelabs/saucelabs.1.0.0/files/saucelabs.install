@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"lib/SauceLabs.js" {"lib/SauceLabs.js"}
+"lib/utils.js" {"lib/utils.js"}
+"test/SauceLabs.js" {"test/SauceLabs.js"}
+"test/utils.js" {"test/utils.js"}
+"test/bootstrap/index.js" {"test/bootstrap/index.js"}
+"test/helpers/index.js" {"test/helpers/index.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

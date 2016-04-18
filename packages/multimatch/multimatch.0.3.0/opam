@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "multimatch"
+version: "0.3.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/multimatch"
+depends: [
+"array-differ" {>="0.1.0" & <"0.2.0"}
+
+"array-union" {>="0.1.0" & <"0.2.0"}
+
+"minimatch" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

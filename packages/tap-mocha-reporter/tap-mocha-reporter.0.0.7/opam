@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "tap-mocha-reporter"
+version: "0.0.7"
+maintainer: "isaacs <isaacs@npmjs.com>"
+author: "isaacs <isaacs@npmjs.com>"
+license: "ISC"
+dev-repo: "https://github.com/isaacs/tap-mocha-reporter"
+depends: [
+"debug" {>="2.1.3" & <"3.0.0"}
+
+"diff" {>="1.3.2" & <"2.0.0"}
+
+"escape-string-regexp" {>="1.0.3" & <"2.0.0"}
+
+"exit-code" {>="1.0.1" & <"2.0.0"}
+
+"glob" {>="5.0.5" & <"6.0.0"}
+
+"js-yaml" {="ImdpdCtodHRwczovL2dpdGh1Yi5jb20vaXNhYWNzL2pzLXlhbWwuZ2l0Ig"}
+
+"supports-color" {>="1.3.1" & <"2.0.0"}
+
+"tap-parser" {>="1.0.4" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "joey"
+version: "2.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+
+depends: [
+"q" {>="2.0.0" & <"3.0.0"}
+
+"q-io" {>="2.0.0" & <"3.0.0"}
+
+"optimist" {>="0.3.7" & <"0.4.0"}
+
+"url2" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

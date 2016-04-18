@@ -1,0 +1,16 @@
+lib: [
+"" {""}
+"test/" {"test/"}
+"test/mock/" {"test/mock/"}
+"test/mock/.ignore_me.js" {"test/mock/.ignore_me.js"}
+"test/mock/lib/" {"test/mock/lib/"}
+"test/mock/lib/.hidden.js" {"test/mock/lib/.hidden.js"}
+"test/mock/lib/moo.js" {"test/mock/lib/moo.js"}
+"test/mock/zing.js" {"test/mock/zing.js"}
+"test/mock/index.js" {"test/mock/index.js"}
+"test/mock/package.json" {"test/mock/package.json"}
+"test/mock_.js" {"test/mock_.js"}
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+]

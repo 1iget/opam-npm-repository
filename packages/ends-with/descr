@@ -1,0 +1,1 @@
+Returns `true` if the given `string` or `array` ends with `suffix` using strict equality for comparisons.

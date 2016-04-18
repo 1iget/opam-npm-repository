@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "extsprintf"
+version: "1.2.0"
+maintainer: "dap <dap@cs.brown.edu>"
+author: "dap <dap@cs.brown.edu>"
+license: "MIT"
+dev-repo: "git://github.com/davepacheco/node-extsprintf.git"
+depends: [
+
+]
+
+
+
+

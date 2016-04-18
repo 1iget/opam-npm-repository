@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CHANGES.md" {"CHANGES.md"}
+"lib/jsprim.js" {"lib/jsprim.js"}
+]

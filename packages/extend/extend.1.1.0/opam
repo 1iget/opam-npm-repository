@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "extend"
+version: "1.1.0"
+maintainer: "justmoon <justmoon@members.fsf.org>"
+author: "justmoon <justmoon@members.fsf.org>"
+license: "not defined"
+dev-repo: "https://github.com/justmoon/node-extend.git"
+depends: [
+
+]
+
+
+
+

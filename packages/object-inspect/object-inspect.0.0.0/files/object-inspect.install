@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"example/circular.js" {"example/circular.js"}
+"example/inspect.js" {"example/inspect.js"}
+"readme.markdown" {"readme.markdown"}
+]

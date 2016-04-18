@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".gitmodules" {".gitmodules"}
+"jsl.node.conf" {"jsl.node.conf"}
+"lib/jsprim.js" {"lib/jsprim.js"}
+"lib/test.js" {"lib/test.js"}
+"Makefile" {"Makefile"}
+"Makefile.deps" {"Makefile.deps"}
+"Makefile.targ" {"Makefile.targ"}
+]

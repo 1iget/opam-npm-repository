@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Cakefile" {"Cakefile"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"CNAME" {"CNAME"}
+"lib/string.js" {"lib/string.js"}
+"lib/string.min.js" {"lib/string.min.js"}
+"src/string.coffee" {"src/string.coffee"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/string.test.coffee" {"test/string.test.coffee"}
+"test_browser/string.test.js" {"test_browser/string.test.js"}
+"test_browser/browser.test.html" {"test_browser/browser.test.html"}
+]

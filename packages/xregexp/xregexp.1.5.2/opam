@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "xregexp"
+version: "1.5.2"
+maintainer: "walling <bwp@bwp.dk>"
+author: "walling <bwp@bwp.dk>"
+license: "not defined"
+dev-repo: "git://github.com/walling/xregexp.git"
+depends: [
+
+]
+
+
+
+

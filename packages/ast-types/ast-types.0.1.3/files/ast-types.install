@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"main.js" {"main.js"}
+"lib/core.js" {"lib/core.js"}
+"lib/e4x.js" {"lib/e4x.js"}
+"lib/es6.js" {"lib/es6.js"}
+"lib/mozilla.js" {"lib/mozilla.js"}
+"lib/shared.js" {"lib/shared.js"}
+"lib/types.js" {"lib/types.js"}
+"lib/xjs.js" {"lib/xjs.js"}
+"test/run.js" {"test/run.js"}
+]

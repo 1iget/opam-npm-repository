@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"q.js" {"q.js"}
+"queue.js" {"queue.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "aws-sign"
+version: "0.3.0"
+maintainer: "egorfine <me@egorfine.com>"
+author: "egorfine <me@egorfine.com>"
+license: "not defined"
+dev-repo: "https://github.com/mikeal/aws-sign"
+depends: [
+
+]
+
+
+
+

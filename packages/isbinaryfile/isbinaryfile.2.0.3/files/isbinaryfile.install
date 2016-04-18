@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.txt" {"LICENSE.txt"}
+"tests/test.js" {"tests/test.js"}
+"tests/fixtures/01_grep" {"tests/fixtures/01_grep"}
+"tests/fixtures/02_perl_script" {"tests/fixtures/02_perl_script"}
+"tests/fixtures/03_russian_file.rst" {"tests/fixtures/03_russian_file.rst"}
+"tests/fixtures/04_HelloWorld.pdf" {"tests/fixtures/04_HelloWorld.pdf"}
+"tests/fixtures/05_null_file.gif" {"tests/fixtures/05_null_file.gif"}
+"tests/fixtures/06_trunks.gif" {"tests/fixtures/06_trunks.gif"}
+"tests/fixtures/07_no.lua" {"tests/fixtures/07_no.lua"}
+"tests/fixtures/08_dir/.gitkeep" {"tests/fixtures/08_dir/.gitkeep"}
+]

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "digits"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "https://github.com/jonschlinkert/digits.git"
+depends: [
+"longest" {>="0.2.1" & <"0.3.0"}
+
+"pad-left" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

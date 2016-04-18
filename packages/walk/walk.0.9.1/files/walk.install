@@ -1,0 +1,15 @@
+lib: [
+"node-walk/" {"node-walk/"}
+"node-walk/lib/" {"node-walk/lib/"}
+"node-walk/package.json" {"node-walk/package.json"}
+"node-walk/README.md" {"node-walk/README.md"}
+"node-walk/walk-test/" {"node-walk/walk-test/"}
+"node-walk/walk-test.js" {"node-walk/walk-test.js"}
+"node-walk/walk-test.sh" {"node-walk/walk-test.sh"}
+"node-walk/walk-test/dir1/" {"node-walk/walk-test/dir1/"}
+"node-walk/walk-test/file-1" {"node-walk/walk-test/file-1"}
+"node-walk/walk-test/file-2" {"node-walk/walk-test/file-2"}
+"node-walk/walk-test/dir1/file-1" {"node-walk/walk-test/dir1/file-1"}
+"node-walk/walk-test/dir1/file-2" {"node-walk/walk-test/dir1/file-2"}
+"node-walk/lib/walk.js" {"node-walk/lib/walk.js"}
+]

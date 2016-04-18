@@ -1,0 +1,33 @@
+opam-version: "1.2"
+name: "crypto-browserify"
+version: "3.10.0"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/crypto-browserify/crypto-browserify.git"
+depends: [
+"browserify-cipher" {>="1.0.0" & <"2.0.0"}
+
+"browserify-sign" {>="3.0.1" & <"4.0.0"}
+
+"create-ecdh" {>="2.0.0" & <"3.0.0"}
+
+"create-hash" {>="1.1.0" & <"2.0.0"}
+
+"create-hmac" {>="1.1.0" & <"2.0.0"}
+
+"diffie-hellman" {>="3.0.1" & <"4.0.0"}
+
+"inherits" {>="2.0.1" & <"3.0.0"}
+
+"pbkdf2" {>="3.0.3" & <"4.0.0"}
+
+"public-encrypt" {>="2.0.0" & <"3.0.0"}
+
+"randombytes" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

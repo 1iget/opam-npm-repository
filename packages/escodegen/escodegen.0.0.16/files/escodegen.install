@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"escodegen.browser.js" {"escodegen.browser.js"}
+"escodegen.js" {"escodegen.js"}
+"bin/escodegen.js" {"bin/escodegen.js"}
+"bin/esgenerate.js" {"bin/esgenerate.js"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.source-map" {"LICENSE.source-map"}
+]

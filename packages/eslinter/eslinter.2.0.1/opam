@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "eslinter"
+version: "2.0.1"
+maintainer: "royriojas <royriojas@gmail.com>"
+author: "royriojas <royriojas@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/royriojas/eslinter"
+depends: [
+"clix" {>="1.0.5" & <"2.0.0"}
+
+"dispatchy" {>="1.0.2" & <"2.0.0"}
+
+"eslint" {>="0.23.0" & <"0.24.0"}
+
+"eslint-friendly-formatter" {>="1.0.8" & <"2.0.0"}
+
+"eslint-plugin-react" {>="2.5.2" & <"3.0.0"}
+
+"file-entry-cache" {>="1.0.1" & <"2.0.0"}
+
+"glob-expand" {>="0.1.0" & <"0.2.0"}
+
+"lodash.merge" {>="3.0.3" & <"4.0.0"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

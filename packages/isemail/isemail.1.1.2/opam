@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "isemail"
+version: "1.1.2"
+maintainer: "skeggse <skeggse@gmail.com>"
+author: "skeggse <skeggse@gmail.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/hapijs/isemail.git"
+depends: [
+
+]
+
+
+
+

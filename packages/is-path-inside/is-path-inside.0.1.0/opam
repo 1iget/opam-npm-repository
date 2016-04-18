@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-path-inside"
+version: "0.1.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/is-path-inside"
+depends: [
+"path-is-inside" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

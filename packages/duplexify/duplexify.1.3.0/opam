@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "duplexify"
+version: "1.3.0"
+maintainer: "mafintosh <mathiasbuus@gmail.com>"
+author: "mafintosh <mathiasbuus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/mafintosh/duplexify"
+depends: [
+"end-of-stream" {="0.1.5"}
+
+]
+
+
+
+

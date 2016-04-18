@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"test.js" {"test.js"}
+"generatePrime.js" {"generatePrime.js"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+"repl.js" {"repl.js"}
+"dh.js" {"dh.js"}
+"pow.js" {"pow.js"}
+"perf.js" {"perf.js"}
+"pow.erl" {"pow.erl"}
+"pow.beam" {"pow.beam"}
+"primes.json" {"primes.json"}
+"readme.md" {"readme.md"}
+".travis.yml" {".travis.yml"}
+]

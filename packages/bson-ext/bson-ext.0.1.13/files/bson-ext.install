@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"Makefile" {"Makefile"}
+"ext/.npmignore" {"ext/.npmignore"}
+"ext/index.js" {"ext/index.js"}
+"ext/Makefile" {"ext/Makefile"}
+"ext/bson.cc" {"ext/bson.cc"}
+"ext/bson.h" {"ext/bson.h"}
+"ext/wscript" {"ext/wscript"}
+"HISTORY" {"HISTORY"}
+"lib/bson/binary.js" {"lib/bson/binary.js"}
+"lib/bson/code.js" {"lib/bson/code.js"}
+"lib/bson/db_ref.js" {"lib/bson/db_ref.js"}
+"lib/bson/double.js" {"lib/bson/double.js"}
+"lib/bson/binary_parser.js" {"lib/bson/binary_parser.js"}
+"lib/bson/max_key.js" {"lib/bson/max_key.js"}
+"lib/bson/min_key.js" {"lib/bson/min_key.js"}
+"lib/bson/objectid.js" {"lib/bson/objectid.js"}
+"lib/bson/symbol.js" {"lib/bson/symbol.js"}
+"lib/bson/timestamp.js" {"lib/bson/timestamp.js"}
+"lib/bson/long.js" {"lib/bson/long.js"}
+]

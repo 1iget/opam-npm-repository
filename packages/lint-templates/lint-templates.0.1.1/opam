@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "lint-templates"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "https://github.com/jonschlinkert/lint-templates.git"
+depends: [
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"get-value" {>="1.1.4" & <"2.0.0"}
+
+"has-value" {>="0.2.0" & <"0.3.0"}
+
+"log-symbols" {>="1.0.2" & <"2.0.0"}
+
+"rethrow" {>="0.1.0" & <"0.2.0"}
+
+"set-value" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

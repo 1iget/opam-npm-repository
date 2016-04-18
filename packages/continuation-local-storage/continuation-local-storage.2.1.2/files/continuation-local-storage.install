@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"context.js" {"context.js"}
+"test/async-context.tap.js" {"test/async-context.tap.js"}
+"test/dns.tap.js" {"test/dns.tap.js"}
+"test/error-handling.tap.js" {"test/error-handling.tap.js"}
+"test/fs.tap.js" {"test/fs.tap.js"}
+"test/crypto.tap.js" {"test/crypto.tap.js"}
+"test/namespaces.tap.js" {"test/namespaces.tap.js"}
+"test/nesting.tap.js" {"test/nesting.tap.js"}
+"test/net-events.tap.js" {"test/net-events.tap.js"}
+"test/simple.tap.js" {"test/simple.tap.js"}
+"test/timers.tap.js" {"test/timers.tap.js"}
+"test/bind.tap.js" {"test/bind.tap.js"}
+"test/zlib.tap.js" {"test/zlib.tap.js"}
+"test/monkeypatching.tap.js" {"test/monkeypatching.tap.js"}
+]

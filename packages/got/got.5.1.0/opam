@@ -1,0 +1,41 @@
+opam-version: "1.2"
+name: "got"
+version: "5.1.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/got"
+depends: [
+"create-error-class" {>="2.0.0" & <"3.0.0"}
+
+"duplexify" {>="3.2.0" & <"4.0.0"}
+
+"is-plain-obj" {>="1.0.0" & <"2.0.0"}
+
+"is-redirect" {>="1.0.0" & <"2.0.0"}
+
+"is-stream" {>="1.0.0" & <"2.0.0"}
+
+"lowercase-keys" {>="1.0.0" & <"2.0.0"}
+
+"node-status-codes" {>="1.0.0" & <"2.0.0"}
+
+"object-assign" {>="4.0.1" & <"5.0.0"}
+
+"parse-json" {>="2.1.0" & <"3.0.0"}
+
+"pinkie-promise" {>="1.0.0" & <"2.0.0"}
+
+"read-all-stream" {>="3.0.0" & <"4.0.0"}
+
+"timed-out" {>="2.0.0" & <"3.0.0"}
+
+"unzip-response" {>="1.0.0" & <"2.0.0"}
+
+"url-parse-lax" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

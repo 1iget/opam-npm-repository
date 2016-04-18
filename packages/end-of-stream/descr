@@ -1,0 +1,1 @@
+Call a callback when a readable/writable/duplex stream has completed or failed.

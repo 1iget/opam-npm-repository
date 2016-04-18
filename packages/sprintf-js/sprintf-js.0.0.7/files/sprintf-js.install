@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"src/sprintf.js" {"src/sprintf.js"}
+"src/sprintf.min.js" {"src/sprintf.min.js"}
+"test/test.js" {"test/test.js"}
+"test/test.html" {"test/test.html"}
+"test/test.php" {"test/test.php"}
+]

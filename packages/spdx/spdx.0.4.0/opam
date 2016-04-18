@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "spdx"
+version: "0.4.0"
+maintainer: "kemitchell <kyle@kemitchell.com>"
+author: "kemitchell <kyle@kemitchell.com>"
+license: "Apache-2.0"
+dev-repo: "https://github.com/kemitchell/spdx.js"
+depends: [
+"spdx-license-ids" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

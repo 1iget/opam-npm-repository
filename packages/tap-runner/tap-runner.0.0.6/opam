@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "tap-runner"
+version: "0.0.6"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "not defined"
+dev-repo: "git://github.com/isaacs/tap-runner.git"
+depends: [
+"inherits" {>="0.0.0"}
+
+"tap-results" {>="0.0.0" & <"1.0.0"}
+
+"yamlish" {>="0.0.0"}
+
+"slide" {>="0.0.0"}
+
+"tap-producer" {>="0.0.0" & <"1.0.0"}
+
+"tap-consumer" {>="0.0.0" & <"1.0.0"}
+
+"tap-assert" {>="0.0.0" & <"1.0.0"}
+
+]
+
+
+
+

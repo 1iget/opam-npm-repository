@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "uslug"
+version: "1.0.2"
+maintainer: "jeremys <jerem.selier@gmail.com>"
+author: "jeremys <jerem.selier@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/jeremys/uslug.git"
+depends: [
+"unorm" {>="1.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "twister"
+version: "0.1.4"
+maintainer: "antz29 <jp@antz29.com>"
+author: "antz29 <jp@antz29.com>"
+license: "not defined"
+dev-repo: "git:/git://github.com/antz29/node-twister.git"
+depends: [
+"minimatch" {>="0.0.4"}
+
+]
+
+
+
+

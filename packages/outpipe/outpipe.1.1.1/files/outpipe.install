@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"bin/echo.js" {"bin/echo.js"}
+"example/watch.js" {"example/watch.js"}
+"example/input/x.js" {"example/input/x.js"}
+"example/input/y.js" {"example/input/y.js"}
+"example/input/z.js" {"example/input/z.js"}
+"readme.markdown" {"readme.markdown"}
+"test/cmd.js" {"test/cmd.js"}
+"test/outfile.js" {"test/outfile.js"}
+]

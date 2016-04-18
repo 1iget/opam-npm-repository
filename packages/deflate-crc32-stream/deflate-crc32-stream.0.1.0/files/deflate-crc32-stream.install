@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/deflate-crc32-stream.js" {"lib/deflate-crc32-stream.js"}
+"test/deflate.js" {"test/deflate.js"}
+"test/helpers/index.js" {"test/helpers/index.js"}
+]

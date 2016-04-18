@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "yargs"
+version: "3.0.2"
+maintainer: "chevex <alex.ford@codetunnel.com>"
+author: "chevex <alex.ford@codetunnel.com>"
+license: "MIT/X11"
+dev-repo: "http://github.com/chevex/yargs.git"
+depends: [
+"window-size" {="0.1.0"}
+
+"wordwrap" {="0.0.2"}
+
+]
+
+
+
+

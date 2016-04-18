@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "shelljs"
+version: "0.5.3"
+maintainer: "artur <arturadib@gmail.com>"
+author: "artur <arturadib@gmail.com>"
+license: "BSD*"
+dev-repo: "git://github.com/arturadib/shelljs.git"
+depends: [
+
+]
+
+
+
+

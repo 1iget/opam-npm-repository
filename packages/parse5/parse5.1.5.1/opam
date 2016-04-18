@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "parse5"
+version: "1.5.1"
+maintainer: "inikulin <ifaaan@gmail.com>"
+author: "inikulin <ifaaan@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/inikulin/parse5.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "events"
+version: "0.3.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/Gozala/events.git"
+depends: [
+"graphquire" {>="0.7.0"}
+
+]
+install: ["sh" "-c" "graphquire --clean --write"]
+
+
+

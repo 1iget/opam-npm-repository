@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "fileset"
+version: "0.1.0"
+maintainer: "mklabs <daniel.mickael@gmail.com>"
+author: "mklabs <daniel.mickael@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/mklabs/node-fileset.git"
+depends: [
+"miniglob" {="Imh0dHBzOi8vbm9kZWxvYWQuZ2l0aHViLmNvbS9pc2FhY3MvbWluaWdsb2IvdGFyYmFsbC9tYXN0ZXIi"}
+
+"minimatch" {="Imh0dHBzOi8vbm9kZWxvYWQuZ2l0aHViLmNvbS9ta2xhYnMvbWluaW1hdGNoL3RhcmJhbGwvd2luZG93cy1wYXRoLXByZWZpeGluZyI"}
+
+]
+
+
+
+

@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"examples/assert.js" {"examples/assert.js"}
+"examples/trace.js" {"examples/trace.js"}
+"lib/__line.js" {"lib/__line.js"}
+"lib/__stack.js" {"lib/__stack.js"}
+"lib/callsite.js" {"lib/callsite.js"}
+"test/__line.js" {"test/__line.js"}
+"test/__stack.js" {"test/__stack.js"}
+]

@@ -1,0 +1,9 @@
+lib: [
+"format/" {"format/"}
+"format/lib/" {"format/lib/"}
+"format/LICENSE" {"format/LICENSE"}
+"format/package.json" {"format/package.json"}
+"format/Readme.md" {"format/Readme.md"}
+"format/test_format.js" {"format/test_format.js"}
+"format/lib/index.js" {"format/lib/index.js"}
+]

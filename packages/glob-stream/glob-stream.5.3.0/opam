@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "glob-stream"
+version: "5.3.0"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/gulpjs/glob-stream.git"
+depends: [
+"extend" {>="3.0.0" & <"4.0.0"}
+
+"glob" {>="5.0.3" & <"6.0.0"}
+
+"glob-parent" {>="2.0.0" & <"3.0.0"}
+
+"micromatch" {>="2.3.0" & <"3.0.0"}
+
+"ordered-read-streams" {>="0.3.0" & <"0.4.0"}
+
+"through2" {>="0.6.0" & <"0.7.0"}
+
+"to-absolute-glob" {>="0.1.1" & <"0.2.0"}
+
+"unique-stream" {>="2.0.2" & <"3.0.0"}
+
+]
+
+
+
+

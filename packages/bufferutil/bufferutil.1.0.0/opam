@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "bufferutil"
+version: "1.0.0"
+maintainer: "3rdeden <npm@3rd-Eden.com>"
+author: "3rdeden <npm@3rd-Eden.com>"
+license: "MIT"
+dev-repo: "https://github.com/websockets/bufferutil"
+depends: [
+"bindings" {="1.2.1"}
+
+"nan" {="1.6.1"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

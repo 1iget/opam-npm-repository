@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"couch-login.js" {"couch-login.js"}
+"test/00-setup.js" {"test/00-setup.js"}
+"test/basic.js" {"test/basic.js"}
+"test/registry.js" {"test/registry.js"}
+"test/reset-then-signup.js" {"test/reset-then-signup.js"}
+"test/zz-teardown.js" {"test/zz-teardown.js"}
+"test/fixtures/_replicator.couch" {"test/fixtures/_replicator.couch"}
+"test/fixtures/couch.ini" {"test/fixtures/couch.ini"}
+"test/fixtures/registry.couch" {"test/fixtures/registry.couch"}
+]

@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "template-render"
+version: "0.4.1"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "Not defined"
+dev-repo: "git://github.com/assemble/template-render.git"
+depends: [
+"extend-shallow" {>="0.2.0" & <"0.3.0"}
+
+"gulp-util" {>="3.0.1" & <"4.0.0"}
+
+"through2" {>="0.6.3" & <"0.7.0"}
+
+]
+
+
+
+

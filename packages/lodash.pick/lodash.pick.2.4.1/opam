@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "lodash.pick"
+version: "2.4.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash._baseflatten" {>="2.4.1" & <"2.5.0"}
+
+"lodash.createcallback" {>="2.4.1" & <"2.5.0"}
+
+"lodash.forin" {>="2.4.1" & <"2.5.0"}
+
+"lodash.isobject" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"src/binding.js" {"src/binding.js"}
+"src/index.js" {"src/index.js"}
+"test/package.json" {"test/package.json"}
+"test/test-zlib.js" {"test/test-zlib.js"}
+"test/test-zlib-close-after-write.js" {"test/test-zlib-close-after-write.js"}
+"test/test-zlib-convenience-methods.js" {"test/test-zlib-convenience-methods.js"}
+"test/test-zlib-zero-byte.js" {"test/test-zlib-zero-byte.js"}
+"test/test-zlib-invalid-input.js" {"test/test-zlib-invalid-input.js"}
+"test/test-zlib-random-byte-pipes.js" {"test/test-zlib-random-byte-pipes.js"}
+"test/test-zlib-write-after-flush.js" {"test/test-zlib-write-after-flush.js"}
+"test/test-zlib-from-string.js" {"test/test-zlib-from-string.js"}
+"test/ignored/test-zlib-dictionary-fail.js" {"test/ignored/test-zlib-dictionary-fail.js"}
+"test/ignored/test-zlib-dictionary.js" {"test/ignored/test-zlib-dictionary.js"}
+"test/ignored/test-zlib-params.js" {"test/ignored/test-zlib-params.js"}
+"test/fixtures/elipses.txt" {"test/fixtures/elipses.txt"}
+"test/fixtures/empty.txt" {"test/fixtures/empty.txt"}
+"test/fixtures/person.jpg" {"test/fixtures/person.jpg"}
+]

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "read-yaml"
+version: "1.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/read-yaml.git"
+depends: [
+"js-yaml" {>="3.2.3" & <"4.0.0"}
+
+"xtend" {>="4.0.0" & <"5.0.0"}
+
+]
+
+
+
+

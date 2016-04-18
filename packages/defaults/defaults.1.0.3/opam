@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "defaults"
+version: "1.0.3"
+maintainer: "tmpvar <tmpvar@gmail.com>"
+author: "tmpvar <tmpvar@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/tmpvar/defaults.git"
+depends: [
+"clone" {>="1.0.2" & <"2.0.0"}
+
+]
+
+
+
+

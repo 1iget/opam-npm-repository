@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "orderly"
+version: "1.0.1"
+maintainer: "zaach <zack.carter@gmail.com>"
+author: "zaach <zack.carter@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/zaach/orderly.js.git"
+depends: [
+"nomnom" {>="0.4.3"}
+
+]
+
+
+
+

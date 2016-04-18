@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "dashdash"
+version: "1.12.2"
+maintainer: "trentm <trentm@gmail.com>"
+author: "trentm <trentm@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/trentm/node-dashdash.git"
+depends: [
+"assert-plus" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

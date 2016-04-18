@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "assert-helpers"
+version: "4.0.0"
+maintainer: "balupton <b@lupton.cc>"
+author: "balupton <b@lupton.cc>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/bevry/assert-helpers.git"
+depends: [
+"ansicolors" {>="0.3.2" & <"0.4.0"}
+
+"diff" {>="2.1.1" & <"3.0.0"}
+
+]
+
+
+
+

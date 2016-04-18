@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "map-files"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/map-files.git"
+depends: [
+"globby" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

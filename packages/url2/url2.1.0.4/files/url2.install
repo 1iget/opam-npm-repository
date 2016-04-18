@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"url2.js" {"url2.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.md" {"LICENSE.md"}
+"test/url2-spec.js" {"test/url2-spec.js"}
+]

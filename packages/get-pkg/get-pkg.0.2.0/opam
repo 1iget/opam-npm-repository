@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "get-pkg"
+version: "0.2.0"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/get-pkg.git"
+depends: [
+"lazy-cache" {>="0.2.4" & <"0.3.0"}
+
+"min-request" {>="1.4.1" & <"2.0.0"}
+
+]
+
+
+
+

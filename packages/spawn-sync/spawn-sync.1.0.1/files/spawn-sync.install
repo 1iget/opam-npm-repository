@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"appveyor.yml" {"appveyor.yml"}
+"lib/has-native.js" {"lib/has-native.js"}
+"lib/worker.js" {"lib/worker.js"}
+"lib/json-buffer/README.md" {"lib/json-buffer/README.md"}
+"lib/json-buffer/LICENSE" {"lib/json-buffer/LICENSE"}
+"lib/json-buffer/index.js" {"lib/json-buffer/index.js"}
+"test/index.js" {"test/index.js"}
+"test/test-spawn-fail.js" {"test/test-spawn-fail.js"}
+"test/test-spawn-timeout.js" {"test/test-spawn-timeout.js"}
+"test/test-spawn.js" {"test/test-spawn.js"}
+]

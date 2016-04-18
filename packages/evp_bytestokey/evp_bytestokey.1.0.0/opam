@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "evp_bytestokey"
+version: "1.0.0"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/crypto-browserify/EVP_BytesToKey.git"
+depends: [
+"create-hash" {>="1.1.1" & <"2.0.0"}
+
+]
+
+
+
+

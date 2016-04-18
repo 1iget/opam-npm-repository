@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/main-test.js" {"test/main-test.js"}
+"test/turkish-test.js" {"test/turkish-test.js"}
+"test/cyrillic-test.js" {"test/cyrillic-test.js"}
+"test/greek-test.js" {"test/greek-test.js"}
+"test/gbk-test.js" {"test/gbk-test.js"}
+"test/gbkFile.txt" {"test/gbkFile.txt"}
+"encodings/gbk.js" {"encodings/gbk.js"}
+"encodings/singlebyte.js" {"encodings/singlebyte.js"}
+"encodings/table/gbk.js" {"encodings/table/gbk.js"}
+"generation/generate-singlebyte.js" {"generation/generate-singlebyte.js"}
+]

@@ -1,0 +1,9 @@
+lib: [
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"tests/file_spec.js" {"tests/file_spec.js"}
+".npmignore" {".npmignore"}
+"lib/" {"lib/"}
+"lib/file.js" {"lib/file.js"}
+"package.json" {"package.json"}
+]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+".npmignore" {".npmignore"}
+".lvimrc" {".lvimrc"}
+"lib/terminal.js" {"lib/terminal.js"}
+"lib/spinner.js" {"lib/spinner.js"}
+"tests/test-terminal.js" {"tests/test-terminal.js"}
+]

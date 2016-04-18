@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "buffertools"
+version: "1.0.6"
+maintainer: "bnoordhuis <info@bnoordhuis.nl>"
+author: "bnoordhuis <info@bnoordhuis.nl>"
+license: "not defined"
+dev-repo: "git://github.com/bnoordhuis/node-buffertools.git"
+depends: [
+
+]
+
+build: ["sh" "-c" "./build-wrapper"]
+
+

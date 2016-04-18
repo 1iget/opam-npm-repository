@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/extract_description.js" {"lib/extract_description.js"}
+"lib/fixer.js" {"lib/fixer.js"}
+"lib/is_valid.js" {"lib/is_valid.js"}
+"lib/normalize.js" {"lib/normalize.js"}
+"lib/typos.json" {"lib/typos.json"}
+"test/basic.js" {"test/basic.js"}
+"test/consistency.js" {"test/consistency.js"}
+"test/normalize.js" {"test/normalize.js"}
+"test/fixtures/read-package-json.json" {"test/fixtures/read-package-json.json"}
+]

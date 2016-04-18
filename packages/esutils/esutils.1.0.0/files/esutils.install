@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"lib/code.js" {"lib/code.js"}
+"lib/keyword.js" {"lib/keyword.js"}
+"lib/utils.js" {"lib/utils.js"}
+"test/code.coffee" {"test/code.coffee"}
+"test/keyword.coffee" {"test/keyword.coffee"}
+]

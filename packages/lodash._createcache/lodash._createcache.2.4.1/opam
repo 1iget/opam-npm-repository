@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "lodash._createcache"
+version: "2.4.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash._cachepush" {>="2.4.1" & <"2.5.0"}
+
+"lodash._getobject" {>="2.4.1" & <"2.5.0"}
+
+"lodash._releaseobject" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

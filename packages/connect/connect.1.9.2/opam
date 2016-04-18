@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "connect"
+version: "1.9.2"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "git://github.com/senchalabs/connect"
+depends: [
+"qs" {>="0.4.0"}
+
+"mime" {>="0.0.1"}
+
+"formidable" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

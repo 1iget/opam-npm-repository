@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "pop-has"
+version: "1.0.0"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "MIT"
+dev-repo: "https://github.com/kriskowal/pop-has.git"
+depends: [
+"pop-equals" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

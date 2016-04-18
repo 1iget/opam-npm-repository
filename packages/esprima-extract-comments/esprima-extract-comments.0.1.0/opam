@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "esprima-extract-comments"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/esprima-extract-comments.git"
+depends: [
+"esprima" {="ImdpdCtodHRwczovL2dpdEBnaXRodWIuY29tL2FyaXlhL2VzcHJpbWEuZ2l0Ig"}
+
+"map-files" {>="0.1.1" & <"0.2.0"}
+
+"mixin-deep" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

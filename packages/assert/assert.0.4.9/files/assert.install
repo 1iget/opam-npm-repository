@@ -1,0 +1,4 @@
+lib: [
+"assert.js" {"assert.js"}
+"package.json" {"package.json"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "min-document"
+version: "2.8.1"
+maintainer: "raynos <raynos2@gmail.com>"
+author: "raynos <raynos2@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/Raynos/min-document.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "lodash._reinterpolate"
+version: "2.3.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+
+]
+
+
+
+

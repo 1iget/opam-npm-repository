@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"browser_build/package.json" {"browser_build/package.json"}
+"browser_build/bson.js" {"browser_build/bson.js"}
+"lib/bson/binary.js" {"lib/bson/binary.js"}
+"lib/bson/code.js" {"lib/bson/code.js"}
+"lib/bson/db_ref.js" {"lib/bson/db_ref.js"}
+"lib/bson/double.js" {"lib/bson/double.js"}
+"lib/bson/bson_new.js" {"lib/bson/bson_new.js"}
+"lib/bson/index.js" {"lib/bson/index.js"}
+"lib/bson/long.js" {"lib/bson/long.js"}
+"lib/bson/max_key.js" {"lib/bson/max_key.js"}
+"lib/bson/min_key.js" {"lib/bson/min_key.js"}
+"lib/bson/objectid.js" {"lib/bson/objectid.js"}
+"lib/bson/bson.js" {"lib/bson/bson.js"}
+"lib/bson/symbol.js" {"lib/bson/symbol.js"}
+"lib/bson/binary_parser.js" {"lib/bson/binary_parser.js"}
+"lib/bson/timestamp.js" {"lib/bson/timestamp.js"}
+"lib/bson/float_parser.js" {"lib/bson/float_parser.js"}
+"tools/gleak.js" {"tools/gleak.js"}
+]

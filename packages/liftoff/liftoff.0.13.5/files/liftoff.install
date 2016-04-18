@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"UPGRADING.md" {"UPGRADING.md"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+"appveyor.yml" {"appveyor.yml"}
+"artwork/liftoff-icon.eps" {"artwork/liftoff-icon.eps"}
+"artwork/liftoff-icon.png" {"artwork/liftoff-icon.png"}
+"artwork/liftoff-icon.svg" {"artwork/liftoff-icon.svg"}
+"artwork/liftoff.eps" {"artwork/liftoff.eps"}
+"artwork/liftoff.png" {"artwork/liftoff.png"}
+"artwork/liftoff.svg" {"artwork/liftoff.svg"}
+"CHANGELOG" {"CHANGELOG"}
+"lib/build_config_name.js" {"lib/build_config_name.js"}
+"lib/file_search.js" {"lib/file_search.js"}
+"lib/find_config.js" {"lib/find_config.js"}
+"lib/find_cwd.js" {"lib/find_cwd.js"}
+"lib/parse_options.js" {"lib/parse_options.js"}
+"lib/silent_require.js" {"lib/silent_require.js"}
+]

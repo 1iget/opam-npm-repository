@@ -1,0 +1,15 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"ctype.js" {"ctype.js"}
+"README" {"README"}
+"package.json" {"package.json"}
+"ctio.js" {"ctio.js"}
+"tst/ctype/tst.basicw.js" {"tst/ctype/tst.basicw.js"}
+"tst/ctype/tst.basicr.js" {"tst/ctype/tst.basicr.js"}
+"tst/ctio/int/tst.rint.js" {"tst/ctio/int/tst.rint.js"}
+"tst/ctio/int/tst.wint.js" {"tst/ctio/int/tst.wint.js"}
+"tst/ctio/uint/tst.ruint.js" {"tst/ctio/uint/tst.ruint.js"}
+"tst/ctio/uint/tst.wuint.js" {"tst/ctio/uint/tst.wuint.js"}
+"tst/ctio/float/tst.wfloat.js" {"tst/ctio/float/tst.wfloat.js"}
+"tst/ctio/float/tst.rfloat.js" {"tst/ctio/float/tst.rfloat.js"}
+]

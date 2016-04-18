@@ -1,0 +1,15 @@
+lib: [
+".npmignore" {".npmignore"}
+"CHANGES" {"CHANGES"}
+"CHANGES2" {"CHANGES2"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"qq.js" {"qq.js"}
+"qq.min.js" {"qq.min.js"}
+"README" {"README"}
+"test/" {"test/"}
+"test/all.js" {"test/all.js"}
+"test/deep.js" {"test/deep.js"}
+"test/lazy.js" {"test/lazy.js"}
+"test/queue.js" {"test/queue.js"}
+]

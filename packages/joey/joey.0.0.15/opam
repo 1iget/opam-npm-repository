@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "joey"
+version: "0.0.15"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "not defined"
+
+depends: [
+"jaque" {>="1.3.0" & <"1.4.0"}
+
+"q" {>="0.8.0" & <"0.9.0"}
+
+"q-fs" {>="0.1.0" & <"0.2.0"}
+
+"q-http" {>="0.1.0" & <"0.2.0"}
+
+"optimist" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

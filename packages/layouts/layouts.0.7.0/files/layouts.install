@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"lib/interpolate.js" {"lib/interpolate.js"}
+"lib/make-regex.js" {"lib/make-regex.js"}
+]

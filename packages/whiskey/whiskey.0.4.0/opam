@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "whiskey"
+version: "0.4.0"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/cloudkick/whiskey.git"
+depends: [
+"sprintf" {>="0.1.1"}
+
+"async" {>="0.1.9"}
+
+"magic-templates" {="0.1.0"}
+
+"rimraf" {="1.0.1"}
+
+"terminal" {="0.1.2"}
+
+]
+
+
+
+

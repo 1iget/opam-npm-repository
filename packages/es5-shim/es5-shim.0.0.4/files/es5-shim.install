@@ -1,0 +1,9 @@
+lib: [
+"es5-shim/" {"es5-shim/"}
+"es5-shim/CHANGES" {"es5-shim/CHANGES"}
+"es5-shim/es5-shim-0.0.4.min.js" {"es5-shim/es5-shim-0.0.4.min.js"}
+"es5-shim/es5-shim.js" {"es5-shim/es5-shim.js"}
+"es5-shim/LICENSE" {"es5-shim/LICENSE"}
+"es5-shim/package.json" {"es5-shim/package.json"}
+"es5-shim/README" {"es5-shim/README"}
+]

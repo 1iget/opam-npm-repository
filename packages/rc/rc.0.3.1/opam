@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "rc"
+version: "0.3.1"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/dominictarr/rc.git"
+depends: [
+"optimist" {>="0.3.4" & <"0.4.0"}
+
+"deep-extend" {>="0.2.5" & <"0.3.0"}
+
+"ini" {>="1.1.0" & <"1.2.0"}
+
+]
+
+
+
+

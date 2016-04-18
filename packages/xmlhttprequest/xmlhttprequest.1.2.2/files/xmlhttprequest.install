@@ -1,0 +1,12 @@
+lib: [
+"" {""}
+"autotest.watchr" {"autotest.watchr"}
+"demo.js" {"demo.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"XMLHttpRequest.js" {"XMLHttpRequest.js"}
+"tests/test-constants.js" {"tests/test-constants.js"}
+"tests/test-headers.js" {"tests/test-headers.js"}
+"tests/test-request.js" {"tests/test-request.js"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "continuation-local-storage"
+version: "2.2.0"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "BSD"
+dev-repo: "https://github.com/othiym23/node-continuation-local-storage.git"
+depends: [
+"async-listener" {>="0.1.1"}
+
+]
+
+
+
+

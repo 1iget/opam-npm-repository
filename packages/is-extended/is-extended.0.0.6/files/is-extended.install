@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+"index.js" {"index.js"}
+"is-extended.min.js" {"is-extended.min.js"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+"atlassian-ide-plugin.xml" {"atlassian-ide-plugin.xml"}
+"test/browserling.js" {"test/browserling.js"}
+"test/is-extended.test.js" {"test/is-extended.test.js"}
+]

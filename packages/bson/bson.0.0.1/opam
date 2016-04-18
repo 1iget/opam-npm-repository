@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "bson"
+version: "0.0.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+
+depends: [
+
+]
+install: ["sh" "-c" "node-waf configure clean build"]
+
+
+

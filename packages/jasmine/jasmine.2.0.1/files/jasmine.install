@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"Gruntfile.js" {"Gruntfile.js"}
+".travis.yml" {".travis.yml"}
+"bin/jasmine.js" {"bin/jasmine.js"}
+"lib/command.js" {"lib/command.js"}
+"lib/jasmine.js" {"lib/jasmine.js"}
+"lib/examples/jasmine.json" {"lib/examples/jasmine.json"}
+]

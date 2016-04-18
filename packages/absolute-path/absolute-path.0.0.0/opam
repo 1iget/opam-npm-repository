@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "absolute-path"
+version: "0.0.0"
+maintainer: "filearts <filearts@gmail.com>"
+author: "filearts <filearts@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/filearts/node-absolute-path"
+depends: [
+
+]
+
+
+
+

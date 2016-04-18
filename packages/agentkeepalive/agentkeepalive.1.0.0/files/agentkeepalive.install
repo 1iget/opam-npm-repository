@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintignore" {".jshintignore"}
+".jshintrc" {".jshintrc"}
+"example/agent.js" {"example/agent.js"}
+"example/https_agent.js" {"example/https_agent.js"}
+"AUTHORS" {"AUTHORS"}
+"lib/_http_agent.js" {"lib/_http_agent.js"}
+"lib/agent.js" {"lib/agent.js"}
+"History.md" {"History.md"}
+]

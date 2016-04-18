@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "base"
+version: "0.4.1"
+maintainer: "antz29 <jp@antz29.com>"
+author: "antz29 <jp@antz29.com>"
+license: "not defined"
+dev-repo: "git://github.com/antz29/node-base.git"
+depends: [
+"coffee-script" {>="0.0.0"}
+
+"twister" {>="0.0.0"}
+
+"slicer" {>="0.0.0"}
+
+"configr" {>="0.0.0"}
+
+"underscore" {>="0.0.0"}
+
+"async" {>="0.0.0"}
+
+"connect" {>="0.0.0"}
+
+]
+
+
+
+

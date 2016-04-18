@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/findup-sync.js" {"lib/findup-sync.js"}
+"test/findup-sync_test.js" {"test/findup-sync_test.js"}
+"test/fixtures/a/b/bar.txt" {"test/fixtures/a/b/bar.txt"}
+"test/fixtures/a/foo.txt" {"test/fixtures/a/foo.txt"}
+"test/fixtures/a.txt" {"test/fixtures/a.txt"}
+"test/fixtures/aaa.txt" {"test/fixtures/aaa.txt"}
+]

@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "send"
+version: "0.4.3"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "MIT"
+dev-repo: "git://github.com/visionmedia/send"
+depends: [
+"debug" {="1.0.2"}
+
+"escape-html" {="1.0.1"}
+
+"finished" {="1.2.2"}
+
+"fresh" {="0.2.2"}
+
+"mime" {="1.2.11"}
+
+"range-parser" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

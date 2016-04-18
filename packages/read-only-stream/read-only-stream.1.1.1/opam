@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "read-only-stream"
+version: "1.1.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/read-only-stream.git"
+depends: [
+"readable-stream" {>="1.0.31" & <"2.0.0"}
+
+"readable-wrap" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

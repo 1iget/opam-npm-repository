@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"bin/cmd.js" {"bin/cmd.js"}
+"example/sort.js" {"example/sort.js"}
+"readme.markdown" {"readme.markdown"}
+"test/dedupe-deps-of-deps.js" {"test/dedupe-deps-of-deps.js"}
+"test/dedupe.js" {"test/dedupe.js"}
+"test/dedupe_index.js" {"test/dedupe_index.js"}
+"test/dedupe_undef.js" {"test/dedupe_undef.js"}
+"test/expose.js" {"test/expose.js"}
+"test/expose_str.js" {"test/expose_str.js"}
+"test/indexed.js" {"test/indexed.js"}
+"test/sort.js" {"test/sort.js"}
+]

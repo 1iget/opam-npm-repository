@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "loud-rejection"
+version: "1.2.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/sindresorhus/loud-rejection.git"
+depends: [
+"array-find-index" {>="1.0.0" & <"2.0.0"}
+
+"signal-exit" {>="2.1.2" & <"3.0.0"}
+
+]
+
+
+
+

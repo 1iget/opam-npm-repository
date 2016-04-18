@@ -1,0 +1,1 @@
+rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)

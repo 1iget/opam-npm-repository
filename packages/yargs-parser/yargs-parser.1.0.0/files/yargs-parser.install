@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+"appveyor.yml" {"appveyor.yml"}
+".travis.yml" {".travis.yml"}
+"lib/tokenize-arg-string.js" {"lib/tokenize-arg-string.js"}
+"test/tokenize-arg-string.js" {"test/tokenize-arg-string.js"}
+"test/yargs-parser.js" {"test/yargs-parser.js"}
+"test/fixtures/settings.js" {"test/fixtures/settings.js"}
+"test/fixtures/config.json" {"test/fixtures/config.json"}
+"test/fixtures/config.txt" {"test/fixtures/config.txt"}
+"LICENSE.txt" {"LICENSE.txt"}
+]

@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "transformers"
+version: "3.1.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/transformers.git"
+depends: [
+"promise" {>="5.0.0" & <"5.1.0"}
+
+"css" {>="2.0.0" & <"2.1.0"}
+
+"clone" {>="0.1.17" & <"0.2.0"}
+
+"uglify-js" {>="2.4.15" & <"2.5.0"}
+
+]
+
+
+
+

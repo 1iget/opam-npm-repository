@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "lazy-globby"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/lazy-globby.git"
+depends: [
+"globby" {>="2.0.0" & <"3.0.0"}
+
+"lazy-cache" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

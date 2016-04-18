@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "parse-asn1"
+version: "1.1.0"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "ISC"
+dev-repo: "git://github.com/calvinmetcalf/parse-asn1.git"
+depends: [
+"asn1.js" {>="0.6.5" & <"0.7.0"}
+
+"asn1.js-rfc3280" {>="0.5.1" & <"0.6.0"}
+
+"pemstrip" {="0.0.1"}
+
+]
+
+
+
+

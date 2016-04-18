@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "exec-file-sync"
+version: "1.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/exec-file-sync"
+depends: [
+"sync-exec" {>="0.5.0" & <"0.6.0"}
+
+]
+
+
+
+

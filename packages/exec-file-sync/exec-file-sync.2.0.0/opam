@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "exec-file-sync"
+version: "2.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/exec-file-sync"
+depends: [
+"is-obj" {>="1.0.0" & <"2.0.0"}
+
+"object-assign" {>="3.0.0" & <"4.0.0"}
+
+"spawn-sync" {>="1.0.11" & <"2.0.0"}
+
+]
+
+
+
+

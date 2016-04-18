@@ -1,0 +1,37 @@
+opam-version: "1.2"
+name: "istanbul-api"
+version: "1.0.0-alpha.8"
+maintainer: "gotwarlost <kananthmail-github@yahoo.com>"
+author: "gotwarlost <kananthmail-github@yahoo.com>"
+license: "BSD-3-Clause"
+dev-repo: "git+ssh://git@github.com/istanbuljs/istanbul-api.git"
+depends: [
+"async" {>="1.0.0" & <"2.0.0"}
+
+"clone" {>="1.0.2" & <"2.0.0"}
+
+"fileset" {>="0.2.0" & <"0.3.0"}
+
+"istanbul-lib-coverage" {>="1.0.0-alpha" & <"2.0.0"}
+
+"istanbul-lib-hook" {>="1.0.0-alpha" & <"2.0.0"}
+
+"istanbul-lib-instrument" {>="1.0.0-alpha" & <"2.0.0"}
+
+"istanbul-lib-report" {>="1.0.0-alpha" & <"2.0.0"}
+
+"istanbul-lib-source-maps" {>="1.0.0-alpha" & <"2.0.0"}
+
+"istanbul-reports" {>="1.0.0-alpha" & <"2.0.0"}
+
+"js-yaml" {>="3.0.0" & <"4.0.0"}
+
+"mkdirp" {>="0.5.0" & <"0.6.0"}
+
+"once" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

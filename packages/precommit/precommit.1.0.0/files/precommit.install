@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"configs/prepush.json" {"configs/prepush.json"}
+"bin/cli.js" {"bin/cli.js"}
+"changelog.md" {"changelog.md"}
+"hook/pre-commit.js" {"hook/pre-commit.js"}
+"lib/console.js" {"lib/console.js"}
+"lib/hook.js" {"lib/hook.js"}
+"lib/process.js" {"lib/process.js"}
+"lib/promise.js" {"lib/promise.js"}
+"specs/main.js" {"specs/main.js"}
+".travis.yml" {".travis.yml"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]

@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"test.js" {"test.js"}
+"foo.pem" {"foo.pem"}
+".travis.yml" {".travis.yml"}
+"foo" {"foo"}
+"foo.pub" {"foo.pub"}
+"lib/algs.js" {"lib/algs.js"}
+"lib/errors.js" {"lib/errors.js"}
+"lib/fingerprint.js" {"lib/fingerprint.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/key.js" {"lib/key.js"}
+"lib/private-key.js" {"lib/private-key.js"}
+"lib/signature.js" {"lib/signature.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/formats/pem.js" {"lib/formats/pem.js"}
+"lib/formats/pkcs1.js" {"lib/formats/pkcs1.js"}
+"lib/formats/pkcs8.js" {"lib/formats/pkcs8.js"}
+"lib/formats/rfc4253.js" {"lib/formats/rfc4253.js"}
+"lib/formats/ssh.js" {"lib/formats/ssh.js"}
+"pk" {"pk"}
+"stacks.html" {"stacks.html"}
+]

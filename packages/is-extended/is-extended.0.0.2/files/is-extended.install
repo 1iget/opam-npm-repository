@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"grunt.js" {"grunt.js"}
+"index.js" {"index.js"}
+"is-extended.min.js" {"is-extended.min.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"test/is-extended.test.js" {"test/is-extended.test.js"}
+]

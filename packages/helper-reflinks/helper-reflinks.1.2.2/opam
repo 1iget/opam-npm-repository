@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "helper-reflinks"
+version: "1.2.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/helpers/helper-reflinks.git"
+depends: [
+"async" {>="0.9.0" & <"0.10.0"}
+
+"chalk" {>="1.0.0" & <"2.0.0"}
+
+"get-pkgs" {>="0.2.0" & <"0.3.0"}
+
+"load-pkg" {>="1.1.3" & <"2.0.0"}
+
+"log-symbols" {>="1.0.2" & <"2.0.0"}
+
+"markdown-utils" {>="0.6.0" & <"0.7.0"}
+
+"parse-github-url" {>="0.1.0" & <"0.2.0"}
+
+"stringify-github-url" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

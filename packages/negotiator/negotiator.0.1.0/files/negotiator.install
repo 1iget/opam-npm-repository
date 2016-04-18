@@ -1,0 +1,21 @@
+lib: [
+".gitignore" {".gitignore"}
+"examples/" {"examples/"}
+"examples/accept.coffee" {"examples/accept.coffee"}
+"examples/charset.coffee" {"examples/charset.coffee"}
+"examples/encoding.coffee" {"examples/encoding.coffee"}
+"examples/language.coffee" {"examples/language.coffee"}
+"lib/" {"lib/"}
+"lib/charset.coffee" {"lib/charset.coffee"}
+"lib/encoding.coffee" {"lib/encoding.coffee"}
+"lib/language.coffee" {"lib/language.coffee"}
+"lib/mediaType.coffee" {"lib/mediaType.coffee"}
+"lib/negotiator.coffee" {"lib/negotiator.coffee"}
+"package.json" {"package.json"}
+"readme.md" {"readme.md"}
+"test/" {"test/"}
+"test/charset.coffee" {"test/charset.coffee"}
+"test/encoding.coffee" {"test/encoding.coffee"}
+"test/language.coffee" {"test/language.coffee"}
+"test/mediaType.coffee" {"test/mediaType.coffee"}
+]

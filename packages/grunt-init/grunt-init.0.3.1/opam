@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "grunt-init"
+version: "0.3.1"
+maintainer: "shama <kyle@dontkry.com>"
+author: "shama <kyle@dontkry.com>"
+license: "not defined"
+dev-repo: "git://github.com/gruntjs/grunt-init.git"
+depends: [
+"prompt" {>="0.1.12" & <"0.2.0"}
+
+"semver" {>="1.0.14" & <"1.1.0"}
+
+"hooker" {>="0.2.3" & <"0.3.0"}
+
+"colors" {>="0.6.0-1" & <"0.7.0"}
+
+"grunt" {>="0.4.0" & <"0.5.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+"async" {>="0.2.10" & <"0.3.0"}
+
+]
+
+
+
+

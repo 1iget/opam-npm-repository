@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "mongodb"
+version: "2.1.5"
+maintainer: "christkv <christkv@gmail.com>"
+author: "christkv <christkv@gmail.com>"
+license: "Apache-2.0"
+dev-repo: "git@github.com:mongodb/node-mongodb-native.git"
+depends: [
+"es6-promise" {="3.0.2"}
+
+"mongodb-core" {="1.3.0"}
+
+"readable-stream" {="1.0.31"}
+
+]
+
+
+
+

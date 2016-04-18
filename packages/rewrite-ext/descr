@@ -1,0 +1,1 @@
+Automatically re-write the destination extension of a filepath based on the source extension. e.g  `.coffee` => `.js`. This will only rename the ext, no other path parts are modified.

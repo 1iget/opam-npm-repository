@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "relative"
+version: "1.0.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/relative.git"
+depends: [
+"is-directory" {>="0.2.3" & <"0.3.0"}
+
+]
+
+
+
+

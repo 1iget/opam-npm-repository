@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"base64.js" {"base64.js"}
+"base64.min.js" {"base64.min.js"}
+"test/base64.coffee" {"test/base64.coffee"}
+".travis.yml" {".travis.yml"}
+"bower.json" {"bower.json"}
+"scripts/prepublish" {"scripts/prepublish"}
+"Makefile" {"Makefile"}
+]

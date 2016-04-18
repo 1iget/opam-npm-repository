@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "browser-resolve"
+version: "0.0.0"
+maintainer: "shtylman <shtylman@gmail.com>"
+author: "shtylman <shtylman@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/shtylman/node-browser-resolve.git"
+depends: [
+"resolve" {="0.2.3"}
+
+"console-browserify" {="0.1.6"}
+
+"vm-browserify" {="0.0.1"}
+
+"crypto-browserify" {="0.2.1"}
+
+"http-browserify" {="0.1.6"}
+
+"buffer-browserify" {="0.0.4"}
+
+"zlib-browserify" {="0.0.1"}
+
+]
+
+
+
+

@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"deeper.js" {"deeper.js"}
+".jshintrc" {".jshintrc"}
+"test/deeper.tap.js" {"test/deeper.tap.js"}
+]

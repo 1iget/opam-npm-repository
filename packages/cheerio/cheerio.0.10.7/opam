@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "cheerio"
+version: "0.10.7"
+maintainer: "mattmueller <mattmuelle@gmail.com>"
+author: "mattmueller <mattmuelle@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/MatthewMueller/cheerio.git"
+depends: [
+"cheerio-select" {>="0.0.0"}
+
+"htmlparser2" {>="2.0.0" & <"3.0.0"}
+
+"underscore" {>="1.4.0" & <"1.5.0"}
+
+"entities" {>="0.0.0" & <"1.0.0"}
+
+]
+
+
+
+

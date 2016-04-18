@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "ansi-escape-sequences"
+version: "1.0.1"
+maintainer: "75lb <75pound@gmail.com>"
+author: "75lb <75pound@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/75lb/ansi-escape-sequences.git"
+depends: [
+"array-tools" {>="1.4.1" & <"2.0.0"}
+
+]
+
+
+
+

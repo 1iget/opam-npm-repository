@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"example.js" {"example.js"}
+"index.js" {"index.js"}
+"setup-deps.js" {"setup-deps.js"}
+"test.js" {"test.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+]

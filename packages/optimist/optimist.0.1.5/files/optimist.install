@@ -1,0 +1,25 @@
+lib: [
+"" {""}
+"test/" {"test/"}
+"test/_.js" {"test/_.js"}
+"test/usage.js" {"test/usage.js"}
+"test/parse.js" {"test/parse.js"}
+"test/coffee.js" {"test/coffee.js"}
+"test/_/" {"test/_/"}
+"test/_/bin.js" {"test/_/bin.js"}
+"test/_/argv.js" {"test/_/argv.js"}
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"examples/" {"examples/"}
+"examples/xup.js" {"examples/xup.js"}
+"examples/divide.js" {"examples/divide.js"}
+"examples/default_hash.js" {"examples/default_hash.js"}
+"examples/nonopt.js" {"examples/nonopt.js"}
+"examples/bool.js" {"examples/bool.js"}
+"examples/short.js" {"examples/short.js"}
+"examples/default_singles.js" {"examples/default_singles.js"}
+"examples/reflect.js" {"examples/reflect.js"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+]

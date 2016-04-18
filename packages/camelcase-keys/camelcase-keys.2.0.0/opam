@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "camelcase-keys"
+version: "2.0.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/camelcase-keys"
+depends: [
+"camelcase" {>="2.0.0" & <"3.0.0"}
+
+"map-obj" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

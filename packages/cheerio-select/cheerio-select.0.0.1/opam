@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cheerio-select"
+version: "0.0.1"
+maintainer: "mattmueller <mattmuelle@gmail.com>"
+author: "mattmueller <mattmuelle@gmail.com>"
+license: "not defined"
+
+depends: [
+"CSSselect" {>="0.0.0" & <"1.0.0"}
+
+]
+
+
+
+

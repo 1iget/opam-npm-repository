@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/index.js" {"lib/index.js"}
+"logo.png" {"logo.png"}
+"Makefile" {"Makefile"}
+"test/index.js" {"test/index.js"}
+"waltz.jpg" {"waltz.jpg"}
+]

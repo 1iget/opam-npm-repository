@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "runsync"
+version: "0.0.1"
+maintainer: "norahiko <norahiko.o@gmail.com>"
+author: "norahiko <norahiko.o@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/norahiko/runsync.git"
+depends: [
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

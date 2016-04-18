@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "is-match"
+version: "0.4.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/is-match.git"
+depends: [
+"deep-equal" {>="1.0.1" & <"2.0.0"}
+
+"is-extendable" {>="0.1.1" & <"0.2.0"}
+
+"is-glob" {>="2.0.0" & <"3.0.0"}
+
+"micromatch" {>="2.2.0" & <"3.0.0"}
+
+]
+
+
+
+

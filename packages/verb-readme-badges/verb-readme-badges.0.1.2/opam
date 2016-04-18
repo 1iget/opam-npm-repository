@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "verb-readme-badges"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/verbose/verb-readme-badges.git"
+depends: [
+
+]
+
+
+
+

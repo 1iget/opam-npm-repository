@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+"EventEmitter2.js" {"EventEmitter2.js"}
+"EventEmitter2.min.js" {"EventEmitter2.min.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/basicEvents.js" {"test/basicEvents.js"}
+"test/benchmarks.html" {"test/benchmarks.html"}
+"test/benchmarks.js" {"test/benchmarks.js"}
+"test/EventEmitter.js" {"test/EventEmitter.js"}
+"test/EventEmitter.min.js" {"test/EventEmitter.min.js"}
+"test/test.html" {"test/test.html"}
+"test/tests_bg.png" {"test/tests_bg.png"}
+"test/timesToLive.js" {"test/timesToLive.js"}
+"test/vendor/nodeunit/nodeunit.js" {"test/vendor/nodeunit/nodeunit.js"}
+]

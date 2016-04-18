@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "pad-left"
+version: "2.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/pad-left.git"
+depends: [
+"repeat-string" {>="1.5.2" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "read-json-sync"
+version: "1.1.0"
+maintainer: "shinnn <snnskwtnb@gmail.com>"
+author: "shinnn <snnskwtnb@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/shinnn/read-json-sync"
+depends: [
+"graceful-fs" {>="3.0.5" & <"4.0.0"}
+
+]
+
+
+
+

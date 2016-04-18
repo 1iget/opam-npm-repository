@@ -1,0 +1,1 @@
+Returns an object with the (non-glob) base path and the actual pattern.

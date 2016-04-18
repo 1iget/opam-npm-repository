@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ignore"
+version: "2.2.13"
+maintainer: "kael <i@kael.me>"
+author: "kael <i@kael.me>"
+license: "MIT"
+dev-repo: "git@github.com:kaelzhang/node-ignore.git"
+depends: [
+
+]
+
+
+
+

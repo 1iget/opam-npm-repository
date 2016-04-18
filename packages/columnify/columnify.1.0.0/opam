@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "columnify"
+version: "1.0.0"
+maintainer: "timoxley <secoif@gmail.com>"
+author: "timoxley <secoif@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/timoxley/columnify.git"
+depends: [
+"wcwidth.js" {>="0.0.4" & <"0.1.0"}
+
+]
+
+
+
+

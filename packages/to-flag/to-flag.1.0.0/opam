@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "to-flag"
+version: "1.0.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/to-flag.git"
+depends: [
+"collapse-object" {>="0.1.0" & <"0.2.0"}
+
+"dashify" {>="0.1.0" & <"0.2.0"}
+
+"is-primitive" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

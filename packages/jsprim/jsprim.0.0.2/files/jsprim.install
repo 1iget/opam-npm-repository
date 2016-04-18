@@ -1,0 +1,11 @@
+lib: [
+"jsl.node.conf" {"jsl.node.conf"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"Makefile.targ" {"Makefile.targ"}
+"Makefile.deps" {"Makefile.deps"}
+".gitmodules" {".gitmodules"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"lib/jsprim.js" {"lib/jsprim.js"}
+]

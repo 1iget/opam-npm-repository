@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "unique-slug"
+version: "1.0.0"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git://github.com/iarna/unique-slug.git"
+depends: [
+
+]
+
+
+
+

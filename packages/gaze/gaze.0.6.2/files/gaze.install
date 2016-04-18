@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"AUTHORS" {"AUTHORS"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"binding.gyp" {"binding.gyp"}
+"lib/gaze.js" {"lib/gaze.js"}
+"lib/gaze04.js" {"lib/gaze04.js"}
+"lib/helper.js" {"lib/helper.js"}
+"lib/pathwatcher.js" {"lib/pathwatcher.js"}
+"lib/platform.js" {"lib/platform.js"}
+"lib/statpoll.js" {"lib/statpoll.js"}
+"src/common.cc" {"src/common.cc"}
+"src/common.h" {"src/common.h"}
+"src/handle_map.cc" {"src/handle_map.cc"}
+"src/handle_map.h" {"src/handle_map.h"}
+"src/main.cc" {"src/main.cc"}
+"src/pathwatcher_linux.cc" {"src/pathwatcher_linux.cc"}
+"src/pathwatcher_mac.mm" {"src/pathwatcher_mac.mm"}
+"src/pathwatcher_win.cc" {"src/pathwatcher_win.cc"}
+"src/unsafe_persistent.h" {"src/unsafe_persistent.h"}
+]

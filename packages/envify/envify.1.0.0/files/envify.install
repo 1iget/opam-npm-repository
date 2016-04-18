@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"custom.js" {"custom.js"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"bin/envify" {"bin/envify"}
+]

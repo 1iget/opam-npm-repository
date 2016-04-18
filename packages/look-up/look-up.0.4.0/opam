@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "look-up"
+version: "0.4.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/look-up.git"
+depends: [
+"is-glob" {>="0.1.0" & <"0.2.0"}
+
+"multimatch" {>="1.0.1" & <"2.0.0"}
+
+"normalize-path" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

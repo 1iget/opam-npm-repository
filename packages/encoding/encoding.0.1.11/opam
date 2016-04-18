@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "encoding"
+version: "0.1.11"
+maintainer: "andris <andris@node.ee>"
+author: "andris <andris@node.ee>"
+license: "MIT"
+dev-repo: "https://github.com/andris9/encoding.git"
+depends: [
+"iconv-lite" {>="0.4.4" & <"0.5.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "vinyl-sourcemaps-apply"
+version: "0.2.1"
+maintainer: "floridoo <florian.reiterer@gmail.com>"
+author: "floridoo <florian.reiterer@gmail.com>"
+license: "ISC"
+dev-repo: "git://github.com/floridoo/vinyl-sourcemaps-apply.git"
+depends: [
+"source-map" {>="0.5.1" & <"0.6.0"}
+
+]
+
+
+
+

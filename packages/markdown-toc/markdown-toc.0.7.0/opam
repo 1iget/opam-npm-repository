@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "markdown-toc"
+version: "0.7.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/markdown-toc.git"
+depends: [
+"extend-shallow" {>="0.2.0" & <"0.3.0"}
+
+"gray-matter" {>="1.2.4" & <"2.0.0"}
+
+"markdown-utils" {>="0.3.0" & <"0.4.0"}
+
+"object.pick" {>="1.1.1" & <"2.0.0"}
+
+"remarkable" {>="1.6.0" & <"2.0.0"}
+
+]
+
+
+
+

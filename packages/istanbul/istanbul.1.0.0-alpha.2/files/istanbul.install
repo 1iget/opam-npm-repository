@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/cli.js" {"lib/cli.js"}
+"lib/register-plugins.js" {"lib/register-plugins.js"}
+"lib/command/check-coverage.js" {"lib/command/check-coverage.js"}
+"lib/command/cover.js" {"lib/command/cover.js"}
+"lib/command/help.js" {"lib/command/help.js"}
+"lib/command/index.js" {"lib/command/index.js"}
+"lib/command/instrument.js" {"lib/command/instrument.js"}
+"lib/command/report.js" {"lib/command/report.js"}
+"lib/util/factory.js" {"lib/util/factory.js"}
+"lib/util/help-formatter.js" {"lib/util/help-formatter.js"}
+"lib/util/input-error.js" {"lib/util/input-error.js"}
+"lib/util/meta.js" {"lib/util/meta.js"}
+]

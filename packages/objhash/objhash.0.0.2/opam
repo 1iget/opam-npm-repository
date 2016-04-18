@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "objhash"
+version: "0.0.2"
+maintainer: "lxe <lxe@lxe.co>"
+author: "lxe <lxe@lxe.co>"
+license: "MIT"
+dev-repo: "git://github.com/lxe/node-objhash.git"
+depends: [
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

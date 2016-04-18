@@ -1,0 +1,21 @@
+lib: [
+"" {""}
+"test/" {"test/"}
+"test/usage.js" {"test/usage.js"}
+"test/parse.js" {"test/parse.js"}
+"README.markdown" {"README.markdown"}
+"lib/" {"lib/"}
+"lib/optimist.js" {"lib/optimist.js"}
+"index.js" {"index.js"}
+"lib-cov/" {"lib-cov/"}
+".npmignore" {".npmignore"}
+"examples/" {"examples/"}
+"examples/xup.js" {"examples/xup.js"}
+"examples/divide.js" {"examples/divide.js"}
+"examples/nonopt.js" {"examples/nonopt.js"}
+"examples/bool.js" {"examples/bool.js"}
+"examples/short.js" {"examples/short.js"}
+"examples/reflect.js" {"examples/reflect.js"}
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+]

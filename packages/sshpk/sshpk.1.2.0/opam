@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "sshpk"
+version: "1.2.0"
+maintainer: "arekinath <alex@cooperi.net>"
+author: "arekinath <alex@cooperi.net>"
+license: "MIT"
+dev-repo: "git+https://github.com/arekinath/node-sshpk.git"
+depends: [
+"asn1" {="0.2.2"}
+
+"assert-plus" {="0.1.5"}
+
+]
+
+
+
+

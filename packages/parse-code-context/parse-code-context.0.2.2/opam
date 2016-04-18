@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "parse-code-context"
+version: "0.2.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/parse-code-context.git"
+depends: [
+
+]
+
+
+
+

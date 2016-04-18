@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "contextify"
+version: "0.0.7"
+maintainer: "brianmcd <brianmcd05@gmail.com>"
+author: "brianmcd <brianmcd05@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/brianmcd/contextify.git"
+depends: [
+
+]
+
+build: ["sh" "-c" "node-waf clean || true; node-waf configure build"]
+
+

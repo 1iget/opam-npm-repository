@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "strip-indent"
+version: "1.0.1"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/sindresorhus/strip-indent"
+depends: [
+"get-stdin" {>="4.0.1" & <"5.0.0"}
+
+]
+
+
+
+

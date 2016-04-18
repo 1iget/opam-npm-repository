@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"History.md" {"History.md"}
+"lib/read.js" {"lib/read.js"}
+"lib/types/json.js" {"lib/types/json.js"}
+"lib/types/raw.js" {"lib/types/raw.js"}
+"lib/types/text.js" {"lib/types/text.js"}
+"lib/types/urlencoded.js" {"lib/types/urlencoded.js"}
+]

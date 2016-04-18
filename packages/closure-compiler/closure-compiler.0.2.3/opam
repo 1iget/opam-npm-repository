@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "closure-compiler"
+version: "0.2.3"
+maintainer: "tim-smart <tim@fostle.com>"
+author: "tim-smart <tim@fostle.com>"
+license: "not defined"
+dev-repo: "http://github.com/Tim-Smart/node-closure.git"
+depends: [
+
+]
+
+
+
+

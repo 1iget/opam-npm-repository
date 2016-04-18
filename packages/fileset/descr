@@ -1,0 +1,1 @@
+Wrapper around miniglob / minimatch combo to allow multiple patterns matching and include-exclude ability

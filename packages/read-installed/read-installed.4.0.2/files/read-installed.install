@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"read-installed.js" {"read-installed.js"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+"test/depth-1.js" {"test/depth-1.js"}
+"test/dev.js" {"test/dev.js"}
+"test/empty.js" {"test/empty.js"}
+"test/extraneous-dev.js" {"test/extraneous-dev.js"}
+"test/depth-0.js" {"test/depth-0.js"}
+"test/noargs.js" {"test/noargs.js"}
+"test/grandparent-peer-dev.js" {"test/grandparent-peer-dev.js"}
+"test/grandparent-peer.js" {"test/grandparent-peer.js"}
+"test/issue-40.js" {"test/issue-40.js"}
+"test/linked-dep-dev-deps-extraneous.js" {"test/linked-dep-dev-deps-extraneous.js"}
+"test/cyclic-extraneous-peer-deps.js" {"test/cyclic-extraneous-peer-deps.js"}
+"test/peer-dep-at-latest.js" {"test/peer-dep-at-latest.js"}
+"test/extraneous.js" {"test/extraneous.js"}
+"test/fixtures/package.json" {"test/fixtures/package.json"}
+"test/fixtures/extraneous-detected/package.json" {"test/fixtures/extraneous-detected/package.json"}
+"test/fixtures/extraneous-dev-dep/package.json" {"test/fixtures/extraneous-dev-dep/package.json"}
+"test/fixtures/grandparent-peer/package.json" {"test/fixtures/grandparent-peer/package.json"}
+"test/fixtures/grandparent-peer-dev/package.json" {"test/fixtures/grandparent-peer-dev/package.json"}
+]

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+".verbrc.yml" {".verbrc.yml"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+"docs/examples.md" {"docs/examples.md"}
+"docs/options.md" {"docs/options.md"}
+"docs/quickstart.md" {"docs/quickstart.md"}
+"test/index.js" {"test/index.js"}
+]

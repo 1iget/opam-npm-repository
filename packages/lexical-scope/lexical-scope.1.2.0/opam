@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "lexical-scope"
+version: "1.2.0"
+maintainer: "substack <substack@gmail.com>"
+author: "substack <substack@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/substack/lexical-scope.git"
+depends: [
+"astw" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

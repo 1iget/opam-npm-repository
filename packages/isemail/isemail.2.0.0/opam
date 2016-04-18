@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "isemail"
+version: "2.0.0"
+maintainer: "hueniverse <eran@hammer.io>"
+author: "hueniverse <eran@hammer.io>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/hapijs/isemail.git"
+depends: [
+
+]
+
+
+
+

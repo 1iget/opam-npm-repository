@@ -1,0 +1,1 @@
+Use thread-sleep if native compilation succeeded, otherwise it's a noop

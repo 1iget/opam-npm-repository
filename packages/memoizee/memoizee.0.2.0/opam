@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "memoizee"
+version: "0.2.0"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git://github.com/medikoo/memoize.git"
+depends: [
+"es5-ext" {>="0.9.0" & <"0.10.0"}
+
+"event-emitter" {>="0.2.1" & <"0.3.0"}
+
+"next-tick" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "create-error-class"
+version: "1.0.0"
+maintainer: "floatdrop <floatdrop@gmail.com>"
+author: "floatdrop <floatdrop@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/floatdrop/create-error-class"
+depends: [
+"object-assign" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

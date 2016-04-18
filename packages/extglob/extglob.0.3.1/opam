@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "extglob"
+version: "0.3.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git://github.com/jonschlinkert/extglob.git"
+depends: [
+"ansi-green" {>="0.1.1" & <"0.2.0"}
+
+"is-extglob" {>="1.0.0" & <"2.0.0"}
+
+"success-symbol" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Filter an object values using glob patterns or with a `callback` function returns true. 

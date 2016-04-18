@@ -1,0 +1,1 @@
+Find and replace utility for node.js. Transform strings by running multiple RegExp or string find-and-replace patterns on a string in sequence, reducing the final string to the accumulated result of each transformation. Patterns can be strings (or arrays 

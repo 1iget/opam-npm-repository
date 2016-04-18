@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "argv"
+version: "0.0.1"
+maintainer: "codenothing <corey@codenothing.com>"
+author: "codenothing <corey@codenothing.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "foreground-child"
+version: "1.3.0"
+maintainer: "isaacs <isaacs@npmjs.com>"
+author: "isaacs <isaacs@npmjs.com>"
+license: "ISC"
+dev-repo: "git+https://github.com/isaacs/foreground-child.git"
+depends: [
+"signal-exit" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

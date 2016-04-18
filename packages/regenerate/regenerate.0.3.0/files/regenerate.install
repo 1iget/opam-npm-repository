@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"regenerate.js" {"regenerate.js"}
+".gitattributes" {".gitattributes"}
+".travis.yml" {".travis.yml"}
+"coverage/prettify.js" {"coverage/prettify.js"}
+"coverage/index.html" {"coverage/index.html"}
+"coverage/prettify.css" {"coverage/prettify.css"}
+"coverage/regenerate/index.html" {"coverage/regenerate/index.html"}
+"coverage/regenerate/regenerate.js.html" {"coverage/regenerate/regenerate.js.html"}
+"tests/tests.js" {"tests/tests.js"}
+"tests/index.html" {"tests/index.html"}
+]

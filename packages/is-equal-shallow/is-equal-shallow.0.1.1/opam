@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-equal-shallow"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/is-equal-shallow.git"
+depends: [
+"is-primitive" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

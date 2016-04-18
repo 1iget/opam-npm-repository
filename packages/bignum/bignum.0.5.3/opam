@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "bignum"
+version: "0.5.3"
+maintainer: "bitcoinjs <bitcoinjs@justmoon.net>"
+author: "bitcoinjs <bitcoinjs@justmoon.net>"
+license: "MIT/X11"
+dev-repo: "http://github.com/justmoon/node-bignum.git"
+depends: [
+
+]
+install: ["sh" "-c" "node-gyp configure build"]
+
+
+

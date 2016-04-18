@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"example.js" {"example.js"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/index.html" {"docs/index.html"}
+"lib/index.js" {"lib/index.js"}
+"LICENSE.md" {"LICENSE.md"}
+"test/exists-test.js" {"test/exists-test.js"}
+"test/get-test.js" {"test/get-test.js"}
+"test/put-test.js" {"test/put-test.js"}
+"test/search-test.js" {"test/search-test.js"}
+]

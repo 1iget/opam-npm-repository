@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "sinon"
+version: "1.11.1"
+maintainer: "seeflanigan <seeflanigan@gmail.com>"
+author: "seeflanigan <seeflanigan@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/cjohansen/Sinon.JS.git"
+depends: [
+"formatio" {>="1.1.1" & <"1.2.0"}
+
+"util" {>="0.10.3" & <"1.0.0"}
+
+]
+
+
+
+

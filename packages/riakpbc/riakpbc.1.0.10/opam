@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "riakpbc"
+version: "1.0.10"
+maintainer: "nlf <quitlahok@gmail.com>"
+author: "nlf <quitlahok@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com:nlf/riakpbc.git"
+depends: [
+"protobuf.js" {>="0.0.21" & <"0.1.0"}
+
+"butils" {="0.0.7"}
+
+"through" {>="2.3.4" & <"2.4.0"}
+
+]
+
+
+
+

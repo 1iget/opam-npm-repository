@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "symbol-tree"
+version: "3.1.0"
+maintainer: "joris-van-der-wel <joris@jorisvanderwel.com>"
+author: "joris-van-der-wel <joris@jorisvanderwel.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/Joris-van-der-Wel/js-symbol-tree.git"
+depends: [
+
+]
+
+
+
+

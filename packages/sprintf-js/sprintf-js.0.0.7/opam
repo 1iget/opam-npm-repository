@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sprintf-js"
+version: "0.0.7"
+maintainer: "alexei <hello@alexei.ro>"
+author: "alexei <hello@alexei.ro>"
+license: "BSD"
+dev-repo: "https://github.com/alexei/sprintf.js.git"
+depends: [
+
+]
+
+
+
+

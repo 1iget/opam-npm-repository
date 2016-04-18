@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "babel-eslint"
+version: "1.0.1"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/babel/babel-eslint.git"
+depends: [
+"babel" {>="4.6.0" & <"5.0.0"}
+
+]
+
+
+
+

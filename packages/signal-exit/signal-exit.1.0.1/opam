@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "signal-exit"
+version: "1.0.1"
+maintainer: "bcoe <ben@npmjs.com>"
+author: "bcoe <ben@npmjs.com>"
+license: "ISC"
+dev-repo: "https://github.com/bcoe/signal-exit.git"
+depends: [
+
+]
+
+
+
+

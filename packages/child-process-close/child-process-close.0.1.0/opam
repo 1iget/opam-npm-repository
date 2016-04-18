@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "child-process-close"
+version: "0.1.0"
+maintainer: "piscisaureus <bertbelder@gmail.com>"
+author: "piscisaureus <bertbelder@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/piscisaureus/child-process-close.git"
+depends: [
+
+]
+
+
+
+

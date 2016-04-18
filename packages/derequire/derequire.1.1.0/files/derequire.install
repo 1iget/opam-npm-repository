@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"bin/cmd.js" {"bin/cmd.js"}
+"readme.md" {"readme.md"}
+"test/cjs-lazy.js" {"test/cjs-lazy.js"}
+"test/cjs-smartass.dereq.js" {"test/cjs-smartass.dereq.js"}
+"test/cjs-smartass.js" {"test/cjs-smartass.js"}
+"test/ember-data.js" {"test/ember-data.js"}
+"test/pouchdb.dereq.js" {"test/pouchdb.dereq.js"}
+"test/pouchdb.js" {"test/pouchdb.js"}
+"test/test.js" {"test/test.js"}
+]

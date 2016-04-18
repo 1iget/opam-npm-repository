@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "helper-apidocs"
+version: "0.1.3"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/helper-apidocs.git"
+depends: [
+"async" {>="0.9.0" & <"0.10.0"}
+
+"extend-shallow" {>="0.1.1" & <"0.2.0"}
+
+"globby" {>="1.0.0" & <"2.0.0"}
+
+"js-comments" {>="0.3.4" & <"0.4.0"}
+
+"template-utils" {>="0.1.6" & <"0.2.0"}
+
+]
+
+
+
+

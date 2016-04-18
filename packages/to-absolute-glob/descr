@@ -1,0 +1,1 @@
+Make a glob pattern absolute, ensuring that negative globs and patterns with trailing slashes are correctly handled.

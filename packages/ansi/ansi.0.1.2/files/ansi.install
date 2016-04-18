@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"examples/cursorPosition.js" {"examples/cursorPosition.js"}
+"examples/starwars.js" {"examples/starwars.js"}
+"examples/beep/index.js" {"examples/beep/index.js"}
+"examples/clear/index.js" {"examples/clear/index.js"}
+"examples/imgcat/index.js" {"examples/imgcat/index.js"}
+"examples/imgcat/yoshi.png" {"examples/imgcat/yoshi.png"}
+"examples/progress/index.js" {"examples/progress/index.js"}
+"lib/ansi.js" {"lib/ansi.js"}
+"lib/newlines.js" {"lib/newlines.js"}
+]

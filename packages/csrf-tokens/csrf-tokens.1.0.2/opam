@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "csrf-tokens"
+version: "1.0.2"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/expressjs/csrf-tokens"
+depends: [
+"rndm" {>="1.0.0" & <"2.0.0"}
+
+"uid2" {>="0.0.2" & <"0.1.0"}
+
+"scmp" {>="0.0.3" & <"0.1.0"}
+
+]
+
+
+
+

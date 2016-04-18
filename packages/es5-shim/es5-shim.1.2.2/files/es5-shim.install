@@ -1,0 +1,10 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGES" {"CHANGES"}
+"es5-shim.js" {"es5-shim.js"}
+"es5-shim.min.js" {"es5-shim.min.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README" {"README"}
+"settimeout.html" {"settimeout.html"}
+]

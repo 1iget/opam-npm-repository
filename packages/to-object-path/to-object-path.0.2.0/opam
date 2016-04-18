@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "to-object-path"
+version: "0.2.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/to-object-path.git"
+depends: [
+"arr-flatten" {>="1.0.1" & <"2.0.0"}
+
+"is-arguments" {>="1.0.2" & <"2.0.0"}
+
+]
+
+
+
+

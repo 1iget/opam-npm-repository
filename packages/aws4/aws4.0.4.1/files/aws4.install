@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"aws4.js" {"aws4.js"}
+"example.js" {"example.js"}
+".travis.yml" {".travis.yml"}
+".tern-port" {".tern-port"}
+]

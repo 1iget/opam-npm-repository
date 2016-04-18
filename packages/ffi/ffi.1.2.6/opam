@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "ffi"
+version: "1.2.6"
+maintainer: "tootallnate <nathan@tootallnate.net>"
+author: "tootallnate <nathan@tootallnate.net>"
+license: "not defined"
+dev-repo: "http://github.com/rbranson/node-ffi.git"
+depends: [
+"bindings" {>="0.0.0"}
+
+"debug" {>="0.0.0"}
+
+"ref" {>="0.0.0"}
+
+"ref-struct" {>="0.0.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

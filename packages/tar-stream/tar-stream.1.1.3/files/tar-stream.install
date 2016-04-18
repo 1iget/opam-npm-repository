@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"headers.js" {"headers.js"}
+"extract.js" {"extract.js"}
+"index.js" {"index.js"}
+"pack.js" {"pack.js"}
+]

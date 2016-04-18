@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "original"
+version: "0.0.4"
+maintainer: "V1 <info@3rd-Eden.com>"
+author: "V1 <info@3rd-Eden.com>"
+license: "MIT"
+dev-repo: "https://github.com/unshiftio/original"
+depends: [
+"url-parse" {>="0.0.0" & <"0.1.0"}
+
+]
+
+
+
+

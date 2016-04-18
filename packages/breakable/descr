@@ -1,0 +1,1 @@
+Break out of functions, recursive or not, in a more composable way than by using exceptions explicitly. Non-local return.

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "simplesets"
+version: "1.2.0"
+maintainer: "PeterScott <pjscott@iastate.edu>"
+author: "PeterScott <pjscott@iastate.edu>"
+license: "not defined"
+dev-repo: "git://github.com/PeterScott/simplesets-nodejs.git"
+depends: [
+
+]
+
+
+
+

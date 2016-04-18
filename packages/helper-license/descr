@@ -1,0 +1,1 @@
+Template helper for adding a formatted license statement based on the license type in package.json.

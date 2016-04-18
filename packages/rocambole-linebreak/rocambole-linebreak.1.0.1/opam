@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "rocambole-linebreak"
+version: "1.0.1"
+maintainer: "millermedeiros <miller@millermedeiros.com>"
+author: "millermedeiros <miller@millermedeiros.com>"
+license: "MIT"
+dev-repo: "https://github.com/millermedeiros/rocambole-linebreak.git"
+depends: [
+"debug" {>="2.1.3" & <"3.0.0"}
+
+"rocambole-token" {>="1.2.1" & <"2.0.0"}
+
+"semver" {>="4.3.1" & <"5.0.0"}
+
+]
+
+
+
+

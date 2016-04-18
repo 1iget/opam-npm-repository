@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "Base64"
+version: "0.2.0"
+maintainer: "davidchambers <dc@hashify.me>"
+author: "davidchambers <dc@hashify.me>"
+license: "not defined"
+dev-repo: "git://github.com/davidchambers/Base64.js.git"
+depends: [
+
+]
+
+
+
+

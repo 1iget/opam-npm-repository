@@ -1,0 +1,20 @@
+lib: [
+".gitignore" {".gitignore"}
+"chai.js" {"chai.js"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/assertion.js" {"lib/assertion.js"}
+"lib/chai.js" {"lib/chai.js"}
+"lib/error.js" {"lib/error.js"}
+"lib/interface/" {"lib/interface/"}
+"lib/interface/assert.js" {"lib/interface/assert.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"support/" {"support/"}
+"support/compile.js" {"support/compile.js"}
+"support/suffix.js" {"support/suffix.js"}
+"test/" {"test/"}
+"test/fixture.js" {"test/fixture.js"}
+]

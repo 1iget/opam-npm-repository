@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "optionator"
+version: "0.8.1"
+maintainer: "gkz <z@georgezahariev.com>"
+author: "gkz <z@georgezahariev.com>"
+license: "MIT"
+dev-repo: "git://github.com/gkz/optionator.git"
+depends: [
+"prelude-ls" {>="1.1.2" & <"1.2.0"}
+
+"deep-is" {>="0.1.3" & <"0.2.0"}
+
+"wordwrap" {>="1.0.0" & <"1.1.0"}
+
+"type-check" {>="0.3.2" & <"0.4.0"}
+
+"levn" {>="0.3.0" & <"0.4.0"}
+
+"fast-levenshtein" {>="1.1.0" & <"2.0.0"}
+
+]
+
+
+
+

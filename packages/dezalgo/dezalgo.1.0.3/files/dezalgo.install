@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"dezalgo.js" {"dezalgo.js"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+]

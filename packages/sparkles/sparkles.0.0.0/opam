@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "sparkles"
+version: "0.0.0"
+maintainer: "phated <blaine@iceddev.com>"
+author: "phated <blaine@iceddev.com>"
+license: "MIT"
+dev-repo: "https://github.com/phated/sparkles"
+depends: [
+
+]
+
+
+
+

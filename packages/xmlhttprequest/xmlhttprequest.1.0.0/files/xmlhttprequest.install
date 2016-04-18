@@ -1,0 +1,20 @@
+lib: [
+"" {""}
+"._autotest.watchr" {"._autotest.watchr"}
+"autotest.watchr" {"autotest.watchr"}
+"._demo.js" {"._demo.js"}
+"demo.js" {"demo.js"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._README.md" {"._README.md"}
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"._XMLHttpRequest.js" {"._XMLHttpRequest.js"}
+"XMLHttpRequest.js" {"XMLHttpRequest.js"}
+"tests/._test-constants.js" {"tests/._test-constants.js"}
+"tests/test-constants.js" {"tests/test-constants.js"}
+"tests/._test-headers.js" {"tests/._test-headers.js"}
+"tests/test-headers.js" {"tests/test-headers.js"}
+"tests/._test-request.js" {"tests/._test-request.js"}
+"tests/test-request.js" {"tests/test-request.js"}
+]

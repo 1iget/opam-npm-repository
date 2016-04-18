@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"yamlparser.js" {"yamlparser.js"}
+"README.markdown" {"README.markdown"}
+"tests/server.js" {"tests/server.js"}
+"tests/example.yml" {"tests/example.yml"}
+"tests/index.html" {"tests/index.html"}
+]

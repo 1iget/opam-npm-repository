@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ieee754"
+version: "1.1.1"
+maintainer: "feross <feross@feross.org>"
+author: "feross <feross@feross.org>"
+license: "MIT"
+dev-repo: "git://github.com/feross/ieee754.git"
+depends: [
+
+]
+
+
+
+

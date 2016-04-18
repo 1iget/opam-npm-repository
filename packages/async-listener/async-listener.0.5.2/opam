@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "async-listener"
+version: "0.5.2"
+maintainer: "othiym23 <ogd@aoaioxxysz.net>"
+author: "othiym23 <ogd@aoaioxxysz.net>"
+license: "BSD-2-Clause"
+dev-repo: "https://github.com/othiym23/async-listener.git"
+depends: [
+"shimmer" {="1.0.0"}
+
+]
+
+
+
+

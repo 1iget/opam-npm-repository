@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"queue.js" {"queue.js"}
+"q.js" {"q.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"benchmark/compare-with-callbacks.js" {"benchmark/compare-with-callbacks.js"}
+"benchmark/scenarios.js" {"benchmark/scenarios.js"}
+"q.png" {"q.png"}
+"q.svg" {"q.svg"}
+]

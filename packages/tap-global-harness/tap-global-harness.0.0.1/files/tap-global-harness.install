@@ -1,0 +1,5 @@
+lib: [
+"global-harness.js" {"global-harness.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]

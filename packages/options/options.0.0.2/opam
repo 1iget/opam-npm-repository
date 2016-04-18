@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "options"
+version: "0.0.2"
+maintainer: "einaros <einaros@gmail.com>"
+author: "einaros <einaros@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/einaros/options.js.git"
+depends: [
+
+]
+
+
+
+

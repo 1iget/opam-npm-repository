@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "setimmediate"
+version: "1.0.3"
+maintainer: "domenic <domenic@domenicdenicola.com>"
+author: "domenic <domenic@domenicdenicola.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/yuzujs/setImmediate.git"
+depends: [
+
+]
+
+
+
+

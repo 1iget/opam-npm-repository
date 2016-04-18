@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/iterator.js" {"lib/iterator.js"}
+"lib/stack.js" {"lib/stack.js"}
+"lib/type.js" {"lib/type.js"}
+"lib/utils.js" {"lib/utils.js"}
+]

@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"examples/test.js" {"examples/test.js"}
+"Makefile" {"Makefile"}
+"test/chai-fuzzy.js" {"test/chai-fuzzy.js"}
+"test/index.html" {"test/index.html"}
+]

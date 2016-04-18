@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "babel-plugin-undefined-to-void"
+version: "1.1.1"
+maintainer: "sebmck <sebmck@gmail.com>"
+author: "sebmck <sebmck@gmail.com>"
+license: "MIT"
+
+depends: [
+
+]
+
+
+
+

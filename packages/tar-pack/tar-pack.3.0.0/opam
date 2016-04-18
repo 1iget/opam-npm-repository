@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "tar-pack"
+version: "3.0.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "BSD"
+dev-repo: "https://github.com/ForbesLindesay/tar-pack.git"
+depends: [
+"graceful-fs" {>="4.1.0" & <"4.2.0"}
+
+"uid-number" {="0.0.3"}
+
+"once" {>="1.1.1" & <"1.2.0"}
+
+"debug" {>="0.7.2" & <"0.8.0"}
+
+"rimraf" {>="2.2.0" & <"2.3.0"}
+
+"fstream" {>="0.1.22" & <"0.2.0"}
+
+"tar" {>="2.2.1" & <"2.3.0"}
+
+"fstream-ignore" {="0.0.7"}
+
+"readable-stream" {>="1.0.2" & <"1.1.0"}
+
+]
+
+
+
+

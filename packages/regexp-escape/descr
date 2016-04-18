@@ -1,0 +1,1 @@
+Provides RegExp.escape function for quoting text for a regular expression.

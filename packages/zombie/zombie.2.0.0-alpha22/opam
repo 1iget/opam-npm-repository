@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "zombie"
+version: "2.0.0-alpha22"
+maintainer: "assaf <assaf@labnotes.org>"
+author: "assaf <assaf@labnotes.org>"
+license: "not defined"
+dev-repo: "http://github.com/assaf/zombie"
+depends: [
+"eventsource" {="0.0.8"}
+
+"html5" {="0.3.14"}
+
+"jsdom" {="0.8.5"}
+
+"mime" {="1.2.11"}
+
+"ms" {="0.6.1"}
+
+"q" {="0.9.7"}
+
+"request" {="2.27.0"}
+
+"tough-cookie" {="0.9.15"}
+
+"ws" {="0.4.31"}
+
+]
+
+
+
+

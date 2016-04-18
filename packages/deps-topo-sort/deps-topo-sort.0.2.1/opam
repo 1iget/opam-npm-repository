@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "deps-topo-sort"
+version: "0.2.1"
+maintainer: "andreypopp <8mayday@gmail.com>"
+author: "andreypopp <8mayday@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/andreypopp/deps-topo-sort"
+depends: [
+"through" {>="2.3.4" & <"2.4.0"}
+
+"JSONStream" {>="0.7.1" & <"0.8.0"}
+
+"minimist" {="0.0.5"}
+
+]
+
+
+
+

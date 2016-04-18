@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "js-beautify"
+version: "0.2.4"
+maintainer: "evocateur <daniel.stockman@gmail.com>"
+author: "evocateur <daniel.stockman@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/evocateur/js-beautify.git#node-package"
+depends: [
+"optimist" {>="0.3.4" & <"0.4.0"}
+
+]
+
+
+
+

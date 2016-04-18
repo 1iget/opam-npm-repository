@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "ripemd160"
+version: "1.0.1"
+maintainer: "vbuterin <vbuterin@gmail.com>"
+author: "vbuterin <vbuterin@gmail.com>"
+license: "BSD-3-Clause"
+dev-repo: "https://github.com/crypto-browserify/ripemd160"
+depends: [
+
+]
+
+
+
+

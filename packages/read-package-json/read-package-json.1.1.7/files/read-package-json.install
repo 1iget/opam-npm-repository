@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"read-json.js" {"read-json.js"}
+"test/basic.js" {"test/basic.js"}
+"test/bom.js" {"test/bom.js"}
+"test/non-json.js" {"test/non-json.js"}
+"test/fixtures/bom.json" {"test/fixtures/bom.json"}
+"test/fixtures/nobom.json" {"test/fixtures/nobom.json"}
+"test/fixtures/not-json.css" {"test/fixtures/not-json.css"}
+]

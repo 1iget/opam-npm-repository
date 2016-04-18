@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "regexp-special-chars"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/regexp-chars.git"
+depends: [
+
+]
+
+
+
+

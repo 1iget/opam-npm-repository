@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"lib/command.js" {"lib/command.js"}
+"lib/exit.js" {"lib/exit.js"}
+"lib/jasmine.js" {"lib/jasmine.js"}
+"lib/printDeprecation.js" {"lib/printDeprecation.js"}
+"lib/examples/jasmine.json" {"lib/examples/jasmine.json"}
+"lib/filters/console_spec_filter.js" {"lib/filters/console_spec_filter.js"}
+"lib/reporters/console_reporter.js" {"lib/reporters/console_reporter.js"}
+"lib/reporters/exit_code_reporter.js" {"lib/reporters/exit_code_reporter.js"}
+"bin/jasmine.js" {"bin/jasmine.js"}
+".travis.yml" {".travis.yml"}
+".idea/.name" {".idea/.name"}
+".idea/jasmine-npm.iml" {".idea/jasmine-npm.iml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/libraries/jasmine_npm_node_modules.xml" {".idea/libraries/jasmine_npm_node_modules.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"tasks/jasmine.js" {"tasks/jasmine.js"}
+]

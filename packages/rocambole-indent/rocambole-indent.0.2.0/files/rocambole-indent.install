@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"rocambole-indent.js" {"rocambole-indent.js"}
+"LICENSE.md" {"LICENSE.md"}
+]

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "runforcover"
+version: "0.0.2"
+maintainer: "chrisdickinson <chris@neversaw.us>"
+author: "chrisdickinson <chris@neversaw.us>"
+license: "new BSD"
+dev-repo: "git://github.com/chrisdickinson/node-runforcover.git"
+depends: [
+"bunker" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

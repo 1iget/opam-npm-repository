@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "fsevents"
+version: "0.3.1"
+maintainer: "phidelta <phidelta@phideltacity.net>"
+author: "phidelta <phidelta@phideltacity.net>"
+license: "MIT"
+dev-repo: "https://github.com/pipobscure/fsevents.git"
+depends: [
+"nan" {>="1.3.0" & <"1.4.0"}
+
+]
+install: ["sh" "-c" "node-gyp rebuild"]
+
+
+

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/foreach.iml" {".idea/foreach.iml"}
+".idea/inspectionProfiles/profiles_settings.xml" {".idea/inspectionProfiles/profiles_settings.xml"}
+".idea/inspectionProfiles/Project_Default.xml" {".idea/inspectionProfiles/Project_Default.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"component.json" {"component.json"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+]

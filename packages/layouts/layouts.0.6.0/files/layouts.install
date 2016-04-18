@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verb.md" {".verb.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+"lib/interpolate.js" {"lib/interpolate.js"}
+"lib/make-regex.js" {"lib/make-regex.js"}
+".jshintrc" {".jshintrc"}
+"test/delimiters.js" {"test/delimiters.js"}
+"test/test.js" {"test/test.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+".gitmodules" {".gitmodules"}
+".travis.yml" {".travis.yml"}
+"benchmark.js" {"benchmark.js"}
+"examples.js" {"examples.js"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"lib/querystring.js" {"lib/querystring.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/parse.js" {"test/parse.js"}
+"test/stringify.js" {"test/stringify.js"}
+]

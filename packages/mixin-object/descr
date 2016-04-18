@@ -1,0 +1,1 @@
+Mixin the own and inherited properties of other objects onto the first object. Pass an empty object as the first arg to shallow clone.

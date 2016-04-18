@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/tracker.js" {"test/tracker.js"}
+"test/trackergroup.js" {"test/trackergroup.js"}
+"test/trackerstream.js" {"test/trackerstream.js"}
+]

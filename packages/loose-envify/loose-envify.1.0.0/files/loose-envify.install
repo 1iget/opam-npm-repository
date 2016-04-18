@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"custom.js" {"custom.js"}
+"index.js" {"index.js"}
+"loose-envify.js" {"loose-envify.js"}
+]

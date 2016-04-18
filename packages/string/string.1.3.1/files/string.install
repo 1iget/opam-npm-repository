@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".documentup.json" {".documentup.json"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"CNAME" {"CNAME"}
+"component.json" {"component.json"}
+"lib/string.js" {"lib/string.js"}
+"lib/string.min.js" {"lib/string.min.js"}
+"test/string.test.js" {"test/string.test.js"}
+"test/browser.test.html" {"test/browser.test.html"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

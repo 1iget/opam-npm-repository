@@ -1,0 +1,1 @@
+Replace references to `undefined` with `void 0`

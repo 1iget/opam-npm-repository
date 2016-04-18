@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"chmodr.js" {"chmodr.js"}
+".travis.yml" {".travis.yml"}
+"test/basic.js" {"test/basic.js"}
+"test/symlink-sync.js" {"test/symlink-sync.js"}
+"test/symlink.js" {"test/symlink.js"}
+"test/sync.js" {"test/sync.js"}
+]

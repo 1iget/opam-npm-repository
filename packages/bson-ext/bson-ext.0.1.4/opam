@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "bson-ext"
+version: "0.1.4"
+maintainer: "christkv <christkv@gmail.com>"
+author: "christkv <christkv@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/christkv/bson-ext.git"
+depends: [
+"nan" {>="1.8.0" & <"1.9.0"}
+
+"node-pre-gyp" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9tb25nb2RiLWpzL25vZGUtcHJlLWd5cC9hcmNoaXZlL3YwLjYuNS1hcHB2ZXlvci50YXIuZ3oi"}
+
+]
+install: ["sh" "-c" "node-pre-gyp install --fallback-to-build"]
+
+
+

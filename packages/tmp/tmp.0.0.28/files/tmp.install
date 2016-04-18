@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+".travis.yml" {".travis.yml"}
+"cleanup.sh" {"cleanup.sh"}
+"lib/tmp.js" {"lib/tmp.js"}
+"test/base.js" {"test/base.js"}
+"test/file-test.js" {"test/file-test.js"}
+"test/graceful-sync.js" {"test/graceful-sync.js"}
+"test/graceful.js" {"test/graceful.js"}
+"test/issue62-sync.js" {"test/issue62-sync.js"}
+"test/file-sync-test.js" {"test/file-sync-test.js"}
+"test/keep-sync.js" {"test/keep-sync.js"}
+"test/keep.js" {"test/keep.js"}
+"test/name-test.js" {"test/name-test.js"}
+"test/spawn-sync.js" {"test/spawn-sync.js"}
+"test/spawn.js" {"test/spawn.js"}
+"test/dir-test.js" {"test/dir-test.js"}
+"test/unsafe-sync.js" {"test/unsafe-sync.js"}
+"test/dir-sync-test.js" {"test/dir-sync-test.js"}
+"test/unsafe.js" {"test/unsafe.js"}
+"test/issue62.js" {"test/issue62.js"}
+"test/symlinkme/file.js" {"test/symlinkme/file.js"}
+]

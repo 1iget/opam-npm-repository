@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "duplexer3"
+version: "0.1.4"
+maintainer: "floatdrop <floatdrop@gmail.com>"
+author: "floatdrop <floatdrop@gmail.com>"
+license: "BSD-3-Clause"
+dev-repo: "https://github.com/floatdrop/duplexer3"
+depends: [
+
+]
+
+
+
+

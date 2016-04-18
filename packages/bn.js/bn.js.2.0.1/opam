@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "bn.js"
+version: "2.0.1"
+maintainer: "indutny <fedor@indutny.com>"
+author: "indutny <fedor@indutny.com>"
+license: "MIT"
+dev-repo: "git@github.com:indutny/bn.js"
+depends: [
+
+]
+
+
+
+

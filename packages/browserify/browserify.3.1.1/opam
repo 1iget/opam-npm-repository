@@ -1,0 +1,87 @@
+opam-version: "1.2"
+name: "browserify"
+version: "3.1.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "http://github.com/substack/node-browserify.git"
+depends: [
+"module-deps" {>="1.1.0" & <"1.2.0"}
+
+"browser-pack" {>="1.1.0" & <"1.2.0"}
+
+"deps-sort" {>="0.1.1" & <"0.2.0"}
+
+"shell-quote" {>="0.0.1" & <"0.1.0"}
+
+"through" {>="2.3.4" & <"2.4.0"}
+
+"duplexer" {>="0.1.1" & <"0.2.0"}
+
+"stream-combiner" {>="0.0.2" & <"0.1.0"}
+
+"concat-stream" {>="1.0.0" & <"1.1.0"}
+
+"insert-module-globals" {>="2.1.0" & <"2.2.0"}
+
+"syntax-error" {>="0.0.0" & <"0.1.0"}
+
+"browser-resolve" {>="1.2.1" & <"1.3.0"}
+
+"inherits" {>="2.0.1" & <"2.1.0"}
+
+"optimist" {>="0.6.0" & <"0.7.0"}
+
+"JSONStream" {>="0.7.1" & <"0.8.0"}
+
+"umd" {>="1.3.1" & <"1.4.0"}
+
+"parents" {>="0.0.1" & <"0.1.0"}
+
+"deep-equal" {>="0.1.0" & <"0.2.0"}
+
+"constants-browserify" {>="0.0.1" & <"0.1.0"}
+
+"os-browserify" {>="0.1.1" & <"0.2.0"}
+
+"console-browserify" {>="1.0.1" & <"1.1.0"}
+
+"vm-browserify" {>="0.0.1" & <"0.1.0"}
+
+"zlib-browserify" {>="0.0.3" & <"0.1.0"}
+
+"assert" {>="1.0.0" & <"1.1.0"}
+
+"http-browserify" {>="1.0.0" & <"1.1.0"}
+
+"crypto-browserify" {>="1.0.9" & <"1.1.0"}
+
+"util" {>="0.10.1" & <"0.11.0"}
+
+"events" {>="1.0.0" & <"1.1.0"}
+
+"native-buffer-browserify" {>="1.1.0" & <"1.2.0"}
+
+"url" {>="0.7.9" & <"0.8.0"}
+
+"https-browserify" {>="0.0.0" & <"0.1.0"}
+
+"path-browserify" {>="0.0.0" & <"0.1.0"}
+
+"querystring" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9zdWJzdGFjay9xdWVyeXN0cmluZy9hcmNoaXZlLzAuMi4wLWllOC50YXIuZ3oi"}
+
+"stream-browserify" {>="0.0.2" & <"0.1.0"}
+
+"string_decoder" {>="0.0.0" & <"0.1.0"}
+
+"tty-browserify" {>="0.0.0" & <"0.1.0"}
+
+"timers-browserify" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9zdWJzdGFjay90aW1lcnMtYnJvd3NlcmlmeS9hcmNoaXZlLzAuMC4wLXNldGltbWVkaWF0ZS11bmRlZi50YXIuZ3oi"}
+
+"punycode" {>="1.2.3" & <"1.3.0"}
+
+]
+
+
+
+

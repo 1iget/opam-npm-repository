@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "arr-diff"
+version: "1.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/arr-diff.git"
+depends: [
+"arr-flatten" {>="1.0.1" & <"2.0.0"}
+
+"array-slice" {>="0.2.3" & <"0.3.0"}
+
+]
+
+
+
+

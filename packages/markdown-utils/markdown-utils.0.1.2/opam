@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "markdown-utils"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/markdown-utils.git"
+depends: [
+"filter-files" {>="0.2.4" & <"0.3.0"}
+
+"repeat-string" {>="0.2.2" & <"0.3.0"}
+
+]
+
+
+
+

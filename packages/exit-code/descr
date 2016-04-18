@@ -1,0 +1,1 @@
+`process.exitCode` behavior back-ported from io.js and Node.js 0.12+

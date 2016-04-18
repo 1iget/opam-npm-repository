@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+".idea/dictionaries/dgreene.xml" {".idea/dictionaries/dgreene.xml"}
+".idea/dictionaries/dylan.xml" {".idea/dictionaries/dylan.xml"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/logging.iml" {".idea/logging.iml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".travis.yml" {".travis.yml"}
+"lib/logging.js" {"lib/logging.js"}
+"lib/niceTime.js" {"lib/niceTime.js"}
+"lib/style.js" {"lib/style.js"}
+"readme.md" {"readme.md"}
+"test/logging.test.js" {"test/logging.test.js"}
+]

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "babel-helpers"
+version: "6.1.6"
+maintainer: "amasad <amjad.masad@gmail.com>"
+author: "amasad <amjad.masad@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/babel/babel/tree/master/packages/babel-helpers"
+depends: [
+"babel-runtime" {>="5.0.0" & <"6.0.0"}
+
+"babel-template" {>="6.1.6" & <"7.0.0"}
+
+]
+
+
+
+

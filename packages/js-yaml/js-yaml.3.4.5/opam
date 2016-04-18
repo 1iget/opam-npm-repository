@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "js-yaml"
+version: "3.4.5"
+maintainer: "vitaly <vitaly@rcdesign.ru>"
+author: "vitaly <vitaly@rcdesign.ru>"
+license: "MIT"
+dev-repo: "git+https://github.com/nodeca/js-yaml.git"
+depends: [
+"argparse" {>="1.0.2" & <"2.0.0"}
+
+"esprima" {>="2.6.0" & <"3.0.0"}
+
+]
+
+
+
+

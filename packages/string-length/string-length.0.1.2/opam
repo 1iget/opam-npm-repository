@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "string-length"
+version: "0.1.2"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/sindresorhus/string-length"
+depends: [
+"strip-ansi" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

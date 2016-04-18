@@ -1,0 +1,25 @@
+lib: [
+".gitmodules" {".gitmodules"}
+".jshintignore" {".jshintignore"}
+".jshintrc" {".jshintrc"}
+".npmignore" {".npmignore"}
+"bin/" {"bin/"}
+"bin/hint" {"bin/hint"}
+"HELP" {"HELP"}
+"lib/" {"lib/"}
+"lib/cli.js" {"lib/cli.js"}
+"lib/hint.js" {"lib/hint.js"}
+"lib/reporters/" {"lib/reporters/"}
+"lib/reporters/default.js" {"lib/reporters/default.js"}
+"lib/reporters/jslint_xml.js" {"lib/reporters/jslint_xml.js"}
+"lib/reporters/non_error.js" {"lib/reporters/non_error.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"packages/" {"packages/"}
+"packages/jshint/" {"packages/jshint/"}
+"packages/jshint/.npmignore" {"packages/jshint/.npmignore"}
+"packages/jshint/.r2config" {"packages/jshint/.r2config"}
+"packages/jshint/jshint.js" {"packages/jshint/jshint.js"}
+"packages/jshint/README.markdown" {"packages/jshint/README.markdown"}
+"README.md" {"README.md"}
+]

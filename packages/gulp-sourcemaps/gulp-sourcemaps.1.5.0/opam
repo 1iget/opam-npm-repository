@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "gulp-sourcemaps"
+version: "1.5.0"
+maintainer: "floridoo <florian.reiterer@gmail.com>"
+author: "floridoo <florian.reiterer@gmail.com>"
+license: "ISC"
+dev-repo: "git://github.com/floridoo/gulp-sourcemaps.git"
+depends: [
+"convert-source-map" {>="0.5.0" & <"0.6.0"}
+
+"graceful-fs" {>="3.0.5" & <"4.0.0"}
+
+"strip-bom" {>="1.0.0" & <"2.0.0"}
+
+"through2" {>="0.6.3" & <"0.7.0"}
+
+"vinyl" {>="0.4.6" & <"0.5.0"}
+
+]
+
+
+
+

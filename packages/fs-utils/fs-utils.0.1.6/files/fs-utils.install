@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"test/fs-tests.js" {"test/fs-tests.js"}
+"test/path-tests.js" {"test/path-tests.js"}
+"test/fixtures/test.json" {"test/fixtures/test.json"}
+"test/fixtures/test.txt" {"test/fixtures/test.txt"}
+"test/fixtures/test.yaml" {"test/fixtures/test.yaml"}
+"test/mocha.opts" {"test/mocha.opts"}
+]

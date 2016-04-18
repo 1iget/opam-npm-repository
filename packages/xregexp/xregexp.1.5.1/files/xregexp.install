@@ -1,0 +1,15 @@
+lib: [
+".npmignore" {".npmignore"}
+"download-source.sh" {"download-source.sh"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"package.sh" {"package.sh"}
+"README.md" {"README.md"}
+"src/" {"src/"}
+"src/xregexp-matchrecursive.js" {"src/xregexp-matchrecursive.js"}
+"src/xregexp-unicode-base.js" {"src/xregexp-unicode-base.js"}
+"src/xregexp-unicode-blocks.js" {"src/xregexp-unicode-blocks.js"}
+"src/xregexp-unicode-categories.js" {"src/xregexp-unicode-categories.js"}
+"src/xregexp-unicode-scripts.js" {"src/xregexp-unicode-scripts.js"}
+"src/xregexp.js" {"src/xregexp.js"}
+]

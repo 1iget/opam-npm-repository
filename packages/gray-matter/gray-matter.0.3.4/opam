@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "gray-matter"
+version: "0.3.4"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/assemble/gray-matter.git"
+depends: [
+"delims" {>="0.1.2" & <"0.2.0"}
+
+"fs-utils" {>="0.3.8" & <"0.4.0"}
+
+"js-yaml" {>="3.0.2" & <"3.1.0"}
+
+"lodash" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

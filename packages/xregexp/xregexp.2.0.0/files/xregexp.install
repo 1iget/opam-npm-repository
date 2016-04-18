@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"xregexp-all.js" {"xregexp-all.js"}
+"MIT-LICENSE.txt" {"MIT-LICENSE.txt"}
+"tests/node-qunit.js" {"tests/node-qunit.js"}
+"tests/tests.js" {"tests/tests.js"}
+]

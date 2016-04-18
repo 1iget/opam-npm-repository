@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"test/utils/string-test.js" {"test/utils/string-test.js"}
+"test/utils/array-test.js" {"test/utils/array-test.js"}
+"test/inflector/inflections-test.js" {"test/inflector/inflections-test.js"}
+"test/inflector/methods-test.js" {"test/inflector/methods-test.js"}
+"test/inflector/cases.js" {"test/inflector/cases.js"}
+"lib/methods.js" {"lib/methods.js"}
+"lib/inflect.js" {"lib/inflect.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/inflections.js" {"lib/inflections.js"}
+"lib/defaults.js" {"lib/defaults.js"}
+"lib/native.js" {"lib/native.js"}
+]

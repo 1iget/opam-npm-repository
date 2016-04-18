@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "native-buffer-browserify"
+version: "2.1.2"
+maintainer: "feross <feross@feross.org>"
+author: "feross <feross@feross.org>"
+license: "MIT"
+dev-repo: "git://github.com/feross/native-buffer-browserify.git"
+depends: [
+"base64-js" {>="0.0.4" & <"0.1.0"}
+
+"ieee754" {>="1.1.1" & <"1.2.0"}
+
+]
+
+
+
+

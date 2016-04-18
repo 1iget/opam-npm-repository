@@ -1,0 +1,6 @@
+lib: [
+"" {""}
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+]

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "through2"
+version: "1.1.0"
+maintainer: "rvagg <rod@vagg.org>"
+author: "rvagg <rod@vagg.org>"
+license: "MIT"
+dev-repo: "https://github.com/rvagg/through2.git"
+depends: [
+"readable-stream" {>="1.1.13-1" & <"1.2.0-0"}
+
+"xtend" {>="4.0.0" & <"4.1.0-0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Deeply mix the properties of objects into the first object. Like merge-deep, but doesn't clone.

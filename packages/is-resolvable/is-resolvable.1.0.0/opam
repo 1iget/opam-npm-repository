@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "is-resolvable"
+version: "1.0.0"
+maintainer: "shinnn <snnskwtnb@gmail.com>"
+author: "shinnn <snnskwtnb@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/shinnn/is-resolvable.git"
+depends: [
+"tryit" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

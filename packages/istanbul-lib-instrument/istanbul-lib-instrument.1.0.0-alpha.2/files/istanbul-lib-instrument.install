@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/instrumenter-core.js" {"lib/instrumenter-core.js"}
+"lib/instrumenter.js" {"lib/instrumenter.js"}
+"lib/source-coverage.js" {"lib/source-coverage.js"}
+"lib/vargen-browser.js" {"lib/vargen-browser.js"}
+"lib/vargen.js" {"lib/vargen.js"}
+]

@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"prompt.js" {"prompt.js"}
+"README.md" {"README.md"}
+"examples/confirmation.js" {"examples/confirmation.js"}
+"test/chaining.js" {"test/chaining.js"}
+"test/discreet.js" {"test/discreet.js"}
+"test/callback.js" {"test/callback.js"}
+]

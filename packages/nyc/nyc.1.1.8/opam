@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "nyc"
+version: "1.1.8"
+maintainer: "bcoe <ben@npmjs.com>"
+author: "bcoe <ben@npmjs.com>"
+license: "ISC"
+dev-repo: "git@github.com:bcoe/nyc.git"
+depends: [
+"istanbul" {>="0.3.14" & <"0.4.0"}
+
+"lodash" {>="3.8.0" & <"4.0.0"}
+
+"mkdirp" {>="0.5.0" & <"0.6.0"}
+
+"rimraf" {>="2.3.3" & <"3.0.0"}
+
+"strip-bom" {>="1.0.0" & <"2.0.0"}
+
+"yargs" {>="3.8.0" & <"4.0.0"}
+
+]
+
+
+
+

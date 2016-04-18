@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "buffer"
+version: "3.0.2"
+maintainer: "feross <feross@feross.org>"
+author: "feross <feross@feross.org>"
+license: "MIT"
+dev-repo: "git://github.com/feross/buffer.git"
+depends: [
+"base64-js" {="0.0.8"}
+
+"ieee754" {>="1.1.4" & <"2.0.0"}
+
+"is-array" {>="1.0.1" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Error handling for vinyl plugins. Just an abstraction of what's in gulp-util with minor changes.

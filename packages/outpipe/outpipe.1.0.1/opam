@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "outpipe"
+version: "1.0.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "git://github.com/substack/outpipe.git"
+depends: [
+"duplexer2" {>="0.0.2" & <"0.0.3"}
+
+"shell-quote" {>="1.4.2" & <"2.0.0"}
+
+"stream-combiner2" {>="1.0.2" & <"2.0.0"}
+
+"through2" {>="0.6.3" & <"0.7.0"}
+
+"write-only-stream" {>="1.1.0" & <"2.0.0"}
+
+]
+
+
+
+

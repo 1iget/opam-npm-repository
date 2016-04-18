@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "spawn-sync"
+version: "1.0.3"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/ForbesLindesay/spawn-sync.git"
+depends: [
+"concat-stream" {>="1.4.7" & <"2.0.0"}
+
+"rimraf" {>="2.2.5" & <"2.3.0"}
+
+"try-thread-sleep" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

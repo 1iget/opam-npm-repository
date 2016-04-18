@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "file-reader"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/file-reader.git"
+depends: [
+"fs-utils" {>="0.5.0" & <"0.6.0"}
+
+"map-files" {>="0.2.0" & <"0.3.0"}
+
+"mixin-object" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

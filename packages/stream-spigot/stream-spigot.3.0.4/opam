@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "stream-spigot"
+version: "3.0.4"
+maintainer: "bryce <bryce@ravenwall.com>"
+author: "bryce <bryce@ravenwall.com>"
+license: "MIT"
+dev-repo: "https://github.com/brycebaril/node-stream-spigot"
+depends: [
+"readable-stream" {>="1.0.27-1" & <"1.1.0"}
+
+"xtend" {>="3.0.0" & <"3.1.0"}
+
+]
+
+
+
+

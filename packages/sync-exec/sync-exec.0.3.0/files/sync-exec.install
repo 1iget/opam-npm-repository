@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"coffee/sync-exec.coffee" {"coffee/sync-exec.coffee"}
+"js/sync-exec.js" {"js/sync-exec.js"}
+]

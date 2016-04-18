@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "gauge"
+version: "1.2.2"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git+https://github.com/iarna/gauge.git"
+depends: [
+"ansi" {>="0.3.0" & <"0.4.0"}
+
+"has-unicode" {>="1.0.0" & <"2.0.0"}
+
+"lodash.pad" {>="3.0.0" & <"4.0.0"}
+
+"lodash.padleft" {>="3.0.0" & <"4.0.0"}
+
+"lodash.padright" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

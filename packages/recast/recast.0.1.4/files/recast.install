@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+"main.js" {"main.js"}
+"lib/printer.js" {"lib/printer.js"}
+"lib/lines.js" {"lib/lines.js"}
+"lib/comments.js" {"lib/comments.js"}
+"lib/patcher.js" {"lib/patcher.js"}
+"lib/parser.js" {"lib/parser.js"}
+"lib/builder.js" {"lib/builder.js"}
+"lib/visitor.js" {"lib/visitor.js"}
+"lib/syntax.js" {"lib/syntax.js"}
+"lib/Class.js" {"lib/Class.js"}
+"test/run.js" {"test/run.js"}
+"test/printer.js" {"test/printer.js"}
+"test/lines.js" {"test/lines.js"}
+"test/comments.js" {"test/comments.js"}
+"test/patcher.js" {"test/patcher.js"}
+"test/parser.js" {"test/parser.js"}
+"test/visitor.js" {"test/visitor.js"}
+"test/Class.js" {"test/Class.js"}
+"example/add-braces" {"example/add-braces"}
+"example/identity" {"example/identity"}
+]

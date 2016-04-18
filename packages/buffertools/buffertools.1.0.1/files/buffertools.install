@@ -1,0 +1,25 @@
+lib: [
+"" {""}
+".gitignore" {".gitignore"}
+"buffertools.cc" {"buffertools.cc"}
+"build/" {"build/"}
+"build/c4che/" {"build/c4che/"}
+"build/c4che/build.config.py" {"build/c4che/build.config.py"}
+"build/c4che/default.cache.py" {"build/c4che/default.cache.py"}
+"build/config.log" {"build/config.log"}
+"build/.wafpickle-7" {"build/.wafpickle-7"}
+"build/default/" {"build/default/"}
+"build/default/buffertools_1.o" {"build/default/buffertools_1.o"}
+"build/default/buffertools.node" {"build/default/buffertools.node"}
+"build/default/buffertools/" {"build/default/buffertools/"}
+"build/default/buffertools/1.0.1/" {"build/default/buffertools/1.0.1/"}
+"build/default/buffertools/1.0.1/package/" {"build/default/buffertools/1.0.1/package/"}
+"BoyerMoore.h" {"BoyerMoore.h"}
+".cproject" {".cproject"}
+"test.js" {"test.js"}
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"wscript" {"wscript"}
+"buffertools.js" {"buffertools.js"}
+".project" {".project"}
+]

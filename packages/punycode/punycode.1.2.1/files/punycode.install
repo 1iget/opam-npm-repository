@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"punycode.js" {"punycode.js"}
+"punycode.min.js" {"punycode.min.js"}
+"docs/README.md" {"docs/README.md"}
+"docs/parse.php" {"docs/parse.php"}
+"LICENSE-GPL.txt" {"LICENSE-GPL.txt"}
+"LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
+".gitattributes" {".gitattributes"}
+"tests/tests.js" {"tests/tests.js"}
+"tests/index.html" {"tests/index.html"}
+]

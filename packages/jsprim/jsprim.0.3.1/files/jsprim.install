@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"test/validate.js" {"test/validate.js"}
+"test/basic.js" {"test/basic.js"}
+"test/validate-bench.js" {"test/validate-bench.js"}
+"Makefile.deps" {"Makefile.deps"}
+"Makefile.targ" {"Makefile.targ"}
+"jsl.node.conf" {"jsl.node.conf"}
+".gitmodules" {".gitmodules"}
+"lib/jsprim.js" {"lib/jsprim.js"}
+]

@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/lazystream.js" {"lib/lazystream.js"}
+"secret" {"secret"}
+"test/fs_test.js" {"test/fs_test.js"}
+"test/helper.js" {"test/helper.js"}
+"test/pipe_test.js" {"test/pipe_test.js"}
+"test/readable_test.js" {"test/readable_test.js"}
+"test/writable_test.js" {"test/writable_test.js"}
+"test/data.md" {"test/data.md"}
+]

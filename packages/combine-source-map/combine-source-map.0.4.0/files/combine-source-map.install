@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"example/two-files-short.js" {"example/two-files-short.js"}
+"example/two-files.js" {"example/two-files.js"}
+".travis.yml" {".travis.yml"}
+"lib/mappings-from-map.js" {"lib/mappings-from-map.js"}
+"test/combine-source-map.js" {"test/combine-source-map.js"}
+]

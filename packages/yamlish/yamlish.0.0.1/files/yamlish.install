@@ -1,0 +1,6 @@
+lib: [
+"npm-debug.log" {"npm-debug.log"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"yamlish.js" {"yamlish.js"}
+]

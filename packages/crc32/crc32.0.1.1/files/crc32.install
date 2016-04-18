@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE.MIT" {"LICENSE.MIT"}
+"bin/runner.js" {"bin/runner.js"}
+"lib/crc32.js" {"lib/crc32.js"}
+"test/genCheckValues.sh" {"test/genCheckValues.sh"}
+"test/runTests.sh" {"test/runTests.sh"}
+"test/test.js" {"test/test.js"}
+"test/testFiles/helloWorld.txt" {"test/testFiles/helloWorld.txt"}
+"test/testFiles/lorem.txt" {"test/testFiles/lorem.txt"}
+"test/testFiles/random.txt" {"test/testFiles/random.txt"}
+"test/testFiles/declaration.txt" {"test/testFiles/declaration.txt"}
+]

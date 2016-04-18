@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "terminal"
+version: "0.1.4"
+maintainer: "kami <tomaz@tomaz.me>"
+author: "kami <tomaz@tomaz.me>"
+license: "not defined"
+dev-repo: "git://github.com/cloudkick/node-terminal.git"
+depends: [
+"sprintf" {>="0.1.1"}
+
+]
+
+
+
+

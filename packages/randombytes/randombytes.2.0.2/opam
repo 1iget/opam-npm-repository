@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "randombytes"
+version: "2.0.2"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/crypto-browserify/randombytes.git"
+depends: [
+
+]
+
+
+
+

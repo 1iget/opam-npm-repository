@@ -1,0 +1,35 @@
+opam-version: "1.2"
+name: "update-copyright"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/update-copyright.git"
+depends: [
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"diff" {>="1.2.2" & <"2.0.0"}
+
+"extend-shallow" {>="0.2.0" & <"0.3.0"}
+
+"leven" {>="1.0.1" & <"2.0.0"}
+
+"load-pkg" {>="1.0.0" & <"2.0.0"}
+
+"lodash" {>="3.0.1" & <"4.0.0"}
+
+"omit-empty" {>="0.3.0" & <"0.4.0"}
+
+"parse-author" {>="0.1.0" & <"0.2.0"}
+
+"parse-copyright" {>="0.3.1" & <"0.4.0"}
+
+"update-year" {>="0.5.0" & <"0.6.0"}
+
+"year" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

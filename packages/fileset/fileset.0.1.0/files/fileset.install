@@ -1,0 +1,8 @@
+lib: [
+".travis.yml" {".travis.yml"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tests/helper.js" {"tests/helper.js"}
+"tests/test.js" {"tests/test.js"}
+"lib/fileset.js" {"lib/fileset.js"}
+]

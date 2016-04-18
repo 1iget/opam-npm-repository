@@ -1,0 +1,51 @@
+opam-version: "1.2"
+name: "eslint"
+version: "0.14.1"
+maintainer: "nzakas <nicholas@nczconsulting.com>"
+author: "nzakas <nicholas@nczconsulting.com>"
+license: "MIT"
+dev-repo: "https://github.com/eslint/eslint"
+depends: [
+"chalk" {>="0.5.1" & <"0.6.0"}
+
+"concat-stream" {>="1.4.6" & <"2.0.0"}
+
+"debug" {>="2.1.1" & <"3.0.0"}
+
+"doctrine" {>="0.6.2" & <"0.7.0"}
+
+"escape-string-regexp" {>="1.0.2" & <"2.0.0"}
+
+"escope" {>="2.0.4" & <"3.0.0"}
+
+"espree" {>="1.8.1" & <"2.0.0"}
+
+"estraverse" {>="1.9.1" & <"2.0.0"}
+
+"estraverse-fb" {>="1.3.0" & <"2.0.0"}
+
+"globals" {>="6.1.0" & <"7.0.0"}
+
+"js-yaml" {>="3.2.5" & <"4.0.0"}
+
+"minimatch" {>="2.0.1" & <"3.0.0"}
+
+"mkdirp" {>="0.5.0" & <"0.6.0"}
+
+"object-assign" {>="2.0.0" & <"3.0.0"}
+
+"optionator" {>="0.5.0" & <"0.6.0"}
+
+"strip-json-comments" {>="1.0.1" & <"1.1.0"}
+
+"text-table" {>="0.2.0" & <"0.3.0"}
+
+"user-home" {>="1.0.0" & <"2.0.0"}
+
+"xml-escape" {>="1.0.0" & <"1.1.0"}
+
+]
+
+
+
+

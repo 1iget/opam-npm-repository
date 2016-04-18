@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".gitmodules" {".gitmodules"}
+"Makefile" {"Makefile"}
+"lib/crc.js" {"lib/crc.js"}
+"lib/crcTemp.js" {"lib/crcTemp.js"}
+"test/crc.js" {"test/crc.js"}
+"test/index.html" {"test/index.html"}
+]

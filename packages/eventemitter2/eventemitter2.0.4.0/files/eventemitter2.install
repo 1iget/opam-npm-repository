@@ -1,0 +1,19 @@
+lib: [
+".gitignore" {".gitignore"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/eventemitter2.js" {"lib/eventemitter2.js"}
+"test/simple/addListener.js" {"test/simple/addListener.js"}
+"test/simple/emit.js" {"test/simple/emit.js"}
+"test/simple/removeListener.js" {"test/simple/removeListener.js"}
+"test/simple/setMax.js" {"test/simple/setMax.js"}
+"test/simple/ttl.js" {"test/simple/ttl.js"}
+"test/perf/benchmark.js" {"test/perf/benchmark.js"}
+"test/wildcardEvents/all.js" {"test/wildcardEvents/all.js"}
+"test/wildcardEvents/addListener.js" {"test/wildcardEvents/addListener.js"}
+"test/wildcardEvents/customDelimiter.js" {"test/wildcardEvents/customDelimiter.js"}
+"test/wildcardEvents/options.js" {"test/wildcardEvents/options.js"}
+"test/wildcardEvents/removeListener.js" {"test/wildcardEvents/removeListener.js"}
+"test/wildcardEvents/ttl.js" {"test/wildcardEvents/ttl.js"}
+]

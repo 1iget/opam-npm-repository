@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "glob2base"
+version: "0.0.4"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/glob2base.git"
+depends: [
+
+]
+
+
+
+

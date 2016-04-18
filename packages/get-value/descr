@@ -1,0 +1,1 @@
+Use property paths (`a.b.c`) to get a nested value from an object.

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "vinyl"
+version: "0.1.0"
+maintainer: "fractal <contact@wearefractal.com>"
+author: "fractal <contact@wearefractal.com>"
+license: "not defined"
+dev-repo: "git://github.com/wearefractal/vinyl.git"
+depends: [
+"lodash.clone" {>="2.4.1" & <"2.5.0"}
+
+]
+
+
+
+

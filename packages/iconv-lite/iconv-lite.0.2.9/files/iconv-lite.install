@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"README.md~" {"README.md~"}
+"encodings/big5.js" {"encodings/big5.js"}
+"encodings/gbk.js" {"encodings/gbk.js"}
+"encodings/singlebyte.js" {"encodings/singlebyte.js"}
+"encodings/table/big5.js" {"encodings/table/big5.js"}
+"encodings/table/gbk.js" {"encodings/table/gbk.js"}
+"generation/generate-big5-table.js" {"generation/generate-big5-table.js"}
+"generation/generate-singlebyte.js" {"generation/generate-singlebyte.js"}
+"test/big5-test.js" {"test/big5-test.js"}
+"test/cyrillic-test.js" {"test/cyrillic-test.js"}
+"test/gbk-test.js" {"test/gbk-test.js"}
+"test/greek-test.js" {"test/greek-test.js"}
+"test/main-test.js" {"test/main-test.js"}
+"test/performance.js" {"test/performance.js"}
+"test/turkish-test.js" {"test/turkish-test.js"}
+"test/big5File.txt" {"test/big5File.txt"}
+"test/gbkFile.txt" {"test/gbkFile.txt"}
+]

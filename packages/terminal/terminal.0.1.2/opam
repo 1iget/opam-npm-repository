@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "terminal"
+version: "0.1.2"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "Apache 2.0"
+dev-repo: "git://github.com/cloudkick/terminal.git"
+depends: [
+"sprintf" {>="0.1.1"}
+
+]
+
+
+
+

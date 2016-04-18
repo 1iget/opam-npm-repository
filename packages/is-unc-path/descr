@@ -1,0 +1,1 @@
+Returns true if a filepath is a windows UNC file path.

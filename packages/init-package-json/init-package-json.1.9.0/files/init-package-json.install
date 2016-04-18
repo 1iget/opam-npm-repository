@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"default-input.js" {"default-input.js"}
+"init-package-json.js" {"init-package-json.js"}
+"example/example-basic.js" {"example/example-basic.js"}
+"example/example-default.js" {"example/example-default.js"}
+"example/example-npm.js" {"example/example-npm.js"}
+"example/init/basic-init.js" {"example/init/basic-init.js"}
+".travis.yml" {".travis.yml"}
+"test/yes-defaults.js" {"test/yes-defaults.js"}
+"test/silent.js" {"test/silent.js"}
+"test/license.js" {"test/license.js"}
+"test/name-spaces.js" {"test/name-spaces.js"}
+"test/name-uppercase.js" {"test/name-uppercase.js"}
+"test/basic.js" {"test/basic.js"}
+"test/scope-in-config-existing-name.js" {"test/scope-in-config-existing-name.js"}
+"test/scope-in-config.js" {"test/scope-in-config.js"}
+"test/scope.js" {"test/scope.js"}
+"test/npm-defaults.js" {"test/npm-defaults.js"}
+"test/lib/common.js" {"test/lib/common.js"}
+"test/basic.input" {"test/basic.input"}
+]

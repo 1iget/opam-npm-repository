@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cryptiles"
+version: "2.0.5"
+maintainer: "hueniverse <eran@hueniverse.com>"
+author: "hueniverse <eran@hueniverse.com>"
+license: "BSD-3-Clause"
+dev-repo: "git://github.com/hapijs/cryptiles.git"
+depends: [
+"boom" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

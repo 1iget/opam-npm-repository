@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "generate-function"
+version: "0.0.0"
+maintainer: "mafintosh <mathiasbuus@gmail.com>"
+author: "mafintosh <mathiasbuus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/mafintosh/generate-function"
+depends: [
+
+]
+
+
+
+

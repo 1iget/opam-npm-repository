@@ -1,0 +1,37 @@
+opam-version: "1.2"
+name: "browserify"
+version: "1.17.1"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT/X11"
+dev-repo: "http://github.com/substack/node-browserify.git"
+depends: [
+"detective" {>="0.2.0" & <"0.3.0"}
+
+"buffer-browserify" {>="0.0.1" & <"0.1.0"}
+
+"deputy" {>="0.0.3" & <"0.1.0"}
+
+"syntax-error" {>="0.0.0" & <"0.1.0"}
+
+"resolve" {>="0.2.0" & <"0.3.0"}
+
+"nub" {>="0.0.0" & <"0.1.0"}
+
+"commondir" {>="0.0.1" & <"0.1.0"}
+
+"coffee-script" {>="1.0.0" & <"2.0.0"}
+
+"optimist" {>="0.3.4" & <"0.4.0"}
+
+"http-browserify" {>="0.1.1" & <"0.2.0"}
+
+"vm-browserify" {>="0.0.0" & <"0.1.0"}
+
+"crypto-browserify" {>="0.0.0" & <"1.0.0"}
+
+]
+
+
+
+

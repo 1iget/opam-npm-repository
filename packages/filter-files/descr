@@ -1,0 +1,1 @@
+Recursively read directories and return a list of files, filtered to have only the files for which the (optional) filter function returns `true`. Sync and async.

@@ -1,0 +1,29 @@
+opam-version: "1.2"
+name: "tar-pack"
+version: "3.1.2"
+maintainer: "es128 <elan.shanker+npm@gmail.com>"
+author: "es128 <elan.shanker+npm@gmail.com>"
+license: "BSD"
+dev-repo: "https://github.com/ForbesLindesay/tar-pack.git"
+depends: [
+"uid-number" {="0.0.3"}
+
+"once" {>="1.1.1" & <"1.2.0"}
+
+"debug" {>="0.7.2" & <"0.8.0"}
+
+"rimraf" {>="2.4.4" & <"2.5.0"}
+
+"fstream" {>="1.0.8" & <"1.1.0"}
+
+"tar" {>="2.2.1" & <"2.3.0"}
+
+"fstream-ignore" {>="1.0.3" & <"1.1.0"}
+
+"readable-stream" {>="2.0.4" & <"2.1.0"}
+
+]
+
+
+
+

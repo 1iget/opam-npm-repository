@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+".jshintrc" {".jshintrc"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/utils.js" {"lib/utils.js"}
+".gitattributes" {".gitattributes"}
+"test/test.js" {"test/test.js"}
+]

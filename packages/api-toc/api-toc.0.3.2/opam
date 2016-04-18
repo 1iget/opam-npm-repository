@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "api-toc"
+version: "0.3.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/api-toc.git"
+depends: [
+"code-context" {>="0.5.2" & <"0.6.0"}
+
+"filter-object" {>="2.0.0" & <"3.0.0"}
+
+"markdown-utils" {>="0.7.0" & <"0.8.0"}
+
+"mixin-deep" {>="1.1.1" & <"2.0.0"}
+
+"relative" {>="3.0.1" & <"4.0.0"}
+
+]
+
+
+
+

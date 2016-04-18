@@ -1,0 +1,10 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"test/" {"test/"}
+"test/index.js" {"test/index.js"}
+"test/interface.js" {"test/interface.js"}
+"test/src/" {"test/src/"}
+"test/src/coverage.js" {"test/src/coverage.js"}
+]

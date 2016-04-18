@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "esformatter"
+version: "0.0.11"
+maintainer: "millermedeiros <miller@millermedeiros.com>"
+author: "millermedeiros <miller@millermedeiros.com>"
+license: "MIT"
+dev-repo: "https://github.com/millermedeiros/esformatter.git"
+depends: [
+"mout" {>="0.5.0" & <"0.6.0"}
+
+"rocambole" {>="0.2.0" & <"0.3.0"}
+
+"optimist" {>="0.6.0" & <"0.7.0"}
+
+"stdin" {>="0.0.0"}
+
+]
+
+
+
+

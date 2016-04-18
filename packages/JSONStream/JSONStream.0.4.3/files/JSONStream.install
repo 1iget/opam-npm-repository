@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"test/stringify_object.js" {"test/stringify_object.js"}
+"test/two-ways.js" {"test/two-ways.js"}
+"test/destroy_missing.js" {"test/destroy_missing.js"}
+"test/memory.js" {"test/memory.js"}
+"test/multiple_objects.js" {"test/multiple_objects.js"}
+"test/bool.js" {"test/bool.js"}
+"test/parsejson.js" {"test/parsejson.js"}
+"test/test.js" {"test/test.js"}
+"test/fn.js" {"test/fn.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/empty.js" {"test/empty.js"}
+"test/test2.js" {"test/test2.js"}
+"test/multiple_objects_error.js" {"test/multiple_objects_error.js"}
+"test/fixtures/all_npm.json" {"test/fixtures/all_npm.json"}
+"readme.markdown" {"readme.markdown"}
+"examples/all_docs.js" {"examples/all_docs.js"}
+"LICENSE.APACHE2" {"LICENSE.APACHE2"}
+".travis.yml" {".travis.yml"}
+"LICENSE.MIT" {"LICENSE.MIT"}
+]

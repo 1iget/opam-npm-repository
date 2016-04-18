@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "group-array"
+version: "0.1.0"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/doowb/group-array.git"
+depends: [
+"arr-reduce" {>="1.0.1" & <"2.0.0"}
+
+"get-value" {>="1.1.5" & <"2.0.0"}
+
+"union-value" {>="0.1.1" & <"0.2.0"}
+
+]
+
+
+
+

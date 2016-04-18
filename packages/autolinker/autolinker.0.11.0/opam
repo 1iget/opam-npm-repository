@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "autolinker"
+version: "0.11.0"
+maintainer: "gregjacobs <greg@greg-jacobs.com>"
+author: "gregjacobs <greg@greg-jacobs.com>"
+license: "MIT Licensed. http://www.opensource.org/licenses/mit-license.php"
+dev-repo: "git://github.com/gregjacobs/Autolinker.js.git"
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "computed-property"
+version: "0.1.1"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/doowb/computed-property.git"
+depends: [
+"get-value" {>="0.3.2" & <"0.4.0"}
+
+"lodash" {>="2.4.1" & <"3.0.0"}
+
+"set-object" {>="0.1.0" & <"0.2.0"}
+
+]
+
+
+
+

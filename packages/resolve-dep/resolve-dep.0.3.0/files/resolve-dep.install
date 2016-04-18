@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/resolve_test.js" {"test/resolve_test.js"}
+"test/expected/dirname.json" {"test/expected/dirname.json"}
+"test/expected/dirnameAll.json" {"test/expected/dirnameAll.json"}
+"test/expected/dirnameDev.json" {"test/expected/dirnameDev.json"}
+"test/expected/dirnameWildcard.json" {"test/expected/dirnameWildcard.json"}
+"test/expected/filter.json" {"test/expected/filter.json"}
+"test/expected/filterAll.json" {"test/expected/filterAll.json"}
+"test/expected/filterDev.json" {"test/expected/filterDev.json"}
+"test/expected/multiple.json" {"test/expected/multiple.json"}
+"test/expected/patterns.json" {"test/expected/patterns.json"}
+"test/expected/wildcard.json" {"test/expected/wildcard.json"}
+]

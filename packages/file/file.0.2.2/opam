@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "file"
+version: "0.2.2"
+maintainer: "aconbere <aconbere@gmail.com>"
+author: "aconbere <aconbere@gmail.com>"
+license: "MIT"
+dev-repo: "http://github.com/aconbere/node-file-utils.git"
+depends: [
+
+]
+
+
+
+

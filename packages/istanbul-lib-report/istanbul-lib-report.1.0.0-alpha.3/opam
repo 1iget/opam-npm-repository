@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "istanbul-lib-report"
+version: "1.0.0-alpha.3"
+maintainer: "gotwarlost <kananthmail-github@yahoo.com>"
+author: "gotwarlost <kananthmail-github@yahoo.com>"
+license: "BSD-3-Clause"
+dev-repo: "git+ssh://git@github.com/istanbuljs/istanbul-lib-report.git"
+depends: [
+"async" {>="1.4.2" & <"2.0.0"}
+
+"istanbul-lib-coverage" {>="1.0.0-alpha" & <"2.0.0"}
+
+"mkdirp" {>="0.5.1" & <"0.6.0"}
+
+"path-parse" {>="1.0.5" & <"2.0.0"}
+
+"rimraf" {>="2.4.3" & <"3.0.0"}
+
+"supports-color" {>="3.1.2" & <"4.0.0"}
+
+]
+
+
+
+

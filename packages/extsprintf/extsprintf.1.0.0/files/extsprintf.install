@@ -1,0 +1,14 @@
+lib: [
+"Makefile" {"Makefile"}
+"README.md" {"README.md"}
+".gitmodules" {".gitmodules"}
+"lib/" {"lib/"}
+"lib/extsprintf.js" {"lib/extsprintf.js"}
+"jsl.node.conf" {"jsl.node.conf"}
+"package.json" {"package.json"}
+"examples/" {"examples/"}
+"examples/simple.js" {"examples/simple.js"}
+"Makefile.targ" {"Makefile.targ"}
+"Makefile.deps" {"Makefile.deps"}
+"LICENSE" {"LICENSE"}
+]

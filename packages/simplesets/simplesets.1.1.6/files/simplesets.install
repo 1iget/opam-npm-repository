@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/simplesets.js" {"lib/simplesets.js"}
+"examples/hello.js" {"examples/hello.js"}
+"test/testsets.js" {"test/testsets.js"}
+]

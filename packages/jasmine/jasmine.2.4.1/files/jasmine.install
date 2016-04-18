@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"lib/command.js" {"lib/command.js"}
+"lib/exit.js" {"lib/exit.js"}
+"lib/jasmine.js" {"lib/jasmine.js"}
+"lib/printDeprecation.js" {"lib/printDeprecation.js"}
+"lib/examples/jasmine.json" {"lib/examples/jasmine.json"}
+"lib/filters/console_spec_filter.js" {"lib/filters/console_spec_filter.js"}
+"lib/reporters/console_reporter.js" {"lib/reporters/console_reporter.js"}
+"lib/reporters/exit_code_reporter.js" {"lib/reporters/exit_code_reporter.js"}
+"bin/jasmine.js" {"bin/jasmine.js"}
+".travis.yml" {".travis.yml"}
+"tasks/jasmine.js" {"tasks/jasmine.js"}
+]

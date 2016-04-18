@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "group-array"
+version: "0.2.0"
+maintainer: "doowb <brian.woodward@gmail.com>"
+author: "doowb <brian.woodward@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/doowb/group-array.git"
+depends: [
+"get-value" {>="1.1.5" & <"2.0.0"}
+
+"kind-of" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

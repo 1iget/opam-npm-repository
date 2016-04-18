@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"plugin.js" {"plugin.js"}
+"readme.md" {"readme.md"}
+"bin/cmd.js" {"bin/cmd.js"}
+]

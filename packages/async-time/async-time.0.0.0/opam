@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "async-time"
+version: "0.0.0"
+maintainer: "phated <blaine@iceddev.com>"
+author: "phated <blaine@iceddev.com>"
+license: "MIT"
+dev-repo: "https://github.com/phated/async-time"
+depends: [
+"async-done" {>="0.2.0" & <"0.3.0"}
+
+"uuid" {>="1.4.1" & <"2.0.0"}
+
+]
+
+
+
+

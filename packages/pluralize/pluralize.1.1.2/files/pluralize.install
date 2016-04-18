@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"pluralize.js" {"pluralize.js"}
+"Readme.md" {"Readme.md"}
+]

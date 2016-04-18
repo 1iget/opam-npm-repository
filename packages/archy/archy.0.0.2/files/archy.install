@@ -1,0 +1,11 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+".travis.yml" {".travis.yml"}
+"examples/beep.js" {"examples/beep.js"}
+"examples/multi_line.js" {"examples/multi_line.js"}
+"test/non_unicode.js" {"test/non_unicode.js"}
+"test/beep.js" {"test/beep.js"}
+"test/multi_line.js" {"test/multi_line.js"}
+]

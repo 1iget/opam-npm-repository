@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "mixin-deep"
+version: "1.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "https://github.com/jonschlinkert/mixin-deep"
+depends: [
+"for-own" {>="0.1.3" & <"0.2.0"}
+
+"is-plain-object" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE.txt" {"LICENSE.txt"}
+"lib/sinon-chai.js" {"lib/sinon-chai.js"}
+]

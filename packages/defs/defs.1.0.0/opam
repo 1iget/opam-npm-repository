@@ -1,0 +1,33 @@
+opam-version: "1.2"
+name: "defs"
+version: "1.0.0"
+maintainer: "olov <olov.lassus@gmail.com>"
+author: "olov <olov.lassus@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/olov/defs.git"
+depends: [
+"alter" {>="0.2.0" & <"0.3.0"}
+
+"ast-traverse" {>="0.1.1" & <"0.2.0"}
+
+"breakable" {>="1.0.0" & <"1.1.0"}
+
+"esprima" {="ImdpdDovL2dpdGh1Yi5jb20vYXJpeWEvZXNwcmltYS5naXQjaGFybW9ueSI"}
+
+"simple-fmt" {>="0.1.0" & <"0.2.0"}
+
+"simple-is" {>="0.2.0" & <"0.3.0"}
+
+"stringmap" {>="0.2.2" & <"0.3.0"}
+
+"stringset" {>="0.2.1" & <"0.3.0"}
+
+"tryor" {>="0.1.2" & <"0.2.0"}
+
+"yargs" {>="1.2.6" & <"1.3.0"}
+
+]
+
+
+
+

@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/check.js" {"example/check.js"}
+"example/src.js" {"example/src.js"}
+"readme.markdown" {"readme.markdown"}
+"test/check.js" {"test/check.js"}
+"test/html.js" {"test/html.js"}
+"test/ok.js" {"test/ok.js"}
+"test/run.js" {"test/run.js"}
+"test/run2.js" {"test/run2.js"}
+"test/shebang.js" {"test/shebang.js"}
+"test/yield.js" {"test/yield.js"}
+"test/sources/check.js" {"test/sources/check.js"}
+"test/sources/ok.js" {"test/sources/ok.js"}
+"test/sources/run.js" {"test/sources/run.js"}
+"test/sources/run2.js" {"test/sources/run2.js"}
+"test/sources/shebang.js" {"test/sources/shebang.js"}
+"test/sources/yield.js" {"test/sources/yield.js"}
+]

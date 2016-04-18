@@ -1,0 +1,10 @@
+lib: [
+".History.md.un~" {".History.md.un~"}
+".package.json.un~" {".package.json.un~"}
+"History.md" {"History.md"}
+"package.json" {"package.json"}
+"querystring.js" {"querystring.js"}
+"Readme.md" {"Readme.md"}
+"tests/.test-querystring.js.un~" {"tests/.test-querystring.js.un~"}
+"tests/test-querystring.js" {"tests/test-querystring.js"}
+]

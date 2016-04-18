@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+".jshintrc" {".jshintrc"}
+".rspec" {".rspec"}
+"bin/handlebars" {"bin/handlebars"}
+"dist/handlebars.js" {"dist/handlebars.js"}
+"dist/handlebars.runtime.js" {"dist/handlebars.runtime.js"}
+"lib/handlebars.js" {"lib/handlebars.js"}
+"lib/handlebars/base.js" {"lib/handlebars/base.js"}
+"lib/handlebars/runtime.js" {"lib/handlebars/runtime.js"}
+"lib/handlebars/utils.js" {"lib/handlebars/utils.js"}
+"lib/handlebars/compiler/ast.js" {"lib/handlebars/compiler/ast.js"}
+"lib/handlebars/compiler/base.js" {"lib/handlebars/compiler/base.js"}
+"lib/handlebars/compiler/compiler.js" {"lib/handlebars/compiler/compiler.js"}
+"lib/handlebars/compiler/index.js" {"lib/handlebars/compiler/index.js"}
+"lib/handlebars/compiler/parser.js" {"lib/handlebars/compiler/parser.js"}
+"lib/handlebars/compiler/printer.js" {"lib/handlebars/compiler/printer.js"}
+"lib/handlebars/compiler/visitor.js" {"lib/handlebars/compiler/visitor.js"}
+"README.markdown" {"README.markdown"}
+]

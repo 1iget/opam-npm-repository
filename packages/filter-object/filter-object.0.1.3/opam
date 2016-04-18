@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "filter-object"
+version: "0.1.3"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/filter-object.git"
+depends: [
+"filter-keys" {>="0.1.1" & <"0.2.0"}
+
+"sort-object" {>="0.3.1" & <"0.4.0"}
+
+]
+
+
+
+

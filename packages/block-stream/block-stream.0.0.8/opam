@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "block-stream"
+version: "0.0.8"
+maintainer: "isaacs <i@izs.me>"
+author: "isaacs <i@izs.me>"
+license: "ISC"
+dev-repo: "git://github.com/isaacs/block-stream.git"
+depends: [
+"inherits" {>="2.0.0" & <"2.1.0"}
+
+]
+
+
+
+

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "to-regex-range"
+version: "0.1.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/to-regex-range.git"
+depends: [
+"is-number" {>="2.0.2" & <"3.0.0"}
+
+"repeat-string" {>="1.5.2" & <"2.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "nopt"
+version: "1.0.5"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/isaacs/nopt.git"
+depends: [
+"abbrev" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

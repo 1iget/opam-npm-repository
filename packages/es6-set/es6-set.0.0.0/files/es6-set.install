@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"_iterator.js" {"_iterator.js"}
+"_get-set-data.js" {"_get-set-data.js"}
+"implement.js" {"implement.js"}
+"index.js" {"index.js"}
+"is-implemented.js" {"is-implemented.js"}
+"polyfill.js" {"polyfill.js"}
+".travis.yml" {".travis.yml"}
+".lint" {".lint"}
+"test/_get-set-data.js" {"test/_get-set-data.js"}
+"test/_iterator.js" {"test/_iterator.js"}
+"test/implement.js" {"test/implement.js"}
+"test/index.js" {"test/index.js"}
+"test/is-implemented.js" {"test/is-implemented.js"}
+"test/polyfill.js" {"test/polyfill.js"}
+]

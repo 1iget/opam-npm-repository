@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "sha"
+version: "2.0.1"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "(BSD-2-Clause OR MIT)"
+dev-repo: "https://github.com/ForbesLindesay/sha.git"
+depends: [
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+"readable-stream" {>="2.0.2" & <"3.0.0"}
+
+]
+
+
+
+

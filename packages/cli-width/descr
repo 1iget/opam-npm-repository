@@ -1,0 +1,1 @@
+Get stdout window width, with two fallbacks, tty and then a default.

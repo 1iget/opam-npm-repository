@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "pop-observe"
+version: "2.0.2"
+maintainer: "kriskowal <kris.kowal@cixar.com>"
+author: "kriskowal <kris.kowal@cixar.com>"
+license: "MIT"
+dev-repo: "https://github.com/kriskowal/pop-observe.git"
+depends: [
+"pop-equals" {>="1.0.0" & <"2.0.0"}
+
+"pop-has" {>="1.0.0" & <"2.0.0"}
+
+"pop-swap" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

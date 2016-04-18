@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"coverage.json" {"coverage.json"}
+"fixtures/lib/index.js" {"fixtures/lib/index.js"}
+"fixtures/onefile.lcov" {"fixtures/onefile.lcov"}
+"fixtures/istanbul.lcov" {"fixtures/istanbul.lcov"}
+".travis.yml" {".travis.yml"}
+"lib/convertLcovToCoveralls.js" {"lib/convertLcovToCoveralls.js"}
+"lib/getOptions.js" {"lib/getOptions.js"}
+"lib/handleInput.js" {"lib/handleInput.js"}
+"lib/logger.js" {"lib/logger.js"}
+"lib/sendToCoveralls.js" {"lib/sendToCoveralls.js"}
+"bin/coveralls.js" {"bin/coveralls.js"}
+"Makefile" {"Makefile"}
+"test/convertLcovToCoveralls.js" {"test/convertLcovToCoveralls.js"}
+"test/handleInput.js" {"test/handleInput.js"}
+]

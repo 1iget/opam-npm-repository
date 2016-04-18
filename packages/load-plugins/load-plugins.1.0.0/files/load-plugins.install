@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".verb.md" {".verb.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/basename.js" {"lib/basename.js"}
+"lib/camelize.js" {"lib/camelize.js"}
+"lib/dirname.js" {"lib/dirname.js"}
+"lib/excludes.js" {"lib/excludes.js"}
+"lib/expand.js" {"lib/expand.js"}
+"lib/ext.js" {"lib/ext.js"}
+"lib/extend.js" {"lib/extend.js"}
+"lib/is-file.js" {"lib/is-file.js"}
+"lib/relative.js" {"lib/relative.js"}
+"lib/segments.js" {"lib/segments.js"}
+".travis.yml" {".travis.yml"}
+]

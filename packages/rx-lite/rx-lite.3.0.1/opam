@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "rx-lite"
+version: "3.0.1"
+maintainer: "mattpodwysocki <matthew.podwysocki@gmail.com>"
+author: "mattpodwysocki <matthew.podwysocki@gmail.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/Reactive-Extensions/RxJS.git"
+depends: [
+
+]
+
+
+
+

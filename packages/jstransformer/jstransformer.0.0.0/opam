@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "jstransformer"
+version: "0.0.0"
+maintainer: "forbeslindesay <forbes@lindesay.co.uk>"
+author: "forbeslindesay <forbes@lindesay.co.uk>"
+license: "MIT"
+dev-repo: "https://github.com/jstransformers/jstransformer.git"
+depends: [
+"promise" {>="6.0.1" & <"7.0.0"}
+
+]
+
+
+
+

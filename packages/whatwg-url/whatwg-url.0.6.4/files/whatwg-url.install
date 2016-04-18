@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE.txt" {"LICENSE.txt"}
+"bin/transform.js" {"bin/transform.js"}
+"lib/url.js" {"lib/url.js"}
+"lib/.gitkeep" {"lib/.gitkeep"}
+]

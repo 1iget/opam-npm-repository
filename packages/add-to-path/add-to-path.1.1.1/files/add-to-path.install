@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CODE_OF_CONDUCT.md" {"CODE_OF_CONDUCT.md"}
+".eslintignore" {".eslintignore"}
+".eslintrc" {".eslintrc"}
+"dist/get-path-var.js" {"dist/get-path-var.js"}
+"dist/index.js" {"dist/index.js"}
+"src/get-path-var.js" {"src/get-path-var.js"}
+"src/get-path-var.test.js" {"src/get-path-var.test.js"}
+"src/index.js" {"src/index.js"}
+"src/index.test.js" {"src/index.test.js"}
+]

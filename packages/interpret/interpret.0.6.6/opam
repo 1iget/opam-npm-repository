@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "interpret"
+version: "0.6.6"
+maintainer: "tkellen <tyler@sleekcode.net>"
+author: "tkellen <tyler@sleekcode.net>"
+license: "MIT"
+dev-repo: "git://github.com/tkellen/node-interpret.git"
+depends: [
+
+]
+
+
+
+

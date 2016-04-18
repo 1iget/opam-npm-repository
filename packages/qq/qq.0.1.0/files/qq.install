@@ -1,0 +1,8 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"qq.js" {"qq.js"}
+"README" {"README"}
+"test/all.js" {"test/all.js"}
+"test/deep.js" {"test/deep.js"}
+]

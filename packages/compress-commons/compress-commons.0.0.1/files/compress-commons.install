@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/compress-commons.js" {"lib/compress-commons.js"}
+]

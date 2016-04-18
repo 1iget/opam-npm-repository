@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "fs-write-stream-atomic"
+version: "1.0.8"
+maintainer: "iarna <me@re-becca.org>"
+author: "iarna <me@re-becca.org>"
+license: "ISC"
+dev-repo: "git+https://github.com/npm/fs-write-stream-atomic.git"
+depends: [
+"graceful-fs" {>="4.1.2" & <"5.0.0"}
+
+"iferr" {>="0.1.5" & <"0.2.0"}
+
+"imurmurhash" {>="0.1.4" & <"0.2.0"}
+
+"readable-stream" {>="1.0.0" | >="2.0.0" & <"2.0.0" | >="2.0.0" & >="1.0.0" | <"3.0.0" & <"2.0.0" | <"3.0.0"}
+
+]
+
+
+
+

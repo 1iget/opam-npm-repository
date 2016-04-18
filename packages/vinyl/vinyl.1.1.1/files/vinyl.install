@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/cloneBuffer.js" {"lib/cloneBuffer.js"}
+"lib/inspectStream.js" {"lib/inspectStream.js"}
+"lib/isBuffer.js" {"lib/isBuffer.js"}
+"lib/isNull.js" {"lib/isNull.js"}
+"lib/isStream.js" {"lib/isStream.js"}
+]

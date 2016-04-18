@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "should"
+version: "3.1.3"
+maintainer: "tjholowaychuk <tj@vision-media.ca>"
+author: "tjholowaychuk <tj@vision-media.ca>"
+license: "not defined"
+dev-repo: "git://github.com/visionmedia/should.js.git"
+depends: [
+
+]
+
+
+
+

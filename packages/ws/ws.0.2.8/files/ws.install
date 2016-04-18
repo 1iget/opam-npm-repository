@@ -1,0 +1,25 @@
+lib: [
+".gitignore" {".gitignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"wscript" {"wscript"}
+"lib/BufferPool.js" {"lib/BufferPool.js"}
+"lib/ErrorCodes.js" {"lib/ErrorCodes.js"}
+"lib/Receiver.js" {"lib/Receiver.js"}
+"lib/Sender.js" {"lib/Sender.js"}
+"lib/Validation.js" {"lib/Validation.js"}
+"lib/WebSocket.js" {"lib/WebSocket.js"}
+"src/validation.cc" {"src/validation.cc"}
+"test/autobahn.js" {"test/autobahn.js"}
+"test/BufferPool.test.js" {"test/BufferPool.test.js"}
+"test/hybi-common.js" {"test/hybi-common.js"}
+"test/Receiver.test.js" {"test/Receiver.test.js"}
+"test/testserver.js" {"test/testserver.js"}
+"test/Validation.test.js" {"test/Validation.test.js"}
+"test/WebSocket.integration.js" {"test/WebSocket.integration.js"}
+"test/WebSocket.test.js" {"test/WebSocket.test.js"}
+"test/fixtures/textfile" {"test/fixtures/textfile"}
+]

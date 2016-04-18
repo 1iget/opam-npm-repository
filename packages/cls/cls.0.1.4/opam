@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "cls"
+version: "0.1.4"
+maintainer: "benjamn <bn@cs.stanford.edu>"
+author: "benjamn <bn@cs.stanford.edu>"
+license: "not defined"
+dev-repo: "git://github.com/benjamn/cls.git"
+depends: [
+
+]
+
+
+
+

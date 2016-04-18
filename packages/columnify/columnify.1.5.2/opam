@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "columnify"
+version: "1.5.2"
+maintainer: "timoxley <secoif@gmail.com>"
+author: "timoxley <secoif@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/timoxley/columnify.git"
+depends: [
+"strip-ansi" {>="3.0.0" & <"4.0.0"}
+
+"wcwidth" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+

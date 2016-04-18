@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "map-visit"
+version: "0.1.4"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/map-visit.git"
+depends: [
+"lazy-cache" {>="0.2.4" & <"0.3.0"}
+
+"object-visit" {>="0.3.1" & <"0.4.0"}
+
+]
+
+
+
+

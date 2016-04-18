@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "generic-pool"
+version: "2.0.0"
+maintainer: "coopernurse <james@bitmechanic.com>"
+author: "coopernurse <james@bitmechanic.com>"
+license: "not defined"
+dev-repo: "http://github.com/coopernurse/node-pool.git"
+depends: [
+
+]
+
+
+
+

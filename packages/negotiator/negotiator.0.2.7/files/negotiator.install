@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"examples/accept.js" {"examples/accept.js"}
+"examples/charset.js" {"examples/charset.js"}
+"examples/encoding.js" {"examples/encoding.js"}
+"examples/language.js" {"examples/language.js"}
+"lib/charset.js" {"lib/charset.js"}
+"lib/encoding.js" {"lib/encoding.js"}
+"lib/language.js" {"lib/language.js"}
+"lib/mediaType.js" {"lib/mediaType.js"}
+"lib/negotiator.js" {"lib/negotiator.js"}
+"readme.md" {"readme.md"}
+"test/charset.js" {"test/charset.js"}
+"test/encoding.js" {"test/encoding.js"}
+"test/language.js" {"test/language.js"}
+"test/mediaType.js" {"test/mediaType.js"}
+]

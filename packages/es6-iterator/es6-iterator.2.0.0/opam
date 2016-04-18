@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "es6-iterator"
+version: "2.0.0"
+maintainer: "medikoo <medikoo+npm@medikoo.com>"
+author: "medikoo <medikoo+npm@medikoo.com>"
+license: "MIT"
+dev-repo: "git://github.com/medikoo/es6-iterator.git"
+depends: [
+"d" {>="0.1.1" & <"0.2.0"}
+
+"es5-ext" {>="0.10.7" & <"0.11.0"}
+
+"es6-symbol" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

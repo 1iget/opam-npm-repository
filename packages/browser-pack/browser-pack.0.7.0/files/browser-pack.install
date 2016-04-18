@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"cmd.js" {"cmd.js"}
+"prelude.js" {"prelude.js"}
+"example/output.js" {"example/output.js"}
+"example/input.json" {"example/input.json"}
+"example/sourcemap/output.js" {"example/sourcemap/output.js"}
+"example/sourcemap/input.json" {"example/sourcemap/input.json"}
+"readme.markdown" {"readme.markdown"}
+"test/pack.js" {"test/pack.js"}
+"test/source-maps.js" {"test/source-maps.js"}
+"test/only_execute_entries.js" {"test/only_execute_entries.js"}
+"test/comment.js" {"test/comment.js"}
+"test/source-maps-existing.js" {"test/source-maps-existing.js"}
+"test/order.js" {"test/order.js"}
+"test/raw.js" {"test/raw.js"}
+".travis.yml" {".travis.yml"}
+]

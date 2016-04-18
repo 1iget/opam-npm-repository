@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "resolve-dep"
+version: "0.4.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "https://github.com/jonschlinkert/resolve-dep.git"
+depends: [
+"array-flatten" {="0.0.2"}
+
+"cwd" {>="0.3.3" & <"0.4.0"}
+
+"globby" {>="0.1.1" & <"0.2.0"}
+
+"load-pkg" {>="0.1.0" & <"0.2.0"}
+
+"multimatch" {>="0.3.0" & <"0.4.0"}
+
+"normalize-path" {>="0.1.1" & <"0.2.0"}
+
+"relative" {>="0.1.6" & <"0.2.0"}
+
+"resolve" {>="0.6.3" & <"0.7.0"}
+
+"xtend" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

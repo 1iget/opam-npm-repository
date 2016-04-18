@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "twig"
+version: "0.6.0"
+maintainer: "justjohn <john@justjohn.us>"
+author: "justjohn <john@justjohn.us>"
+license: "not defined"
+dev-repo: "git://github.com/justjohn/twig.js.git"
+depends: [
+"walk" {>="2.1.0" & <"2.2.0"}
+
+"minimatch" {>="0.2.0" & <"0.3.0"}
+
+]
+
+
+
+

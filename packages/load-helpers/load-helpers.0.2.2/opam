@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "load-helpers"
+version: "0.2.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/jonschlinkert/load-helpers.git"
+depends: [
+"globby" {>="3.0.1" & <"4.0.0"}
+
+"has-glob" {>="0.1.0" & <"0.2.0"}
+
+"is-valid-glob" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

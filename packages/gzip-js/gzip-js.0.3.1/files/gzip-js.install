@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+".gitignore" {".gitignore"}
+"bin/gunzip.js" {"bin/gunzip.js"}
+"bin/gzip.js" {"bin/gzip.js"}
+"lib/gzip.js" {"lib/gzip.js"}
+"test/unzipTest.pyc" {"test/unzipTest.pyc"}
+"test/runner.py" {"test/runner.py"}
+"test/zipTest.py" {"test/zipTest.py"}
+"test/unzipTest.py" {"test/unzipTest.py"}
+"test/zipTest.pyc" {"test/zipTest.pyc"}
+"test/helpers.py" {"test/helpers.py"}
+"test/helpers.pyc" {"test/helpers.pyc"}
+"test/zip.pyc" {"test/zip.pyc"}
+"test/test.txt" {"test/test.txt"}
+"test/test-files/hello-world.txt" {"test/test-files/hello-world.txt"}
+"test/test-files/spec.txt" {"test/test-files/spec.txt"}
+]

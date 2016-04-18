@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "jasmine-node"
+version: "1.0.19"
+maintainer: "mhevery <misko@hevery.com>"
+author: "mhevery <misko@hevery.com>"
+license: "not defined"
+dev-repo: "git://github.com/mhevery/jasmine-node.git"
+depends: [
+"coffee-script" {>="1.0.1"}
+
+"jasmine-reporters" {="0.1.0"}
+
+"requirejs" {>="0.27.1"}
+
+"findit" {>="0.1.2"}
+
+]
+
+
+
+

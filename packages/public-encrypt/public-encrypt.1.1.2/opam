@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "public-encrypt"
+version: "1.1.2"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/calvinmetcalf/publicEncrypt.git"
+depends: [
+"bn.js" {>="1.0.0" & <"2.0.0"}
+
+"browserify-rsa" {>="1.1.0" & <"2.0.0"}
+
+"parse-asn1" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

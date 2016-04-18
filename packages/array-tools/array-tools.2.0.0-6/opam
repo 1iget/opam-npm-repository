@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "array-tools"
+version: "2.0.0-6"
+maintainer: "75lb <75pound@gmail.com>"
+author: "75lb <75pound@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/75lb/array-tools.git"
+depends: [
+"ansi-escape-sequences" {>="2.0.0" & <"3.0.0"}
+
+"object-tools" {>="2.0.0-0" & <"3.0.0"}
+
+"transform-tools" {>="0.1.0" & <"0.2.0"}
+
+"typical" {>="2.1.0" & <"3.0.0"}
+
+]
+
+
+
+

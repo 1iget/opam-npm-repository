@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"rocambole-indent.js" {"rocambole-indent.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"LICENSE.md" {"LICENSE.md"}
+"test/align_comment-input.js" {"test/align_comment-input.js"}
+"test/align_comment-output.js" {"test/align_comment-output.js"}
+"test/runner.js" {"test/runner.js"}
+]

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "is-utf8"
+version: "0.2.1"
+maintainer: "wayfind <whyer1@gmail.com>"
+author: "wayfind <whyer1@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/wayfind/is-utf8.git"
+depends: [
+
+]
+
+
+
+

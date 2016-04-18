@@ -1,0 +1,4 @@
+lib: [
+"events.js" {"events.js"}
+"package.json" {"package.json"}
+]

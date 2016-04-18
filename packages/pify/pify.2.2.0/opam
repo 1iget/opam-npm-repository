@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "pify"
+version: "2.2.0"
+maintainer: "sindresorhus <sindresorhus@gmail.com>"
+author: "sindresorhus <sindresorhus@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/sindresorhus/pify.git"
+depends: [
+
+]
+
+
+
+

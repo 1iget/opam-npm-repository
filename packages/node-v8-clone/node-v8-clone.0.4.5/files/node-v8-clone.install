@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"test/shared.js" {"test/shared.js"}
+"test/test.js" {"test/test.js"}
+"test/3rdparty.js" {"test/3rdparty.js"}
+"examples/shallow.js" {"examples/shallow.js"}
+"examples/deep.js" {"examples/deep.js"}
+"examples/opt.js" {"examples/opt.js"}
+"binding.gyp" {"binding.gyp"}
+"lib/clone.js" {"lib/clone.js"}
+"src/clone.cc" {"src/clone.cc"}
+"bench/class.js" {"bench/class.js"}
+"bench/object.js" {"bench/object.js"}
+"bench/regexp.js" {"bench/regexp.js"}
+"bench/shared.js" {"bench/shared.js"}
+"bench/deep.js" {"bench/deep.js"}
+"bench/arrays.js" {"bench/arrays.js"}
+"bench/date.js" {"bench/date.js"}
+"bench/deep_array.js" {"bench/deep_array.js"}
+"bench/results2/re.png" {"bench/results2/re.png"}
+".travis.yml" {".travis.yml"}
+]

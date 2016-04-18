@@ -1,0 +1,22 @@
+lib: [
+"README.markdown" {"README.markdown"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"test/seq.js" {"test/seq.js"}
+"test/readdir.js" {"test/readdir.js"}
+"test/seq_.js" {"test/seq_.js"}
+"examples/parseq.js" {"examples/parseq.js"}
+"examples/join.js" {"examples/join.js"}
+"examples/parseq.coffee" {"examples/parseq.coffee"}
+"examples/stat_all.js" {"examples/stat_all.js"}
+"examples/stat_all.coffee" {"examples/stat_all.coffee"}
+"node_modules/step/README.markdown" {"node_modules/step/README.markdown"}
+"node_modules/step/package.json" {"node_modules/step/package.json"}
+"node_modules/step/test/callbackTest.js" {"node_modules/step/test/callbackTest.js"}
+"node_modules/step/test/fnTest.js" {"node_modules/step/test/fnTest.js"}
+"node_modules/step/test/parallelTest.js" {"node_modules/step/test/parallelTest.js"}
+"node_modules/step/test/errorTest.js" {"node_modules/step/test/errorTest.js"}
+"node_modules/step/test/groupTest.js" {"node_modules/step/test/groupTest.js"}
+"node_modules/step/test/helper.js" {"node_modules/step/test/helper.js"}
+"node_modules/step/lib/step.js" {"node_modules/step/lib/step.js"}
+]

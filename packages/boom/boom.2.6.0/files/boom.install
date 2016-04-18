@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"images/boom.png" {"images/boom.png"}
+".travis.yml" {".travis.yml"}
+"lib/index.js" {"lib/index.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"test/index.js" {"test/index.js"}
+]

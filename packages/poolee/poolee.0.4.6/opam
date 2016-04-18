@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "poolee"
+version: "0.4.6"
+maintainer: "dannycoates <dannycoates@gmail.com>"
+author: "dannycoates <dannycoates@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/dannycoates/poolee.git"
+depends: [
+"keep-alive-agent" {>="0.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/walker.js" {"lib/walker.js"}
+"test/moonwalk.spec.js" {"test/moonwalk.spec.js"}
+"test/parse.spec.js" {"test/parse.spec.js"}
+]

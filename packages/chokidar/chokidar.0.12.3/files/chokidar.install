@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/fsevents-handler.js" {"lib/fsevents-handler.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/is-binary.js" {"lib/is-binary.js"}
+"lib/nodefs-handler.js" {"lib/nodefs-handler.js"}
+]

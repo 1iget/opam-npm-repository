@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"gulpfile.js" {"gulpfile.js"}
+"bower.json" {"bower.json"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+".jshintrc" {".jshintrc"}
+"lib/definition.js" {"lib/definition.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/reference.js" {"lib/reference.js"}
+"lib/referencer.js" {"lib/referencer.js"}
+"lib/scope-manager.js" {"lib/scope-manager.js"}
+"lib/scope.js" {"lib/scope.js"}
+"lib/variable.js" {"lib/variable.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"src/definition.js" {"src/definition.js"}
+"src/index.js" {"src/index.js"}
+"src/reference.js" {"src/reference.js"}
+"src/referencer.js" {"src/referencer.js"}
+"src/scope-manager.js" {"src/scope-manager.js"}
+"src/scope.js" {"src/scope.js"}
+"src/variable.js" {"src/variable.js"}
+"third_party/espree.js" {"third_party/espree.js"}
+]

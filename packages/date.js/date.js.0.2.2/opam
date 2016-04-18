@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "date.js"
+version: "0.2.2"
+maintainer: "mattmueller <mattmuelle@gmail.com>"
+author: "mattmueller <mattmuelle@gmail.com>"
+license: "not defined"
+dev-repo: "git+https://github.com/MatthewMueller/date.git"
+depends: [
+"debug" {>="0.7.2" & <"0.8.0"}
+
+]
+
+
+
+

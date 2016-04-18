@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"CHANGES" {"CHANGES"}
+"benchmark/many-on.js" {"benchmark/many-on.js"}
+"benchmark/single-on.js" {"benchmark/single-on.js"}
+"lib/_id.js" {"lib/_id.js"}
+"lib/all-off.js" {"lib/all-off.js"}
+"lib/core.js" {"lib/core.js"}
+"lib/has-listeners.js" {"lib/has-listeners.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/pipe.js" {"lib/pipe.js"}
+"lib/unify.js" {"lib/unify.js"}
+".lint" {".lint"}
+"test/_id.js" {"test/_id.js"}
+"test/all-off.js" {"test/all-off.js"}
+"test/core.js" {"test/core.js"}
+"test/has-listeners.js" {"test/has-listeners.js"}
+"test/index.js" {"test/index.js"}
+"test/pipe.js" {"test/pipe.js"}
+"test/unify.js" {"test/unify.js"}
+]

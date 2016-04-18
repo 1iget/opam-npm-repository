@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"browser.js" {"browser.js"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"lib/dh.js" {"lib/dh.js"}
+"lib/generatePrime.js" {"lib/generatePrime.js"}
+"lib/primes.json" {"lib/primes.json"}
+"readme.md" {"readme.md"}
+]

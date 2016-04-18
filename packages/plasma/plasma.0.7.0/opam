@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "plasma"
+version: "0.7.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "MIT"
+dev-repo: "https://github.com/jonschlinkert/plasma"
+depends: [
+"globby" {>="1.2.0" & <"2.0.0"}
+
+"js-yaml" {>="3.2.7" & <"4.0.0"}
+
+"kind-of" {>="1.1.0" & <"2.0.0"}
+
+"lodash" {>="3.3.0" & <"4.0.0"}
+
+"option-cache" {>="1.2.1" & <"2.0.0"}
+
+"parse-csv" {>="0.1.0" & <"0.2.0"}
+
+"relative" {>="2.0.0" & <"3.0.0"}
+
+]
+
+
+
+

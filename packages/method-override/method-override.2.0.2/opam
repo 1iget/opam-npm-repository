@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "method-override"
+version: "2.0.2"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/expressjs/method-override"
+depends: [
+"methods" {="1.0.1"}
+
+"parseurl" {="1.0.1"}
+
+"vary" {="0.1.0"}
+
+]
+
+
+
+

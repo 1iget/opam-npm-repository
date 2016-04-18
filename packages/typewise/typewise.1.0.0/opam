@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "typewise"
+version: "1.0.0"
+maintainer: "deanlandolt <dean@deanlandolt.com>"
+author: "deanlandolt <dean@deanlandolt.com>"
+license: "MIT"
+dev-repo: "https://github.com/deanlandolt/typewise.git"
+depends: [
+"typewise-core" {>="1.1.0" & <"2.0.0"}
+
+"buffertools" {>="2.1.0" & <"3.0.0"}
+
+]
+
+
+
+

@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "helper-date"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/helper-date.git"
+depends: [
+"dateformat" {>="1.0.8" & <"2.0.0"}
+
+]
+
+
+
+

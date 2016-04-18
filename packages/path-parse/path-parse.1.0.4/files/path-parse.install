@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"index.min.js" {"index.min.js"}
+"test.js" {"test.js"}
+"test.min.js" {"test.min.js"}
+".travis.yml" {".travis.yml"}
+]

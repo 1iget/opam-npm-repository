@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "codecov"
+version: "1.0.0"
+maintainer: "stevepeak <steve@codecov.io>"
+author: "stevepeak <steve@codecov.io>"
+license: "MIT"
+dev-repo: "https://github.com/codecov/codecov-node"
+depends: [
+"request" {="2.42.0"}
+
+"urlgrey" {="0.4.0"}
+
+"argv" {="0.0.2"}
+
+]
+
+
+
+

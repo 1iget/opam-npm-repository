@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".eslintrc.js" {".eslintrc.js"}
+"LICENSE.md" {"LICENSE.md"}
+"HISTORY.md" {"HISTORY.md"}
+"lib/index.js" {"lib/index.js"}
+]

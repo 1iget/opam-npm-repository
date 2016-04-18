@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/comment-to-json.js" {"example/comment-to-json.js"}
+"test/comment-regex.js" {"test/comment-regex.js"}
+"test/convert-source-map.js" {"test/convert-source-map.js"}
+]

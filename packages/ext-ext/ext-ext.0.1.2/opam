@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "ext-ext"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/ext-ext.git"
+depends: [
+"array-last" {>="0.1.0" & <"0.2.0"}
+
+"parse-filepath" {>="0.2.1" & <"0.3.0"}
+
+]
+
+
+
+

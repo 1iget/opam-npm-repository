@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cssstyle"
+version: "0.2.18"
+maintainer: "chad3814 <chad@chad-cat-lore-eddie.com>"
+author: "chad3814 <chad@chad-cat-lore-eddie.com>"
+license: "not defined"
+dev-repo: "git://github.com/chad3814/CSSStyleDeclaration.git"
+depends: [
+"cssom" {>="0.3.0" & <"0.4.0"}
+
+]
+
+
+
+

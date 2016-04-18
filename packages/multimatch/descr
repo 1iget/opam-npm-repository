@@ -1,0 +1,1 @@
+Extends minimatch.match() with support for multiple patterns

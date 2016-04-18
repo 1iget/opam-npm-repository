@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "lcov-parse"
+version: "0.0.8"
+maintainer: "davglass <davglass@gmail.com>"
+author: "davglass <davglass@gmail.com>"
+license: "not defined"
+dev-repo: "http://github.com/davglass/lcov-parse.git"
+depends: [
+
+]
+
+
+
+

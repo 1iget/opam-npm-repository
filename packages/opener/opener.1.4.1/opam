@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "opener"
+version: "1.4.1"
+maintainer: "domenic <domenic@domenicdenicola.com>"
+author: "domenic <domenic@domenicdenicola.com>"
+license: "WTFPL"
+dev-repo: "https://github.com/domenic/opener"
+depends: [
+
+]
+
+
+
+

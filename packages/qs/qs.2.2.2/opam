@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "qs"
+version: "2.2.2"
+maintainer: "nlf <quitlahok@gmail.com>"
+author: "nlf <quitlahok@gmail.com>"
+license: "not defined"
+dev-repo: "https://github.com/hapijs/qs.git"
+depends: [
+
+]
+
+
+
+

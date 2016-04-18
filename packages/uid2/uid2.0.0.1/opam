@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "uid2"
+version: "0.0.1"
+maintainer: "coreh <thecoreh@gmail.com>"
+author: "coreh <thecoreh@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

@@ -1,0 +1,25 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"superagent.js" {"superagent.js"}
+"superagent.min.js" {"superagent.min.js"}
+"test.js" {"test.js"}
+"docs/index.md" {"docs/index.md"}
+"test/jquery.js" {"test/jquery.js"}
+"test/index.html" {"test/index.html"}
+"test/json2.js" {"test/json2.js"}
+"test/server.js" {"test/server.js"}
+"test/test.js" {"test/test.js"}
+"test/test.request.js" {"test/test.request.js"}
+"test/test.utils.js" {"test/test.utils.js"}
+"lib/events.js" {"lib/events.js"}
+"lib/superagent.js" {"lib/superagent.js"}
+"lib/node/index.js" {"lib/node/index.js"}
+"lib/node/part.js" {"lib/node/part.js"}
+"lib/node/utils.js" {"lib/node/utils.js"}
+]

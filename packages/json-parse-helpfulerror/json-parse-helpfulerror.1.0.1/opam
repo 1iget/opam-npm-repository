@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "json-parse-helpfulerror"
+version: "1.0.1"
+maintainer: "smikes <smikes@cubane.com>"
+author: "smikes <smikes@cubane.com>"
+license: "MIT"
+dev-repo: "https://github.com/smikes/json-parse-helpfulerror.git"
+depends: [
+
+]
+
+
+
+

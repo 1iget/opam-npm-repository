@@ -1,0 +1,1 @@
+Class factory featuring inheritance of static properties, static constructors, lazy population of prototypes, and this._super.

@@ -1,0 +1,1 @@
+Bind the current instance of a Templates-based application to an object of helpers, allowing them to be passed to a different render method.

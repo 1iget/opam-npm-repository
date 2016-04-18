@@ -1,0 +1,37 @@
+opam-version: "1.2"
+name: "browserify"
+version: "2.7.4"
+maintainer: "substack <mail@substack.net>"
+author: "substack <mail@substack.net>"
+license: "MIT"
+dev-repo: "http://github.com/substack/node-browserify.git"
+depends: [
+"module-deps" {>="0.5.0" & <"0.6.0"}
+
+"browser-pack" {>="0.6.0" & <"0.7.0"}
+
+"shell-quote" {>="0.0.1" & <"0.1.0"}
+
+"through" {>="2.2.0" & <"2.3.0"}
+
+"duplexer" {>="0.0.2" & <"0.1.0"}
+
+"concat-stream" {>="0.1.1" & <"0.2.0"}
+
+"insert-module-globals" {>="0.2.0" & <"0.3.0"}
+
+"syntax-error" {>="0.0.0" & <"0.1.0"}
+
+"browser-resolve" {>="0.0.3" & <"0.1.0"}
+
+"inherits" {>="1.0.0" & <"1.1.0"}
+
+"optimist" {>="0.3.5" & <"0.4.0"}
+
+"JSONStream" {>="0.4.3" & <"0.5.0"}
+
+]
+
+
+
+

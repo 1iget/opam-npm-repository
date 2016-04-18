@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "reversepoint"
+version: "0.2.1"
+maintainer: "andreasmadsen <amwebdk@gmail.com>"
+author: "andreasmadsen <amwebdk@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/AndreasMadsen/reversepoint.git"
+depends: [
+
+]
+
+
+
+

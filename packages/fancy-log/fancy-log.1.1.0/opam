@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "fancy-log"
+version: "1.1.0"
+maintainer: "phated <blaine@iceddev.com>"
+author: "phated <blaine@iceddev.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/phated/fancy-log.git"
+depends: [
+"chalk" {>="1.1.1" & <"2.0.0"}
+
+"dateformat" {>="1.0.11" & <"2.0.0"}
+
+]
+
+
+
+

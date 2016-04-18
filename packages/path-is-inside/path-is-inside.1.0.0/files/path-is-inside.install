@@ -1,0 +1,6 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/path-is-inside.js" {"lib/path-is-inside.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+]

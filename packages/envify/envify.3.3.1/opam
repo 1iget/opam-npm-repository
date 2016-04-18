@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "envify"
+version: "3.3.1"
+maintainer: "hughsk <hughskennedy@gmail.com>"
+author: "hughsk <hughskennedy@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/hughsk/envify.git"
+depends: [
+"through" {>="2.3.4" & <"2.4.0"}
+
+"jstransform" {>="10.0.1" & <"11.0.0"}
+
+]
+
+
+
+

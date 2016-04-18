@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "webidl-conversions"
+version: "1.0.1"
+maintainer: "domenic <domenic@domenicdenicola.com>"
+author: "domenic <domenic@domenicdenicola.com>"
+license: "BSD-2-Clause"
+dev-repo: "https://github.com/domenic/webidl-conversions"
+depends: [
+
+]
+
+
+
+

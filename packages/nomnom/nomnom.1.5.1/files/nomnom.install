@@ -1,0 +1,13 @@
+lib: [
+"nomnom.js" {"nomnom.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+"test/callback.js" {"test/callback.js"}
+"test/commands.js" {"test/commands.js"}
+"test/expected.js" {"test/expected.js"}
+"test/matching.js" {"test/matching.js"}
+"test/option.js" {"test/option.js"}
+"test/usage.js" {"test/usage.js"}
+"test/values.js" {"test/values.js"}
+]

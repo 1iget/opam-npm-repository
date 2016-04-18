@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "es6-promise"
+version: "2.0.1"
+maintainer: "jaffathecake <jaffathecake@gmail.com>"
+author: "jaffathecake <jaffathecake@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/jakearchibald/ES6-Promises.git"
+depends: [
+
+]
+
+
+
+

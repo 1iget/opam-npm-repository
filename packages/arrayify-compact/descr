@@ -1,0 +1,1 @@
+Casts the given value to a flatten array, and removes falsey items (similar to lodash compact).

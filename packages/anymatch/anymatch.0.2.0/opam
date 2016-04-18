@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "anymatch"
+version: "0.2.0"
+maintainer: "es128 <elan.shanker+npm@gmail.com>"
+author: "es128 <elan.shanker+npm@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:es128/anymatch.git"
+depends: [
+"minimatch" {>="0.2.12" & <"0.3.0"}
+
+]
+
+
+
+

@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "scrawl"
+version: "0.0.4"
+maintainer: "caolan <caolan.mcmahon@gmail.com>"
+author: "caolan <caolan.mcmahon@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+
+
+
+

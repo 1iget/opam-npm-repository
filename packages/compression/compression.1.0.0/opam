@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "compression"
+version: "1.0.0"
+maintainer: "jongleberry <jonathanrichardong@gmail.com>"
+author: "jongleberry <jonathanrichardong@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/expressjs/compression.git"
+depends: [
+"bytes" {="0.2.1"}
+
+"negotiator" {="0.3.0"}
+
+"compressible" {="1.0.0"}
+
+]
+
+
+
+

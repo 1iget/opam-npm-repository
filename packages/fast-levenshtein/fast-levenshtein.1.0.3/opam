@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "fast-levenshtein"
+version: "1.0.3"
+maintainer: "hiddentao <ram@hiddentao.com>"
+author: "hiddentao <ram@hiddentao.com>"
+license: "BSD"
+dev-repo: "https://github.com/hiddentao/fast-levenshtein.git"
+depends: [
+
+]
+
+
+
+

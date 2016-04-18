@@ -1,0 +1,1 @@
+Parse a gitignore file into an array of patterns. Comments and empty lines are stripped.

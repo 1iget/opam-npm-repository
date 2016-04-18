@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "diffie-hellman"
+version: "1.1.2"
+maintainer: "cwmma <calvin.metcalf@gmail.com>"
+author: "cwmma <calvin.metcalf@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/calvinmetcalf/diffie-hellman.git"
+depends: [
+"bn.js" {="0.15.2"}
+
+]
+
+
+
+

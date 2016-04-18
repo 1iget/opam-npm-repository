@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "lodash.template"
+version: "3.6.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash._basecopy" {>="3.0.0" & <"4.0.0"}
+
+"lodash._basetostring" {>="3.0.0" & <"4.0.0"}
+
+"lodash._basevalues" {>="3.0.0" & <"4.0.0"}
+
+"lodash._isiterateecall" {>="3.0.0" & <"4.0.0"}
+
+"lodash._reinterpolate" {>="3.0.0" & <"4.0.0"}
+
+"lodash.escape" {>="3.0.0" & <"4.0.0"}
+
+"lodash.keys" {>="3.0.0" & <"4.0.0"}
+
+"lodash.restparam" {>="3.0.0" & <"4.0.0"}
+
+"lodash.templatesettings" {>="3.0.0" & <"4.0.0"}
+
+]
+
+
+
+

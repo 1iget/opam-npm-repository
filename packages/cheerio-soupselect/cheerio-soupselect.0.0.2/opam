@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "cheerio-soupselect"
+version: "0.0.2"
+maintainer: "mattmueller <mattmuelle@gmail.com>"
+author: "mattmueller <mattmuelle@gmail.com>"
+license: "MIT"
+
+depends: [
+"htmlparser2" {>="1.5.0" & <"1.6.0"}
+
+]
+
+
+
+

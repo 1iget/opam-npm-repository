@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "files-filters"
+version: "0.1.2"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/files-filters.git"
+depends: [
+"is-directory" {>="0.2.2" & <"0.3.0"}
+
+"minimatch" {>="1.0.0" & <"2.0.0"}
+
+]
+
+
+
+
