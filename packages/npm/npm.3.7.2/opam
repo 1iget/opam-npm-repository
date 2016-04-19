@@ -177,7 +177,10 @@ depends: [
 "validate-npm-package-license" {>="0.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{lib}%/bin/npm-cli.js %{bin}%/npm"]
+install: [
+  ["sh" "-c" "ln -s %{lib}%/bin/npm-cli.js %{bin}%/npm"]
+  ["chmod" "+x" "%{lib}%/bin/npm-cli.js"]
+]
 
 remove: [
   [ "sh" "-c" "rm %{bin}%/npm" ] 
