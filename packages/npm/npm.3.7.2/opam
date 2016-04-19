@@ -179,10 +179,8 @@ depends: [
 ]
 install: [
   ["sh" "-c" "ln -s %{lib}%/bin/npm-cli.js %{bin}%/npm"]
-  ["chmod" "+x" "%{lib}%/bin/npm-cli.js"]
 ]
 
 remove: [
   [ "sh" "-c" "rm %{bin}%/npm" ] 
 ]
-
