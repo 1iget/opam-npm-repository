@@ -3,7 +3,7 @@ PACKAGES = yojson,netclient,dose3.npm,dose3,re.pcre,parmap
 
 
 all:
-	ocamlfind ocamlopt -p -package $(PACKAGES) -o npm2opam -linkpkg $(SRC)
+	ocamlfind ocamlopt -g -package $(PACKAGES) -o npm2opam -linkpkg $(SRC)
 
 clean:
 	rm -fr 0/ 0.0.1/ 0.workspace/

@@ -32,6 +32,7 @@ type version = {
 type doc = { 
   versions: (string * version) list;
   id: string;
+  original_id: string option;
 }
 
 let string_of_option opt =
@@ -81,13 +82,29 @@ let parse_range x =
   str
 
 
+let default_option def opt =
+  match opt with
+  | Some x -> x
+  | None -> def
+
+let bad_name_re = Re_pcre.regexp "\\."
+
+let fix_bad_name name =
+  try
+    ignore (Re_pcre.extract bad_name_re name);
+    Some (Str.global_replace (Str.regexp "\\.") "_" name)
+  with Not_found ->
+    None
+
+
+
 let get_deps_version deps =
   try
     deps
     |> to_assoc 
     |> List.map (fun (n, r) ->
         let range = r |> member "fixed" |> to_string in
-        { package = n; range = parse_range range;}
+        { package = default_option n (fix_bad_name n); range = parse_range range;}
       )
   with Type_error _ -> []
 
@@ -153,12 +170,14 @@ let get_data_version obj id =
     with _ -> None
   }
 
+
+
 let get_data id doc =
-  (*pretty_to_channel stdout doc;*)
-  {
-    versions = doc |> member "value" |> to_assoc |> List.map (fun (ver, obj) -> (ver, get_data_version obj id));
-    id = id;
-  }
+  let fixed = fix_bad_name id in
+  let versions = doc |> member "value" |> to_assoc |> List.map (fun (ver, obj) -> (ver, get_data_version obj id)) in
+  match fixed with
+  | Some fixed -> { versions = versions; id = fixed; original_id = Some id}
+  | None -> { versions = versions; id = id; original_id = None}
 
 
 
@@ -260,6 +279,7 @@ let get_uninstalls xs =
       Printf.sprintf "remove: [\n %s \n]" all
 
 
+(* Add scripts for the bin field in npm *)
 let add_script_binary (bin : (string * string) list) (xs : (string * string) list) =
   let l = ref xs in
   List.iter (fun (name, file) ->
@@ -269,6 +289,17 @@ let add_script_binary (bin : (string * string) list) (xs : (string * string) lis
     l := ("preuninstall", remov_command) :: !l
   ) bin;
   !l
+
+(* If a package name is not a valid, we create a symlink from a invalid name to
+ * a one valid in opam *)
+let add_script_bad_names original (xs : (string * string) list) =
+  match original with
+  | None -> xs
+  | Some original ->
+      let install = Printf.sprintf "ln -s %%{PKG:lib}%% %%{lib}%%/%s" original in
+      let preuninstall = Printf.sprintf "rm %%{lib}%%/%s" original in
+      ("install", install) :: ("preuninstall", preuninstall) :: xs
+
 
 
 
@@ -324,9 +355,9 @@ let generate_opam (doc : doc) =
             license;
             dev_repo;
             deps;
-            get_install (add_script_binary v.bin v.scripts);
+            get_install (add_script_bad_names doc.original_id (add_script_binary v.bin v.scripts));
             get_preinstall v.scripts;
-            get_uninstalls (add_script_binary v.bin v.scripts);
+            get_uninstalls (add_script_bad_names doc.original_id (add_script_binary v.bin v.scripts));
           ]
       in 
       (v_str, v, v.tarball, all)
@@ -438,4 +469,3 @@ let () =
   let xs = filter_ready xs in
   Printf.printf "To create: %d\n" (List.fold_left (fun acc x -> acc + List.length x.versions) 0 xs);
   generate_all xs
-  (*Printf.printf "Total dependencies: %d" (List.length xs)*)
