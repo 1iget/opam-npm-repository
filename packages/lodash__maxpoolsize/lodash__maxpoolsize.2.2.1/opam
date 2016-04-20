@@ -8,7 +8,7 @@ dev-repo: "https://github.com/lodash/lodash-cli.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._maxpoolsize"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__maxpoolsize %{lib}%/lodash._maxpoolsize"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._maxpoolsize" ] 

@@ -15,7 +15,7 @@ depends: [
 "lodash_isarray" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.foreach"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_foreach %{lib}%/lodash.foreach"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.foreach" ] 

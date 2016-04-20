@@ -9,7 +9,7 @@ depends: [
 "lodash__objectpool" {>="2.2.0" & <"2.3.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._getobject"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__getobject %{lib}%/lodash._getobject"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._getobject" ] 

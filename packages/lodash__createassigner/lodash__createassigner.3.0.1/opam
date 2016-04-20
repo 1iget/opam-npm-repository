@@ -11,7 +11,7 @@ depends: [
 "lodash__isiterateecall" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._createassigner"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__createassigner %{lib}%/lodash._createassigner"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._createassigner" ] 

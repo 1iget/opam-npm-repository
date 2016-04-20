@@ -13,7 +13,7 @@ depends: [
 "lodash__releaseobject" {>="2.0.0" & <"2.1.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._setbinddata"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__setbinddata %{lib}%/lodash._setbinddata"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._setbinddata" ] 

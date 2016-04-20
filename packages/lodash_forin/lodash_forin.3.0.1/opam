@@ -13,7 +13,7 @@ depends: [
 "lodash_keysin" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.forin"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_forin %{lib}%/lodash.forin"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.forin" ] 

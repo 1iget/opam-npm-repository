@@ -9,7 +9,7 @@ depends: [
 "lodash__isnative" {>="2.4.1" & <"2.5.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.support"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_support %{lib}%/lodash.support"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.support" ] 

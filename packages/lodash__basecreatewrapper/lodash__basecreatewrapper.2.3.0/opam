@@ -15,7 +15,7 @@ depends: [
 "lodash__slice" {>="2.3.0" & <"2.4.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._basecreatewrapper"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__basecreatewrapper %{lib}%/lodash._basecreatewrapper"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._basecreatewrapper" ] 

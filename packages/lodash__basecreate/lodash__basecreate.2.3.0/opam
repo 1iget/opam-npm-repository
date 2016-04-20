@@ -13,7 +13,7 @@ depends: [
 "lodash__renative" {>="2.3.0" & <"2.4.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._basecreate"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__basecreate %{lib}%/lodash._basecreate"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._basecreate" ] 

@@ -15,7 +15,7 @@ depends: [
 "lodash_keys" {>="2.3.0" & <"2.4.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.createcallback"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_createcallback %{lib}%/lodash.createcallback"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.createcallback" ] 

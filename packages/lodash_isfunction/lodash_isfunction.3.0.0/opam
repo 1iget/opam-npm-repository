@@ -8,7 +8,7 @@ dev-repo: "https://github.com/lodash/lodash"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.isfunction"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_isfunction %{lib}%/lodash.isfunction"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.isfunction" ] 

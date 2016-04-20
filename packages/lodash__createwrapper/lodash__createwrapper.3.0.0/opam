@@ -15,7 +15,7 @@ depends: [
 "lodash_isfunction" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._createwrapper"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__createwrapper %{lib}%/lodash._createwrapper"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._createwrapper" ] 

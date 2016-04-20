@@ -9,7 +9,7 @@ depends: [
 "lodash__renative" {>="2.3.0" & <"2.4.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.isarray"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_isarray %{lib}%/lodash.isarray"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.isarray" ] 

@@ -23,7 +23,7 @@ depends: [
 "lodash__slice" {>="2.2.1" & <"2.3.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._baseclone"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__baseclone %{lib}%/lodash._baseclone"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._baseclone" ] 

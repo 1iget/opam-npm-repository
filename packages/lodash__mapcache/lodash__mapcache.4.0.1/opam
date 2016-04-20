@@ -8,7 +8,7 @@ dev-repo: "git+https://github.com/lodash/lodash.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._mapcache"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__mapcache %{lib}%/lodash._mapcache"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._mapcache" ] 

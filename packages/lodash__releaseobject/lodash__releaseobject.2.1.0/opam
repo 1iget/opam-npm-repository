@@ -11,7 +11,7 @@ depends: [
 "lodash__objectpool" {>="2.1.0" & <"2.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._releaseobject"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__releaseobject %{lib}%/lodash._releaseobject"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._releaseobject" ] 

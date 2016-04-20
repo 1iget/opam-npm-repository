@@ -8,7 +8,7 @@ dev-repo: "https://github.com/lodash/lodash-cli.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.identity"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_identity %{lib}%/lodash.identity"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.identity" ] 

@@ -11,7 +11,7 @@ depends: [
 "lodash__maxpoolsize" {>="2.1.0" & <"2.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._releasearray"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__releasearray %{lib}%/lodash._releasearray"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._releasearray" ] 

@@ -13,7 +13,7 @@ depends: [
 "lodash__shimkeys" {>="2.3.0" & <"2.4.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.keys"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_keys %{lib}%/lodash.keys"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.keys" ] 

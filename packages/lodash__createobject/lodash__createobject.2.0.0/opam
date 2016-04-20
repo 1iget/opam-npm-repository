@@ -13,7 +13,7 @@ depends: [
 "lodash__renative" {>="2.0.0" & <"2.1.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._createobject"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__createobject %{lib}%/lodash._createobject"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._createobject" ] 

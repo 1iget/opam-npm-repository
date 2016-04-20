@@ -293,11 +293,11 @@ let add_script_binary (bin : (string * string) list) (xs : (string * string) lis
 
 (* If a package name is not a valid, we create a symlink from a invalid name to
  * a one valid in opam *)
-let add_script_bad_names original (xs : (string * string) list) =
+let add_script_bad_names fixed (original : string option) (xs : (string * string) list) =
   match original with
   | None -> xs
   | Some original ->
-      let install = Printf.sprintf "ln -s %%{PKG:lib}%% %%{lib}%%/%s" original in
+      let install = Printf.sprintf "ln -s %%{lib}%%/%s %%{lib}%%/%s" fixed original in
       let preuninstall = Printf.sprintf "rm %%{lib}%%/%s" original in
       ("install", install) :: ("preuninstall", preuninstall) :: xs
 
@@ -356,9 +356,9 @@ let generate_opam (doc : doc) =
             license;
             dev_repo;
             deps;
-            get_install (add_script_bad_names doc.original_id (add_script_binary v.bin v.scripts));
+            get_install (add_script_bad_names doc.id doc.original_id (add_script_binary v.bin v.scripts));
             get_preinstall v.scripts;
-            get_uninstalls (add_script_bad_names doc.original_id (add_script_binary v.bin v.scripts));
+            get_uninstalls (add_script_bad_names doc.id doc.original_id (add_script_binary v.bin v.scripts));
           ]
       in 
       (v_str, v, v.tarball, all)

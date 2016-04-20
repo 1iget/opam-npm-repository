@@ -9,7 +9,7 @@ depends: [
 "lodash__arraypool" {>="2.0.0" & <"2.1.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._getarray"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__getarray %{lib}%/lodash._getarray"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._getarray" ] 

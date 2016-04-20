@@ -8,7 +8,7 @@ dev-repo: "https://github.com/lodash/lodash"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._arrayeach"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__arrayeach %{lib}%/lodash._arrayeach"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._arrayeach" ] 

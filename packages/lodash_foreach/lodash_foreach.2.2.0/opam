@@ -11,7 +11,7 @@ depends: [
 "lodash_forown" {>="2.2.0" & <"2.3.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.foreach"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_foreach %{lib}%/lodash.foreach"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.foreach" ] 

@@ -11,7 +11,7 @@ depends: [
 "lodash_keys" {>="4.0.0" & <"5.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._baseisequal"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__baseisequal %{lib}%/lodash._baseisequal"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._baseisequal" ] 

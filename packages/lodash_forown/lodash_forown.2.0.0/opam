@@ -13,7 +13,7 @@ depends: [
 "lodash__objecttypes" {>="2.0.0" & <"2.1.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.forown"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_forown %{lib}%/lodash.forown"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.forown" ] 

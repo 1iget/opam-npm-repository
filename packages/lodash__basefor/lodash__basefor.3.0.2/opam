@@ -8,7 +8,7 @@ dev-repo: "git+https://github.com/lodash/lodash.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._basefor"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__basefor %{lib}%/lodash._basefor"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._basefor" ] 

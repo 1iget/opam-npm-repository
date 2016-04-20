@@ -17,7 +17,7 @@ depends: [
 "lodash__releasearray" {>="2.2.1" & <"2.3.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._baseisequal"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__baseisequal %{lib}%/lodash._baseisequal"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._baseisequal" ] 

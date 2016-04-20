@@ -9,7 +9,7 @@ depends: [
 "lodash_isarray" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._topath"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__topath %{lib}%/lodash._topath"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._topath" ] 

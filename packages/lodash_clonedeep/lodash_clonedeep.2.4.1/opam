@@ -11,7 +11,7 @@ depends: [
 "lodash__basecreatecallback" {>="2.4.1" & <"2.5.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.clonedeep"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_clonedeep %{lib}%/lodash.clonedeep"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.clonedeep" ] 

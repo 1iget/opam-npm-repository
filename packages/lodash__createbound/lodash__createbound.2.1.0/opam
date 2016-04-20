@@ -19,7 +19,7 @@ depends: [
 "lodash_support" {>="2.1.0" & <"2.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._createbound"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__createbound %{lib}%/lodash._createbound"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._createbound" ] 

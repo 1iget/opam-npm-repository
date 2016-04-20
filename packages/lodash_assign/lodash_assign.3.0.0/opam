@@ -11,7 +11,7 @@ depends: [
 "lodash__createassigner" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.assign"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_assign %{lib}%/lodash.assign"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.assign" ] 

@@ -11,7 +11,7 @@ depends: [
 "lodash_isarray" {>="3.0.0" & <"4.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.keysin"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_keysin %{lib}%/lodash.keysin"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.keysin" ] 

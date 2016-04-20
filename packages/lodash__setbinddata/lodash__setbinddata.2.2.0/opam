@@ -11,7 +11,7 @@ depends: [
 "lodash__renative" {>="2.2.0" & <"2.3.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._setbinddata"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__setbinddata %{lib}%/lodash._setbinddata"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash._setbinddata" ] 

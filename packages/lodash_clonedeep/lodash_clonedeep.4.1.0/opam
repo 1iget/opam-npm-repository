@@ -17,7 +17,7 @@ depends: [
 "lodash_keys" {>="4.0.0" & <"5.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.clonedeep"]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_clonedeep %{lib}%/lodash.clonedeep"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/lodash.clonedeep" ] 
