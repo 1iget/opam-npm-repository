@@ -7,3 +7,6 @@ lib: [
 "tests/node-qunit.js" {"tests/node-qunit.js"}
 "tests/tests.js" {"tests/tests.js"}
 ]
+libexec: [
+
+]

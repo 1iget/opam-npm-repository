@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/leven"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/leven"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/leven" ] 
+]
 

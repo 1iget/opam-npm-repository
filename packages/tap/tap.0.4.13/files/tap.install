@@ -52,3 +52,6 @@ lib: [
 "test-disabled/foo.js" {"test-disabled/foo.js"}
 "test-disabled/t.js" {"test-disabled/t.js"}
 ]
+libexec: [
+
+]

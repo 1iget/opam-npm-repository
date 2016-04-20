@@ -11,3 +11,6 @@ lib: [
 "test/end.js" {"test/end.js"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

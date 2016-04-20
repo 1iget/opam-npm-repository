@@ -5,3 +5,6 @@ lib: [
 "test/index.js" {"test/index.js"}
 "readme.markdown" {"readme.markdown"}
 ]
+libexec: [
+
+]

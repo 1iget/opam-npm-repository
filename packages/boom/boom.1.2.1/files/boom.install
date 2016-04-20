@@ -11,3 +11,6 @@ lib: [
 "AUTHORS" {"AUTHORS"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

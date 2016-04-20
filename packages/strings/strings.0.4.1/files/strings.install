@@ -1,0 +1,31 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"docs/basics.md" {"docs/basics.md"}
+"docs/example-parser.md" {"docs/example-parser.md"}
+"docs/example-parsers.md" {"docs/example-parsers.md"}
+"docs/example-process.md" {"docs/example-process.md"}
+"docs/tutorial.md" {"docs/tutorial.md"}
+".verbrc.md" {".verbrc.md"}
+"lib/utils.js" {"lib/utils.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/extendParser.js" {"test/extendParser.js"}
+"test/parser.js" {"test/parser.js"}
+"test/parsers.js" {"test/parsers.js"}
+"test/pattern.js" {"test/pattern.js"}
+"test/run.js" {"test/run.js"}
+"test/propstring.js" {"test/propstring.js"}
+"test/replace.js" {"test/replace.js"}
+"test/replacement.js" {"test/replacement.js"}
+"test/template.js" {"test/template.js"}
+"test/process.js" {"test/process.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

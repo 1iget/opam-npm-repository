@@ -10,3 +10,6 @@ lib: [
 "test/collectJson.js" {"test/collectJson.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

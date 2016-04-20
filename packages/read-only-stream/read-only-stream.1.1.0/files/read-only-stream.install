@@ -9,3 +9,6 @@ lib: [
 "test/ro.js" {"test/ro.js"}
 "test/streams1.js" {"test/streams1.js"}
 ]
+libexec: [
+
+]

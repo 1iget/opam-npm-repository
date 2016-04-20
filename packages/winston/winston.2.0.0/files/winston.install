@@ -19,3 +19,6 @@ lib: [
 "lib/winston/transports/memory.js" {"lib/winston/transports/memory.js"}
 "lib/winston/transports/transport.js" {"lib/winston/transports/transport.js"}
 ]
+libexec: [
+
+]

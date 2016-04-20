@@ -23,7 +23,9 @@ depends: [
 "detective" {>="2.4.0" & <"2.5.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cmd.js %{bin}%/module-deps"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/module-deps" ] 
+]
 

@@ -7,3 +7,6 @@ lib: [
 "tests/test-terminal.js" {"tests/test-terminal.js"}
 "lib/terminal.js" {"lib/terminal.js"}
 ]
+libexec: [
+
+]

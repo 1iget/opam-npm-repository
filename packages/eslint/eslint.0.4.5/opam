@@ -27,7 +27,9 @@ depends: [
 "doctrine" {>="0.5.0" & <"0.6.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/eslint.js %{bin}%/eslint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/eslint" ] 
+]
 

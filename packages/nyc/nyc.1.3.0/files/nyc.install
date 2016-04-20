@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.txt" {"LICENSE.txt"}
+"test/nyc-test.js" {"test/nyc-test.js"}
+"test/fixtures/package.json" {"test/fixtures/package.json"}
+"test/fixtures/sigint.js" {"test/fixtures/sigint.js"}
+"test/fixtures/sigterm.js" {"test/fixtures/sigterm.js"}
+]
+libexec: [
+"bin/nyc-report.js" {"bin/nyc-report.js"}
+"bin/nyc.js" {"bin/nyc.js"}
+]

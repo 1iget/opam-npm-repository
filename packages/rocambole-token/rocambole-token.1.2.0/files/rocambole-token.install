@@ -10,3 +10,6 @@ lib: [
 "is.js" {"is.js"}
 "test/find-spec.js" {"test/find-spec.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"request.js" {"request.js"}
+".travis.yml" {".travis.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"lib/cookies.js" {"lib/cookies.js"}
+"lib/copy.js" {"lib/copy.js"}
+"lib/debug.js" {"lib/debug.js"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/optional.js" {"lib/optional.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"disabled.appveyor.yml" {"disabled.appveyor.yml"}
+]
+libexec: [
+
+]

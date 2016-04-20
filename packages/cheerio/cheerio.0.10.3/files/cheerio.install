@@ -25,3 +25,6 @@ lib: [
 "test/render.js" {"test/render.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

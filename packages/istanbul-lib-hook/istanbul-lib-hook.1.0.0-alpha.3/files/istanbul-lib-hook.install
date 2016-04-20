@@ -11,3 +11,6 @@ lib: [
 "docs/index.html" {"docs/index.html"}
 "lib/hook.js" {"lib/hook.js"}
 ]
+libexec: [
+
+]

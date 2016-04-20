@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "changelog.md" {"changelog.md"}
-"bin/cli.js" {"bin/cli.js"}
 "configs/esformatter.json" {"configs/esformatter.json"}
 "lib/console.js" {"lib/console.js"}
 "lib/process.js" {"lib/process.js"}
@@ -14,4 +13,7 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "src/main.js" {"src/main.js"}
 "src/options.js" {"src/options.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

@@ -11,3 +11,6 @@ lib: [
 "example/ig-tar.js" {"example/ig-tar.js"}
 "example/tar.js" {"example/tar.js"}
 ]
+libexec: [
+
+]

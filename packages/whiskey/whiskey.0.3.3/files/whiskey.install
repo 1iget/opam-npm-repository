@@ -42,7 +42,6 @@ lib: [
 "index.js" {"index.js"}
 "LICENSE" {"LICENSE"}
 "bin/" {"bin/"}
-"bin/whiskey" {"bin/whiskey"}
 "lib/" {"lib/"}
 "lib/run_test_file.js" {"lib/run_test_file.js"}
 "lib/assert.js" {"lib/assert.js"}
@@ -87,4 +86,7 @@ lib: [
 "lib/constants.js" {"lib/constants.js"}
 "lib/common.js" {"lib/common.js"}
 ".npmignore" {".npmignore"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

@@ -4,7 +4,6 @@ lib: [
 "Makefile" {"Makefile"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/vows" {"bin/vows"}
 "test/assert-test.js" {"test/assert-test.js"}
 "test/isolate-test.js" {"test/isolate-test.js"}
 "test/supress-stdout-test.js" {"test/supress-stdout-test.js"}
@@ -36,4 +35,7 @@ lib: [
 "lib/vows/coverage/report-plain.js" {"lib/vows/coverage/report-plain.js"}
 "lib/vows/coverage/fragments/coverage-foot.html" {"lib/vows/coverage/fragments/coverage-foot.html"}
 "lib/vows/coverage/fragments/coverage-head.html" {"lib/vows/coverage/fragments/coverage-head.html"}
+]
+libexec: [
+"bin/vows" {"bin/vows"}
 ]

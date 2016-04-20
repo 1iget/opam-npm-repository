@@ -70,3 +70,6 @@ lib: [
 "tests/tests/timers.ls" {"tests/tests/timers.ls"}
 "tests/tests.html" {"tests/tests.html"}
 ]
+libexec: [
+
+]

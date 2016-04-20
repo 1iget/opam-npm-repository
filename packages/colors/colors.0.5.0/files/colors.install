@@ -1,0 +1,12 @@
+lib: [
+"" {""}
+"colors.js" {"colors.js"}
+"example.html" {"example.html"}
+"example.js" {"example.js"}
+"MIT-LICENSE.txt" {"MIT-LICENSE.txt"}
+"package.json" {"package.json"}
+"ReadMe.md" {"ReadMe.md"}
+]
+libexec: [
+
+]

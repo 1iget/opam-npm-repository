@@ -9,10 +9,12 @@ lib: [
 "docs/docco.css" {"docs/docco.css"}
 "docs/licenses.md" {"docs/licenses.md"}
 "docs/tests.md" {"docs/tests.md"}
-"bin/twigjs" {"bin/twigjs"}
 ".gitmodules" {".gitmodules"}
 ".travis.yml" {".travis.yml"}
 "lib/compile.js" {"lib/compile.js"}
 "lib/paths.js" {"lib/paths.js"}
 "Makefile" {"Makefile"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

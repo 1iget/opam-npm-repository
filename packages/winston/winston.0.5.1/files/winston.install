@@ -57,3 +57,6 @@ lib: [
 "test/fixtures/scripts/log-exceptions.js" {"test/fixtures/scripts/log-exceptions.js"}
 "test/fixtures/scripts/unhandle-exceptions.js" {"test/fixtures/scripts/unhandle-exceptions.js"}
 ]
+libexec: [
+
+]

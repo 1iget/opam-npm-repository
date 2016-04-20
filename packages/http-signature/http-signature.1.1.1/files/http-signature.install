@@ -12,3 +12,6 @@ lib: [
 "lib/verify.js" {"lib/verify.js"}
 ".dir-locals.el" {".dir-locals.el"}
 ]
+libexec: [
+
+]

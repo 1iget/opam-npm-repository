@@ -86,3 +86,6 @@ lib: [
 "test/browser/stream-unshift-read-race.js" {"test/browser/stream-unshift-read-race.js"}
 "test/node/node-test.js" {"test/node/node-test.js"}
 ]
+libexec: [
+
+]

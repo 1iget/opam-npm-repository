@@ -20,3 +20,6 @@ lib: [
 "lib/slashify.js" {"lib/slashify.js"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "Readme.md" {"Readme.md"}
 "test/multipipe.js" {"test/multipipe.js"}
 ]
+libexec: [
+
+]

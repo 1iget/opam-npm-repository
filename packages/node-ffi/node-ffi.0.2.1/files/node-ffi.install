@@ -34,3 +34,6 @@ lib: [
 "example/factorial/wscript" {"example/factorial/wscript"}
 "doc/benchmark.txt" {"doc/benchmark.txt"}
 ]
+libexec: [
+
+]

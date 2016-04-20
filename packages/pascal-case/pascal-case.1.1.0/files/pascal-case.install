@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "pascal-case.js" {"pascal-case.js"}
 ]
+libexec: [
+
+]

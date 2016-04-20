@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"es6-shim.js" {"es6-shim.js"}
+"Makefile" {"Makefile"}
+".jepso-ci.json" {".jepso-ci.json"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"testling.html" {"testling.html"}
+]
+libexec: [
+
+]

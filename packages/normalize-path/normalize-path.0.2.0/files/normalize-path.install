@@ -33,3 +33,6 @@ lib: [
 "benchmark/fixtures/path-9.js" {"benchmark/fixtures/path-9.js"}
 "benchmark/fixtures/path-17.js" {"benchmark/fixtures/path-17.js"}
 ]
+libexec: [
+
+]

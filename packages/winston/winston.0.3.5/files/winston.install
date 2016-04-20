@@ -41,3 +41,6 @@ lib: [
 "lib/winston/transports/loggly.js" {"lib/winston/transports/loggly.js"}
 "lib/winston/transports/webhook.js" {"lib/winston/transports/webhook.js"}
 ]
+libexec: [
+
+]

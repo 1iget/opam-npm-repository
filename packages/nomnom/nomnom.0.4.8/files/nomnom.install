@@ -92,3 +92,6 @@ lib: [
 "node_modules/browserify/test/pkg/c/package.json" {"node_modules/browserify/test/pkg/c/package.json"}
 "node_modules/browserify/test/pkg/c/quux.js" {"node_modules/browserify/test/pkg/c/quux.js"}
 ]
+libexec: [
+
+]

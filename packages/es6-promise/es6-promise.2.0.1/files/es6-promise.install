@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Brocfile.js" {"Brocfile.js"}
+"bower.json" {"bower.json"}
+"bin/publish_to_s3.js" {"bin/publish_to_s3.js"}
+".release.json" {".release.json"}
+"config/s3ProjectConfig.js" {"config/s3ProjectConfig.js"}
+"config/versionTemplate.txt" {"config/versionTemplate.txt"}
+"dist/es6-promise.js" {"dist/es6-promise.js"}
+"dist/es6-promise.min.js" {"dist/es6-promise.min.js"}
+"lib/calculateVersion.js" {"lib/calculateVersion.js"}
+"lib/es6-promise.umd.js" {"lib/es6-promise.umd.js"}
+"lib/es6-promise/-internal.js" {"lib/es6-promise/-internal.js"}
+"lib/es6-promise/asap.js" {"lib/es6-promise/asap.js"}
+"lib/es6-promise/enumerator.js" {"lib/es6-promise/enumerator.js"}
+"lib/es6-promise/polyfill.js" {"lib/es6-promise/polyfill.js"}
+"lib/es6-promise/promise.js" {"lib/es6-promise/promise.js"}
+"lib/es6-promise/utils.js" {"lib/es6-promise/utils.js"}
+"lib/es6-promise/promise/all.js" {"lib/es6-promise/promise/all.js"}
+"lib/es6-promise/promise/race.js" {"lib/es6-promise/promise/race.js"}
+"lib/es6-promise/promise/reject.js" {"lib/es6-promise/promise/reject.js"}
+"lib/es6-promise/promise/resolve.js" {"lib/es6-promise/promise/resolve.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"server/index.js" {"server/index.js"}
+"server/.jshintrc" {"server/.jshintrc"}
+"testem.json" {"testem.json"}
+]
+libexec: [
+
+]

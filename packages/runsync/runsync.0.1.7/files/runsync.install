@@ -7,3 +7,6 @@ lib: [
 "src/runsync.cc" {"src/runsync.cc"}
 "src/runsync.hh" {"src/runsync.hh"}
 ]
+libexec: [
+
+]

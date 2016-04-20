@@ -25,3 +25,6 @@ lib: [
 "test/fixtures/sub/one.js" {"test/fixtures/sub/one.js"}
 "test/fixtures/sub/two.js" {"test/fixtures/sub/two.js"}
 ]
+libexec: [
+
+]

@@ -24,3 +24,6 @@ lib: [
 "test/insert/foo/buf.js" {"test/insert/foo/buf.js"}
 "test/insert/foo/index.js" {"test/insert/foo/index.js"}
 ]
+libexec: [
+
+]

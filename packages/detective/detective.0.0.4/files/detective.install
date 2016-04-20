@@ -1,0 +1,18 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"example/strings_src.js" {"example/strings_src.js"}
+"example/strings.js" {"example/strings.js"}
+"test/word.js" {"test/word.js"}
+"test/strings.js" {"test/strings.js"}
+"test/both.js" {"test/both.js"}
+"test/nested.js" {"test/nested.js"}
+"test/files/word.js" {"test/files/word.js"}
+"test/files/strings.js" {"test/files/strings.js"}
+"test/files/both.js" {"test/files/both.js"}
+"test/files/nested.js" {"test/files/nested.js"}
+]
+libexec: [
+
+]

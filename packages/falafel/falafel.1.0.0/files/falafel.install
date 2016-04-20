@@ -13,3 +13,6 @@ lib: [
 "test/parent.js" {"test/parent.js"}
 "test/bin/run.js" {"test/bin/run.js"}
 ]
+libexec: [
+
+]

@@ -35,3 +35,6 @@ lib: [
 "shims.json" {"shims.json"}
 "es5-sham.map" {"es5-sham.map"}
 ]
+libexec: [
+
+]

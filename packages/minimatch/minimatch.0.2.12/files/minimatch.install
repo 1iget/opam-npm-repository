@@ -8,3 +8,6 @@ lib: [
 "test/caching.js" {"test/caching.js"}
 "test/defaults.js" {"test/defaults.js"}
 ]
+libexec: [
+
+]

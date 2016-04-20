@@ -13,7 +13,9 @@ depends: [
 "through2" {>="0.5.1" & <"0.6.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/deps-sort"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/deps-sort" ] 
+]
 

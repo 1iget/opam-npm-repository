@@ -8,7 +8,9 @@ dev-repo: "https://github.com/broofa/node-uuid.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/uuid %{bin}%/uuid"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/uuid" ] 
+]
 

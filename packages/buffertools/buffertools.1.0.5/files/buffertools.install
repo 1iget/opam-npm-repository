@@ -10,3 +10,6 @@ lib: [
 "wscript" {"wscript"}
 "buffertools.js" {"buffertools.js"}
 ]
+libexec: [
+
+]

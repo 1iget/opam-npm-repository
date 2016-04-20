@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".gitattributes" {".gitattributes"}
+"lib/index.js" {"lib/index.js"}
+"lib/pattern.js" {"lib/pattern.js"}
+"lib/strings.js" {"lib/strings.js"}
+"lib/middleware/dates.js" {"lib/middleware/dates.js"}
+"lib/middleware/index.js" {"lib/middleware/index.js"}
+"lib/middleware/paths.js" {"lib/middleware/paths.js"}
+"lib/middleware/urls.js" {"lib/middleware/urls.js"}
+"test/dates-test.js" {"test/dates-test.js"}
+"test/paths-test.js" {"test/paths-test.js"}
+"test/strings-test.js" {"test/strings-test.js"}
+"test/urls-test.js" {"test/urls-test.js"}
+"test/coverage/coverage.html" {"test/coverage/coverage.html"}
+"test/coverage/coverage.json" {"test/coverage/coverage.json"}
+"test/utils/index.js" {"test/utils/index.js"}
+]
+libexec: [
+
+]

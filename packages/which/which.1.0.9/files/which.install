@@ -3,5 +3,7 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "which.js" {"which.js"}
+]
+libexec: [
 "bin/which" {"bin/which"}
 ]

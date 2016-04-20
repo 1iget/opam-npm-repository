@@ -6,3 +6,6 @@ lib: [
 "component.json" {"component.json"}
 "lib/async.js" {"lib/async.js"}
 ]
+libexec: [
+
+]

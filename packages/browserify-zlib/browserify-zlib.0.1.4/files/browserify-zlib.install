@@ -21,3 +21,6 @@ lib: [
 "test/fixtures/empty.txt" {"test/fixtures/empty.txt"}
 "test/fixtures/person.jpg" {"test/fixtures/person.jpg"}
 ]
+libexec: [
+
+]

@@ -7,3 +7,6 @@ lib: [
 ".zuul.yml" {".zuul.yml"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

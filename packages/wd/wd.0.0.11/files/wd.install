@@ -1,6 +1,5 @@
 lib: [
 "lib/" {"lib/"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/main.js" {"lib/main.js"}
 "LICENSE.APACHE2" {"LICENSE.APACHE2"}
 "package.json" {"package.json"}
@@ -14,4 +13,7 @@ lib: [
 "test/test.ondemand.queue.js" {"test/test.ondemand.queue.js"}
 "test/test.ondemand.stew.js" {"test/test.ondemand.stew.js"}
 "test/test.simple.server.js" {"test/test.simple.server.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

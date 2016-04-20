@@ -15,3 +15,6 @@ lib: [
 "test/normalization.js" {"test/normalization.js"}
 "test/simple.js" {"test/simple.js"}
 ]
+libexec: [
+
+]

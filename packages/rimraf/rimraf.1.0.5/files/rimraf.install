@@ -1,0 +1,16 @@
+lib: [
+"AUTHORS" {"AUTHORS"}
+"fiber.js" {"fiber.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"rimraf.js" {"rimraf.js"}
+"test/run.sh" {"test/run.sh"}
+"test/setup.sh" {"test/setup.sh"}
+"test/test-async.js" {"test/test-async.js"}
+"test/test-fiber.js" {"test/test-fiber.js"}
+"test/test-sync.js" {"test/test-sync.js"}
+]
+libexec: [
+
+]

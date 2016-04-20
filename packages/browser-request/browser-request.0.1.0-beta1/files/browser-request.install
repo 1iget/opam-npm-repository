@@ -53,3 +53,6 @@ lib: [
 "template/browser_to_commonjs.js.erb" {"template/browser_to_commonjs.js.erb"}
 "template/commonjs_to_browser.js.erb" {"template/commonjs_to_browser.js.erb"}
 ]
+libexec: [
+
+]

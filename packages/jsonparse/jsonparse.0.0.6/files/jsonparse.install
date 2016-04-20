@@ -13,3 +13,6 @@ lib: [
 "test/primitives.js" {"test/primitives.js"}
 "test/utf8.js" {"test/utf8.js"}
 ]
+libexec: [
+
+]

@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "conf/eslint.json" {"conf/eslint.json"}
 ".travis.yml" {".travis.yml"}
-"bin/eslint.js" {"bin/eslint.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 ".gitattributes" {".gitattributes"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
@@ -115,4 +114,7 @@ lib: [
 "tests/lib/rules/camelcase.js" {"tests/lib/rules/camelcase.js"}
 "tests/lib/rules/use-isnan.js" {"tests/lib/rules/use-isnan.js"}
 "tests/lib/rules/no-fallthrough.js" {"tests/lib/rules/no-fallthrough.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

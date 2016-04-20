@@ -12,3 +12,6 @@ lib: [
 "bin/jshint" {"bin/jshint"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

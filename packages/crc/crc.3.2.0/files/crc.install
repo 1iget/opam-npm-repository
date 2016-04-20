@@ -16,3 +16,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/crc32.js" {"lib/crc32.js"}
 ]
+libexec: [
+
+]

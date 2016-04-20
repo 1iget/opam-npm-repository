@@ -49,3 +49,6 @@ lib: [
 "examples/throbber.js" {"examples/throbber.js"}
 "examples/xterm.js" {"examples/xterm.js"}
 ]
+libexec: [
+
+]

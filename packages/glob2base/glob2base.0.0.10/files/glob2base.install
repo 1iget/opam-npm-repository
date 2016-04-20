@@ -9,3 +9,6 @@ lib: [
 ".jshintrc" {".jshintrc"}
 "test/main.js" {"test/main.js"}
 ]
+libexec: [
+
+]

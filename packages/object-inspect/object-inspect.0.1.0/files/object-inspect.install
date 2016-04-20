@@ -7,3 +7,6 @@ lib: [
 "example/inspect.js" {"example/inspect.js"}
 "readme.markdown" {"readme.markdown"}
 ]
+libexec: [
+
+]

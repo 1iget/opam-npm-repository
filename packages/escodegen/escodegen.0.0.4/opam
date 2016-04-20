@@ -8,7 +8,9 @@ dev-repo: "git://github.com/Constellation/escodegen.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esgenerate.js %{bin}%/escodegen"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/escodegen" ] 
+]
 

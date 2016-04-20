@@ -66,3 +66,6 @@ lib: [
 "test/node_path/y/bbb/index.js" {"test/node_path/y/bbb/index.js"}
 "test/node_path/y/ccc/index.js" {"test/node_path/y/ccc/index.js"}
 ]
+libexec: [
+
+]

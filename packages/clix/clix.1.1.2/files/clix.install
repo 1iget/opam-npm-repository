@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bin/cli.js" {"bin/cli.js"}
+"changelog.md" {"changelog.md"}
+"lib/cli-launcher.js" {"lib/cli-launcher.js"}
+"lib/cli-options.js" {"lib/cli-options.js"}
+"lib/clix-console.js" {"lib/clix-console.js"}
+"lib/console.js" {"lib/console.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/bin/cli.js" {"specs/bin/cli.js"}
+"specs/lib/clix-console.js" {"specs/lib/clix-console.js"}
+".travis.yml" {".travis.yml"}
+"resources/demo.conf.js" {"resources/demo.conf.js"}
+"resources/expected/colored-output.txt" {"resources/expected/colored-output.txt"}
+"resources/expected/no-colored-output.txt" {"resources/expected/no-colored-output.txt"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]
+libexec: [
+
+]

@@ -3,6 +3,8 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "index.js" {"index.js"}
+]
+libexec: [
 "bin/win-line-endings" {"bin/win-line-endings"}
 "bin/win-spawn" {"bin/win-spawn"}
 ]

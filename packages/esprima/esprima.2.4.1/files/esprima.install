@@ -5,6 +5,8 @@ lib: [
 "unit-tests.js" {"unit-tests.js"}
 "ChangeLog" {"ChangeLog"}
 "LICENSE.BSD" {"LICENSE.BSD"}
+]
+libexec: [
 "bin/esparse.js" {"bin/esparse.js"}
 "bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

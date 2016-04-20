@@ -21,3 +21,6 @@ lib: [
 "test/test.core.html" {"test/test.core.html"}
 "test/templates/test.twig" {"test/templates/test.twig"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,56 @@
+
+Provides a Q promise API for HTTP requests and responses.  This should
+resemble JSGI and its hypothetical inverse, but I haven't pored
+through the specification to ensure this.
+
+The API
+
+    Server(respond(request):Response*)
+        listen(port:Number):Undefined*
+        stop():Undefined*
+
+    Client(port:Number, host:String)
+        request(request:Request):Response*
+
+    request(request:Request):Response*
+
+    Request:Object
+
+        version:Array HTTP version
+        scheme:String e.g., "http"
+        method:String e.g., "GET"
+        host:String
+        port:Number
+        remoteHost:String
+        remotePort:Number
+        scriptName:String the routed portion
+            of the path, e.g., "" for the
+            root document
+        pathInfo:String the part of the path
+            that remains to be routed, e.g.,
+            "/" for the root document
+        path:String the full path, regardless of routing
+        url:String the full URL, regardless of routing
+        headers:Object
+        body*
+            forEach(write(String*)):Undefined*
+        nodeRequest
+        nodeConnection
+
+    Response:Object
+
+        status:Number
+        headers:Object
+        body*
+            forEach(write(String*)):Undefined*
+        onClose:Function?
+
+Conventions
+
+    `*` indicates that a value may be a promise
+    `?` indicates optional
+    `||` indicates a default
+
+Copyright 2009, 2010 Kristopher Michael Kowal
+MIT License (enclosed)
+

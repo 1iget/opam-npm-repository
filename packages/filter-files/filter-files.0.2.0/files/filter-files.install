@@ -61,3 +61,6 @@ lib: [
 "test/helpers/normalize.js" {"test/helpers/normalize.js"}
 ".verbrc.md" {".verbrc.md"}
 ]
+libexec: [
+
+]

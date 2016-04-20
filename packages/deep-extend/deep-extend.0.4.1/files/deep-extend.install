@@ -6,3 +6,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "lib/deep-extend.js" {"lib/deep-extend.js"}
 ]
+libexec: [
+
+]

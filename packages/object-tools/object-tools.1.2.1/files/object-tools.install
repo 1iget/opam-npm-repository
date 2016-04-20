@@ -14,3 +14,6 @@ lib: [
 "test/where.js" {"test/where.js"}
 "test/without.js" {"test/without.js"}
 ]
+libexec: [
+
+]

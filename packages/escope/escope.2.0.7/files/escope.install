@@ -8,3 +8,6 @@ lib: [
 "bower.json" {"bower.json"}
 "third_party/espree.js" {"third_party/espree.js"}
 ]
+libexec: [
+
+]

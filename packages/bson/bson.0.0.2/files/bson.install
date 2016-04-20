@@ -27,3 +27,6 @@ lib: [
 "build/c4che/build.config.py" {"build/c4che/build.config.py"}
 "build/c4che/default.cache.py" {"build/c4che/default.cache.py"}
 ]
+libexec: [
+
+]

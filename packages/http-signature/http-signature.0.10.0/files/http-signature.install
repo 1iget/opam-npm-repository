@@ -11,3 +11,6 @@ lib: [
 "lib/util.js" {"lib/util.js"}
 "lib/verify.js" {"lib/verify.js"}
 ]
+libexec: [
+
+]

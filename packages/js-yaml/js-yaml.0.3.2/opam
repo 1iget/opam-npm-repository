@@ -8,7 +8,9 @@ dev-repo: "git://github.com/nodeca/js-yaml.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/js-yaml.js %{bin}%/jsyaml"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jsyaml" ] 
+]
 

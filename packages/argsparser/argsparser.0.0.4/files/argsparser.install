@@ -9,3 +9,6 @@ lib: [
 "test/test.js" {"test/test.js"}
 "lib/argsparser.js" {"lib/argsparser.js"}
 ]
+libexec: [
+
+]

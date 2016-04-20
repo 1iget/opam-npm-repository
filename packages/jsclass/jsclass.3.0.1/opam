@@ -9,7 +9,9 @@ depends: [
 "nopt" {="latest"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jsbuild %{bin}%/jsbuild"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jsbuild" ] 
+]
 

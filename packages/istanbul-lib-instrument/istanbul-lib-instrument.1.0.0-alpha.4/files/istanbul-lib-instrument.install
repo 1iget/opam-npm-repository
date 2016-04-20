@@ -16,3 +16,6 @@ lib: [
 "lib/vargen-browser.js" {"lib/vargen-browser.js"}
 "lib/vargen.js" {"lib/vargen.js"}
 ]
+libexec: [
+
+]

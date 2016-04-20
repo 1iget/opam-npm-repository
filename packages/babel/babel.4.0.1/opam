@@ -53,7 +53,9 @@ depends: [
 "useragent" {>="2.1.5" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/babel-external-helpers %{bin}%/babel-external-helpers"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/babel-external-helpers" ] 
+]
 

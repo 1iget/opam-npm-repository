@@ -9,3 +9,6 @@ lib: [
 "test/fast.js" {"test/fast.js"}
 "test/slow.js" {"test/slow.js"}
 ]
+libexec: [
+
+]

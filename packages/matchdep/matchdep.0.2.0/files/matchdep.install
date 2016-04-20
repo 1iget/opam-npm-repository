@@ -7,3 +7,6 @@ lib: [
 "LICENSE-MIT" {"LICENSE-MIT"}
 "lib/matchdep.js" {"lib/matchdep.js"}
 ]
+libexec: [
+
+]

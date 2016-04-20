@@ -12,3 +12,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 "test/string.test.coffee" {"test/string.test.coffee"}
 ]
+libexec: [
+
+]

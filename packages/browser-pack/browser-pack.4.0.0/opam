@@ -19,7 +19,9 @@ depends: [
 "umd" {>="3.0.0" & <"4.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/browser-pack"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/browser-pack" ] 
+]
 

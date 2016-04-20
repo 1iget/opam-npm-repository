@@ -7,3 +7,6 @@ lib: [
 "example/eq.js" {"example/eq.js"}
 "test/eq.js" {"test/eq.js"}
 ]
+libexec: [
+
+]

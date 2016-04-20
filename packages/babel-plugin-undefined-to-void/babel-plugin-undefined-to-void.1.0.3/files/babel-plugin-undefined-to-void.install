@@ -3,3 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "src/index.js" {"src/index.js"}
 ]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ dev-repo: "git://github.com/chjj/marked.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/marked %{bin}%/marked"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/marked" ] 
+]
 

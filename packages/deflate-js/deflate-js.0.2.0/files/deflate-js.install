@@ -189,3 +189,6 @@ lib: [
 "js/node_modules/bean/support/smoosh/examples/config_json/dist/secondary-0.0.1.js" {"js/node_modules/bean/support/smoosh/examples/config_json/dist/secondary-0.0.1.js"}
 "js/node_modules/bean/support/smoosh/examples/config_json/dist/base-0.0.1.min.js" {"js/node_modules/bean/support/smoosh/examples/config_json/dist/base-0.0.1.min.js"}
 ]
+libexec: [
+
+]

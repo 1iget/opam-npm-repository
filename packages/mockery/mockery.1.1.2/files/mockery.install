@@ -1,0 +1,17 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"LICENSE" {"LICENSE"}
+"mockery.js" {"mockery.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/fixtures/" {"test/fixtures/"}
+"test/fixtures/fake_module.js" {"test/fixtures/fake_module.js"}
+"test/fixtures/substitute_fake_module.js" {"test/fixtures/substitute_fake_module.js"}
+"test/mockery.functional.js" {"test/mockery.functional.js"}
+"test/run.js" {"test/run.js"}
+]
+libexec: [
+
+]

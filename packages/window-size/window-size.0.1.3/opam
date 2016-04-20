@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/jonschlinkert/window-size.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/window-size"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/window-size" ] 
+]
 

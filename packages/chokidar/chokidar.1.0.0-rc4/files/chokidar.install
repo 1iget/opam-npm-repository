@@ -5,3 +5,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/nodefs-handler.js" {"lib/nodefs-handler.js"}
 ]
+libexec: [
+
+]

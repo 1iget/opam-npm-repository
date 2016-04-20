@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/strings.js" {"example/strings.js"}
+"example/strings_src.js" {"example/strings_src.js"}
+"readme.markdown" {"readme.markdown"}
+"test/both.js" {"test/both.js"}
+"test/chained.js" {"test/chained.js"}
+"test/isrequire.js" {"test/isrequire.js"}
+"test/nested.js" {"test/nested.js"}
+"test/return.js" {"test/return.js"}
+"test/shebang.js" {"test/shebang.js"}
+"test/sparse-array.js" {"test/sparse-array.js"}
+"test/strings.js" {"test/strings.js"}
+"test/word.js" {"test/word.js"}
+"test/files/both.js" {"test/files/both.js"}
+"test/files/chained.js" {"test/files/chained.js"}
+"test/files/isrequire.js" {"test/files/isrequire.js"}
+"test/files/nested.js" {"test/files/nested.js"}
+"test/files/shebang.js" {"test/files/shebang.js"}
+"test/files/sparse-array.js" {"test/files/sparse-array.js"}
+"test/files/strings.js" {"test/files/strings.js"}
+"test/files/word.js" {"test/files/word.js"}
+]
+libexec: [
+
+]

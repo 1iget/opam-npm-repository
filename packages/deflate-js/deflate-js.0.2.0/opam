@@ -8,7 +8,9 @@ dev-repo: "git://github.com/beatgammit/js-deflate.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/runner.js %{bin}%/gzip-js"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gzip-js" ] 
+]
 

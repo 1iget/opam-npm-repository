@@ -29,3 +29,6 @@ lib: [
 "test/test-source-node.js" {"test/test-source-node.js"}
 "test/util.js" {"test/util.js"}
 ]
+libexec: [
+
+]

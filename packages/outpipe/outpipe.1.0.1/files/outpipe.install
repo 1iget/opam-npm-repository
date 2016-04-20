@@ -11,3 +11,6 @@ lib: [
 "test/cmd.js" {"test/cmd.js"}
 "test/outfile.js" {"test/outfile.js"}
 ]
+libexec: [
+
+]

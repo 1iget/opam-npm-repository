@@ -51,3 +51,6 @@ lib: [
 "tests/DomUtils/01-by_id.js" {"tests/DomUtils/01-by_id.js"}
 "tests/DomUtils/02-by_tagname.js" {"tests/DomUtils/02-by_tagname.js"}
 ]
+libexec: [
+
+]

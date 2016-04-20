@@ -71,3 +71,6 @@ lib: [
 "test/xml_sax_parser.js" {"test/xml_sax_parser.js"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

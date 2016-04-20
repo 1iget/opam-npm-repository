@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"lib/analyze.js" {"lib/analyze.js"}
+"lib/document.js" {"lib/document.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/stringify.js" {"lib/stringify.js"}
+"lib/unicode.js" {"lib/unicode.js"}
+"lib/utils.js" {"lib/utils.js"}
+"package.yaml" {"package.yaml"}
+]
+libexec: [
+
+]

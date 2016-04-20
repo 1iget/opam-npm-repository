@@ -7,3 +7,6 @@ lib: [
 "History.md" {"History.md"}
 "lib/eql.js" {"lib/eql.js"}
 ]
+libexec: [
+
+]

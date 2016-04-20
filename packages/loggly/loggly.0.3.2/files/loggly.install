@@ -39,3 +39,6 @@ lib: [
 "lib/loggly/._search.js" {"lib/loggly/._search.js"}
 "lib/loggly/search.js" {"lib/loggly/search.js"}
 ]
+libexec: [
+
+]

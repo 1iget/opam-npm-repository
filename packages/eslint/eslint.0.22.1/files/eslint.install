@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/eslint.js" {"bin/eslint.js"}
 "conf/environments.js" {"conf/environments.js"}
 "conf/eslint.json" {"conf/eslint.json"}
 "lib/api.js" {"lib/api.js"}
@@ -192,4 +191,7 @@ lib: [
 "lib/formatters/stylish.js" {"lib/formatters/stylish.js"}
 "lib/formatters/tap.js" {"lib/formatters/tap.js"}
 "lib/util/traverse.js" {"lib/util/traverse.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

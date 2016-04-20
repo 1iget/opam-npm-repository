@@ -3,7 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/runner.js" {"bin/runner.js"}
 ".idea/misc.xml" {".idea/misc.xml"}
 ".idea/.name" {".idea/.name"}
 ".idea/encodings.xml" {".idea/encodings.xml"}
@@ -28,4 +27,7 @@ lib: [
 "specs/chai.js" {"specs/chai.js"}
 "specs/sinon.js" {"specs/sinon.js"}
 "specs/bin/runner.js" {"specs/bin/runner.js"}
+]
+libexec: [
+"bin/runner.js" {"bin/runner.js"}
 ]

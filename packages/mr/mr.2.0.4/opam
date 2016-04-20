@@ -17,7 +17,9 @@ depends: [
 "istanbul" {>="0.1.34" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/mrs.js %{bin}%/mrs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mrs" ] 
+]
 

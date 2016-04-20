@@ -3,8 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "README" {"README"}
 "LICENSE" {"LICENSE"}
-"bin/cake" {"bin/cake"}
-"bin/coffee" {"bin/coffee"}
 "CNAME" {"CNAME"}
 "extras/jsl.conf" {"extras/jsl.conf"}
 "lib/coffee-script/browser.js" {"lib/coffee-script/browser.js"}
@@ -22,4 +20,8 @@ lib: [
 "lib/coffee-script/scope.js" {"lib/coffee-script/scope.js"}
 "lib/coffee-script/lexer.js" {"lib/coffee-script/lexer.js"}
 "Rakefile" {"Rakefile"}
+]
+libexec: [
+"bin/cake" {"bin/cake"}
+"bin/coffee" {"bin/coffee"}
 ]

@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"grunt.js" {"grunt.js"}
+"lib/glob.js" {"lib/glob.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/glob_test.js" {"test/glob_test.js"}
+"test/fixture/boot" {"test/fixture/boot"}
+"test/fixture/foo/bar/baz/boot" {"test/fixture/foo/bar/baz/boot"}
+"test/fixture/foo/bar/boot" {"test/fixture/foo/bar/boot"}
+"test/fixture/foo/boot" {"test/fixture/foo/boot"}
+]
+libexec: [
+
+]

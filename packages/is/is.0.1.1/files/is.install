@@ -1,0 +1,9 @@
+lib: [
+"is.js" {"is.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

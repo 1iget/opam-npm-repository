@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/test.conf" {"test/fixtures/test.conf"}
 "test/options.test.js" {"test/options.test.js"}
 ]
+libexec: [
+
+]

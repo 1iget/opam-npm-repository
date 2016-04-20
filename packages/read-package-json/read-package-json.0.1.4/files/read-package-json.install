@@ -6,3 +6,6 @@ lib: [
 "test/non-json.js" {"test/non-json.js"}
 "test/fixtures/not-json.css" {"test/fixtures/not-json.css"}
 ]
+libexec: [
+
+]

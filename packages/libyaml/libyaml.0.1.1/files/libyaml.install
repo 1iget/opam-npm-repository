@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"testutil.js" {"testutil.js"}
+"yaml.js" {"yaml.js"}
+"binding.cc" {"binding.cc"}
+"jsl.conf" {"jsl.conf"}
+".travis.yml" {".travis.yml"}
+"tests/api.js" {"tests/api.js"}
+"tests/sequences.js" {"tests/sequences.js"}
+"tests/booleans.js" {"tests/booleans.js"}
+"tests/null.js" {"tests/null.js"}
+"tests/datetime.js" {"tests/datetime.js"}
+"tests/maps.js" {"tests/maps.js"}
+"tests/documents.js" {"tests/documents.js"}
+"tests/integers.js" {"tests/integers.js"}
+"tests/badinput.js" {"tests/badinput.js"}
+"tests/floats.js" {"tests/floats.js"}
+"tests/floats.yaml" {"tests/floats.yaml"}
+"tests/documents.yaml" {"tests/documents.yaml"}
+"tests/integers.yaml" {"tests/integers.yaml"}
+"tests/datetime.yaml" {"tests/datetime.yaml"}
+"tests/maps.yaml" {"tests/maps.yaml"}
+"tests/booleans.yaml" {"tests/booleans.yaml"}
+"tests/null.yaml" {"tests/null.yaml"}
+"tests/badinput.yaml" {"tests/badinput.yaml"}
+"tests/sequences.yaml" {"tests/sequences.yaml"}
+"wscript" {"wscript"}
+]
+libexec: [
+
+]

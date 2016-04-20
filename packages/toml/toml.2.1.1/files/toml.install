@@ -23,3 +23,6 @@ lib: [
 "test/table_arrays_hard.toml" {"test/table_arrays_hard.toml"}
 "test/multiline_literal_strings.toml" {"test/multiline_literal_strings.toml"}
 ]
+libexec: [
+
+]

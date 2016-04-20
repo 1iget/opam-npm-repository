@@ -24,3 +24,6 @@ lib: [
 "test/fixtures-coffee/foo.coffee" {"test/fixtures-coffee/foo.coffee"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

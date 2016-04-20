@@ -6,3 +6,6 @@ lib: [
 "lib/utils.js" {"lib/utils.js"}
 "lib/registry.json" {"lib/registry.json"}
 ]
+libexec: [
+
+]

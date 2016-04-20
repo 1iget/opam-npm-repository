@@ -1,0 +1,13 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/serialize.js" {"test/serialize.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,19 @@
+lib: [
+".gitmodules" {".gitmodules"}
+".npmignore" {".npmignore"}
+"examples/" {"examples/"}
+"examples/missingcause.js" {"examples/missingcause.js"}
+"examples/simple.js" {"examples/simple.js"}
+"jsl.node.conf" {"jsl.node.conf"}
+"lib/" {"lib/"}
+"lib/verror.js" {"lib/verror.js"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"Makefile.deps" {"Makefile.deps"}
+"Makefile.targ" {"Makefile.targ"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

@@ -4,3 +4,6 @@ lib: [
 "read-installed.js" {"read-installed.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

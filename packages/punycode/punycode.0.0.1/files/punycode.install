@@ -4,3 +4,6 @@ lib: [
 "punycode.js" {"punycode.js"}
 "README" {"README"}
 ]
+libexec: [
+
+]

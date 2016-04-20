@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"examples/pretty.js" {"examples/pretty.js"}
+"readme.markdown" {"readme.markdown"}
+"test/partitioned_unicode.js" {"test/partitioned_unicode.js"}
+"test/split.asynct.js" {"test/split.asynct.js"}
+"test/try_catch.asynct.js" {"test/try_catch.asynct.js"}
+]
+libexec: [
+
+]

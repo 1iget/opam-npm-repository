@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"lib/esrefactor.js" {"lib/esrefactor.js"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"test/run.js" {"test/run.js"}
+"test/data/arguments1.js" {"test/data/arguments1.js"}
+"test/data/error_nocode.js" {"test/data/error_nocode.js"}
+"test/data/error_noscope.js" {"test/data/error_noscope.js"}
+"test/data/error_scope_manager.js" {"test/data/error_scope_manager.js"}
+"test/data/error_invalid_range.js" {"test/data/error_invalid_range.js"}
+"test/data/function_expression.js" {"test/data/function_expression.js"}
+"test/data/global_declaration.js" {"test/data/global_declaration.js"}
+"test/data/global_init.js" {"test/data/global_init.js"}
+"test/data/global_leak.js" {"test/data/global_leak.js"}
+"test/data/global_scope.js" {"test/data/global_scope.js"}
+"test/data/error_empty.js" {"test/data/error_empty.js"}
+"test/data/nested_functions.js" {"test/data/nested_functions.js"}
+"test/data/arguments4.js" {"test/data/arguments4.js"}
+"test/data/shadowed_argument.js" {"test/data/shadowed_argument.js"}
+"test/data/arguments3.js" {"test/data/arguments3.js"}
+"test/data/typo.js" {"test/data/typo.js"}
+"test/data/arguments2.js" {"test/data/arguments2.js"}
+"test/data/unused_declaration.js" {"test/data/unused_declaration.js"}
+"test/data/function_declaration.js" {"test/data/function_declaration.js"}
+]
+libexec: [
+
+]

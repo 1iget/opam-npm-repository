@@ -15,7 +15,9 @@ depends: [
 "commander" {>="1.1.0" & <"1.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/nodefy %{bin}%/nodefy"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/nodefy" ] 
+]
 

@@ -20,3 +20,6 @@ lib: [
 "test/source-maps.js" {"test/source-maps.js"}
 "test/this.js" {"test/this.js"}
 ]
+libexec: [
+
+]

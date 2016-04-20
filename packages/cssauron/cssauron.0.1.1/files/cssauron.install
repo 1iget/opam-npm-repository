@@ -6,3 +6,6 @@ lib: [
 "tokenizer.js" {"tokenizer.js"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"es6-shim.js" {"es6-shim.js"}
+".jepso-ci.json" {".jepso-ci.json"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"Makefile" {"Makefile"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+"test/array.js" {"test/array.js"}
+"test/browser-onload.js" {"test/browser-onload.js"}
+"test/browser-setup.js" {"test/browser-setup.js"}
+"test/collections.js" {"test/collections.js"}
+"test/math.js" {"test/math.js"}
+"test/number.js" {"test/number.js"}
+"test/object.js" {"test/object.js"}
+"test/string.js" {"test/string.js"}
+"test/test_helpers.js" {"test/test_helpers.js"}
+"test/index.html" {"test/index.html"}
+]
+libexec: [
+
+]

@@ -45,3 +45,6 @@ lib: [
 "test/wildcardEvents/ee2_basicEvents.js" {"test/wildcardEvents/ee2_basicEvents.js"}
 "test/vendor/nodeunit/nodeunit.js" {"test/vendor/nodeunit/nodeunit.js"}
 ]
+libexec: [
+
+]

@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/change.txt" {"test/fixtures/change.txt"}
 "test/fixtures/unlink.txt" {"test/fixtures/unlink.txt"}
 ]
+libexec: [
+
+]

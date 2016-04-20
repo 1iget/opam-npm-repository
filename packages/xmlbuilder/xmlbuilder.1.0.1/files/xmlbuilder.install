@@ -9,3 +9,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "1.coffee" {"1.coffee"}
 ]
+libexec: [
+
+]

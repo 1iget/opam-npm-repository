@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "Gruntfile.js" {"Gruntfile.js"}
-"bin/jasmine.js" {"bin/jasmine.js"}
 ".travis.yml" {".travis.yml"}
 ".idea/.name" {".idea/.name"}
 ".idea/encodings.xml" {".idea/encodings.xml"}
@@ -21,4 +20,7 @@ lib: [
 "release_notes/2.1.0.md" {"release_notes/2.1.0.md"}
 "release_notes/2.1.1.md" {"release_notes/2.1.1.md"}
 "tasks/jasmine.js" {"tasks/jasmine.js"}
+]
+libexec: [
+"bin/jasmine.js" {"bin/jasmine.js"}
 ]

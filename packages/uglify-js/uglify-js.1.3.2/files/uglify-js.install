@@ -1,7 +1,6 @@
 lib: [
 "docstyle.css" {"docstyle.css"}
 "bin/" {"bin/"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "README.html" {"README.html"}
 ".npmignore" {".npmignore"}
 "test/" {"test/"}
@@ -121,4 +120,7 @@ lib: [
 "tmp/hoist.js" {"tmp/hoist.js"}
 "tmp/test.js" {"tmp/test.js"}
 "tmp/instrument.js" {"tmp/instrument.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

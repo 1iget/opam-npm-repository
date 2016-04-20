@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"graceful-fs.js" {"graceful-fs.js"}
+"test/open.js" {"test/open.js"}
+"test/ulimit.js" {"test/ulimit.js"}
+]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ dev-repo: "git://github.com/Gozala/graphquire.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/graphquire.js %{bin}%/graphquire"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/graphquire" ] 
+]
 

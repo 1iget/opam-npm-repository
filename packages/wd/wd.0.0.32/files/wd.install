@@ -57,7 +57,6 @@ lib: [
 "examples/example.ondemand.ie.js" {"examples/example.ondemand.ie.js"}
 "examples/example.ondemand.js" {"examples/example.ondemand.js"}
 "examples/example.promise.chrome.js" {"examples/example.promise.chrome.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
 "lib/main.js" {"lib/main.js"}
@@ -69,4 +68,7 @@ lib: [
 "browser-scripts/safe-execute-async.js" {"browser-scripts/safe-execute-async.js"}
 "browser-scripts/safe-execute.js" {"browser-scripts/safe-execute.js"}
 "browser-scripts/wait-for-cond-in-browser.js" {"browser-scripts/wait-for-cond-in-browser.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

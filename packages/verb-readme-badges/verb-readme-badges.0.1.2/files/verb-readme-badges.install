@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"templates/fury.md" {"templates/fury.md"}
+"templates/codeclimate.md" {"templates/codeclimate.md"}
+"templates/coveralls.md" {"templates/coveralls.md"}
+"templates/david-dev.md" {"templates/david-dev.md"}
+"templates/david.md" {"templates/david.md"}
+"templates/drone.md" {"templates/drone.md"}
+"templates/coderwall.md" {"templates/coderwall.md"}
+"templates/grunt.md" {"templates/grunt.md"}
+"templates/npm.md" {"templates/npm.md"}
+"templates/standard-shieldsio.md" {"templates/standard-shieldsio.md"}
+"templates/standard.md" {"templates/standard.md"}
+"templates/travis.md" {"templates/travis.md"}
+]
+libexec: [
+
+]

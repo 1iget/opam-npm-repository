@@ -21,7 +21,9 @@ depends: [
 "difflet" {="0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/tap.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

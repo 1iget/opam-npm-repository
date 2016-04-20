@@ -7,3 +7,6 @@ lib: [
 "test/random-string-test.js" {"test/random-string-test.js"}
 "test/utile-test.js" {"test/utile-test.js"}
 ]
+libexec: [
+
+]

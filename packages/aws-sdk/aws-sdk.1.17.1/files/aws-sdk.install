@@ -368,3 +368,6 @@ lib: [
 "test/xml/parser.spec.coffee" {"test/xml/parser.spec.coffee"}
 "configuration.sample" {"configuration.sample"}
 ]
+libexec: [
+
+]

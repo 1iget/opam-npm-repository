@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"sha.js" {"sha.js"}
+"rng.js" {"rng.js"}
+"index.js" {"index.js"}
+"test/simple.js" {"test/simple.js"}
+"readme.markdown" {"readme.markdown"}
+"example/bundle.js" {"example/bundle.js"}
+"example/test.js" {"example/test.js"}
+"example/index.html" {"example/index.html"}
+]
+libexec: [
+
+]

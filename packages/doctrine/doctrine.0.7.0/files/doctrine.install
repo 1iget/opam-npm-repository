@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.closure-compiler" {"LICENSE.closure-compiler"}
+"LICENSE.esprima" {"LICENSE.esprima"}
+"lib/doctrine.js" {"lib/doctrine.js"}
+"lib/typed.js" {"lib/typed.js"}
+"lib/utility.js" {"lib/utility.js"}
+]
+libexec: [
+
+]

@@ -5,3 +5,6 @@ lib: [
 "proto-list.js" {"proto-list.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

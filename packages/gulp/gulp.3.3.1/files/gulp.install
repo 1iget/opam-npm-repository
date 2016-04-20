@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/gulp.js" {"bin/gulp.js"}
 ".travis.yml" {".travis.yml"}
 "docs/README.md" {"docs/README.md"}
 "docs/API.md" {"docs/API.md"}
@@ -44,4 +43,7 @@ lib: [
 "completion/README.md" {"completion/README.md"}
 "completion/bash" {"completion/bash"}
 "completion/zsh" {"completion/zsh"}
+]
+libexec: [
+"bin/gulp.js" {"bin/gulp.js"}
 ]

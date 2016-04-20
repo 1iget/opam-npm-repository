@@ -12,6 +12,6 @@ lib: [
 "raw/underscore.psd" {"raw/underscore.psd"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ]
-bin: [
+libexec: [
 
 ]

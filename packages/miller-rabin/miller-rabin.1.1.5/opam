@@ -6,7 +6,7 @@ author: "indutny <fedor@indutny.com>"
 license: "MIT"
 dev-repo: "git@github.com:indutny/miller-rabin"
 depends: [
-"bn.js" {>="1.0.0" & <"2.0.0"}
+"bn_js" {>="1.0.0" & <"2.0.0"}
 
 "brorand" {>="1.0.1" & <"2.0.0"}
 

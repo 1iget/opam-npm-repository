@@ -75,3 +75,6 @@ lib: [
 "node_modules/nodeunit/test/fixtures/dir/mock_module3.js" {"node_modules/nodeunit/test/fixtures/dir/mock_module3.js"}
 "node_modules/nodeunit/test/fixtures/dir/mock_module4.js" {"node_modules/nodeunit/test/fixtures/dir/mock_module4.js"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "test/validate-bench.js" {"test/validate-bench.js"}
 "test/validate.js" {"test/validate.js"}
 ]
+libexec: [
+
+]

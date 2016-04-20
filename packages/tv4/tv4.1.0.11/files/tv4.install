@@ -7,3 +7,6 @@ lib: [
 "build/build.js" {"build/build.js"}
 "lang/de.js" {"lang/de.js"}
 ]
+libexec: [
+
+]

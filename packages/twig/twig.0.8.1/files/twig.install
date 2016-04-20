@@ -26,7 +26,6 @@ lib: [
 "docs/wiki/Extending-twig.js.md" {"docs/wiki/Extending-twig.js.md"}
 "docs/wiki/Home.md" {"docs/wiki/Home.md"}
 "docs/wiki/Implementation-Notes.md" {"docs/wiki/Implementation-Notes.md"}
-"bin/twigjs" {"bin/twigjs"}
 "bower.json" {"bower.json"}
 ".gitmodules" {".gitmodules"}
 "lib/compile.js" {"lib/compile.js"}
@@ -36,4 +35,7 @@ lib: [
 "test-ext/checkout.sh" {"test-ext/checkout.sh"}
 ".travis.yml" {".travis.yml"}
 "twig.min.js.map" {"twig.min.js.map"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

@@ -23,7 +23,9 @@ depends: [
 "yargs" {>="3.8.0" & <"4.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/nyc-report.js %{bin}%/nyc-report"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/nyc-report" ] 
+]
 

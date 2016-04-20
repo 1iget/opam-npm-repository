@@ -15,7 +15,9 @@ depends: [
 "ini" {>="1.3.0" & <"1.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./index.js %{bin}%/rc"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/rc" ] 
+]
 

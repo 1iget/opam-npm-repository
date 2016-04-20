@@ -24,7 +24,6 @@ lib: [
 "lib/default_stream.js" {"lib/default_stream.js"}
 "lib/results.js" {"lib/results.js"}
 "lib/test.js" {"lib/test.js"}
-"bin/tape" {"bin/tape"}
 "readme.markdown" {"readme.markdown"}
 "test/add-subtest-async.js" {"test/add-subtest-async.js"}
 "test/exit.js" {"test/exit.js"}
@@ -60,4 +59,7 @@ lib: [
 "test/exit/too_few.js" {"test/exit/too_few.js"}
 "test/double_end/double.js" {"test/double_end/double.js"}
 "test/browser/asserts.js" {"test/browser/asserts.js"}
+]
+libexec: [
+"bin/tape" {"bin/tape"}
 ]

@@ -57,3 +57,6 @@ lib: [
 "tests/Stream/01-basic.js" {"tests/Stream/01-basic.js"}
 "tests/Stream/02-RSS.js" {"tests/Stream/02-RSS.js"}
 ]
+libexec: [
+
+]

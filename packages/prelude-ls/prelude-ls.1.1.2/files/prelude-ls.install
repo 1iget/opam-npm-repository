@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/Func.js" {"lib/Func.js"}
+"lib/List.js" {"lib/List.js"}
+"lib/Num.js" {"lib/Num.js"}
+"lib/Obj.js" {"lib/Obj.js"}
+"lib/Str.js" {"lib/Str.js"}
+"lib/index.js" {"lib/index.js"}
+]
+libexec: [
+
+]

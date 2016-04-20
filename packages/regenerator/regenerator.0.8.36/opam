@@ -19,7 +19,9 @@ depends: [
 "through" {>="2.3.6" & <"2.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/regenerator %{bin}%/regenerator"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/regenerator" ] 
+]
 

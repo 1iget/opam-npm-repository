@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"cmd.js" {"cmd.js"}
+"example/deps.js" {"example/deps.js"}
+"example/files/bar.js" {"example/files/bar.js"}
+"example/files/foo.js" {"example/files/foo.js"}
+"example/files/xyz.js" {"example/files/xyz.js"}
+"example/files/main.js" {"example/files/main.js"}
+"readme.markdown" {"readme.markdown"}
+"test/bundle.js" {"test/bundle.js"}
+"test/deps.js" {"test/deps.js"}
+"test/files/bar.js" {"test/files/bar.js"}
+"test/files/foo.js" {"test/files/foo.js"}
+"test/files/xyz.js" {"test/files/xyz.js"}
+"test/files/main.js" {"test/files/main.js"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

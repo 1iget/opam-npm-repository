@@ -21,3 +21,6 @@ lib: [
 "test/expected/template-object.js" {"test/expected/template-object.js"}
 "test/fixtures/delims.md" {"test/fixtures/delims.md"}
 ]
+libexec: [
+
+]

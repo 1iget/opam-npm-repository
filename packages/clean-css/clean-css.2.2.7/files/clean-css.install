@@ -4,7 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "History.md" {"History.md"}
-"bin/cleancss" {"bin/cleancss"}
 "lib/clean.js" {"lib/clean.js"}
 "lib/colors/hsl-to-hex.js" {"lib/colors/hsl-to-hex.js"}
 "lib/colors/long-to-short-hex.js" {"lib/colors/long-to-short-hex.js"}
@@ -31,4 +30,7 @@ lib: [
 "lib/text/name-quotes.js" {"lib/text/name-quotes.js"}
 "lib/text/quote-scanner.js" {"lib/text/quote-scanner.js"}
 "lib/text/urls.js" {"lib/text/urls.js"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

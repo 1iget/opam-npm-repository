@@ -45,7 +45,9 @@ depends: [
 "tmatch" {>="1.0.2" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/run.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

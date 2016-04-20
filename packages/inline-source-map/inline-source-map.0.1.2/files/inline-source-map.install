@@ -8,3 +8,6 @@ lib: [
 "example/foo-bar.js" {"example/foo-bar.js"}
 "test/inline-source-map.js" {"test/inline-source-map.js"}
 ]
+libexec: [
+
+]

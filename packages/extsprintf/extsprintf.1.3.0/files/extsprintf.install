@@ -9,3 +9,6 @@ lib: [
 "jsl.node.conf" {"jsl.node.conf"}
 "lib/extsprintf.js" {"lib/extsprintf.js"}
 ]
+libexec: [
+
+]

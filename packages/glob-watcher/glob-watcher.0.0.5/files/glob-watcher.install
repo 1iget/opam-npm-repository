@@ -8,3 +8,6 @@ lib: [
 "test/main.js" {"test/main.js"}
 "test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
 ]
+libexec: [
+
+]

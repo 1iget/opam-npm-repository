@@ -19,3 +19,6 @@ lib: [
 "tools/domprops.json" {"tools/domprops.json"}
 "tools/props.html" {"tools/props.html"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "lib/spinner.js" {"lib/spinner.js"}
 "lib/terminal.js" {"lib/terminal.js"}
 ]
+libexec: [
+
+]

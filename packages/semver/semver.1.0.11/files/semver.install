@@ -1,0 +1,10 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"semver.js" {"semver.js"}
+"test.js" {"test.js"}
+]
+libexec: [
+"bin/semver" {"bin/semver"}
+]

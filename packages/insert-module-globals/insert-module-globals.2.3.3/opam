@@ -25,7 +25,9 @@ depends: [
 "browserify" {>="3.24.1" & <"3.25.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/insert-module-globals"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/insert-module-globals" ] 
+]
 

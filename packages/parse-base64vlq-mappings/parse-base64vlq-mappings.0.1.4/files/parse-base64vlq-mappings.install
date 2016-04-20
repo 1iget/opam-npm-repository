@@ -11,3 +11,6 @@ lib: [
 "MOZILLA_LICENSE" {"MOZILLA_LICENSE"}
 "test/parse-base64vlq-mappings.js" {"test/parse-base64vlq-mappings.js"}
 ]
+libexec: [
+
+]

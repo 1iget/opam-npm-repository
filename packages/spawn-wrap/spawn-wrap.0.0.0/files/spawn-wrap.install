@@ -7,3 +7,6 @@ lib: [
 "wrap-main.js" {"wrap-main.js"}
 "scripts/argv.js" {"scripts/argv.js"}
 ]
+libexec: [
+
+]

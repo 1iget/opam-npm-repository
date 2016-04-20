@@ -2,5 +2,7 @@ lib: [
 ".npmignore" {".npmignore"}
 "package.json" {"package.json"}
 "require.js" {"require.js"}
+]
+libexec: [
 "bin/r.js" {"bin/r.js"}
 ]

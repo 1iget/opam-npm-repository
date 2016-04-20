@@ -1,0 +1,133 @@
+# Node Tar
+
+Evented reading and writing of tar format archives.
+
+## Synopsis
+
+The reader a tar archive and emits events.
+
+```javascript
+var tar = require("./lib/tar"),
+    fs  = require("fs");
+
+
+function cat(tarfile, filename) {
+  var body,
+      bodyOffset  = 0,
+      found       = false,
+      reader      = new tar.Reader();
+  reader.on("header", function (header) {
+    if (header.filename == filename) {
+      found = true;
+      body = new Buffer(header.size);
+    }
+  });
+  reader.on("data", function (header, chunk, offset, length) {
+    if (header.filename == filename) {
+      chunk.copy(body, bodyOffset, offset, offset + length);
+    }
+  });
+  reader.on("footer", function (header) {
+    if (header.filename == filename) {
+      console.log(body.toString());
+    }
+  });
+  reader.on("end", function () {
+    if (!found) {
+      console.log("Could not find " + filename + " in " + tarfile + ".");
+    }
+  });
+  fs.readFile(tarfile, function (error, buffer) {
+    reader.read(buffer, 0, buffer.length);
+  });
+}
+
+cat("hello.tar", "hello/hello.txt");
+```
+
+namespace: tar
+
+Node Tar exports the reader and writer classes in its exports.
+
+```javascript
+var tar = require("tar");
+```
+
+class: Reader
+
+Parses a tar file that is fed to it through its `Buffer` based `read` method, or
+alternatively through its file based `readFile` method.
+
+```javascript
+// Import the tar library.
+var tar = require("tar");
+
+// Create a new tar reader.
+var reader = new tar.Reader();
+```
+
+function: read
+  
+  parameter: buffer
+
+  The buffer to read.
+
+  parameter: offset optional
+
+  The offset of the range of bytes to read in the buffer. This parameter is
+  optional and the default value is `0`.
+
+  parameter: length optional
+
+  The length of the range of bytes to read in the buffer. This parameter is
+  optional and  default value is `buffer.length`.
+
+Use the `read` method to feed a tar file to the tar reader in chunks. This is
+useful for processing tar files as they are uploaded and decompressed.
+
+event: header
+
+  parameter: header
+
+  An object containing the tar header. **Show the fields.**
+
+Called when a file header is encountered in the tar archive. The callback
+provides the header data as a JSON object.
+
+event: data
+
+  parameter: header
+
+  An object containing the tar header. **Show the fields.**
+
+  parameter: buffer
+
+  The buffer containing the file data.
+
+  parameter: offset
+
+  The offset of the range of bytes of the file chunk in the buffer.
+
+  parameter: length
+
+  The length of the range of bytes of the file chunk in the buffer.
+
+Called when data for a tar file entey is read from the tar file.
+
+The `buffer` is the same buffer that is passed to `read`, and the `offset` and
+`length` indicate the region in the buffer that conatins the next chunk of file
+data. This is efficent because the tar reader is merely locating the file in the
+buffer you give it, instead of creating a copy.
+
+event: footer
+
+  parameter: header
+
+  An object containing the tar header. **Show the fields.**
+
+Called after a file has been read from the tar archive. The callback provides
+the header data as a JSON object.
+
+event: end
+
+Called when the end of the tar archive is reached.

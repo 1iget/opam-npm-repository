@@ -10,3 +10,6 @@ lib: [
 "test/quote.js" {"test/quote.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

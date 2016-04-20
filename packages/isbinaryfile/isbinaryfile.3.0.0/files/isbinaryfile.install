@@ -30,3 +30,6 @@ lib: [
 "test/fixtures/russian_file.rst" {"test/fixtures/russian_file.rst"}
 "test/fixtures/trunks.gif" {"test/fixtures/trunks.gif"}
 ]
+libexec: [
+
+]

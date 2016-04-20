@@ -6,3 +6,6 @@ lib: [
 "test.js" {"test.js"}
 "upper-case-first.js" {"upper-case-first.js"}
 ]
+libexec: [
+
+]

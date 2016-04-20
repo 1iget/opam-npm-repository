@@ -29,7 +29,9 @@ depends: [
 "underscore" {>="1.8.2" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/runner.js %{bin}%/mocha-runner"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mocha-runner" ] 
+]
 

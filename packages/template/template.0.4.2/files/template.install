@@ -1,0 +1,41 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"verbfile.js" {"verbfile.js"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+"lib/camelize.js" {"lib/camelize.js"}
+"lib/debug.js" {"lib/debug.js"}
+"lib/has-own.js" {"lib/has-own.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/validation.js" {"lib/validation.js"}
+"lib/loaders/index.js" {"lib/loaders/index.js"}
+"lib/middleware/init.js" {"lib/middleware/init.js"}
+".travis.yml" {".travis.yml"}
+"recipes/template-as-a-loader/README.md" {"recipes/template-as-a-loader/README.md"}
+"recipes/template-as-a-loader/index.js" {"recipes/template-as-a-loader/index.js"}
+"recipes/template-as-a-loader/api-docs.md" {"recipes/template-as-a-loader/api-docs.md"}
+"coverage/coverage.json" {"coverage/coverage.json"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov-report/template/index.html" {"coverage/lcov-report/template/index.html"}
+"coverage/lcov-report/template/index.js.html" {"coverage/lcov-report/template/index.js.html"}
+"coverage/lcov-report/template/lib/camelize.js.html" {"coverage/lcov-report/template/lib/camelize.js.html"}
+"coverage/lcov-report/template/lib/debug.js.html" {"coverage/lcov-report/template/lib/debug.js.html"}
+"coverage/lcov-report/template/lib/has-own.js.html" {"coverage/lcov-report/template/lib/has-own.js.html"}
+"coverage/lcov-report/template/lib/index.html" {"coverage/lcov-report/template/lib/index.html"}
+"coverage/lcov-report/template/lib/index.js.html" {"coverage/lcov-report/template/lib/index.js.html"}
+"coverage/lcov-report/template/lib/is-object.js.html" {"coverage/lcov-report/template/lib/is-object.js.html"}
+"coverage/lcov-report/template/lib/loaders/index.html" {"coverage/lcov-report/template/lib/loaders/index.html"}
+"coverage/lcov-report/template/lib/loaders/index.js.html" {"coverage/lcov-report/template/lib/loaders/index.js.html"}
+"coverage/lcov-report/template/lib/middleware/index.html" {"coverage/lcov-report/template/lib/middleware/index.html"}
+"coverage/lcov-report/template/lib/middleware/init.js.html" {"coverage/lcov-report/template/lib/middleware/init.js.html"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+]
+libexec: [
+
+]

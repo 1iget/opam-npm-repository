@@ -29,7 +29,6 @@ lib: [
 "docs/wiki/Home.md" {"docs/wiki/Home.md"}
 "docs/wiki/Implementation-Notes.md" {"docs/wiki/Implementation-Notes.md"}
 ".travis.yml" {".travis.yml"}
-"bin/twigjs" {"bin/twigjs"}
 "bower.json" {"bower.json"}
 ".gitmodules" {".gitmodules"}
 "index.html" {"index.html"}
@@ -40,4 +39,7 @@ lib: [
 "test-ext/checkout.sh" {"test-ext/checkout.sh"}
 "Makefile" {"Makefile"}
 "twig.min.js.map" {"twig.min.js.map"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

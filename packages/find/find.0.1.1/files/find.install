@@ -7,3 +7,6 @@ lib: [
 "lib/chain.js" {"lib/chain.js"}
 "lib/find.js" {"lib/find.js"}
 ]
+libexec: [
+
+]

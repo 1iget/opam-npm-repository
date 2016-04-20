@@ -16,3 +16,6 @@ lib: [
 "text.xml" {"text.xml"}
 "incompat.coffee" {"incompat.coffee"}
 ]
+libexec: [
+
+]

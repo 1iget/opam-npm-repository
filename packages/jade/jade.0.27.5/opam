@@ -11,7 +11,9 @@ depends: [
 "mkdirp" {>="0.3.0" & <"0.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jade %{bin}%/jade"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jade" ] 
+]
 

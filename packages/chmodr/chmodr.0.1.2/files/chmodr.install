@@ -9,3 +9,6 @@ lib: [
 "test/symlink.js" {"test/symlink.js"}
 "test/sync.js" {"test/sync.js"}
 ]
+libexec: [
+
+]

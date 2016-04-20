@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"autolint.js" {"autolint.js"}
+".travis.yml" {".travis.yml"}
+"AUTHORS" {"AUTHORS"}
+"Readme.md" {"Readme.md"}
+"jsTestDriver.conf" {"jsTestDriver.conf"}
+"lib/samsam.js" {"lib/samsam.js"}
+"test/samsam-test.js" {"test/samsam-test.js"}
+]
+libexec: [
+
+]

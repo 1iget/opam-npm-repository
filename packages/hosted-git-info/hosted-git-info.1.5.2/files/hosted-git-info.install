@@ -12,3 +12,6 @@ lib: [
 "test/gitlab.js" {"test/gitlab.js"}
 "test/lib/standard-tests.js" {"test/lib/standard-tests.js"}
 ]
+libexec: [
+
+]

@@ -56,3 +56,6 @@ lib: [
 "test/Stream/04-RDF.json" {"test/Stream/04-RDF.json"}
 "test/Stream/05-Attributes.json" {"test/Stream/05-Attributes.json"}
 ]
+libexec: [
+
+]

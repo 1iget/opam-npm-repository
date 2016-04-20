@@ -30,3 +30,6 @@ lib: [
 "test/ietf_data/dates/examples.json" {"test/ietf_data/dates/examples.json"}
 "test/ietf_data/parser.json" {"test/ietf_data/parser.json"}
 ]
+libexec: [
+
+]

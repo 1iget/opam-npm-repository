@@ -21,3 +21,6 @@ lib: [
 "test/keep-sync.js" {"test/keep-sync.js"}
 "test/symlinkme/file.js" {"test/symlinkme/file.js"}
 ]
+libexec: [
+
+]

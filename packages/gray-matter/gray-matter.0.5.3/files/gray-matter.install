@@ -56,3 +56,6 @@ lib: [
 "test/fixtures/to-json.md" {"test/fixtures/to-json.md"}
 "test/fixtures/to-yaml.md" {"test/fixtures/to-yaml.md"}
 ]
+libexec: [
+
+]

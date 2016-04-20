@@ -1,0 +1,10 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"test/nub.js" {"test/nub.js"}
+"test/by.js" {"test/by.js"}
+]
+libexec: [
+
+]

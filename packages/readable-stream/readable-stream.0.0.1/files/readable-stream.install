@@ -10,3 +10,6 @@ lib: [
 "test/fs.js" {"test/fs.js"}
 "test/fixtures/x1024.txt" {"test/fixtures/x1024.txt"}
 ]
+libexec: [
+
+]

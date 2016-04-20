@@ -9,3 +9,6 @@ lib: [
 "dist/maps/emitter.js.map" {"dist/maps/emitter.js.map"}
 "src/emitter.js" {"src/emitter.js"}
 ]
+libexec: [
+
+]

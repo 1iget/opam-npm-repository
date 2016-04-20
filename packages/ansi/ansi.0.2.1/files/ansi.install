@@ -4,10 +4,12 @@ lib: [
 "README.md" {"README.md"}
 "color-spaces.pl" {"color-spaces.pl"}
 "examples/cursorPosition.js" {"examples/cursorPosition.js"}
-"examples/starwars.js" {"examples/starwars.js"}
-"examples/beep/index.js" {"examples/beep/index.js"}
-"examples/clear/index.js" {"examples/clear/index.js"}
 "examples/progress/index.js" {"examples/progress/index.js"}
 "lib/ansi.js" {"lib/ansi.js"}
 "lib/newlines.js" {"lib/newlines.js"}
+]
+libexec: [
+"examples/starwars.js" {"examples/starwars.js"}
+"examples/beep/index.js" {"examples/beep/index.js"}
+"examples/clear/index.js" {"examples/clear/index.js"}
 ]

@@ -21,3 +21,6 @@ lib: [
 "test/fixtures/delims.md" {"test/fixtures/delims.md"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

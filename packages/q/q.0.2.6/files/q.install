@@ -40,3 +40,6 @@ lib: [
 "q/examples/then2.js" {"q/examples/then2.js"}
 "q/examples/then3.js" {"q/examples/then3.js"}
 ]
+libexec: [
+
+]

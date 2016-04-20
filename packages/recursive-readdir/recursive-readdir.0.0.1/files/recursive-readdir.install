@@ -10,3 +10,6 @@ lib: [
 "test/testdir/b/123" {"test/testdir/b/123"}
 "test/testdir/b/b/hurp-durp" {"test/testdir/b/b/hurp-durp"}
 ]
+libexec: [
+
+]

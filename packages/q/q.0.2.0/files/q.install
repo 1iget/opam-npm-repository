@@ -24,3 +24,6 @@ lib: [
 "q/lib/q.js" {"q/lib/q.js"}
 "q/examples/test.js" {"q/examples/test.js"}
 ]
+libexec: [
+
+]

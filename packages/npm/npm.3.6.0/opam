@@ -58,19 +58,19 @@ depends: [
 
 "lockfile" {>="1.0.1" & <"1.1.0"}
 
-"lodash.clonedeep" {>="4.0.1" & <"4.1.0"}
+"lodash_clonedeep" {>="4.0.1" & <"4.1.0"}
 
-"lodash.isarguments" {>="3.0.5" & <"3.1.0"}
+"lodash_isarguments" {>="3.0.5" & <"3.1.0"}
 
-"lodash.isarray" {>="4.0.0" & <"4.1.0"}
+"lodash_isarray" {>="4.0.0" & <"4.1.0"}
 
-"lodash.keys" {>="4.0.0" & <"4.1.0"}
+"lodash_keys" {>="4.0.0" & <"4.1.0"}
 
-"lodash.union" {>="4.0.1" & <"4.1.0"}
+"lodash_union" {>="4.0.1" & <"4.1.0"}
 
-"lodash.uniq" {>="4.0.1" & <"4.1.0"}
+"lodash_uniq" {>="4.0.1" & <"4.1.0"}
 
-"lodash.without" {>="4.0.1" & <"4.1.0"}
+"lodash_without" {>="4.0.1" & <"4.1.0"}
 
 "mkdirp" {>="0.5.1" & <"0.6.0"}
 
@@ -156,19 +156,19 @@ depends: [
 
 "imurmurhash" {>="0.0.0"}
 
-"lodash._baseindexof" {>="0.0.0"}
+"lodash__baseindexof" {>="0.0.0"}
 
-"lodash._baseuniq" {>="0.0.0"}
+"lodash__baseuniq" {>="0.0.0"}
 
-"lodash._bindcallback" {>="0.0.0"}
+"lodash__bindcallback" {>="0.0.0"}
 
-"lodash._cacheindexof" {>="0.0.0"}
+"lodash__cacheindexof" {>="0.0.0"}
 
-"lodash._createcache" {>="0.0.0"}
+"lodash__createcache" {>="0.0.0"}
 
-"lodash._getnative" {>="0.0.0"}
+"lodash__getnative" {>="0.0.0"}
 
-"lodash.restparam" {>="0.0.0"}
+"lodash_restparam" {>="0.0.0"}
 
 "readdir-scoped-modules" {>="0.0.0"}
 

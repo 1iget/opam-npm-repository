@@ -5,3 +5,6 @@ lib: [
 "LICENSE.md" {"LICENSE.md"}
 "index.json" {"index.json"}
 ]
+libexec: [
+
+]

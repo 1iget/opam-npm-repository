@@ -17,7 +17,6 @@ lib: [
 "bin/.graphquire.coffee.un~" {"bin/.graphquire.coffee.un~"}
 "bin/.graphquire.js.un~" {"bin/.graphquire.js.un~"}
 "bin/.teleport.js.un~" {"bin/.teleport.js.un~"}
-"bin/graphquire.js" {"bin/graphquire.js"}
 "utils/.deployment.js.un~" {"utils/.deployment.js.un~"}
 "utils/.fs.js.un~" {"utils/.fs.js.un~"}
 "utils/deployment.js" {"utils/deployment.js"}
@@ -60,4 +59,7 @@ lib: [
 "test/fixtures/pckg-npm/node_modules/dependency/node_modules/nested-dependency/package.json" {"test/fixtures/pckg-npm/node_modules/dependency/node_modules/nested-dependency/package.json"}
 "test/fixtures/pckg-npm/node_modules/dependency/node_modules/nested-dependency/lib/.main.js.un~" {"test/fixtures/pckg-npm/node_modules/dependency/node_modules/nested-dependency/lib/.main.js.un~"}
 "test/fixtures/pckg-npm/node_modules/dependency/node_modules/nested-dependency/lib/main.js" {"test/fixtures/pckg-npm/node_modules/dependency/node_modules/nested-dependency/lib/main.js"}
+]
+libexec: [
+"bin/graphquire.js" {"bin/graphquire.js"}
 ]

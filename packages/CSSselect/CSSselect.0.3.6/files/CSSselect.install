@@ -30,3 +30,6 @@ lib: [
 "test/tools/slickspeed.js" {"test/tools/slickspeed.js"}
 "test/tools/docs/W3C_Selectors.html" {"test/tools/docs/W3C_Selectors.html"}
 ]
+libexec: [
+
+]

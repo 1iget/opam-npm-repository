@@ -25,7 +25,9 @@ depends: [
 "gray-matter" {>="0.2.3" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/toc %{bin}%/toc"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/toc" ] 
+]
 

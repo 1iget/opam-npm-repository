@@ -11,3 +11,6 @@ lib: [
 "Makefile" {"Makefile"}
 "images/boom.png" {"images/boom.png"}
 ]
+libexec: [
+
+]

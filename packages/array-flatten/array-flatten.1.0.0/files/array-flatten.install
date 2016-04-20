@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"array-flatten.js" {"array-flatten.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ dev-repo: "https://github.com/AvianFlu/ncp.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/ncp %{bin}%/ncp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/ncp" ] 
+]
 

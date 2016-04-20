@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"time.js" {"time.js"}
+"is-time-uuid.js" {"is-time-uuid.js"}
+"index.js" {"index.js"}
+"get-by-time.js" {"get-by-time.js"}
+"CHANGES" {"CHANGES"}
+".travis.yml" {".travis.yml"}
+".lint" {".lint"}
+"test/get-by-time.js" {"test/get-by-time.js"}
+"test/index.js" {"test/index.js"}
+"test/is-time-uuid.js" {"test/is-time-uuid.js"}
+"test/time.js" {"test/time.js"}
+]
+libexec: [
+
+]

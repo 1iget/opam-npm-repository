@@ -12,3 +12,6 @@ lib: [
 "lang/zh-CN.js" {"lang/zh-CN.js"}
 "LICENSE.txt" {"LICENSE.txt"}
 ]
+libexec: [
+
+]

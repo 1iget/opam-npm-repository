@@ -5,7 +5,6 @@ lib: [
 "LICENSE.BSD" {"LICENSE.BSD"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/esparse.js" {"bin/esparse.js"}
 "demo/checkenv.js" {"demo/checkenv.js"}
 "demo/collector.html" {"demo/collector.html"}
 "demo/collector.js" {"demo/collector.js"}
@@ -47,4 +46,7 @@ lib: [
 "test/3rdparty/underscore-1.2.3.js" {"test/3rdparty/underscore-1.2.3.js"}
 "test/3rdparty/XMLHttpRequest.js" {"test/3rdparty/XMLHttpRequest.js"}
 "test/3rdparty/ZeParser.js" {"test/3rdparty/ZeParser.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
 ]

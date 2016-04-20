@@ -68,3 +68,6 @@ lib: [
 "uglify/test/unit/compress/test/var.js" {"uglify/test/unit/compress/test/var.js"}
 "uglify/test/unit/scripts.js" {"uglify/test/unit/scripts.js"}
 ]
+libexec: [
+
+]

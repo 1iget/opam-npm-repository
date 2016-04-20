@@ -18,3 +18,6 @@ lib: [
 "source-map-resolve.js.template" {"source-map-resolve.js.template"}
 "x-package.json5" {"x-package.json5"}
 ]
+libexec: [
+
+]

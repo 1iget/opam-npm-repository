@@ -8,7 +8,9 @@ license: "not defined"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/cli-wrapper.js %{bin}%/node-bench"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/node-bench" ] 
+]
 

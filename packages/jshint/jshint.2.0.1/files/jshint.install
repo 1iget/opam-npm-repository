@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "demo.js" {"demo.js"}
-"bin/jshint" {"bin/jshint"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "dist/jshint-1.0.0.js" {"dist/jshint-1.0.0.js"}
 "dist/jshint-1.1.0.js" {"dist/jshint-1.1.0.js"}
@@ -28,4 +27,7 @@ lib: [
 "src/stable/reg.js" {"src/stable/reg.js"}
 "src/stable/state.js" {"src/stable/state.js"}
 "src/stable/style.js" {"src/stable/style.js"}
+]
+libexec: [
+"bin/jshint" {"bin/jshint"}
 ]

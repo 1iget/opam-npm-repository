@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/rules/strict/global-with.js" {"test/fixtures/rules/strict/global-with.js"}
 "test/fixtures/rules/strict/none.js" {"test/fixtures/rules/strict/none.js"}
 ]
+libexec: [
+
+]

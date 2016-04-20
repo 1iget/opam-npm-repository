@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"LICENSE.md" {"LICENSE.md"}
+"lib/ncp.js" {"lib/ncp.js"}
+"test/ncp.js" {"test/ncp.js"}
+"test/modified-files/out/a" {"test/modified-files/out/a"}
+"test/modified-files/src/a" {"test/modified-files/src/a"}
+"test/regular-fixtures/src/a" {"test/regular-fixtures/src/a"}
+"test/regular-fixtures/src/b" {"test/regular-fixtures/src/b"}
+"test/regular-fixtures/src/c" {"test/regular-fixtures/src/c"}
+"test/regular-fixtures/src/d" {"test/regular-fixtures/src/d"}
+"test/regular-fixtures/src/e" {"test/regular-fixtures/src/e"}
+"test/regular-fixtures/src/f" {"test/regular-fixtures/src/f"}
+"test/regular-fixtures/src/sub/a" {"test/regular-fixtures/src/sub/a"}
+"test/regular-fixtures/src/sub/b" {"test/regular-fixtures/src/sub/b"}
+"test/sub-directory-fixtures/src/a" {"test/sub-directory-fixtures/src/a"}
+"test/sub-directory-fixtures/src/b" {"test/sub-directory-fixtures/src/b"}
+"test/symlink-fixtures/src/dir/bar" {"test/symlink-fixtures/src/dir/bar"}
+"test/symlink-fixtures/src/foo" {"test/symlink-fixtures/src/foo"}
+]
+libexec: [
+"bin/ncp" {"bin/ncp"}
+]

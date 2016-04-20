@@ -4,3 +4,6 @@ lib: [
 "skodld.js" {"skodld.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

@@ -10,3 +10,6 @@ lib: [
 ".jscsrc" {".jscsrc"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

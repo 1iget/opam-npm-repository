@@ -8,3 +8,6 @@ lib: [
 ".jscs.json" {".jscs.json"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

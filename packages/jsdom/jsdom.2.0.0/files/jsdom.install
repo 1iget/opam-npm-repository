@@ -29,3 +29,6 @@ lib: [
 "lib/jsdom/living/node.js" {"lib/jsdom/living/node.js"}
 "lib/jsdom/living/selectors.js" {"lib/jsdom/living/selectors.js"}
 ]
+libexec: [
+
+]

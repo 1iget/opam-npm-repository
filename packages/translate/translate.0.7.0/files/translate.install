@@ -1,0 +1,19 @@
+lib: [
+"" {""}
+"examples/" {"examples/"}
+"lib/" {"lib/"}
+"logo.png" {"logo.png"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"vendor/" {"vendor/"}
+"vendor/debug.js" {"vendor/debug.js"}
+"vendor/jquery.js" {"vendor/jquery.js"}
+"lib/languages.js" {"lib/languages.js"}
+"lib/translate.js" {"lib/translate.js"}
+"examples/index.html" {"examples/index.html"}
+"examples/node-demo.js" {"examples/node-demo.js"}
+"examples/string.js" {"examples/string.js"}
+]
+libexec: [
+
+]

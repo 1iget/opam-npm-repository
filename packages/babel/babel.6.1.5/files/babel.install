@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
-"cli.js" {"cli.js"}
 "index.js" {"index.js"}
 "dist/browser.js" {"dist/browser.js"}
 "dist/browser.min.js" {"dist/browser.min.js"}
@@ -272,4 +271,7 @@ lib: [
 "lib/types/definitions/init.js" {"lib/types/definitions/init.js"}
 "lib/types/definitions/jsx.js" {"lib/types/definitions/jsx.js"}
 "lib/types/definitions/misc.js" {"lib/types/definitions/misc.js"}
+]
+libexec: [
+"cli.js" {"cli.js"}
 ]

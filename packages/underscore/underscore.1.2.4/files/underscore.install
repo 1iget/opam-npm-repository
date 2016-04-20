@@ -10,6 +10,6 @@ lib: [
 "underscore.js" {"underscore.js"}
 "raw/underscore.psd" {"raw/underscore.psd"}
 ]
-bin: [
+libexec: [
 
 ]

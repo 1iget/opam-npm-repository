@@ -13,7 +13,9 @@ depends: [
 "strip-comments" {>="0.3.2" & <"0.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/detect-indent"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/detect-indent" ] 
+]
 

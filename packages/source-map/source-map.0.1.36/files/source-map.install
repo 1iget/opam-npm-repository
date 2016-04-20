@@ -38,3 +38,6 @@ lib: [
 "test/source-map/util.js" {"test/source-map/util.js"}
 "test/source-map/test-dog-fooding.js" {"test/source-map/test-dog-fooding.js"}
 ]
+libexec: [
+
+]

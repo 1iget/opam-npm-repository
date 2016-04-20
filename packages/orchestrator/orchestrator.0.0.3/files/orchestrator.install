@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/sequence.js" {"lib/sequence.js"}
+]
+libexec: [
+
+]

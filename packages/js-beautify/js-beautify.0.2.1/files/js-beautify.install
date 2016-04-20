@@ -3,7 +3,6 @@ lib: [
 ".gitmodules" {".gitmodules"}
 ".npmignore" {".npmignore"}
 "beautify.js" {"beautify.js"}
-"cli.js" {"cli.js"}
 "index.js" {"index.js"}
 "license.txt" {"license.txt"}
 "package.json" {"package.json"}
@@ -13,4 +12,7 @@ lib: [
 "tests/beautify-tests.js" {"tests/beautify-tests.js"}
 "tests/run-tests" {"tests/run-tests"}
 "tests/sanitytest.js" {"tests/sanitytest.js"}
+]
+libexec: [
+"cli.js" {"cli.js"}
 ]

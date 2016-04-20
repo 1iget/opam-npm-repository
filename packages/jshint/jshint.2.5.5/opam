@@ -23,7 +23,9 @@ depends: [
 "strip-json-comments" {>="0.1.0" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jshint %{bin}%/jshint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jshint" ] 
+]
 

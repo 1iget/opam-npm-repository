@@ -29,5 +29,7 @@ lib: [
 "lib/createOutputStream/writeDir.js" {"lib/createOutputStream/writeDir.js"}
 "lib/createOutputStream/writeFile.js" {"lib/createOutputStream/writeFile.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
+]
+libexec: [
 "bin/gulp.js" {"bin/gulp.js"}
 ]

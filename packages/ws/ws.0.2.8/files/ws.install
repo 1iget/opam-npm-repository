@@ -23,3 +23,6 @@ lib: [
 "test/WebSocket.test.js" {"test/WebSocket.test.js"}
 "test/fixtures/textfile" {"test/fixtures/textfile"}
 ]
+libexec: [
+
+]

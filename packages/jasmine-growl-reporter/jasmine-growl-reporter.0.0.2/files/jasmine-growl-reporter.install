@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.txt" {"LICENSE.txt"}
+"lib/reporter.js" {"lib/reporter.js"}
+"spec/matchers.js" {"spec/matchers.js"}
+"spec/reporter.spec.js" {"spec/reporter.spec.js"}
+]
+libexec: [
+
+]

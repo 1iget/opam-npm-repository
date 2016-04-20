@@ -21,7 +21,6 @@ lib: [
 "examples/example.ondemand.ie.js" {"examples/example.ondemand.ie.js"}
 "examples/example.ondemand.js" {"examples/example.ondemand.js"}
 "examples/example.promise.chrome.js" {"examples/example.promise.chrome.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
 "lib/main.js" {"lib/main.js"}
@@ -73,4 +72,7 @@ lib: [
 "test/saucelabs/config.js" {"test/saucelabs/config.js"}
 "test/saucelabs/promise-test.js" {"test/saucelabs/promise-test.js"}
 "test/unit/callback-test.js" {"test/unit/callback-test.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

@@ -23,3 +23,6 @@ lib: [
 "test/zlib.tap.js" {"test/zlib.tap.js"}
 "test/monkeypatching.tap.js" {"test/monkeypatching.tap.js"}
 ]
+libexec: [
+
+]

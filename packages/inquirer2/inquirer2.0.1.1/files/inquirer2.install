@@ -24,3 +24,6 @@ lib: [
 "lib/utils/readline.js" {"lib/utils/readline.js"}
 "lib/utils/screen-manager.js" {"lib/utils/screen-manager.js"}
 ]
+libexec: [
+
+]

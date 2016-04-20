@@ -4,3 +4,6 @@ lib: [
 "index.js" {"index.js"}
 "lib/insert.js" {"lib/insert.js"}
 ]
+libexec: [
+
+]

@@ -11,3 +11,6 @@ lib: [
 "example/one-to-one-mappings.js" {"example/one-to-one-mappings.js"}
 "test/parse-base64vlq-mappings.js" {"test/parse-base64vlq-mappings.js"}
 ]
+libexec: [
+
+]

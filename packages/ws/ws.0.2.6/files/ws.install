@@ -26,3 +26,6 @@ lib: [
 "test/WebSocket.test.js" {"test/WebSocket.test.js"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

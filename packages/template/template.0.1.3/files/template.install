@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/fixtures/interpolate.tmpl" {"test/fixtures/interpolate.tmpl"}
+"test/fixtures/COPY.tmpl" {"test/fixtures/COPY.tmpl"}
+"test/fixtures/custom-delims.tmpl" {"test/fixtures/custom-delims.tmpl"}
+"test/fixtures/date.tmpl" {"test/fixtures/date.tmpl"}
+"test/fixtures/default-delims-no-space.tmpl" {"test/fixtures/default-delims-no-space.tmpl"}
+"test/fixtures/default-delims.tmpl" {"test/fixtures/default-delims.tmpl"}
+"test/fixtures/es6-and-default.tmpl" {"test/fixtures/es6-and-default.tmpl"}
+"test/fixtures/es6-delims.tmpl" {"test/fixtures/es6-delims.tmpl"}
+"test/fixtures/functions.tmpl" {"test/fixtures/functions.tmpl"}
+"test/fixtures/custom-delims-only.tmpl" {"test/fixtures/custom-delims-only.tmpl"}
+"test/fixtures/mixin-default.tmpl" {"test/fixtures/mixin-default.tmpl"}
+"test/fixtures/mixin-str.tmpl" {"test/fixtures/mixin-str.tmpl"}
+"test/fixtures/nested.tmpl" {"test/fixtures/nested.tmpl"}
+"test/fixtures/variable.tmpl" {"test/fixtures/variable.tmpl"}
+"test/fixtures/_slugify.tmpl" {"test/fixtures/_slugify.tmpl"}
+"test/fixtures/_str-slugify.tmpl" {"test/fixtures/_str-slugify.tmpl"}
+"test/fixtures/_str-titleize.tmpl" {"test/fixtures/_str-titleize.tmpl"}
+"test/fixtures/_titleize.tmpl" {"test/fixtures/_titleize.tmpl"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 ".travis.yml" {".travis.yml"}
-"bin/eslint.js" {"bin/eslint.js"}
 "config/eslint.json" {"config/eslint.json"}
 "lib/cli.js" {"lib/cli.js"}
 "lib/eslint.js" {"lib/eslint.js"}
@@ -38,4 +37,7 @@ lib: [
 "tests/lib/rules/no-eval.js" {"tests/lib/rules/no-eval.js"}
 "tests/lib/rules/no-with.js" {"tests/lib/rules/no-with.js"}
 "tests/lib/rules/no-bitwise.js" {"tests/lib/rules/no-bitwise.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

@@ -12,3 +12,6 @@ lib: [
 "test/fixtures/to-pack/bar.txt" {"test/fixtures/to-pack/bar.txt"}
 "test/fixtures/to-pack/foo.txt" {"test/fixtures/to-pack/foo.txt"}
 ]
+libexec: [
+
+]

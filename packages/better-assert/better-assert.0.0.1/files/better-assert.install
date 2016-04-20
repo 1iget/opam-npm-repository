@@ -9,3 +9,6 @@ lib: [
 "Readme.md" {"Readme.md"}
 "lib/better-assert.js" {"lib/better-assert.js"}
 ]
+libexec: [
+
+]

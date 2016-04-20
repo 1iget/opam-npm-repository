@@ -11,7 +11,9 @@ depends: [
 "optimist" {>="0.3.5" & <"0.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/uglifyjs %{bin}%/uglifyjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/uglifyjs" ] 
+]
 

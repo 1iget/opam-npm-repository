@@ -28,3 +28,6 @@ lib: [
 "test/fixtures/parent.js" {"test/fixtures/parent.js"}
 "test/fixtures/change-code-expect.json" {"test/fixtures/change-code-expect.json"}
 ]
+libexec: [
+
+]

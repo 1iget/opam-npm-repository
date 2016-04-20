@@ -18,3 +18,6 @@ lib: [
 "test/generate.sh" {"test/generate.sh"}
 "test/cases.txt" {"test/cases.txt"}
 ]
+libexec: [
+
+]

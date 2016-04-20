@@ -73,3 +73,6 @@ lib: [
 "tests/positive_cases/union.orderly" {"tests/positive_cases/union.orderly"}
 "tests/positive_cases/union_hell.jsonschema" {"tests/positive_cases/union_hell.jsonschema"}
 ]
+libexec: [
+
+]

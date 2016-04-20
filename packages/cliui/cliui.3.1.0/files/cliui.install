@@ -9,3 +9,6 @@ lib: [
 "screenshot.png" {"screenshot.png"}
 "test/cliui.js" {"test/cliui.js"}
 ]
+libexec: [
+
+]

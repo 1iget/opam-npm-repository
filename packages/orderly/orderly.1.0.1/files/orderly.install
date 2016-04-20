@@ -82,3 +82,6 @@ lib: [
 "tests/negative_cases/unterminated_string.orderly" {"tests/negative_cases/unterminated_string.orderly"}
 "tests/negative_cases/unterminated_string.output" {"tests/negative_cases/unterminated_string.output"}
 ]
+libexec: [
+
+]

@@ -24,3 +24,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "bin/cmd.js" {"bin/cmd.js"}
 ]
+libexec: [
+
+]

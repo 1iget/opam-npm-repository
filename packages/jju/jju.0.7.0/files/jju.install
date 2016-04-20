@@ -1,0 +1,31 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"docs/Grammar.md" {"docs/Grammar.md"}
+"docs/JSON5.md" {"docs/JSON5.md"}
+"lib/analyze.js" {"lib/analyze.js"}
+"lib/document.js" {"lib/document.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/stringify.js" {"lib/stringify.js"}
+"lib/unicode.js" {"lib/unicode.js"}
+"lib/utils.js" {"lib/utils.js"}
+"package.yaml" {"package.yaml"}
+"test/test_analyze.js" {"test/test_analyze.js"}
+"test/test_document.js" {"test/test_document.js"}
+"test/test_errors.js" {"test/test_errors.js"}
+"test/test_parse.js" {"test/test_parse.js"}
+"test/test_stringify.js" {"test/test_stringify.js"}
+"test/test_tokenize.js" {"test/test_tokenize.js"}
+"test/test_updates.js" {"test/test_updates.js"}
+"test/update/author.yaml" {"test/update/author.yaml"}
+"test/update/deep-object.yaml" {"test/update/deep-object.yaml"}
+"test/update/delete.yaml" {"test/update/delete.yaml"}
+"test/update/norm-array.yaml" {"test/update/norm-array.yaml"}
+"test/update/norm-object.yaml" {"test/update/norm-object.yaml"}
+"test/update/pkg-json5.yaml" {"test/update/pkg-json5.yaml"}
+]
+libexec: [
+
+]

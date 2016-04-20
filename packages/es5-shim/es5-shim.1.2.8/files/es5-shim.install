@@ -25,3 +25,6 @@ lib: [
 "tests/spec/s-function.js" {"tests/spec/s-function.js"}
 "tests/spec/s-array.js" {"tests/spec/s-array.js"}
 ]
+libexec: [
+
+]

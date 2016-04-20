@@ -13,8 +13,10 @@ lib: [
 "lib/handleInput.js" {"lib/handleInput.js"}
 "lib/logger.js" {"lib/logger.js"}
 "lib/sendToCoveralls.js" {"lib/sendToCoveralls.js"}
-"bin/coveralls.js" {"bin/coveralls.js"}
 "Makefile" {"Makefile"}
 "test/convertLcovToCoveralls.js" {"test/convertLcovToCoveralls.js"}
 "test/handleInput.js" {"test/handleInput.js"}
+]
+libexec: [
+"bin/coveralls.js" {"bin/coveralls.js"}
 ]

@@ -13,3 +13,6 @@ lib: [
 "test/diffTest.js" {"test/diffTest.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

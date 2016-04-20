@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/fixture-foo.js" {"test/fixtures/fixture-foo.js"}
 "test/fixtures/fixture-quux.js" {"test/fixtures/fixture-quux.js"}
 ]
+libexec: [
+
+]

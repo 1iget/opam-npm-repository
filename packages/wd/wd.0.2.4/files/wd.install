@@ -45,7 +45,6 @@ lib: [
 "lib/deprecated-chain.js" {"lib/deprecated-chain.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/main.js" {"lib/main.js"}
 "lib/promise-webdriver.js" {"lib/promise-webdriver.js"}
 "lib/special-keys.js" {"lib/special-keys.js"}
@@ -105,4 +104,7 @@ lib: [
 "test/specs/callback-specs.js" {"test/specs/callback-specs.js"}
 "test/specs/http-specs.js" {"test/specs/http-specs.js"}
 "test/specs/remote-specs.js" {"test/specs/remote-specs.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

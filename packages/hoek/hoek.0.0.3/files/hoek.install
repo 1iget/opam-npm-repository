@@ -8,3 +8,6 @@ lib: [
 "Makefile" {"Makefile"}
 "lib/hoek.js" {"lib/hoek.js"}
 ]
+libexec: [
+
+]

@@ -12,7 +12,7 @@ depends: [
 
 "filter-functions" {>="0.1.0" & <"0.2.0"}
 
-"object.omit" {>="1.1.0" & <"2.0.0"}
+"object_omit" {>="1.1.0" & <"2.0.0"}
 
 "plasma" {>="0.8.2" & <"0.9.0"}
 

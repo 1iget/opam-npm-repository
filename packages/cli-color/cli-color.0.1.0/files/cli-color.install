@@ -7,3 +7,6 @@ lib: [
 "lib-cov/index.js" {"lib-cov/index.js"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

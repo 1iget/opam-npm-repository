@@ -6,8 +6,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "register.js" {"register.js"}
 "repl.js" {"repl.js"}
-"bin/cake" {"bin/cake"}
-"bin/coffee" {"bin/coffee"}
 "bower.json" {"bower.json"}
 "lib/coffee-script/browser.js" {"lib/coffee-script/browser.js"}
 "lib/coffee-script/grammar.js" {"lib/coffee-script/grammar.js"}
@@ -27,4 +25,8 @@ lib: [
 "lib/coffee-script/nodes.js" {"lib/coffee-script/nodes.js"}
 "CNAME" {"CNAME"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
+]
+libexec: [
+"bin/cake" {"bin/cake"}
+"bin/coffee" {"bin/coffee"}
 ]

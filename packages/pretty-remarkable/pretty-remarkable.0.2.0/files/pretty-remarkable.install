@@ -6,3 +6,6 @@ lib: [
 "lib/rules.js" {"lib/rules.js"}
 "lib/utils.js" {"lib/utils.js"}
 ]
+libexec: [
+
+]

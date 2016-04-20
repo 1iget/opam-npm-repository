@@ -48,3 +48,6 @@ lib: [
 "test/standalone/test-content-transfer-encoding.js" {"test/standalone/test-content-transfer-encoding.js"}
 "test/standalone/test-issue-46.js" {"test/standalone/test-issue-46.js"}
 ]
+libexec: [
+
+]

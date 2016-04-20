@@ -127,3 +127,6 @@ lib: [
 "test/fixtures/.hidden" {"test/fixtures/.hidden"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

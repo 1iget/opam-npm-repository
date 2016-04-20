@@ -1,0 +1,12 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGES" {"CHANGES"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"q-io.js" {"q-io.js"}
+"README" {"README"}
+"test/issues/1.js" {"test/issues/1.js"}
+]
+libexec: [
+
+]

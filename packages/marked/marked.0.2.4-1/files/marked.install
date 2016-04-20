@@ -9,6 +9,8 @@ lib: [
 "man/marked.1" {"man/marked.1"}
 "index.js" {"index.js"}
 "bin/" {"bin/"}
-"bin/marked" {"bin/marked"}
 "README.md" {"README.md"}
+]
+libexec: [
+"bin/marked" {"bin/marked"}
 ]

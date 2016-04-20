@@ -22,3 +22,6 @@ lib: [
 "test/indexes.js" {"test/indexes.js"}
 "test/is-encoding.js" {"test/is-encoding.js"}
 ]
+libexec: [
+
+]

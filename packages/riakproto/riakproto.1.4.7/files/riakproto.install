@@ -8,3 +8,6 @@ lib: [
 "proto/riak_search.proto" {"proto/riak_search.proto"}
 "proto.json" {"proto.json"}
 ]
+libexec: [
+
+]

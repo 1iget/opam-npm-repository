@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"create-hash.js" {"create-hash.js"}
+"create-hmac.js" {"create-hmac.js"}
+"rng.js" {"rng.js"}
+"index.js" {"index.js"}
+"md5.js" {"md5.js"}
+"helpers.js" {"helpers.js"}
+".travis.yml" {".travis.yml"}
+"readme.markdown" {"readme.markdown"}
+"example/bundle.js" {"example/bundle.js"}
+"example/test.js" {"example/test.js"}
+"example/index.html" {"example/index.html"}
+"test/create-hash.js" {"test/create-hash.js"}
+"test/create-hmac.js" {"test/create-hmac.js"}
+"test/node.js" {"test/node.js"}
+"test/random-bytes.js" {"test/random-bytes.js"}
+"test/simple.js" {"test/simple.js"}
+"test/util.js" {"test/util.js"}
+]
+libexec: [
+
+]

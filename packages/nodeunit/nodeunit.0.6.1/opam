@@ -11,7 +11,9 @@ depends: [
 "tap-producer" {>="0.0.1"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/nodeunit %{bin}%/nodeunit"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/nodeunit" ] 
+]
 

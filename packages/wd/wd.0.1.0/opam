@@ -19,7 +19,9 @@ depends: [
 "archiver" {>="0.4.6" & <"0.5.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/bin.js %{bin}%/wd"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/wd" ] 
+]
 

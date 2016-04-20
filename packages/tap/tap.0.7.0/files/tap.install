@@ -63,3 +63,6 @@ lib: [
 "example/lib/math.js" {"example/lib/math.js"}
 "example/test/test-example.js" {"example/test/test-example.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,16 @@
+lib: [
+"" {""}
+"cli-min.js" {"cli-min.js"}
+"cli.js" {"cli.js"}
+"examples/" {"examples/"}
+"examples/cat.js" {"examples/cat.js"}
+"examples/echo.js" {"examples/echo.js"}
+"examples/sort.js" {"examples/sort.js"}
+"examples/static.coffee" {"examples/static.coffee"}
+"examples/static.js" {"examples/static.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

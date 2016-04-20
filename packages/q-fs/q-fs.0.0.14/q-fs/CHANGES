@@ -1,0 +1,48 @@
+
+0.0.14
+ - Moved "q-fs/common" from "q-fs/common-fs".
+ - Added "q-fs/mock" for mock file systems, particularly for
+   making mock file systems from zip file extracts.
+
+0.0.9
+ - fixed a bug in the listTree due to a Q module mismatch.
+
+0.0.8
+ - reved up Q to version 0.2 so duck-promises would work.
+
+0.0.7
+ - minor bugfix in the common refactor
+
+0.0.6
+ - factored out common, engine agnostic components in
+   anticipation of using them in a mock filesystem.
+ - added "b" buffered mode to file open.
+
+0.0.5
+ - Added
+   - listTree
+   - contains
+   - relative
+   - canonical
+   - absolute
+   - isDirectory
+
+0.0.4
+
+ - Added
+   - list(path)
+
+0.0.3
+
+ - synced dependencies
+
+0.0.2
+
+ - fixed some dependency lists
+ 
+0.0.1
+
+ - replaced util with n-util in response to Node
+   module name conflict
+ - restructured for overlay style package compatibility
+

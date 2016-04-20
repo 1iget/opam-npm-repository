@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "constant-case.js" {"constant-case.js"}
 ]
+libexec: [
+
+]

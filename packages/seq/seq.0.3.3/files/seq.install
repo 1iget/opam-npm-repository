@@ -12,3 +12,6 @@ lib: [
 "test/seq_.js" {"test/seq_.js"}
 "test/seq.js" {"test/seq.js"}
 ]
+libexec: [
+
+]

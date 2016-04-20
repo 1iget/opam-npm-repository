@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/uploads/a.hbs" {"test/fixtures/uploads/a.hbs"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

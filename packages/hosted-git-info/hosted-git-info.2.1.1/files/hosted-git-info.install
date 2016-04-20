@@ -14,3 +14,6 @@ lib: [
 "test/https-with-inline-auth.js" {"test/https-with-inline-auth.js"}
 "test/lib/standard-tests.js" {"test/lib/standard-tests.js"}
 ]
+libexec: [
+
+]

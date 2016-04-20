@@ -11,3 +11,6 @@ lib: [
 "Makefile.deps" {"Makefile.deps"}
 "Makefile.targ" {"Makefile.targ"}
 ]
+libexec: [
+
+]

@@ -4,7 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
-"bin/gulp.js" {"bin/gulp.js"}
 "completion/README.md" {"completion/README.md"}
 "completion/bash" {"completion/bash"}
 "completion/fish" {"completion/fish"}
@@ -13,4 +12,7 @@ lib: [
 "gulp.1" {"gulp.1"}
 "lib/completion.js" {"lib/completion.js"}
 "lib/taskTree.js" {"lib/taskTree.js"}
+]
+libexec: [
+"bin/gulp.js" {"bin/gulp.js"}
 ]

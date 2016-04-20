@@ -70,3 +70,6 @@ lib: [
 "test/transports/webhook-test.js" {"test/transports/webhook-test.js"}
 "test/transports/file-tailrolling-test.js" {"test/transports/file-tailrolling-test.js"}
 ]
+libexec: [
+
+]

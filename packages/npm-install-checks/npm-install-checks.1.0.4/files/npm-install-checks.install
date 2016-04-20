@@ -7,3 +7,6 @@ lib: [
 "test/check-git.js" {"test/check-git.js"}
 "test/check-platform.js" {"test/check-platform.js"}
 ]
+libexec: [
+
+]

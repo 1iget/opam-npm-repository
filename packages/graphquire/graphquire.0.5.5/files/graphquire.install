@@ -5,7 +5,6 @@ lib: [
 "package.json" {"package.json"}
 "Readme.md" {"Readme.md"}
 "temp.js" {"temp.js"}
-"bin/graphquire.js" {"bin/graphquire.js"}
 "utils/deployment.js" {"utils/deployment.js"}
 "utils/fs.js" {"utils/fs.js"}
 "test/test-graphquire.js" {"test/test-graphquire.js"}
@@ -17,4 +16,7 @@ lib: [
 "test/fixtures/pckg1/node_modules/http!bar.org/c.js" {"test/fixtures/pckg1/node_modules/http!bar.org/c.js"}
 "test/fixtures/pckg1/node_modules/http!foo.org/a.js" {"test/fixtures/pckg1/node_modules/http!foo.org/a.js"}
 "test/fixtures/pckg1/node_modules/http!foo.org/nested/b.js" {"test/fixtures/pckg1/node_modules/http!foo.org/nested/b.js"}
+]
+libexec: [
+"bin/graphquire.js" {"bin/graphquire.js"}
 ]

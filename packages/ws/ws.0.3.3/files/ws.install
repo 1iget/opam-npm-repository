@@ -16,7 +16,6 @@ lib: [
 "lib/Receiver.js" {"lib/Receiver.js"}
 "src/validation.cc" {"src/validation.cc"}
 "src/bufferutil.cc" {"src/bufferutil.cc"}
-"bin/wscat" {"bin/wscat"}
 "bench/WebSocket.benchmark.js" {"bench/WebSocket.benchmark.js"}
 "bench/util.js" {"bench/util.js"}
 "test/hybi-common.js" {"test/hybi-common.js"}
@@ -30,4 +29,7 @@ lib: [
 "test/autobahn-server.js" {"test/autobahn-server.js"}
 "test/autobahn.js" {"test/autobahn.js"}
 "test/fixtures/textfile" {"test/fixtures/textfile"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

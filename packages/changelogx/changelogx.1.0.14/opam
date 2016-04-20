@@ -16,7 +16,7 @@ depends: [
 
 "github-url-from-git" {>="1.4.0" & <"2.0.0"}
 
-"lodash.capitalize" {>="3.0.0" & <"4.0.0"}
+"lodash_capitalize" {>="3.0.0" & <"4.0.0"}
 
 "marked" {>="0.3.3" & <"0.4.0"}
 
@@ -33,7 +33,9 @@ depends: [
 "write" {>="0.1.1" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cli.js %{bin}%/changelogx"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/changelogx" ] 
+]
 

@@ -23,3 +23,6 @@ lib: [
 "example/sourcemap/output.js" {"example/sourcemap/output.js"}
 "example/sourcemap/input.json" {"example/sourcemap/input.json"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "lib/encode.js" {"lib/encode.js"}
 "README.markdown" {"README.markdown"}
 ]
+libexec: [
+
+]

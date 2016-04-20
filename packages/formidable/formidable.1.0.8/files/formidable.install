@@ -54,3 +54,6 @@ lib: [
 "test/fixture/http/special-chars-in-filename/xp-ie-8.http" {"test/fixture/http/special-chars-in-filename/xp-ie-8.http"}
 "test/fixture/http/special-chars-in-filename/xp-safari-5.http" {"test/fixture/http/special-chars-in-filename/xp-safari-5.http"}
 ]
+libexec: [
+
+]

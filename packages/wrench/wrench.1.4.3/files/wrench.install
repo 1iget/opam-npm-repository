@@ -21,3 +21,6 @@ lib: [
 "tests/shown/foo/lorem.txt" {"tests/shown/foo/lorem.txt"}
 "tests/withsymlinks/test" {"tests/withsymlinks/test"}
 ]
+libexec: [
+
+]

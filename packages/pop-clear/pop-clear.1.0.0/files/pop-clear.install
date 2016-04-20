@@ -7,3 +7,6 @@ lib: [
 "object.js" {"object.js"}
 "test/object-test.js" {"test/object-test.js"}
 ]
+libexec: [
+
+]

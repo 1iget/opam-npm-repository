@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"debug.js" {"debug.js"}
+"index.js" {"index.js"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"example/app.js" {"example/app.js"}
+"example/browser.html" {"example/browser.html"}
+"example/wildcards.js" {"example/wildcards.js"}
+"example/worker.js" {"example/worker.js"}
+"lib/debug.js" {"lib/debug.js"}
+]
+libexec: [
+
+]

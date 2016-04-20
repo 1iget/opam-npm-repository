@@ -9,3 +9,6 @@ lib: [
 "CHANGES" {"CHANGES"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

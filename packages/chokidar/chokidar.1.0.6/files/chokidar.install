@@ -6,3 +6,6 @@ lib: [
 "lib/fsevents-handler.js" {"lib/fsevents-handler.js"}
 "lib/nodefs-handler.js" {"lib/nodefs-handler.js"}
 ]
+libexec: [
+
+]

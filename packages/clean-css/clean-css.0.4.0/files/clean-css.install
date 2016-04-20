@@ -1,7 +1,6 @@
 lib: [
 ".npmignore" {".npmignore"}
 "bin/" {"bin/"}
-"bin/cleancss" {"bin/cleancss"}
 "History.md" {"History.md"}
 "index.js" {"index.js"}
 "lib/" {"lib/"}
@@ -23,4 +22,7 @@ lib: [
 "test/data/reset-min.css" {"test/data/reset-min.css"}
 "test/data/reset.css" {"test/data/reset.css"}
 "test/unit-test.js" {"test/unit-test.js"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

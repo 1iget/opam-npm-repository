@@ -56,3 +56,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

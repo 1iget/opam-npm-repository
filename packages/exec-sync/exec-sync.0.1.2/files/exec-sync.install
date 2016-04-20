@@ -8,3 +8,6 @@ lib: [
 "src/" {"src/"}
 "src/index.coffee" {"src/index.coffee"}
 ]
+libexec: [
+
+]

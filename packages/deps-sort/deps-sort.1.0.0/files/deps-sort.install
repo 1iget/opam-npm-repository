@@ -9,3 +9,6 @@ lib: [
 "test/indexed.js" {"test/indexed.js"}
 "test/sort.js" {"test/sort.js"}
 ]
+libexec: [
+
+]

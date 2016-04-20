@@ -98,3 +98,6 @@ lib: [
 "text.coffee" {"text.coffee"}
 "bork.xml" {"bork.xml"}
 ]
+libexec: [
+
+]

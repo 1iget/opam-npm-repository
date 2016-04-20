@@ -17,3 +17,6 @@ lib: [
 "lib/silent_require.js" {"lib/silent_require.js"}
 "CHANGELOG" {"CHANGELOG"}
 ]
+libexec: [
+
+]

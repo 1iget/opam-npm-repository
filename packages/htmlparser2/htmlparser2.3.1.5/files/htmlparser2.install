@@ -47,3 +47,6 @@ lib: [
 "tests/Documents/RDF_Example.xml" {"tests/Documents/RDF_Example.xml"}
 "tests/Documents/RSS_Example.xml" {"tests/Documents/RSS_Example.xml"}
 ]
+libexec: [
+
+]

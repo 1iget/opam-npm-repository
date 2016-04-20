@@ -24,7 +24,6 @@ lib: [
 "html-report/vendor/index.html" {"html-report/vendor/index.html"}
 "index.js" {"index.js"}
 "lib/" {"lib/"}
-"lib/cli.js" {"lib/cli.js"}
 "lib/collector.js" {"lib/collector.js"}
 "lib/command/" {"lib/command/"}
 "lib/command/common/" {"lib/command/common/"}
@@ -147,4 +146,7 @@ lib: [
 "test/other/test-summarizer.js" {"test/other/test-summarizer.js"}
 "test/run-junit.js" {"test/run-junit.js"}
 "test/run.js" {"test/run.js"}
+]
+libexec: [
+"lib/cli.js" {"lib/cli.js"}
 ]

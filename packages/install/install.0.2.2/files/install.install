@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"install.js" {"install.js"}
+"install.min.js" {"install.min.js"}
+".travis.yml" {".travis.yml"}
+"scripts/prepublish.sh" {"scripts/prepublish.sh"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/install.html" {"docs/install.html"}
+"docs/public/fonts/aller-bold.eot" {"docs/public/fonts/aller-bold.eot"}
+"docs/public/fonts/aller-bold.ttf" {"docs/public/fonts/aller-bold.ttf"}
+"docs/public/fonts/aller-bold.woff" {"docs/public/fonts/aller-bold.woff"}
+"docs/public/fonts/aller-light.eot" {"docs/public/fonts/aller-light.eot"}
+"docs/public/fonts/aller-light.ttf" {"docs/public/fonts/aller-light.ttf"}
+"docs/public/fonts/aller-light.woff" {"docs/public/fonts/aller-light.woff"}
+"docs/public/fonts/roboto-black.eot" {"docs/public/fonts/roboto-black.eot"}
+"docs/public/fonts/roboto-black.ttf" {"docs/public/fonts/roboto-black.ttf"}
+"docs/public/fonts/roboto-black.woff" {"docs/public/fonts/roboto-black.woff"}
+"docs/public/stylesheets/normalize.css" {"docs/public/stylesheets/normalize.css"}
+]
+libexec: [
+
+]

@@ -38,3 +38,6 @@ lib: [
 "test/resolver/without_basedir/main.js" {"test/resolver/without_basedir/main.js"}
 "test/resolver/without_basedir/node_modules/mymodule.js" {"test/resolver/without_basedir/node_modules/mymodule.js"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "test/1.0.0-interface.js" {"test/1.0.0-interface.js"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

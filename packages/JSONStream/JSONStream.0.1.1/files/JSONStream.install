@@ -11,3 +11,6 @@ lib: [
 "test/test2.js" {"test/test2.js"}
 "test/fixtures/all_npm.json" {"test/fixtures/all_npm.json"}
 ]
+libexec: [
+
+]

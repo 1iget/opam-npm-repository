@@ -14,3 +14,6 @@ lib: [
 "test/thorough.js" {"test/thorough.js"}
 "test/two-stream.js" {"test/two-stream.js"}
 ]
+libexec: [
+
+]

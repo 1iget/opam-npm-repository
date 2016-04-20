@@ -22,3 +22,6 @@ lib: [
 "test/umask_sync.js" {"test/umask_sync.js"}
 "test/rel.js" {"test/rel.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/fixtures/d.tmpl" {"test/fixtures/d.tmpl"}
+"test/fixtures/a.tmpl" {"test/fixtures/a.tmpl"}
+"test/fixtures/b.tmpl" {"test/fixtures/b.tmpl"}
+"test/fixtures/bb.tmpl" {"test/fixtures/bb.tmpl"}
+"test/fixtures/c.tmpl" {"test/fixtures/c.tmpl"}
+"test/fixtures/aa.tmpl" {"test/fixtures/aa.tmpl"}
+"test/fixtures/_a.tmpl" {"test/fixtures/_a.tmpl"}
+"test/fixtures/_b.tmpl" {"test/fixtures/_b.tmpl"}
+"test/fixtures/_c.tmpl" {"test/fixtures/_c.tmpl"}
+"test/fixtures/_cc.tmpl" {"test/fixtures/_cc.tmpl"}
+"test/fixtures/_dd.tmpl" {"test/fixtures/_dd.tmpl"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

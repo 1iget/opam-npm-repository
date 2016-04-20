@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/eslint.js" {"bin/eslint.js"}
 "conf/environments.js" {"conf/environments.js"}
 "conf/eslint.json" {"conf/eslint.json"}
 "conf/json-schema-schema.json" {"conf/json-schema-schema.json"}
@@ -212,4 +211,7 @@ lib: [
 "lib/formatters/unix.js" {"lib/formatters/unix.js"}
 "lib/util/keywords.js" {"lib/util/keywords.js"}
 "lib/util/traverse.js" {"lib/util/traverse.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

@@ -1,7 +1,6 @@
 lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"build.js" {"build.js"}
 "lodash.js" {"lodash.js"}
 "build/minify.js" {"build/minify.js"}
 "build/post-compile.js" {"build/post-compile.js"}
@@ -28,4 +27,7 @@ lib: [
 "vendor/uglifyjs/lib/process.js" {"vendor/uglifyjs/lib/process.js"}
 "vendor/uglifyjs/lib/squeeze-more.js" {"vendor/uglifyjs/lib/squeeze-more.js"}
 "vendor/uglifyjs/README.org" {"vendor/uglifyjs/README.org"}
+]
+libexec: [
+"build.js" {"build.js"}
 ]

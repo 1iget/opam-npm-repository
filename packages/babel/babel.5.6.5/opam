@@ -29,7 +29,9 @@ depends: [
 "slash" {>="1.0.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/babel-plugin/index.js %{bin}%/babel-plugin"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/babel-plugin" ] 
+]
 

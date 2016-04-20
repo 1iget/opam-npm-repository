@@ -24,3 +24,6 @@ lib: [
 "test/fixtures/wrapped/wrapped.js" {"test/fixtures/wrapped/wrapped.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

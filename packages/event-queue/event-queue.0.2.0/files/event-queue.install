@@ -8,3 +8,6 @@ lib: [
 "package.json" {"package.json"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

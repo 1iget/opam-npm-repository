@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/globalconfig" {"test/fixtures/globalconfig"}
 "test/fixtures/userconfig" {"test/fixtures/userconfig"}
 ]
+libexec: [
+
+]

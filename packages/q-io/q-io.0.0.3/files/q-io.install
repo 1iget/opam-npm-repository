@@ -1,0 +1,15 @@
+lib: [
+"q-io/" {"q-io/"}
+"q-io/buffer-io.js" {"q-io/buffer-io.js"}
+"q-io/CHANGES" {"q-io/CHANGES"}
+"q-io/lib/" {"q-io/lib/"}
+"q-io/LICENSE" {"q-io/LICENSE"}
+"q-io/package.json" {"q-io/package.json"}
+"q-io/README" {"q-io/README"}
+"q-io/lib/q-io/" {"q-io/lib/q-io/"}
+"q-io/lib/q-io.js" {"q-io/lib/q-io.js"}
+"q-io/lib/q-io/buffer-io.js" {"q-io/lib/q-io/buffer-io.js"}
+]
+libexec: [
+
+]

@@ -16,7 +16,6 @@ lib: [
 "jshint_globals/README" {"jshint_globals/README"}
 "jshint_globals/vars.js" {"jshint_globals/vars.js"}
 "jshint_globals/LICENSE.jshint" {"jshint_globals/LICENSE.jshint"}
-"defs" {"defs"}
 "tests/a-out.js" {"tests/a-out.js"}
 "tests/const-assign.js" {"tests/const-assign.js"}
 "tests/var-let-same-scope.js" {"tests/var-let-same-scope.js"}
@@ -52,4 +51,7 @@ lib: [
 "tests/duplicate-var-stderr" {"tests/duplicate-var-stderr"}
 "tests/const-assign-stderr" {"tests/const-assign-stderr"}
 "CHANGES.md" {"CHANGES.md"}
+]
+libexec: [
+"defs" {"defs"}
 ]

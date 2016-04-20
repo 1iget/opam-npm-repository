@@ -8,3 +8,6 @@ lib: [
 "test/deep.js" {"test/deep.js"}
 "test/lazy.js" {"test/lazy.js"}
 ]
+libexec: [
+
+]

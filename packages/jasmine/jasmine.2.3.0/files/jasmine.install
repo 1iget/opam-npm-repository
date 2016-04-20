@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "Gruntfile.js" {"Gruntfile.js"}
 ".travis.yml" {".travis.yml"}
-"bin/jasmine.js" {"bin/jasmine.js"}
 "lib/command.js" {"lib/command.js"}
 "lib/exit.js" {"lib/exit.js"}
 "lib/jasmine.js" {"lib/jasmine.js"}
@@ -13,4 +12,7 @@ lib: [
 "lib/reporters/console_reporter.js" {"lib/reporters/console_reporter.js"}
 "lib/reporters/exit_code_reporter.js" {"lib/reporters/exit_code_reporter.js"}
 "tasks/jasmine.js" {"tasks/jasmine.js"}
+]
+libexec: [
+"bin/jasmine.js" {"bin/jasmine.js"}
 ]

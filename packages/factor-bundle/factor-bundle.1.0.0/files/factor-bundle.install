@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"bin/cmd.js" {"bin/cmd.js"}
+"bin/usage.txt" {"bin/usage.txt"}
+"example/w.js" {"example/w.js"}
+"example/x.js" {"example/x.js"}
+"example/y.js" {"example/y.js"}
+"example/z.js" {"example/z.js"}
+".travis.yml" {".travis.yml"}
+"lib/wrap.js" {"lib/wrap.js"}
+"readme.markdown" {"readme.markdown"}
+"test/common-deps.js" {"test/common-deps.js"}
+"test/deps.js" {"test/deps.js"}
+"test/files.js" {"test/files.js"}
+"test/lift.js" {"test/lift.js"}
+"test/plugin.js" {"test/plugin.js"}
+"test/deps/w.js" {"test/deps/w.js"}
+"test/deps/x.js" {"test/deps/x.js"}
+"test/deps/y.js" {"test/deps/y.js"}
+"test/deps/z.js" {"test/deps/z.js"}
+"test/files/a.js" {"test/files/a.js"}
+"test/files/t.js" {"test/files/t.js"}
+"test/files/w.js" {"test/files/w.js"}
+"test/files/x.js" {"test/files/x.js"}
+"test/files/y.js" {"test/files/y.js"}
+"test/files/z.js" {"test/files/z.js"}
+]
+libexec: [
+
+]

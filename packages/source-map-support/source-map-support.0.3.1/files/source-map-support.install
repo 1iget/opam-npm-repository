@@ -25,3 +25,6 @@ lib: [
 "browser-test/script.coffee" {"browser-test/script.coffee"}
 "browser-test/script.map" {"browser-test/script.map"}
 ]
+libexec: [
+
+]

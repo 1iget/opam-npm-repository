@@ -8,7 +8,9 @@ dev-repo: "git@github.com:mishoo/UglifyJS.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/uglifyjs %{bin}%/uglifyjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/uglifyjs" ] 
+]
 

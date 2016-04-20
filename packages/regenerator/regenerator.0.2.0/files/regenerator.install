@@ -19,3 +19,6 @@ lib: [
 "runtime/min.js" {"runtime/min.js"}
 "bin/regenerator" {"bin/regenerator"}
 ]
+libexec: [
+
+]

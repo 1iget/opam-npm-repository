@@ -1,0 +1,73 @@
+
+DEPRECATED
+ - relative will not be available in the next backward
+   incompatible release.  Use relativeFromFile for the same
+   behavior.  The change distinguishes the named behavior
+   from relativeFromDirectory.  relative may be reintroduced
+   in a later version, but it will perform a stat on the
+   path first and branch to either of the explicit forms.
+
+0.0.16:
+ - Fixed a minor bug in distinguishing directories from
+   other files in mocked file systems.
+ - Generalized the mock.reroot method so that it can be used
+   on any file system object.
+ - Fixed a bug in contains that applied when the source
+   directory was the root directory.
+ - Improved handling of the root directory in mock
+   file-systems.
+
+0.0.15
+ - Added "q-fs/root" for creating an attenuated file system
+   API object for a subdirectory of another file system API
+   object
+ - Added relativeFromDirectory and relativeFromFile to distinguish
+   the two cases explicitly.  relative is depre
+
+0.0.14
+ - Moved "q-fs/common" from "q-fs/common-fs".
+ - Added "q-fs/mock" for mock file systems, particularly for
+   making mock file systems from zip file extracts.
+
+0.0.9
+ - fixed a bug in the listTree due to a Q module mismatch.
+
+0.0.8
+ - reved up Q to version 0.2 so duck-promises would work.
+
+0.0.7
+ - minor bugfix in the common refactor
+
+0.0.6
+ - factored out common, engine agnostic components in
+   anticipation of using them in a mock filesystem.
+ - added "b" buffered mode to file open.
+
+0.0.5
+ - Added
+   - listTree
+   - contains
+   - relative
+   - canonical
+   - absolute
+   - isDirectory
+
+0.0.4
+
+ - Added
+   - list(path)
+
+0.0.3
+
+ - synced dependencies
+
+0.0.2
+
+ - fixed some dependency lists
+ 
+0.0.1
+
+ - replaced util with n-util in response to Node
+   module name conflict
+ - restructured for overlay style package compatibility
+

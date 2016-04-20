@@ -1,0 +1,45 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/joi.png" {"images/joi.png"}
+"images/validation.png" {"images/validation.png"}
+"lib/alternatives.js" {"lib/alternatives.js"}
+"lib/boolean.js" {"lib/boolean.js"}
+"lib/cast.js" {"lib/cast.js"}
+"lib/date.js" {"lib/date.js"}
+"lib/binary.js" {"lib/binary.js"}
+"lib/function.js" {"lib/function.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/language.js" {"lib/language.js"}
+"lib/number.js" {"lib/number.js"}
+"lib/object.js" {"lib/object.js"}
+"lib/array.js" {"lib/array.js"}
+"lib/ref.js" {"lib/ref.js"}
+"lib/any.js" {"lib/any.js"}
+"lib/string.js" {"lib/string.js"}
+"lib/errors.js" {"lib/errors.js"}
+"AUTHORS" {"AUTHORS"}
+"test/alternatives.js" {"test/alternatives.js"}
+"test/binary.js" {"test/binary.js"}
+"test/boolean.js" {"test/boolean.js"}
+"test/date.js" {"test/date.js"}
+"test/errors.js" {"test/errors.js"}
+"test/array.js" {"test/array.js"}
+"test/helper.js" {"test/helper.js"}
+"test/index.js" {"test/index.js"}
+"test/number.js" {"test/number.js"}
+"test/object.js" {"test/object.js"}
+"test/ref.js" {"test/ref.js"}
+"test/any.js" {"test/any.js"}
+"test/string.js" {"test/string.js"}
+"test/function.js" {"test/function.js"}
+]
+libexec: [
+
+]

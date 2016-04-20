@@ -19,3 +19,6 @@ lib: [
 "templates/standard.md" {"templates/standard.md"}
 "templates/travis.md" {"templates/travis.md"}
 ]
+libexec: [
+
+]

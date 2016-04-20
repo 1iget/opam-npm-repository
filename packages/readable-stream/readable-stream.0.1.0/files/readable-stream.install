@@ -27,3 +27,6 @@ lib: [
 "lib/_stream_transform.js" {"lib/_stream_transform.js"}
 "lib/_stream_writable.js" {"lib/_stream_writable.js"}
 ]
+libexec: [
+
+]

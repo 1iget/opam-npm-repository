@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"docs/api.md" {"docs/api.md"}
+"docs/example.md" {"docs/example.md"}
+".verbrc.md" {".verbrc.md"}
+"lib/utils.js" {"lib/utils.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/array-with-object.js" {"test/array-with-object.js"}
+"test/example.js" {"test/example.js"}
+"test/string-with-object.js" {"test/string-with-object.js"}
+"test/strings.js" {"test/strings.js"}
+"test/test.js" {"test/test.js"}
+"test/utils.js" {"test/utils.js"}
+]
+libexec: [
+
+]

@@ -5,3 +5,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

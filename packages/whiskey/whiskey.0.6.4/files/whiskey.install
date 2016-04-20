@@ -40,7 +40,6 @@ lib: [
 "example/test-timeout-blocking.js" {"example/test-timeout-blocking.js"}
 "test/run.sh" {"test/run.sh"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
-"bin/whiskey" {"bin/whiskey"}
 "assets/jquery.hotkeys.js" {"assets/jquery.hotkeys.js"}
 "assets/whiskey_source.magic" {"assets/whiskey_source.magic"}
 "assets/keybd_open.png" {"assets/keybd_open.png"}
@@ -90,4 +89,7 @@ lib: [
 "lib/extern/long-stack-traces/examples.html" {"lib/extern/long-stack-traces/examples.html"}
 "lib/extern/long-stack-traces/README.md" {"lib/extern/long-stack-traces/README.md"}
 "lib/extern/long-stack-traces/lib/long-stack-traces.js" {"lib/extern/long-stack-traces/lib/long-stack-traces.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

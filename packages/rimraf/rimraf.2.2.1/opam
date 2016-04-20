@@ -9,7 +9,9 @@ depends: [
 "graceful-fs" {>="1.0.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin.js %{bin}%/rimraf"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/rimraf" ] 
+]
 

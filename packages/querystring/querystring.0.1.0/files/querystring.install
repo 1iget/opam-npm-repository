@@ -8,3 +8,6 @@ lib: [
 "tests/.test-querystring.js.un~" {"tests/.test-querystring.js.un~"}
 "tests/test-querystring.js" {"tests/test-querystring.js"}
 ]
+libexec: [
+
+]

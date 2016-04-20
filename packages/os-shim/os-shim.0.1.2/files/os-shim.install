@@ -9,3 +9,6 @@ lib: [
 "lib/os.js" {"lib/os.js"}
 "test/osSpec.js" {"test/osSpec.js"}
 ]
+libexec: [
+
+]

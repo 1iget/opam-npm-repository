@@ -12,3 +12,6 @@ lib: [
 "lib/._long-stack-traces.js" {"lib/._long-stack-traces.js"}
 "lib/long-stack-traces.js" {"lib/long-stack-traces.js"}
 ]
+libexec: [
+
+]

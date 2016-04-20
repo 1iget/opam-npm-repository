@@ -6,7 +6,6 @@ lib: [
 "index.js" {"index.js"}
 "PROCESS_RUNNER.md" {"PROCESS_RUNNER.md"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
-"bin/whiskey" {"bin/whiskey"}
 "test/run.sh" {"test/run.sh"}
 "example/test-bdd.js" {"example/test-bdd.js"}
 "example/test-getFilePathAndPattern.js" {"example/test-getFilePathAndPattern.js"}
@@ -97,4 +96,7 @@ lib: [
 "lib/extern/optparse/lib/optparse.js" {"lib/extern/optparse/lib/optparse.js"}
 "lib/process_runner/run.js" {"lib/process_runner/run.js"}
 "lib/process_runner/runner.js" {"lib/process_runner/runner.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

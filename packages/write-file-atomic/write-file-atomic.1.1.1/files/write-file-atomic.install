@@ -16,3 +16,6 @@ lib: [
 "test/norename nounlink" {"test/norename nounlink"}
 "test/nowrite" {"test/nowrite"}
 ]
+libexec: [
+
+]

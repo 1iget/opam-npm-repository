@@ -95,7 +95,9 @@ depends: [
 "glob" {>="3.2.8" & <"3.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/browserify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/browserify" ] 
+]
 

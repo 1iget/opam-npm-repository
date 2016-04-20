@@ -285,3 +285,6 @@ lib: [
 "test/String/prototype/starts-with.js" {"test/String/prototype/starts-with.js"}
 "test/String/prototype/trim-common-left.js" {"test/String/prototype/trim-common-left.js"}
 ]
+libexec: [
+
+]

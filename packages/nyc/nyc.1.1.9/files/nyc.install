@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"LICENSE.txt" {"LICENSE.txt"}
+"test/nyc-test.js" {"test/nyc-test.js"}
+"test/fixtures/package.json" {"test/fixtures/package.json"}
+"test/fixtures/a.js" {"test/fixtures/a.js"}
+"node_modules/spawn-wrap/package.json" {"node_modules/spawn-wrap/package.json"}
+"node_modules/spawn-wrap/README.md" {"node_modules/spawn-wrap/README.md"}
+"node_modules/spawn-wrap/LICENSE" {"node_modules/spawn-wrap/LICENSE"}
+"node_modules/spawn-wrap/index.js" {"node_modules/spawn-wrap/index.js"}
+"node_modules/spawn-wrap/t.js" {"node_modules/spawn-wrap/t.js"}
+"node_modules/spawn-wrap/wrap-main.js" {"node_modules/spawn-wrap/wrap-main.js"}
+"node_modules/spawn-wrap/scripts/argv.js" {"node_modules/spawn-wrap/scripts/argv.js"}
+"node_modules/spawn-wrap/node_modules/which/package.json" {"node_modules/spawn-wrap/node_modules/which/package.json"}
+"node_modules/spawn-wrap/node_modules/which/README.md" {"node_modules/spawn-wrap/node_modules/which/README.md"}
+"node_modules/spawn-wrap/node_modules/which/LICENSE" {"node_modules/spawn-wrap/node_modules/which/LICENSE"}
+"node_modules/spawn-wrap/node_modules/which/which.js" {"node_modules/spawn-wrap/node_modules/which/which.js"}
+"node_modules/spawn-wrap/node_modules/which/bin/which" {"node_modules/spawn-wrap/node_modules/which/bin/which"}
+"node_modules/spawn-wrap/node_modules/which/test/basic.js" {"node_modules/spawn-wrap/node_modules/which/test/basic.js"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/package.json" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/package.json"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/README.md" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/README.md"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/LICENSE" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/LICENSE"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/index.js" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/index.js"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/package.json" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/package.json"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/README.md" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/README.md"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/index.js" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/index.js"}
+"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/LICENSE-MIT" {"node_modules/spawn-wrap/node_modules/which/node_modules/is-absolute/node_modules/is-relative/LICENSE-MIT"}
+]
+libexec: [
+"bin/nyc-report.js" {"bin/nyc-report.js"}
+"bin/nyc.js" {"bin/nyc.js"}
+]

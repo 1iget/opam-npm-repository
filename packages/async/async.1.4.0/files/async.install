@@ -7,3 +7,6 @@ lib: [
 "lib/async.js" {"lib/async.js"}
 "support/sync-package-managers.js" {"support/sync-package-managers.js"}
 ]
+libexec: [
+
+]

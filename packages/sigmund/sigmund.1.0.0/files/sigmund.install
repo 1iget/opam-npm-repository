@@ -6,3 +6,6 @@ lib: [
 "sigmund.js" {"sigmund.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

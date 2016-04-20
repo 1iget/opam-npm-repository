@@ -9,7 +9,9 @@ depends: [
 "async" {>="0.1.0" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/bin.js %{bin}%/wd"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/wd" ] 
+]
 

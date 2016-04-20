@@ -21,3 +21,6 @@ lib: [
 "encodings/tables/gbk-added.json" {"encodings/tables/gbk-added.json"}
 "encodings/tables/shiftjis.json" {"encodings/tables/shiftjis.json"}
 ]
+libexec: [
+
+]

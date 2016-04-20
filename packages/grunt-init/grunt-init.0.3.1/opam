@@ -21,7 +21,9 @@ depends: [
 "async" {>="0.2.10" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/grunt-init %{bin}%/grunt-init"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/grunt-init" ] 
+]
 

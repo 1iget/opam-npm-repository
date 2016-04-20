@@ -22,3 +22,6 @@ lib: [
 "test/has.js" {"test/has.js"}
 "test/browser/dom.js" {"test/browser/dom.js"}
 ]
+libexec: [
+
+]

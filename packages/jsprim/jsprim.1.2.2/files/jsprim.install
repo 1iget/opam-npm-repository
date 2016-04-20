@@ -5,3 +5,6 @@ lib: [
 "CHANGES.md" {"CHANGES.md"}
 "lib/jsprim.js" {"lib/jsprim.js"}
 ]
+libexec: [
+
+]

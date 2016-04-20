@@ -13,3 +13,6 @@ lib: [
 "example/tar.js" {"example/tar.js"}
 "test/ignores.js" {"test/ignores.js"}
 ]
+libexec: [
+
+]

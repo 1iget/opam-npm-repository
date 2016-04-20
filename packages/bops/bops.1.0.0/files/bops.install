@@ -34,3 +34,6 @@ lib: [
 "typedarray/write.js" {"typedarray/write.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

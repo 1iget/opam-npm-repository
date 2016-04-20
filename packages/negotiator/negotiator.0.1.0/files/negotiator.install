@@ -19,3 +19,6 @@ lib: [
 "test/language.coffee" {"test/language.coffee"}
 "test/mediaType.coffee" {"test/mediaType.coffee"}
 ]
+libexec: [
+
+]

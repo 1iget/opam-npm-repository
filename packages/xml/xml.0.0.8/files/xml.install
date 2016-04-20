@@ -20,3 +20,6 @@ lib: [
 "readme.md" {"readme.md"}
 "test/xml.test.js" {"test/xml.test.js"}
 ]
+libexec: [
+
+]

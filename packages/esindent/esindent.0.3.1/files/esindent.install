@@ -32,3 +32,6 @@ lib: [
 "test/compare/default/while-out.js" {"test/compare/default/while-out.js"}
 "test/compare/default/function-in.js" {"test/compare/default/function-in.js"}
 ]
+libexec: [
+
+]

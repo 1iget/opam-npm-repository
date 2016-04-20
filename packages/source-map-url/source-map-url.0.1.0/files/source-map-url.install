@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"source-map-url.js" {"source-map-url.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+"readme.md" {"readme.md"}
+"test/source-map-url.js" {"test/source-map-url.js"}
+]
+libexec: [
+
+]

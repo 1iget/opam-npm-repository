@@ -8,3 +8,6 @@ lib: [
 "docs/index.md" {"docs/index.md"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

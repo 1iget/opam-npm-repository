@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/couch.ini" {"test/fixtures/couch.ini"}
 "test/fixtures/registry.couch" {"test/fixtures/registry.couch"}
 ]
+libexec: [
+
+]

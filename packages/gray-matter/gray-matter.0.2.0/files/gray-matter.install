@@ -26,3 +26,6 @@ lib: [
 "test/fixtures/json.md" {"test/fixtures/json.md"}
 "test/fixtures/metadata.yml" {"test/fixtures/metadata.yml"}
 ]
+libexec: [
+
+]

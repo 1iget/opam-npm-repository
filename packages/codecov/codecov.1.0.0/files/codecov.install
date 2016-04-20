@@ -6,7 +6,6 @@ lib: [
 "testinit.js" {"testinit.js"}
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
-"bin/codecov" {"bin/codecov"}
 "lib/codecov.js" {"lib/codecov.js"}
 "lib/services/appveyor.js" {"lib/services/appveyor.js"}
 "lib/services/codeship.js" {"lib/services/codeship.js"}
@@ -37,4 +36,7 @@ lib: [
 "test/services/localGit.js" {"test/services/localGit.js"}
 "Makefile" {"Makefile"}
 "circle.yml" {"circle.yml"}
+]
+libexec: [
+"bin/codecov" {"bin/codecov"}
 ]

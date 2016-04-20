@@ -11,7 +11,9 @@ depends: [
 "deflate-js" {>="0.2.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gunzip.js %{bin}%/gunzip-js"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gunzip-js" ] 
+]
 

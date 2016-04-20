@@ -6,3 +6,6 @@ lib: [
 "parser.generated.js" {"parser.generated.js"}
 "LICENSE.md" {"LICENSE.md"}
 ]
+libexec: [
+
+]

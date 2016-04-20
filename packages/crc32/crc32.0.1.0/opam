@@ -8,7 +8,9 @@ dev-repo: "git://github.com/beatgammit/crc32.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/runner.js %{bin}%/crc32"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/crc32" ] 
+]
 

@@ -7,3 +7,6 @@ lib: [
 "lib/file.js" {"lib/file.js"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

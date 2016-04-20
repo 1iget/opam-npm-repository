@@ -30,7 +30,6 @@ lib: [
 "examples/with-bench/with.js" {"examples/with-bench/with.js"}
 "lib/" {"lib/"}
 "lib/bench.js" {"lib/bench.js"}
-"lib/cli-wrapper.js" {"lib/cli-wrapper.js"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "slowdumb/" {"slowdumb/"}
@@ -1059,4 +1058,7 @@ lib: [
 "slowdumb/s.js" {"slowdumb/s.js"}
 "src/" {"src/"}
 "src/node-bench.c" {"src/node-bench.c"}
+]
+libexec: [
+"lib/cli-wrapper.js" {"lib/cli-wrapper.js"}
 ]

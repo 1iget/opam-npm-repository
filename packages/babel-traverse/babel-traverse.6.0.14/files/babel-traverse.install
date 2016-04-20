@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"lib/context.js" {"lib/context.js"}
+"lib/hub.js" {"lib/hub.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/visitors.js" {"lib/visitors.js"}
+"lib/path/ancestry.js" {"lib/path/ancestry.js"}
+"lib/path/constants.js" {"lib/path/constants.js"}
+"lib/path/context.js" {"lib/path/context.js"}
+"lib/path/conversion.js" {"lib/path/conversion.js"}
+"lib/path/evaluation.js" {"lib/path/evaluation.js"}
+"lib/path/family.js" {"lib/path/family.js"}
+"lib/path/comments.js" {"lib/path/comments.js"}
+"lib/path/removal.js" {"lib/path/removal.js"}
+"lib/path/introspection.js" {"lib/path/introspection.js"}
+"lib/path/modification.js" {"lib/path/modification.js"}
+"lib/path/replacement.js" {"lib/path/replacement.js"}
+"lib/path/index.js" {"lib/path/index.js"}
+"lib/path/lib/hoister.js" {"lib/path/lib/hoister.js"}
+"lib/path/lib/removal-hooks.js" {"lib/path/lib/removal-hooks.js"}
+"lib/path/lib/virtual-types.js" {"lib/path/lib/virtual-types.js"}
+"lib/path/inference/index.js" {"lib/path/inference/index.js"}
+"lib/path/inference/inferer-reference.js" {"lib/path/inference/inferer-reference.js"}
+"lib/path/inference/inferers.js" {"lib/path/inference/inferers.js"}
+"lib/scope/binding.js" {"lib/scope/binding.js"}
+"lib/scope/index.js" {"lib/scope/index.js"}
+"lib/scope/lib/renamer.js" {"lib/scope/lib/renamer.js"}
+"test/traverse.js" {"test/traverse.js"}
+]
+libexec: [
+
+]

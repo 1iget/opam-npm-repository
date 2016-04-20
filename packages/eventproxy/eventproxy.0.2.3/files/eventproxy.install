@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"MIT-License" {"MIT-License"}
+"README_en.md" {"README_en.md"}
+"lib/eventproxy.js" {"lib/eventproxy.js"}
+]
+libexec: [
+
+]

@@ -10,3 +10,6 @@ lib: [
 "lib/rules/wrap-multilines.js" {"lib/rules/wrap-multilines.js"}
 "History.md" {"History.md"}
 ]
+libexec: [
+
+]

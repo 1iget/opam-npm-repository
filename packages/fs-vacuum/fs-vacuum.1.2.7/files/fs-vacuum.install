@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"vacuum.js" {"vacuum.js"}
+".eslintrc" {".eslintrc"}
+"test/arguments.js" {"test/arguments.js"}
+"test/base-leaf-mismatch.js" {"test/base-leaf-mismatch.js"}
+"test/no-entries-file-no-purge.js" {"test/no-entries-file-no-purge.js"}
+"test/no-entries-link-no-purge.js" {"test/no-entries-link-no-purge.js"}
+"test/no-entries-no-purge.js" {"test/no-entries-no-purge.js"}
+"test/no-entries-with-link-purge.js" {"test/no-entries-with-link-purge.js"}
+"test/no-entries-with-purge.js" {"test/no-entries-with-purge.js"}
+"test/other-directories-no-purge.js" {"test/other-directories-no-purge.js"}
+]
+libexec: [
+
+]

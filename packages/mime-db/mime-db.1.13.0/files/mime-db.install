@@ -6,3 +6,6 @@ lib: [
 "db.json" {"db.json"}
 "HISTORY.md" {"HISTORY.md"}
 ]
+libexec: [
+
+]

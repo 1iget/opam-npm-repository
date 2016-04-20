@@ -15,3 +15,6 @@ lib: [
 "test/unsafe.js" {"test/unsafe.js"}
 "test-all.sh" {"test-all.sh"}
 ]
+libexec: [
+
+]

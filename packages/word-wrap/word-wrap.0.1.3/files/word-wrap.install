@@ -10,3 +10,6 @@ lib: [
 "docs/usage.md" {"docs/usage.md"}
 ".gitattributes" {".gitattributes"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "test/sources/check.js" {"test/sources/check.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

@@ -7,3 +7,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "test/parent.js" {"test/parent.js"}
 ]
+libexec: [
+
+]

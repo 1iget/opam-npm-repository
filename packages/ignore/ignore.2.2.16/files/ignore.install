@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/.fakeignore" {"test/fixtures/.fakeignore"}
 "test/fixtures/.ignore-issue-2" {"test/fixtures/.ignore-issue-2"}
 ]
+libexec: [
+
+]

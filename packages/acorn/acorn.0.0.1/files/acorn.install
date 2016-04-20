@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"acorn.js" {"acorn.js"}
+"index.html" {"index.html"}
+"test/tests.js" {"test/tests.js"}
+"test/driver.js" {"test/driver.js"}
+"test/run.js" {"test/run.js"}
+"test/jquery-string.js" {"test/jquery-string.js"}
+"test/bench.html" {"test/bench.html"}
+"test/index.html" {"test/index.html"}
+]
+libexec: [
+
+]

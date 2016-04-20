@@ -39,7 +39,6 @@ lib: [
 "example/test-custom-assert-functions.js" {"example/test-custom-assert-functions.js"}
 "example/test-scope-leaks.js" {"example/test-scope-leaks.js"}
 "example/test-init-function.js" {"example/test-init-function.js"}
-"bin/whiskey" {"bin/whiskey"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
 "assets/keybd_closed.png" {"assets/keybd_closed.png"}
 "assets/jquery.isonscreen.js" {"assets/jquery.isonscreen.js"}
@@ -91,4 +90,7 @@ lib: [
 "lib/extern/long-stack-traces/package.json" {"lib/extern/long-stack-traces/package.json"}
 "lib/extern/long-stack-traces/README.md" {"lib/extern/long-stack-traces/README.md"}
 "lib/extern/long-stack-traces/lib/long-stack-traces.js" {"lib/extern/long-stack-traces/lib/long-stack-traces.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

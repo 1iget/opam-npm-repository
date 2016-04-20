@@ -4,7 +4,6 @@ lib: [
 "CHANGELOG.txt" {"CHANGELOG.txt"}
 "index.js" {"index.js"}
 "README.txt" {"README.txt"}
-"bin/jsbuild" {"bin/jsbuild"}
 "min/loader-browser.js" {"min/loader-browser.js"}
 "min/deferrable.js" {"min/deferrable.js"}
 "min/constant_scope.js" {"min/constant_scope.js"}
@@ -61,4 +60,7 @@ lib: [
 "src/core.js" {"src/core.js"}
 "src/assets/bullet_go.png" {"src/assets/bullet_go.png"}
 "src/assets/testui.css" {"src/assets/testui.css"}
+]
+libexec: [
+"bin/jsbuild" {"bin/jsbuild"}
 ]

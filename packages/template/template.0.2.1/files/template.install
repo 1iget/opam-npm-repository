@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+"bower.json" {"bower.json"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"test/_template.js" {"test/_template.js"}
+"test/delims.js" {"test/delims.js"}
+"test/functions.js" {"test/functions.js"}
+"test/mixins.js" {"test/mixins.js"}
+"test/string.js" {"test/string.js"}
+"test/template.js" {"test/template.js"}
+"test/variable.js" {"test/variable.js"}
+"test/fixtures/a.tmpl" {"test/fixtures/a.tmpl"}
+"test/fixtures/_a.tmpl" {"test/fixtures/_a.tmpl"}
+"test/fixtures/_c.tmpl" {"test/fixtures/_c.tmpl"}
+"test/fixtures/_cc.tmpl" {"test/fixtures/_cc.tmpl"}
+"test/fixtures/_dd.tmpl" {"test/fixtures/_dd.tmpl"}
+"test/fixtures/_b.tmpl" {"test/fixtures/_b.tmpl"}
+"test/fixtures/aa.tmpl" {"test/fixtures/aa.tmpl"}
+"test/fixtures/b.tmpl" {"test/fixtures/b.tmpl"}
+"test/fixtures/bb.tmpl" {"test/fixtures/bb.tmpl"}
+"test/fixtures/c.tmpl" {"test/fixtures/c.tmpl"}
+"test/fixtures/d.tmpl" {"test/fixtures/d.tmpl"}
+"test/helpers/helpers.js" {"test/helpers/helpers.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

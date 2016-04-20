@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"duplex.js" {"duplex.js"}
+"index.js" {"index.js"}
+"passthrough.js" {"passthrough.js"}
+"readable.js" {"readable.js"}
+"transform.js" {"transform.js"}
+"writable.js" {"writable.js"}
+"readme.markdown" {"readme.markdown"}
+]
+libexec: [
+
+]

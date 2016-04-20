@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "MIT"
 dev-repo: "https://github.com/calvinmetcalf/createECDH.git"
 depends: [
-"bn.js" {>="1.0.0" & <"2.0.0"}
+"bn_js" {>="1.0.0" & <"2.0.0"}
 
 "elliptic" {>="0.15.14" & <"0.16.0"}
 

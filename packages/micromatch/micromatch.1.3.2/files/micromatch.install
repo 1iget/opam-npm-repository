@@ -8,3 +8,6 @@ lib: [
 "lib/glob.js" {"lib/glob.js"}
 "lib/utils.js" {"lib/utils.js"}
 ]
+libexec: [
+
+]

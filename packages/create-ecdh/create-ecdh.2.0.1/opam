@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "MIT"
 dev-repo: "git+https://github.com/crypto-browserify/createECDH.git"
 depends: [
-"bn.js" {>="2.0.0" & <"3.0.0"}
+"bn_js" {>="2.0.0" & <"3.0.0"}
 
 "elliptic" {>="3.0.0" & <"4.0.0"}
 

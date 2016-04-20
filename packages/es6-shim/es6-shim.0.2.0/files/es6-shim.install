@@ -1,0 +1,19 @@
+lib: [
+".gitignore" {".gitignore"}
+"es6-shim.js" {"es6-shim.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/array.js" {"test/array.js"}
+"test/map.js" {"test/map.js"}
+"test/index.html" {"test/index.html"}
+"test/math.js" {"test/math.js"}
+"test/mocha.css" {"test/mocha.css"}
+"test/number.js" {"test/number.js"}
+"test/object.js" {"test/object.js"}
+"test/set.js" {"test/set.js"}
+"test/string.js" {"test/string.js"}
+]
+libexec: [
+
+]

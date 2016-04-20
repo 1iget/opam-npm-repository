@@ -17,3 +17,6 @@ lib: [
 "test/fixtures/regex.json" {"test/fixtures/regex.json"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

@@ -7,3 +7,6 @@ lib: [
 "test/race.js" {"test/race.js"}
 "test/mkdirp.js" {"test/mkdirp.js"}
 ]
+libexec: [
+
+]

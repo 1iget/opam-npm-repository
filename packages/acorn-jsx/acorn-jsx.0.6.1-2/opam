@@ -8,7 +8,9 @@ dev-repo: "git://github.com/RReverser/acorn-jsx"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/acorn %{bin}%/acorn-jsx"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/acorn-jsx" ] 
+]
 

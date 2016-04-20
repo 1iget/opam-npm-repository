@@ -12,3 +12,6 @@ lib: [
 "test/weekofyear/test_weekofyear.js" {"test/weekofyear/test_weekofyear.js"}
 "test/weekofyear/test_weekofyear.sh" {"test/weekofyear/test_weekofyear.sh"}
 ]
+libexec: [
+
+]

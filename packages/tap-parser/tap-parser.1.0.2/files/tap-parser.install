@@ -69,3 +69,6 @@ lib: [
 "test/fixtures/creative-liberties.tap" {"test/fixtures/creative-liberties.tap"}
 "test/fixtures/offset-mismatch.tap" {"test/fixtures/offset-mismatch.tap"}
 ]
+libexec: [
+
+]

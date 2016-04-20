@@ -21,3 +21,6 @@ lib: [
 "test/__playground/throbber.formatted.js" {"test/__playground/throbber.formatted.js"}
 "test/__playground/throbber.js" {"test/__playground/throbber.js"}
 ]
+libexec: [
+
+]

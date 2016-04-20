@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"compile.js" {"compile.js"}
+"example.js" {"example.js"}
+"require.js" {"require.js"}
+"tmp.js" {"tmp.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"test/validate.js" {"test/validate.js"}
+"test/fixtures/cosmic.js" {"test/fixtures/cosmic.js"}
+"test/fixtures/test.schema" {"test/fixtures/test.schema"}
+]
+libexec: [
+
+]

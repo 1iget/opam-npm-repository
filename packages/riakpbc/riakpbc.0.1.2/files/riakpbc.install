@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"testcase.js" {"testcase.js"}
+"test.js" {"test.js"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"spec/riak.proto" {"spec/riak.proto"}
+"spec/riak_kv.proto" {"spec/riak_kv.proto"}
+"test/spec.js" {"test/spec.js"}
+".travis.yml" {".travis.yml"}
+".jshintignore" {".jshintignore"}
+]
+libexec: [
+
+]

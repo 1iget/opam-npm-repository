@@ -5,3 +5,6 @@ lib: [
 "LICENSE.md" {"LICENSE.md"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 ]
+libexec: [
+
+]

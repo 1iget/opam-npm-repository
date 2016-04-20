@@ -19,3 +19,6 @@ lib: [
 "test/resolver/biz/node_modules/tiv/index.js" {"test/resolver/biz/node_modules/tiv/index.js"}
 "test/resolver/biz/node_modules/grux/index.js" {"test/resolver/biz/node_modules/grux/index.js"}
 ]
+libexec: [
+
+]

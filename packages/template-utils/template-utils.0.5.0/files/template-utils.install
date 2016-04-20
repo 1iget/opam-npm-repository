@@ -18,3 +18,6 @@ lib: [
 "lib/utils/toVinyl.js" {"lib/utils/toVinyl.js"}
 "lib/utils/vinylProps.js" {"lib/utils/vinylProps.js"}
 ]
+libexec: [
+
+]

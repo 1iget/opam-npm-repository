@@ -4,8 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "esprima.js" {"esprima.js"}
 "component.json" {"component.json"}
-"bin/esparse.js" {"bin/esparse.js"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
 "ChangeLog" {"ChangeLog"}
 "doc/index.html" {"doc/index.html"}
 "LICENSE.BSD" {"LICENSE.BSD"}
@@ -31,4 +29,8 @@ lib: [
 "test/compat.html" {"test/compat.html"}
 "test/compare.html" {"test/compare.html"}
 "test/benchmarks.html" {"test/benchmarks.html"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/strip-bom"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/strip-bom"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/strip-bom" ] 
+]
 

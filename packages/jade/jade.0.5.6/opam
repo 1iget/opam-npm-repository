@@ -8,7 +8,9 @@ license: "not defined"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jade %{bin}%/jade"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jade" ] 
+]
 

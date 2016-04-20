@@ -9,3 +9,6 @@ lib: [
 "lolcation.js" {"lolcation.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

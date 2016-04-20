@@ -16,3 +16,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/utils/index.js" {"lib/utils/index.js"}
 ]
+libexec: [
+
+]

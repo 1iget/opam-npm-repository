@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/index.js" {"lib/index.js"}
+"lib/check.js" {"lib/check.js"}
+"lib/parse-type.js" {"lib/parse-type.js"}
+]
+libexec: [
+
+]

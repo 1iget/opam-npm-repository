@@ -183,3 +183,6 @@ lib: [
 "deps/nodeunit/test/fixtures/dir/mock_module4.js" {"deps/nodeunit/test/fixtures/dir/mock_module4.js"}
 "deps/nodeunit/test/fixtures/coffee/mock_coffee_module.coffee" {"deps/nodeunit/test/fixtures/coffee/mock_coffee_module.coffee"}
 ]
+libexec: [
+
+]

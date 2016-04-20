@@ -8,7 +8,9 @@ dev-repo: "https://github.com/broofa/node-mime"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/mime"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mime" ] 
+]
 

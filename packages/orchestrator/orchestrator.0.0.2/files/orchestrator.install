@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/sequence.js" {"lib/sequence.js"}
+"test/add.js" {"test/add.js"}
+"test/readyToRunTask.js" {"test/readyToRunTask.js"}
+"test/run.js" {"test/run.js"}
+"test/runDoneCallback.js" {"test/runDoneCallback.js"}
+"test/runTask.js" {"test/runTask.js"}
+"test/sequence.js" {"test/sequence.js"}
+"test/stop.js" {"test/stop.js"}
+"test/taskDependencies.js" {"test/taskDependencies.js"}
+]
+libexec: [
+
+]

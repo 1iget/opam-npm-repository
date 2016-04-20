@@ -20,7 +20,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 ".gitattributes" {".gitattributes"}
 ".tern-project" {".tern-project"}
-"bin/acorn" {"bin/acorn"}
 "test/codemirror-string.js" {"test/codemirror-string.js"}
 "test/driver.js" {"test/driver.js"}
 "test/jquery-string.js" {"test/jquery-string.js"}
@@ -33,4 +32,7 @@ lib: [
 "test/index.html" {"test/index.html"}
 "tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
 "util/walk.js" {"util/walk.js"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

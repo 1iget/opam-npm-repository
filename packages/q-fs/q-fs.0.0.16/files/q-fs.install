@@ -1,0 +1,20 @@
+lib: [
+"q-fs/" {"q-fs/"}
+"q-fs/CHANGES" {"q-fs/CHANGES"}
+"q-fs/examples/" {"q-fs/examples/"}
+"q-fs/lib/" {"q-fs/lib/"}
+"q-fs/LICENSE" {"q-fs/LICENSE"}
+"q-fs/package.json" {"q-fs/package.json"}
+"q-fs/README" {"q-fs/README"}
+"q-fs/test/" {"q-fs/test/"}
+"q-fs/test/relative.js" {"q-fs/test/relative.js"}
+"q-fs/test/root.js" {"q-fs/test/root.js"}
+"q-fs/lib/common.js" {"q-fs/lib/common.js"}
+"q-fs/lib/mock.js" {"q-fs/lib/mock.js"}
+"q-fs/lib/q-fs.js" {"q-fs/lib/q-fs.js"}
+"q-fs/lib/root.js" {"q-fs/lib/root.js"}
+"q-fs/examples/read.js" {"q-fs/examples/read.js"}
+]
+libexec: [
+
+]

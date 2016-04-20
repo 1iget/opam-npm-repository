@@ -2,7 +2,9 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "escodegen.js" {"escodegen.js"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "LICENSE.source-map" {"LICENSE.source-map"}
+]
+libexec: [
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

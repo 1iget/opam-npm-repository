@@ -1,0 +1,7 @@
+lib: [
+"join.js" {"join.js"}
+"package.json" {"package.json"}
+]
+libexec: [
+
+]

@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"lib/cli.js" {"lib/cli.js"}
 "lib/reporter.js" {"lib/reporter.js"}
 "lib/config.js" {"lib/config.js"}
 "lib/hook.js" {"lib/hook.js"}
@@ -52,4 +51,7 @@ lib: [
 "lib/vendor/prettify.css" {"lib/vendor/prettify.css"}
 "yui-coverage-comparison.md" {"yui-coverage-comparison.md"}
 "CHANGELOG.md" {"CHANGELOG.md"}
+]
+libexec: [
+"lib/cli.js" {"lib/cli.js"}
 ]

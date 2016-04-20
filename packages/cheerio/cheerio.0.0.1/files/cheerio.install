@@ -10,3 +10,6 @@ lib: [
 "tests/htmlparser.test.coffee" {"tests/htmlparser.test.coffee"}
 "tests/initial/basic.html" {"tests/initial/basic.html"}
 ]
+libexec: [
+
+]

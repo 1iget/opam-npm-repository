@@ -9,3 +9,6 @@ lib: [
 "example/comma_first.js" {"example/comma_first.js"}
 "test/html.js" {"test/html.js"}
 ]
+libexec: [
+
+]

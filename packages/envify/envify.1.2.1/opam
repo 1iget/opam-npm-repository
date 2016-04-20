@@ -15,7 +15,9 @@ depends: [
 "jstransform" {>="3.0.0" & <"3.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/envify %{bin}%/envify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/envify" ] 
+]
 

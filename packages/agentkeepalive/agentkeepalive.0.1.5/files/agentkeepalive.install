@@ -20,3 +20,6 @@ lib: [
 "test/genkey.sh" {"test/genkey.sh"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

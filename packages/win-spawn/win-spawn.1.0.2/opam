@@ -8,7 +8,9 @@ dev-repo: "https://github.com/ForbesLindesay/win-spawn.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/win-spawn %{bin}%/win-fork"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/win-fork" ] 
+]
 

@@ -51,3 +51,6 @@ lib: [
 "test/issue/9.js" {"test/issue/9.js"}
 "test/issue/22.js" {"test/issue/22.js"}
 ]
+libexec: [
+
+]

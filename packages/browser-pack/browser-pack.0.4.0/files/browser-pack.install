@@ -18,3 +18,6 @@ lib: [
 "test/raw.js" {"test/raw.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

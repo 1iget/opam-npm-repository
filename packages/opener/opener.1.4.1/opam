@@ -8,7 +8,9 @@ dev-repo: "https://github.com/domenic/opener"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/opener.js %{bin}%/opener"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/opener" ] 
+]
 

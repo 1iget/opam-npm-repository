@@ -6,7 +6,6 @@ lib: [
 "Makefile" {"Makefile"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/cleancss" {"bin/cleancss"}
 "lib/clean.js" {"lib/clean.js"}
 "test/batch-test.js" {"test/batch-test.js"}
 "test/unit-test.js" {"test/unit-test.js"}
@@ -16,4 +15,7 @@ lib: [
 "test/data/blueprint.css" {"test/data/blueprint.css"}
 "test/data/reset-min.css" {"test/data/reset-min.css"}
 "test/data/reset.css" {"test/data/reset.css"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

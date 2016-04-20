@@ -32,3 +32,6 @@ lib: [
 "test/data/jquery-1.9.1.js" {"test/data/jquery-1.9.1.js"}
 "test/data/regexp-props.js" {"test/data/regexp-props.js"}
 ]
+libexec: [
+
+]

@@ -5,3 +5,6 @@ lib: [
 "LICENSE-MIT" {"LICENSE-MIT"}
 "lib/findup-sync.js" {"lib/findup-sync.js"}
 ]
+libexec: [
+
+]

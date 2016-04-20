@@ -67,3 +67,6 @@ lib: [
 "tasks/lib/prompt.js" {"tasks/lib/prompt.js"}
 "test/git_test.js" {"test/git_test.js"}
 ]
+libexec: [
+
+]

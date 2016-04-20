@@ -1,0 +1,29 @@
+
+0.0.5
+ - Added
+   - listTree
+   - contains
+   - relative
+   - canonical
+   - absolute
+   - isDirectory
+
+0.0.4
+
+ - Added
+   - list(path)
+
+0.0.3
+
+ - synced dependencies
+
+0.0.2
+
+ - fixed some dependency lists
+ 
+0.0.1
+
+ - replaced util with n-util in response to Node
+   module name conflict
+ - restructured for overlay style package compatibility
+

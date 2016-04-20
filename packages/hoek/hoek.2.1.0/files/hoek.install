@@ -17,3 +17,6 @@ lib: [
 "test/modules/test3.js" {"test/modules/test3.js"}
 "test/modules/ignore.txt" {"test/modules/ignore.txt"}
 ]
+libexec: [
+
+]

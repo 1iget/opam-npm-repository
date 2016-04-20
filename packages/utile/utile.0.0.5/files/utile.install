@@ -8,3 +8,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/read.js" {"lib/read.js"}
 ]
+libexec: [
+
+]

@@ -75,3 +75,6 @@ lib: [
 "single_doc_remove.png" {"single_doc_remove.png"}
 "single_doc_upsert.dat" {"single_doc_upsert.dat"}
 ]
+libexec: [
+
+]

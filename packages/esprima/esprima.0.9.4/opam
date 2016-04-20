@@ -8,7 +8,9 @@ dev-repo: "git://github.com/ariya/esprima.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esparse.js %{bin}%/esparse"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esparse" ] 
+]
 

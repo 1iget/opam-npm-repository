@@ -10,3 +10,6 @@ lib: [
 "test/contextify.js" {"test/contextify.js"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

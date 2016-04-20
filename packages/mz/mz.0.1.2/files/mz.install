@@ -12,3 +12,6 @@ lib: [
 "child_process.js" {"child_process.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

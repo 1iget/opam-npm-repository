@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"browser/TimeSpan-1.2.js" {"browser/TimeSpan-1.2.js"}
+"browser/TimeSpan-1.2.min.js" {"browser/TimeSpan-1.2.min.js"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/time-span.html" {"docs/time-span.html"}
+"lib/time-span.js" {"lib/time-span.js"}
+"test/time-span-test.js" {"test/time-span-test.js"}
+]
+libexec: [
+
+]

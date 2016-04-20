@@ -6,3 +6,6 @@ lib: [
 "param-case.js" {"param-case.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

@@ -20,3 +20,6 @@ lib: [
 "test/files/simplified_cjs-in.js" {"test/files/simplified_cjs-in.js"}
 "test/files/simplified_cjs-out.js" {"test/files/simplified_cjs-out.js"}
 ]
+libexec: [
+
+]

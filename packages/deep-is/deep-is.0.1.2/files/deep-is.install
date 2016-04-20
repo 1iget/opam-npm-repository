@@ -9,3 +9,6 @@ lib: [
 "test/NaN.js" {"test/NaN.js"}
 "test/neg-vs-pos-0.js" {"test/neg-vs-pos-0.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/File.js" {"lib/File.js"}
+"lib/log.js" {"lib/log.js"}
+"lib/prettyTime.js" {"lib/prettyTime.js"}
+"lib/realBase.js" {"lib/realBase.js"}
+"lib/replaceExtension.js" {"lib/replaceExtension.js"}
+"lib/template.js" {"lib/template.js"}
+"test/main.js" {"test/main.js"}
+]
+libexec: [
+
+]

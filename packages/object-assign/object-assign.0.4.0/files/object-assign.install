@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"object-assign.js" {"object-assign.js"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

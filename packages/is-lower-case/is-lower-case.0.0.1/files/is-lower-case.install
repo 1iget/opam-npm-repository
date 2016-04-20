@@ -6,3 +6,6 @@ lib: [
 "is-lower-case.js" {"is-lower-case.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

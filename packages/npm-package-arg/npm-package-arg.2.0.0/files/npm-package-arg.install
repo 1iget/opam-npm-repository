@@ -5,3 +5,6 @@ lib: [
 "npa.js" {"npa.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

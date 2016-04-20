@@ -44,3 +44,6 @@ lib: [
 "futures/examples/subscription.js" {"futures/examples/subscription.js"}
 "futures/examples/with-npm.js" {"futures/examples/with-npm.js"}
 ]
+libexec: [
+
+]

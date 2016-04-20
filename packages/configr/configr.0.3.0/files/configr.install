@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Jakefile.js" {"Jakefile.js"}
+".travis.yml" {".travis.yml"}
+"src/lib/configr.js" {"src/lib/configr.js"}
+"test/configr.js" {"test/configr.js"}
+"test/config_test/db.js" {"test/config_test/db.js"}
+"test/config_test/general.js" {"test/config_test/general.js"}
+"test/config_test/dev/db.js" {"test/config_test/dev/db.js"}
+"test/config_test/prod/db.js" {"test/config_test/prod/db.js"}
+"test/config_test/prod/general.js" {"test/config_test/prod/general.js"}
+"test/config_test/test.coffee" {"test/config_test/test.coffee"}
+]
+libexec: [
+
+]

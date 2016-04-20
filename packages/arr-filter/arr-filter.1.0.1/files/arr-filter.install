@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"benchmark/cb.js" {"benchmark/cb.js"}
+"benchmark/check.js" {"benchmark/check.js"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/code/array-filter.js" {"benchmark/code/array-filter.js"}
+"benchmark/code/for-splice.js" {"benchmark/code/for-splice.js"}
+"benchmark/code/for.js" {"benchmark/code/for.js"}
+"benchmark/code/native.js" {"benchmark/code/native.js"}
+"benchmark/code/for-splice-cont.js" {"benchmark/code/for-splice-cont.js"}
+"benchmark/code/while-iterator.js" {"benchmark/code/while-iterator.js"}
+"benchmark/code/while-reverse.js" {"benchmark/code/while-reverse.js"}
+"benchmark/code/while-splice-clone-cont.js" {"benchmark/code/while-splice-clone-cont.js"}
+"benchmark/code/while-splice-clone.js" {"benchmark/code/while-splice-clone.js"}
+"benchmark/code/while-splice-cont-iter.js" {"benchmark/code/while-splice-cont-iter.js"}
+"benchmark/code/for-splice-clone.js" {"benchmark/code/for-splice-clone.js"}
+"benchmark/code/while-splice-cont.js" {"benchmark/code/while-splice-cont.js"}
+"benchmark/code/for-iterator.js" {"benchmark/code/for-iterator.js"}
+"benchmark/code/while-splice-cont2.js" {"benchmark/code/while-splice-cont2.js"}
+"benchmark/code/for-in.js" {"benchmark/code/for-in.js"}
+"benchmark/code/while-splice.js" {"benchmark/code/while-splice.js"}
+"benchmark/code/current.js" {"benchmark/code/current.js"}
+"benchmark/code/while.js" {"benchmark/code/while.js"}
+"benchmark/code/while-end.js" {"benchmark/code/while-end.js"}
+"benchmark/fixtures/deep.js" {"benchmark/fixtures/deep.js"}
+"benchmark/fixtures/long.js" {"benchmark/fixtures/long.js"}
+"benchmark/fixtures/mid.js" {"benchmark/fixtures/mid.js"}
+"benchmark/fixtures/shallow.js" {"benchmark/fixtures/shallow.js"}
+"benchmark/fixtures/short.js" {"benchmark/fixtures/short.js"}
+]
+libexec: [
+
+]

@@ -104,3 +104,6 @@ lib: [
 "nodeca-pako-d846c78/test/mocha.opts" {"nodeca-pako-d846c78/test/mocha.opts"}
 "nodeca-pako-d846c78/test/strings.js" {"nodeca-pako-d846c78/test/strings.js"}
 ]
+libexec: [
+
+]

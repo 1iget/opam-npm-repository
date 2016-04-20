@@ -6,3 +6,6 @@ lib: [
 "process.js" {"process.js"}
 "changelog.md" {"changelog.md"}
 ]
+libexec: [
+
+]

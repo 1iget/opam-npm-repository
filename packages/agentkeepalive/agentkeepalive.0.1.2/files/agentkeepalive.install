@@ -13,3 +13,6 @@ lib: [
 "test/agent.js" {"test/agent.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

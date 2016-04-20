@@ -10,3 +10,6 @@ lib: [
 "test/checksum.js" {"test/checksum.js"}
 "test/helpers/index.js" {"test/helpers/index.js"}
 ]
+libexec: [
+
+]

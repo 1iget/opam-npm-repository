@@ -48,3 +48,6 @@ lib: [
 "sitesrc/js/snippet.js" {"sitesrc/js/snippet.js"}
 "sitesrc/js/unit-tests.js" {"sitesrc/js/unit-tests.js"}
 ]
+libexec: [
+
+]

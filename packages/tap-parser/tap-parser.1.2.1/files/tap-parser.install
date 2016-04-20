@@ -243,3 +243,6 @@ lib: [
 "test/fixtures/zero_valid.json" {"test/fixtures/zero_valid.json"}
 "test/fixtures/zero_valid.tap" {"test/fixtures/zero_valid.tap"}
 ]
+libexec: [
+
+]

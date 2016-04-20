@@ -57,3 +57,6 @@ lib: [
 "test/issue/9.js" {"test/issue/9.js"}
 "q-spec.html" {"q-spec.html"}
 ]
+libexec: [
+
+]

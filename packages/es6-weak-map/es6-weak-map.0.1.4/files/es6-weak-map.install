@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"polyfill.js" {"polyfill.js"}
+"implement.js" {"implement.js"}
+"index.js" {"index.js"}
+"is-weak-map.js" {"is-weak-map.js"}
+"is-native-implemented.js" {"is-native-implemented.js"}
+"valid-weak-map.js" {"valid-weak-map.js"}
+"is-implemented.js" {"is-implemented.js"}
+".lint" {".lint"}
+"CHANGES" {"CHANGES"}
+".travis.yml" {".travis.yml"}
+"test/implement.js" {"test/implement.js"}
+"test/index.js" {"test/index.js"}
+"test/is-implemented.js" {"test/is-implemented.js"}
+"test/is-native-implemented.js" {"test/is-native-implemented.js"}
+"test/is-weak-map.js" {"test/is-weak-map.js"}
+"test/polyfill.js" {"test/polyfill.js"}
+"test/valid-weak-map.js" {"test/valid-weak-map.js"}
+]
+libexec: [
+
+]

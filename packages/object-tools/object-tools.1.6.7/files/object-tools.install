@@ -17,3 +17,6 @@ lib: [
 "test/without.js" {"test/without.js"}
 ".jshintrc" {".jshintrc"}
 ]
+libexec: [
+
+]

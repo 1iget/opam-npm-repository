@@ -21,3 +21,6 @@ lib: [
 "templates/release-history.md" {"templates/release-history.md"}
 "templates/report-bugs.md" {"templates/report-bugs.md"}
 ]
+libexec: [
+
+]

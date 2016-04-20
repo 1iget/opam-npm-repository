@@ -8,3 +8,6 @@ lib: [
 "test/test.html" {"test/test.html"}
 "test/test.php" {"test/test.php"}
 ]
+libexec: [
+
+]

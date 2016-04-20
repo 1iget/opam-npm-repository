@@ -4,3 +4,6 @@ lib: [
 "LICENSE-MIT" {"LICENSE-MIT"}
 "lib/compress-commons.js" {"lib/compress-commons.js"}
 ]
+libexec: [
+
+]

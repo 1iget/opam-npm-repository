@@ -33,7 +33,6 @@ lib: [
 "CHANGELOG.txt" {"CHANGELOG.txt"}
 "package.json" {"package.json"}
 "bin/" {"bin/"}
-"bin/jsbuild" {"bin/jsbuild"}
 "src/" {"src/"}
 "src/hash.js" {"src/hash.js"}
 "src/constant_scope.js" {"src/constant_scope.js"}
@@ -66,4 +65,7 @@ lib: [
 "src/loader.js" {"src/loader.js"}
 "README.txt" {"README.txt"}
 "LICENSE.txt" {"LICENSE.txt"}
+]
+libexec: [
+"bin/jsbuild" {"bin/jsbuild"}
 ]

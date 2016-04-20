@@ -31,3 +31,6 @@ lib: [
 "test/node/test-buffer.js" {"test/node/test-buffer.js"}
 "test/node/README.txt" {"test/node/README.txt"}
 ]
+libexec: [
+
+]

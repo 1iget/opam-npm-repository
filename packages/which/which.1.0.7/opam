@@ -8,7 +8,9 @@ dev-repo: "git://github.com/isaacs/node-which.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/which %{bin}%/which"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/which" ] 
+]
 

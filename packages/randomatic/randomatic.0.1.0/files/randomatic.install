@@ -9,3 +9,6 @@ lib: [
 "examples/examples.js" {"examples/examples.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

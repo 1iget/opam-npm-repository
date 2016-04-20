@@ -21,3 +21,6 @@ lib: [
 "examples/opt.js" {"examples/opt.js"}
 "examples/shallow.js" {"examples/shallow.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/core.js" {"lib/core.js"}
+"lib/plugins/json.js" {"lib/plugins/json.js"}
+"lib/plugins/tar.js" {"lib/plugins/tar.js"}
+"lib/plugins/zip.js" {"lib/plugins/zip.js"}
+]
+libexec: [
+
+]

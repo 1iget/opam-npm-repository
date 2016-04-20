@@ -35,3 +35,6 @@ lib: [
 "lib/utils/eql.js" {"lib/utils/eql.js"}
 "lib/utils/inspect.js" {"lib/utils/inspect.js"}
 ]
+libexec: [
+
+]

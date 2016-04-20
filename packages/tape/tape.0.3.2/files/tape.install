@@ -14,7 +14,6 @@ lib: [
 "example/static/server.js" {"example/static/server.js"}
 "example/static/index.html" {"example/static/index.html"}
 "example/static/build.sh" {"example/static/build.sh"}
-"bin/tape" {"bin/tape"}
 "readme.markdown" {"readme.markdown"}
 ".travis.yml" {".travis.yml"}
 "lib/render.js" {"lib/render.js"}
@@ -42,4 +41,7 @@ lib: [
 "test/max_listeners/source.js" {"test/max_listeners/source.js"}
 "test/browser/output.js" {"test/browser/output.js"}
 "test/browser/array.js" {"test/browser/array.js"}
+]
+libexec: [
+"bin/tape" {"bin/tape"}
 ]

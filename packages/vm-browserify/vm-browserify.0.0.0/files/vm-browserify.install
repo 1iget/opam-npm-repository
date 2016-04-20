@@ -9,3 +9,6 @@ lib: [
 "example/run/server.js" {"example/run/server.js"}
 "example/run/entry.js" {"example/run/entry.js"}
 ]
+libexec: [
+
+]

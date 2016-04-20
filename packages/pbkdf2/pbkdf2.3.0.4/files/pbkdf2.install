@@ -11,3 +11,6 @@ lib: [
 "test/fixtures.json" {"test/fixtures.json"}
 "test/index.html" {"test/index.html"}
 ]
+libexec: [
+
+]

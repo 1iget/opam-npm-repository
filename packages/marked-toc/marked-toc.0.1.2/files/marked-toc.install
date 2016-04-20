@@ -11,3 +11,6 @@ lib: [
 "test/expected/toc.md" {"test/expected/toc.md"}
 "test/fixtures/README.md" {"test/fixtures/README.md"}
 ]
+libexec: [
+
+]

@@ -19,3 +19,6 @@ lib: [
 "tmp/test.js" {"tmp/test.js"}
 "tools/node.js" {"tools/node.js"}
 ]
+libexec: [
+
+]

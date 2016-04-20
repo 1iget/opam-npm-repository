@@ -11,3 +11,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

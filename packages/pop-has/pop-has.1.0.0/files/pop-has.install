@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"has.js" {"has.js"}
+"pop-has.js" {"pop-has.js"}
+"test/has-test.js" {"test/has-test.js"}
+"test/pop-has-test.js" {"test/pop-has-test.js"}
+]
+libexec: [
+
+]

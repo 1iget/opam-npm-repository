@@ -7,3 +7,6 @@ lib: [
 "entities/html5.json" {"entities/html5.json"}
 "entities/xml.json" {"entities/xml.json"}
 ]
+libexec: [
+
+]

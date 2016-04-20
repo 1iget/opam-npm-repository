@@ -5,7 +5,6 @@ lib: [
 "index.js" {"index.js"}
 "src/bufferutil.cc" {"src/bufferutil.cc"}
 "src/validation.cc" {"src/validation.cc"}
-"bin/wscat" {"bin/wscat"}
 ".travis.yml" {".travis.yml"}
 "builderror.log" {"builderror.log"}
 "History.md" {"History.md"}
@@ -24,4 +23,7 @@ lib: [
 "lib/Sender.hixie.js" {"lib/Sender.hixie.js"}
 "Makefile" {"Makefile"}
 "binding.gyp" {"binding.gyp"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

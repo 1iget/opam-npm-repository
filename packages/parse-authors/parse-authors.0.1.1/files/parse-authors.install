@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/NO-EMAIL" {"test/fixtures/NO-EMAIL"}
 "test/fixtures/NO-URL" {"test/fixtures/NO-URL"}
 ]
+libexec: [
+
+]

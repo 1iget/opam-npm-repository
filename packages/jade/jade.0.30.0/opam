@@ -17,7 +17,9 @@ depends: [
 "monocle" {>="0.1.46" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jade %{bin}%/jade"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jade" ] 
+]
 

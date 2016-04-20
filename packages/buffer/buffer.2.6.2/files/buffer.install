@@ -44,3 +44,6 @@ lib: [
 "test/write.js" {"test/write.js"}
 "test/slice.js" {"test/slice.js"}
 ]
+libexec: [
+
+]

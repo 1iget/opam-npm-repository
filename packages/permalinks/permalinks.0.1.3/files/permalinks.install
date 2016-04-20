@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"permalinks.js" {"permalinks.js"}
+".gitattributes" {".gitattributes"}
+"docs/examples.md" {"docs/examples.md"}
+"docs/options.md" {"docs/options.md"}
+"docs/patterns.md" {"docs/patterns.md"}
+"docs/quickstart.md" {"docs/quickstart.md"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+"docs/seo.md" {"docs/seo.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]
+libexec: [
+
+]

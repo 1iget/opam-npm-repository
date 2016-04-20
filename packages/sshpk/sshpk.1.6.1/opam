@@ -21,7 +21,9 @@ depends: [
 "ecc-jsbn" {>="0.0.1" & <"1.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/sshpk-conv %{bin}%/sshpk-conv"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/sshpk-conv" ] 
+]
 

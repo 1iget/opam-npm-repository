@@ -3,3 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "regenerate.js" {"regenerate.js"}
 ]
+libexec: [
+
+]

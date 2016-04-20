@@ -68,3 +68,6 @@ lib: [
 "templates/node/root/test/name_test.js" {"templates/node/root/test/name_test.js"}
 "test/git_test.js" {"test/git_test.js"}
 ]
+libexec: [
+
+]

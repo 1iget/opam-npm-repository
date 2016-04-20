@@ -17,3 +17,6 @@ lib: [
 "test/always/main.js" {"test/always/main.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

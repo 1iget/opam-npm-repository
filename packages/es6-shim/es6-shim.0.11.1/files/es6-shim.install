@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"es6-shim.js" {"es6-shim.js"}
+"es6-shim.min.js" {"es6-shim.min.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+"es6-shim.map" {"es6-shim.map"}
+]
+libexec: [
+
+]

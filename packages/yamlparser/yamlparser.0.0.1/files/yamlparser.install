@@ -7,3 +7,6 @@ lib: [
 "tests/server.js" {"tests/server.js"}
 "tests/example.yml" {"tests/example.yml"}
 ]
+libexec: [
+
+]

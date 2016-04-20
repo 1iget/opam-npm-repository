@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "lib/zip-stream.js" {"lib/zip-stream.js"}
 ]
+libexec: [
+
+]

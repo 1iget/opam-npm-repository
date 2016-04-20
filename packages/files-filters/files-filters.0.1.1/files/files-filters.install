@@ -33,3 +33,6 @@ lib: [
 "utils/segment.js" {"utils/segment.js"}
 "utils/is-dir.js" {"utils/is-dir.js"}
 ]
+libexec: [
+
+]

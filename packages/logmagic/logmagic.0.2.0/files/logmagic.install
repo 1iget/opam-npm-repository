@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"NOTICE" {"NOTICE"}
+"foo.json" {"foo.json"}
+"lib/console.js" {"lib/console.js"}
+"lib/graylog.js" {"lib/graylog.js"}
+"lib/levels.js" {"lib/levels.js"}
+"lib/logger.js" {"lib/logger.js"}
+"lib/logmagic.js" {"lib/logmagic.js"}
+"tests/bench.js" {"tests/bench.js"}
+"tests/t.js" {"tests/t.js"}
+]
+libexec: [
+
+]

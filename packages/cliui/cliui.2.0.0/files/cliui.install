@@ -8,3 +8,6 @@ lib: [
 "LICENSE.txt" {"LICENSE.txt"}
 "test/cliui.js" {"test/cliui.js"}
 ]
+libexec: [
+
+]

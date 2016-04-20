@@ -5,3 +5,6 @@ lib: [
 "stringstream.js" {"stringstream.js"}
 "test.coffee" {"test.coffee"}
 ]
+libexec: [
+
+]

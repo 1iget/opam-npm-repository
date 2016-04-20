@@ -11,7 +11,9 @@ depends: [
 "acorn-jsx" {>="2.0.1" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esvalidate.js %{bin}%/esvalidate"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esvalidate" ] 
+]
 

@@ -6,8 +6,6 @@ lib: [
 "CNAME" {"CNAME"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "Rakefile" {"Rakefile"}
-"bin/cake" {"bin/cake"}
-"bin/coffee" {"bin/coffee"}
 "lib/coffee-script/browser.js" {"lib/coffee-script/browser.js"}
 "lib/coffee-script/grammar.js" {"lib/coffee-script/grammar.js"}
 "lib/coffee-script/helpers.js" {"lib/coffee-script/helpers.js"}
@@ -23,4 +21,8 @@ lib: [
 "lib/coffee-script/cake.js" {"lib/coffee-script/cake.js"}
 "lib/coffee-script/sourcemap.js" {"lib/coffee-script/sourcemap.js"}
 "lib/coffee-script/lexer.js" {"lib/coffee-script/lexer.js"}
+]
+libexec: [
+"bin/cake" {"bin/cake"}
+"bin/coffee" {"bin/coffee"}
 ]

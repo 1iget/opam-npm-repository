@@ -29,3 +29,6 @@ lib: [
 "man/man1/sshpk-sign.1" {"man/man1/sshpk-sign.1"}
 "man/man1/sshpk-verify.1" {"man/man1/sshpk-verify.1"}
 ]
+libexec: [
+
+]

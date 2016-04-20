@@ -29,3 +29,6 @@ lib: [
 "test/teamcity_reporter.html" {"test/teamcity_reporter.html"}
 "test/nunit_xml_reporter.html" {"test/nunit_xml_reporter.html"}
 ]
+libexec: [
+
+]

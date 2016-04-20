@@ -9,7 +9,9 @@ depends: [
 "commander" {>="1.3.0" & <"1.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cleancss %{bin}%/cleancss"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/cleancss" ] 
+]
 

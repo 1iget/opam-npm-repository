@@ -6,3 +6,6 @@ lib: [
 ".jshintrc" {".jshintrc"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 ]
+libexec: [
+
+]

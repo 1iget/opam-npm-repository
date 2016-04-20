@@ -3,7 +3,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "app.js" {"app.js"}
 "bin/" {"bin/"}
-"bin/twigjs" {"bin/twigjs"}
 "demos/" {"demos/"}
 "demos/node_express/" {"demos/node_express/"}
 "demos/node_express/app.js" {"demos/node_express/app.js"}
@@ -44,4 +43,7 @@ lib: [
 "README.md" {"README.md"}
 "twig.js" {"twig.js"}
 "twig.min.js" {"twig.min.js"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

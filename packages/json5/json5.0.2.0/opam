@@ -8,7 +8,9 @@ dev-repo: "git://github.com/aseemk/json5.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/lib/cli.js %{bin}%/json5"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/json5" ] 
+]
 

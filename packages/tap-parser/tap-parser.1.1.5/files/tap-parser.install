@@ -85,3 +85,6 @@ lib: [
 "test/fixtures/comment-mid-diag.tap" {"test/fixtures/comment-mid-diag.tap"}
 "test/fixtures/not-ok.tap" {"test/fixtures/not-ok.tap"}
 ]
+libexec: [
+
+]

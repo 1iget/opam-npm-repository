@@ -6,3 +6,6 @@ lib: [
 "glob.js" {"glob.js"}
 "sync.js" {"sync.js"}
 ]
+libexec: [
+
+]

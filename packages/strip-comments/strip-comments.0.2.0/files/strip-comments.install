@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+"test/test.js" {"test/test.js"}
+"test/expected/strip-all.js" {"test/expected/strip-all.js"}
+"test/expected/strip-keep-block.js" {"test/expected/strip-keep-block.js"}
+"test/expected/strip-keep-line.js" {"test/expected/strip-keep-line.js"}
+"test/fixtures/strip-all.js" {"test/fixtures/strip-all.js"}
+"test/fixtures/strip-keep-line.js" {"test/fixtures/strip-keep-line.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

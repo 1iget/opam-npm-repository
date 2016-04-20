@@ -7,3 +7,6 @@ lib: [
 "lib/root-keys.js" {"lib/root-keys.js"}
 "lib/utils.js" {"lib/utils.js"}
 ]
+libexec: [
+
+]

@@ -7,3 +7,6 @@ lib: [
 "README" {"README"}
 "test/directory.js" {"test/directory.js"}
 ]
+libexec: [
+
+]

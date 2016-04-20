@@ -13,7 +13,9 @@ depends: [
 "deep-extend" {>="0.2.5" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./index.js %{bin}%/rc"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/rc" ] 
+]
 

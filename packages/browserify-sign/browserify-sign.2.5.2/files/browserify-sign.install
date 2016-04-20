@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"verify.js" {"verify.js"}
+"algos.js" {"algos.js"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+"utils.js" {"utils.js"}
+"sign.js" {"sign.js"}
+"test.js" {"test.js"}
+"foo.pem" {"foo.pem"}
+".travis.yml" {".travis.yml"}
+"pub.pem" {"pub.pem"}
+"readme.md" {"readme.md"}
+"rsa.priv" {"rsa.priv"}
+"rsa.pub" {"rsa.pub"}
+"test/index.js" {"test/index.js"}
+"test/pass.1024.priv" {"test/pass.1024.priv"}
+"test/ec.pass.priv" {"test/ec.pass.priv"}
+"test/ec.priv" {"test/ec.priv"}
+"test/ec.pub" {"test/ec.pub"}
+"test/1024.priv" {"test/1024.priv"}
+"test/1024.pub" {"test/1024.pub"}
+"test/pass.1024.pub" {"test/pass.1024.pub"}
+"test/rsa.1024.priv" {"test/rsa.1024.priv"}
+"test/rsa.1024.pub" {"test/rsa.1024.pub"}
+"test/rsa.2028.priv" {"test/rsa.2028.priv"}
+"test/rsa.2028.pub" {"test/rsa.2028.pub"}
+"algos.json" {"algos.json"}
+"priv.pem" {"priv.pem"}
+]
+libexec: [
+
+]

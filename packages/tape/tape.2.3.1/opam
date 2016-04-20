@@ -19,7 +19,9 @@ depends: [
 "inherits" {>="2.0.1" & <"2.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/tape %{bin}%/tape"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tape" ] 
+]
 

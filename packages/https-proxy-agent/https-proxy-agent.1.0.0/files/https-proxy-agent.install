@@ -9,3 +9,6 @@ lib: [
 "test/ssl-cert-snakeoil.key" {"test/ssl-cert-snakeoil.key"}
 "test/ssl-cert-snakeoil.pem" {"test/ssl-cert-snakeoil.pem"}
 ]
+libexec: [
+
+]

@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "ISC"
 dev-repo: "git://github.com/calvinmetcalf/browserify-sign.git"
 depends: [
-"bn.js" {>="1.0.0" & <"2.0.0"}
+"bn_js" {>="1.0.0" & <"2.0.0"}
 
 "browserify-rsa" {>="1.1.0" & <"2.0.0"}
 

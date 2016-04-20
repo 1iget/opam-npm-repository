@@ -9,3 +9,6 @@ lib: [
 "lib/parallel.js" {"lib/parallel.js"}
 "lib/series.js" {"lib/series.js"}
 ]
+libexec: [
+
+]

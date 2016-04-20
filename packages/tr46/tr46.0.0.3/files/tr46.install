@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"lib/.gitkeep" {"lib/.gitkeep"}
+"lib/mappingTable.json" {"lib/mappingTable.json"}
+]
+libexec: [
+
+]

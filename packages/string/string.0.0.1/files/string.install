@@ -4,6 +4,8 @@ lib: [
 "package.json" {"package.json"}
 "README.asciidoc" {"README.asciidoc"}
 "String.coffee" {"String.coffee"}
-"bin/TEST_stringjs" {"bin/TEST_stringjs"}
 "spec/String.spec.coffee" {"spec/String.spec.coffee"}
+]
+libexec: [
+"bin/TEST_stringjs" {"bin/TEST_stringjs"}
 ]

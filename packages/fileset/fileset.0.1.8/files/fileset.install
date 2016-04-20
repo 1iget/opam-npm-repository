@@ -9,3 +9,6 @@ lib: [
 "tests/test.js" {"tests/test.js"}
 "tests/fixtures/an (odd) filename.js" {"tests/fixtures/an (odd) filename.js"}
 ]
+libexec: [
+
+]

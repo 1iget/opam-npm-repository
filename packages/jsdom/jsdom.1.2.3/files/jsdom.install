@@ -33,3 +33,6 @@ lib: [
 "lib/jsdom/living/node.js" {"lib/jsdom/living/node.js"}
 "lib/jsdom/selectors/index.js" {"lib/jsdom/selectors/index.js"}
 ]
+libexec: [
+
+]

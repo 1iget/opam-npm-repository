@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"request.js" {"request.js"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/auth.js" {"lib/auth.js"}
+"lib/cookies.js" {"lib/cookies.js"}
+"lib/getProxyFromURI.js" {"lib/getProxyFromURI.js"}
+"lib/har.js" {"lib/har.js"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/multipart.js" {"lib/multipart.js"}
+"lib/oauth.js" {"lib/oauth.js"}
+"lib/querystring.js" {"lib/querystring.js"}
+"lib/redirect.js" {"lib/redirect.js"}
+"lib/tunnel.js" {"lib/tunnel.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+".eslintrc" {".eslintrc"}
+]
+libexec: [
+
+]

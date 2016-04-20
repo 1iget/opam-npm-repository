@@ -17,3 +17,6 @@ lib: [
 "test/yes-defaults.js" {"test/yes-defaults.js"}
 "test/basic.input" {"test/basic.input"}
 ]
+libexec: [
+
+]

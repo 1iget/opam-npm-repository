@@ -21,3 +21,6 @@ lib: [
 "test/root.js" {"test/root.js"}
 "test/zz-cleanup.js" {"test/zz-cleanup.js"}
 ]
+libexec: [
+
+]

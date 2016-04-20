@@ -17,3 +17,6 @@ lib: [
 "lib/app-root-path.js" {"lib/app-root-path.js"}
 "lib/resolve.js" {"lib/resolve.js"}
 ]
+libexec: [
+
+]

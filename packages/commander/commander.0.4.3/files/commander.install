@@ -33,3 +33,6 @@ lib: [
 "test/test.options.large-only-with-value.js" {"test/test.options.large-only-with-value.js"}
 "test/test.options.large-only.js" {"test/test.options.large-only.js"}
 ]
+libexec: [
+
+]

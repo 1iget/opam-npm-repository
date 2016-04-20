@@ -7,7 +7,6 @@ lib: [
 "bench/speed.js" {"bench/speed.js"}
 "bench/util.js" {"bench/util.js"}
 "bin/" {"bin/"}
-"bin/wscat" {"bin/wscat"}
 "binding.gyp" {"binding.gyp"}
 "doc/" {"doc/"}
 "doc/ws.md" {"doc/ws.md"}
@@ -67,4 +66,7 @@ lib: [
 "test/WebSocket.test.js" {"test/WebSocket.test.js"}
 "test/WebSocketServer.test.js" {"test/WebSocketServer.test.js"}
 "wscript" {"wscript"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

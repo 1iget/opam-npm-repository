@@ -47,7 +47,9 @@ depends: [
 "user-home" {>="2.0.0" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esformatter %{bin}%/esformatter"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esformatter" ] 
+]
 

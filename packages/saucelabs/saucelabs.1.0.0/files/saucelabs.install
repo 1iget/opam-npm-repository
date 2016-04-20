@@ -14,3 +14,6 @@ lib: [
 "test/helpers/index.js" {"test/helpers/index.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

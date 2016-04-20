@@ -60,3 +60,6 @@ lib: [
 "docs/hijs.js" {"docs/hijs.js"}
 "docs/index.html" {"docs/index.html"}
 ]
+libexec: [
+
+]

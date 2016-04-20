@@ -43,3 +43,6 @@ lib: [
 "examples/arguments.js" {"examples/arguments.js"}
 "examples/parents.js" {"examples/parents.js"}
 ]
+libexec: [
+
+]

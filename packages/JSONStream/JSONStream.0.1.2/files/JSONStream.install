@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/all_npm.json" {"test/fixtures/all_npm.json"}
 "test/fixtures/all_docs_include.json" {"test/fixtures/all_docs_include.json"}
 ]
+libexec: [
+
+]

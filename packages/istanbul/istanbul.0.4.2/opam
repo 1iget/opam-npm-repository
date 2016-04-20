@@ -35,7 +35,9 @@ depends: [
 "wordwrap" {>="1.0.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/cli.js %{bin}%/istanbul"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/istanbul" ] 
+]
 

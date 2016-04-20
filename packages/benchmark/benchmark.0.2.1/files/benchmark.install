@@ -1,0 +1,21 @@
+lib: [
+"" {""}
+".npmignore" {".npmignore"}
+"._benchmark.js" {"._benchmark.js"}
+"benchmark.js" {"benchmark.js"}
+"docs/" {"docs/"}
+"LICENSE.txt" {"LICENSE.txt"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"tests/narwhal.js" {"tests/narwhal.js"}
+"tests/node.js" {"tests/node.js"}
+"tests/rhino.js" {"tests/rhino.js"}
+"tests/ringo.js" {"tests/ringo.js"}
+"tests/tests.js" {"tests/tests.js"}
+"docs/README.md" {"docs/README.md"}
+]
+libexec: [
+
+]

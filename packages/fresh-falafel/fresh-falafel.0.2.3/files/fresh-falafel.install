@@ -1,0 +1,33 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/libraries/jasmine.xml" {".idea/libraries/jasmine.xml"}
+".idea/libraries/node_falafel_node_modules.xml" {".idea/libraries/node_falafel_node_modules.xml"}
+".idea/compiler.xml" {".idea/compiler.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/node-falafel.iml" {".idea/node-falafel.iml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".travis.yml" {".travis.yml"}
+"example/array.js" {"example/array.js"}
+"example/keyword.js" {"example/keyword.js"}
+"example/prompt.js" {"example/prompt.js"}
+"readme.markdown" {"readme.markdown"}
+"test/array.js" {"test/array.js"}
+"test/async.js" {"test/async.js"}
+"test/breadthFirstFn.js" {"test/breadthFirstFn.js"}
+"test/for.js" {"test/for.js"}
+"test/keyword.js" {"test/keyword.js"}
+"test/parent.js" {"test/parent.js"}
+"test/setParser.js" {"test/setParser.js"}
+"test/bin/run.js" {"test/bin/run.js"}
+]
+libexec: [
+
+]

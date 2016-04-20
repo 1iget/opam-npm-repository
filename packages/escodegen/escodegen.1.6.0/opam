@@ -17,7 +17,9 @@ depends: [
 "source-map" {>="0.1.40" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/escodegen.js %{bin}%/escodegen"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/escodegen" ] 
+]
 

@@ -13,3 +13,6 @@ lib: [
 "examples/package.json" {"examples/package.json"}
 "examples/single-property.js" {"examples/single-property.js"}
 ]
+libexec: [
+
+]

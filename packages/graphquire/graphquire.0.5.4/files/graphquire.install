@@ -13,7 +13,6 @@ lib: [
 "bin/.graphquire.coffee.un~" {"bin/.graphquire.coffee.un~"}
 "bin/.graphquire.js.un~" {"bin/.graphquire.js.un~"}
 "bin/.teleport.js.un~" {"bin/.teleport.js.un~"}
-"bin/graphquire.js" {"bin/graphquire.js"}
 "utils/.deployment.js.un~" {"utils/.deployment.js.un~"}
 "utils/.fs.js.un~" {"utils/.fs.js.un~"}
 "utils/deployment.js" {"utils/deployment.js"}
@@ -34,4 +33,7 @@ lib: [
 "test/fixtures/pckg1/node_modules/http!foo.org/a.js" {"test/fixtures/pckg1/node_modules/http!foo.org/a.js"}
 "test/fixtures/pckg1/node_modules/http!foo.org/nested/.b.js.un~" {"test/fixtures/pckg1/node_modules/http!foo.org/nested/.b.js.un~"}
 "test/fixtures/pckg1/node_modules/http!foo.org/nested/b.js" {"test/fixtures/pckg1/node_modules/http!foo.org/nested/b.js"}
+]
+libexec: [
+"bin/graphquire.js" {"bin/graphquire.js"}
 ]

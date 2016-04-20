@@ -21,3 +21,6 @@ lib: [
 "test/file.test.js" {"test/file.test.js"}
 "test/generator.test.js" {"test/generator.test.js"}
 ]
+libexec: [
+
+]

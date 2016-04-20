@@ -15,7 +15,9 @@ depends: [
 "request" {>="2.12.0" & <"2.13.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/bin.js %{bin}%/wd"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/wd" ] 
+]
 

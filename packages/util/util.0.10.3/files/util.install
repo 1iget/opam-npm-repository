@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"util.js" {"util.js"}
+".travis.yml" {".travis.yml"}
+".zuul.yml" {".zuul.yml"}
+"support/isBuffer.js" {"support/isBuffer.js"}
+"support/isBufferBrowser.js" {"support/isBufferBrowser.js"}
+"test/browser/inspect.js" {"test/browser/inspect.js"}
+"test/browser/is.js" {"test/browser/is.js"}
+"test/node/debug.js" {"test/node/debug.js"}
+"test/node/format.js" {"test/node/format.js"}
+"test/node/inspect.js" {"test/node/inspect.js"}
+"test/node/log.js" {"test/node/log.js"}
+"test/node/util.js" {"test/node/util.js"}
+]
+libexec: [
+
+]

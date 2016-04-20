@@ -11,7 +11,9 @@ depends: [
 "glob" {>="3.2.11" & <"4.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jasmine.js %{bin}%/jasmine"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasmine" ] 
+]
 

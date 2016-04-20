@@ -6,3 +6,6 @@ lib: [
 "test/rewrite.js" {"test/rewrite.js"}
 "src/lib/rewrite.js" {"src/lib/rewrite.js"}
 ]
+libexec: [
+
+]

@@ -28,7 +28,6 @@ lib: [
 "bench/sender.benchmark.js" {"bench/sender.benchmark.js"}
 "bench/speed.js" {"bench/speed.js"}
 "bench/util.js" {"bench/util.js"}
-"bin/wscat" {"bin/wscat"}
 "binding.gyp" {"binding.gyp"}
 ".travis.yml" {".travis.yml"}
 "doc/ws.md" {"doc/ws.md"}
@@ -63,4 +62,7 @@ lib: [
 "src/bufferutil.cc" {"src/bufferutil.cc"}
 "src/validation.cc" {"src/validation.cc"}
 "builderror.log" {"builderror.log"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

@@ -12,3 +12,6 @@ lib: [
 "examples/pdfcreator.js" {"examples/pdfcreator.js"}
 "test/temp-test.js" {"test/temp-test.js"}
 ]
+libexec: [
+
+]

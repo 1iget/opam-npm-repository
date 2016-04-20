@@ -23,3 +23,6 @@ lib: [
 "test/too_many.js" {"test/too_many.js"}
 "test/offset_mismatch.js" {"test/offset_mismatch.js"}
 ]
+libexec: [
+
+]

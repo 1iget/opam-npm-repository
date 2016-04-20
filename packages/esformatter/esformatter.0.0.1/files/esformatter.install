@@ -26,3 +26,6 @@ lib: [
 "test/compare/default/var-out.js" {"test/compare/default/var-out.js"}
 "test/compare/default/logical_expression-in.js" {"test/compare/default/logical_expression-in.js"}
 ]
+libexec: [
+
+]

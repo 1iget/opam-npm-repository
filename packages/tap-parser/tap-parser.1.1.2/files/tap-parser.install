@@ -77,3 +77,6 @@ lib: [
 "test/fixtures/yamlish.tap" {"test/fixtures/yamlish.tap"}
 "test/fixtures/offset.tap" {"test/fixtures/offset.tap"}
 ]
+libexec: [
+
+]

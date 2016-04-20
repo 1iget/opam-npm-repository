@@ -9,7 +9,9 @@ depends: [
 "is-absolute" {>="0.1.7" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/which %{bin}%/which"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/which" ] 
+]
 

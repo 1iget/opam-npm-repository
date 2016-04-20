@@ -10,3 +10,6 @@ lib: [
 "test/static/index.html" {"test/static/index.html"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

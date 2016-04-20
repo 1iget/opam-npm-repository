@@ -1,0 +1,15 @@
+lib: [
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"README.markdown" {"README.markdown"}
+"package.json" {"package.json"}
+"example/wrap.js" {"example/wrap.js"}
+"example/microwave.js" {"example/microwave.js"}
+"test/wrap.js" {"test/wrap.js"}
+"test/microwave.js" {"test/microwave.js"}
+"test/err.js" {"test/err.js"}
+"test/parent.js" {"test/parent.js"}
+]
+libexec: [
+
+]

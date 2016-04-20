@@ -10,3 +10,6 @@ lib: [
 "data/iu-mappings.json" {"data/iu-mappings.json"}
 "man/regexpu.1" {"man/regexpu.1"}
 ]
+libexec: [
+
+]

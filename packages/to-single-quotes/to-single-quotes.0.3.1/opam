@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/to-single-quotes"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/to-single-quotes"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/to-single-quotes" ] 
+]
 

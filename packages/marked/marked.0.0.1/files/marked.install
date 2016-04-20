@@ -6,3 +6,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "lib/marked.js" {"lib/marked.js"}
 ]
+libexec: [
+
+]

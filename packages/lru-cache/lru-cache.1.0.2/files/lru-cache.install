@@ -5,3 +5,6 @@ lib: [
 "node-lru-cache/README.md" {"node-lru-cache/README.md"}
 "node-lru-cache/lib/lru-cache.js" {"node-lru-cache/lib/lru-cache.js"}
 ]
+libexec: [
+
+]

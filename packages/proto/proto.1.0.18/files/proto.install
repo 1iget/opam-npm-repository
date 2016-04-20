@@ -12,3 +12,6 @@ lib: [
 "test/browserAMDtest.html" {"test/browserAMDtest.html"}
 "test/browserGlobalTest.html" {"test/browserGlobalTest.html"}
 ]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ dev-repo: "http://github.com/eslint/espree.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esvalidate.js %{bin}%/esvalidate"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esvalidate" ] 
+]
 

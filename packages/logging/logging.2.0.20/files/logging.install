@@ -19,3 +19,6 @@ lib: [
 "readme.md" {"readme.md"}
 "test/logging.test.js" {"test/logging.test.js"}
 ]
+libexec: [
+
+]

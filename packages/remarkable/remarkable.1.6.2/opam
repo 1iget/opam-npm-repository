@@ -11,7 +11,9 @@ depends: [
 "autolinker" {>="0.15.0" & <"0.16.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/remarkable.js %{bin}%/remarkable"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/remarkable" ] 
+]
 

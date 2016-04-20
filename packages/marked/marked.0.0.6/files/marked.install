@@ -6,7 +6,6 @@ lib: [
 "index.js" {"index.js"}
 "README.md" {"README.md"}
 "lib/marked.js" {"lib/marked.js"}
-"bin/marked" {"bin/marked"}
 "test/main.md" {"test/main.md"}
 "test/main.html" {"test/main.html"}
 "test/README" {"test/README"}
@@ -101,4 +100,7 @@ lib: [
 "test/tests/literal_quotes_in_titles.text" {"test/tests/literal_quotes_in_titles.text"}
 "test/tests/markdown_documentation_basics.html" {"test/tests/markdown_documentation_basics.html"}
 "test/tests/links_reference_style.html" {"test/tests/links_reference_style.html"}
+]
+libexec: [
+"bin/marked" {"bin/marked"}
 ]

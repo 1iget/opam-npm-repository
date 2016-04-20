@@ -11,3 +11,6 @@ lib: [
 "examples/du.js" {"examples/du.js"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

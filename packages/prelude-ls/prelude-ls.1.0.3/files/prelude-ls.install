@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/Obj.js" {"lib/Obj.js"}
+"lib/Str.js" {"lib/Str.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/Func.js" {"lib/Func.js"}
+"lib/Num.js" {"lib/Num.js"}
+"lib/List.js" {"lib/List.js"}
+]
+libexec: [
+
+]

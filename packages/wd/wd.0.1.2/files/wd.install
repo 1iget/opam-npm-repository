@@ -27,7 +27,6 @@ lib: [
 "examples/example.promise.chrome.js" {"examples/example.promise.chrome.js"}
 "lib/webdriver.js" {"lib/webdriver.js"}
 "lib/utils.js" {"lib/utils.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/special-keys.js" {"lib/special-keys.js"}
 "lib/main.js" {"lib/main.js"}
@@ -82,4 +81,7 @@ lib: [
 "test/saucelabs/config.js" {"test/saucelabs/config.js"}
 "test/saucelabs/promise-test.js" {"test/saucelabs/promise-test.js"}
 "test/unit/callback-test.js" {"test/unit/callback-test.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

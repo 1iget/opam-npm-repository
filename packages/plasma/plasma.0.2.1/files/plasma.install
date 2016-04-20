@@ -93,3 +93,6 @@ lib: [
 "test/fixtures/pkg/package.json" {"test/fixtures/pkg/package.json"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

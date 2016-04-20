@@ -6,3 +6,6 @@ lib: [
 "pascal-case.js" {"pascal-case.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

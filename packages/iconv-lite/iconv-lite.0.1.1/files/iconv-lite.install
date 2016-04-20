@@ -16,3 +16,6 @@ lib: [
 "encodings/cyrillic.js~" {"encodings/cyrillic.js~"}
 "encodings/table/gbk.js" {"encodings/table/gbk.js"}
 ]
+libexec: [
+
+]

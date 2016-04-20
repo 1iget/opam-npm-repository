@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+".travis.yml" {".travis.yml"}
+"Jakefile.js" {"Jakefile.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"src/lib/configr.coffee" {"src/lib/configr.coffee"}
+"test/configr.js" {"test/configr.js"}
+"test/config_test/db.js" {"test/config_test/db.js"}
+"test/config_test/general.js" {"test/config_test/general.js"}
+"test/config_test/test.coffee" {"test/config_test/test.coffee"}
+"test/config_test/dev/db.js" {"test/config_test/dev/db.js"}
+"test/config_test/prod/db.js" {"test/config_test/prod/db.js"}
+"test/config_test/prod/general.js" {"test/config_test/prod/general.js"}
+]
+libexec: [
+
+]

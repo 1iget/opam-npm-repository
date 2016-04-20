@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+"bower.json" {"bower.json"}
+"dist/Autolinker.js" {"dist/Autolinker.js"}
+"dist/Autolinker.min.js" {"dist/Autolinker.min.js"}
+"src/Autolinker.js" {"src/Autolinker.js"}
+"tests/AutolinkerSpec.js" {"tests/AutolinkerSpec.js"}
+"tests/index.html" {"tests/index.html"}
+]
+libexec: [
+
+]

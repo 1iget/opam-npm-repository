@@ -1,0 +1,14 @@
+lib: [
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"example/tiny.js" {"example/tiny.js"}
+"example/top/run.js" {"example/top/run.js"}
+"example/top/src.js" {"example/top/src.js"}
+"test/cover.js" {"test/cover.js"}
+"test/src/cover.js" {"test/src/cover.js"}
+]
+libexec: [
+
+]

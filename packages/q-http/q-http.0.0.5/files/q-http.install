@@ -1,0 +1,15 @@
+lib: [
+"q-http/" {"q-http/"}
+"q-http/CHANGES" {"q-http/CHANGES"}
+"q-http/LICENSE" {"q-http/LICENSE"}
+"q-http/package.json" {"q-http/package.json"}
+"q-http/q-http.js" {"q-http/q-http.js"}
+"q-http/README" {"q-http/README"}
+"q-http/test/" {"q-http/test/"}
+"q-http/test/bad-url.js" {"q-http/test/bad-url.js"}
+"q-http/test/basic.js" {"q-http/test/basic.js"}
+"q-http/test/keep-alive.js" {"q-http/test/keep-alive.js"}
+]
+libexec: [
+
+]

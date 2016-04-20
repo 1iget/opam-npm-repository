@@ -20,3 +20,6 @@ lib: [
 "test/string.js" {"test/string.js"}
 "test/object.js" {"test/object.js"}
 ]
+libexec: [
+
+]

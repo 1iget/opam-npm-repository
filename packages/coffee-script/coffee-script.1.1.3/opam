@@ -8,7 +8,9 @@ dev-repo: "git://github.com/jashkenas/coffee-script.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cake %{bin}%/cake"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/cake" ] 
+]
 

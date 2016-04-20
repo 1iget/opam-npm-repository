@@ -7,3 +7,6 @@ lib: [
 "API.md" {"API.md"}
 "js/bluebird.js" {"js/bluebird.js"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "example/views/layout.jqtpl" {"example/views/layout.jqtpl"}
 "example/views/index/index.jqtpl" {"example/views/index/index.jqtpl"}
 ]
+libexec: [
+
+]

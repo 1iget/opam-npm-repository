@@ -11,3 +11,6 @@ lib: [
 "test/defaults.js" {"test/defaults.js"}
 "test/many.js" {"test/many.js"}
 ]
+libexec: [
+
+]

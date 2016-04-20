@@ -6,9 +6,9 @@ author: "doowb <brian.woodward@gmail.com>"
 license: "not defined"
 dev-repo: "https://github.com/helpers/sort-object.git"
 depends: [
-"lodash.assign" {>="2.2.1" & <"2.3.0"}
+"lodash_assign" {>="2.2.1" & <"2.3.0"}
 
-"lodash.keys" {>="2.2.1" & <"2.3.0"}
+"lodash_keys" {>="2.2.1" & <"2.3.0"}
 
 ]
 

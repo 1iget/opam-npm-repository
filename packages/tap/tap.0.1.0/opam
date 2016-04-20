@@ -13,7 +13,9 @@ depends: [
 "slide" {>="0.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/tap.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

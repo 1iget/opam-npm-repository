@@ -8,3 +8,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "nodefsevents.cc" {"nodefsevents.cc"}
 ]
+libexec: [
+
+]

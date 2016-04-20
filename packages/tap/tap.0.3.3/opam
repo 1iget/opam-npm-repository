@@ -25,7 +25,9 @@ depends: [
 "buffer-equal" {>="0.0.0" & <"0.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/tap.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

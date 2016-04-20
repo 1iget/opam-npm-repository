@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"lib/globule.js" {"lib/globule.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/globule_test.js" {"test/globule_test.js"}
+"test/fixtures/expand/README.md" {"test/fixtures/expand/README.md"}
+"test/fixtures/expand/css/baz.css" {"test/fixtures/expand/css/baz.css"}
+"test/fixtures/expand/css/qux.css" {"test/fixtures/expand/css/qux.css"}
+"test/fixtures/expand/deep/deep.txt" {"test/fixtures/expand/deep/deep.txt"}
+"test/fixtures/expand/deep/deeper/deeper.txt" {"test/fixtures/expand/deep/deeper/deeper.txt"}
+"test/fixtures/expand/deep/deeper/deepest/deepest.txt" {"test/fixtures/expand/deep/deeper/deepest/deepest.txt"}
+"test/fixtures/expand/js/bar.js" {"test/fixtures/expand/js/bar.js"}
+"test/fixtures/expand/js/foo.js" {"test/fixtures/expand/js/foo.js"}
+]
+libexec: [
+
+]

@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "configs/esformatter.json" {"configs/esformatter.json"}
-"bin/cli.js" {"bin/cli.js"}
 "changelog.md" {"changelog.md"}
 ".travis.yml" {".travis.yml"}
 "lib/console.js" {"lib/console.js"}
@@ -26,4 +25,7 @@ lib: [
 "resources/fixtures/shebang.js" {"resources/fixtures/shebang.js"}
 "src/main.js" {"src/main.js"}
 "src/options.js" {"src/options.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

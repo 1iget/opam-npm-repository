@@ -1,0 +1,16 @@
+lib: [
+"" {""}
+"CHANGES" {"CHANGES"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"q-http.js" {"q-http.js"}
+"README" {"README"}
+"test/" {"test/"}
+"test.js" {"test.js"}
+"test/bad-url.js" {"test/bad-url.js"}
+"test/basic.js" {"test/basic.js"}
+"test/keep-alive.js" {"test/keep-alive.js"}
+]
+libexec: [
+
+]

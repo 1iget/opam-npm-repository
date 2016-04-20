@@ -4,7 +4,6 @@ lib: [
 ".jshintignore" {".jshintignore"}
 ".jshintrc" {".jshintrc"}
 "bin/" {"bin/"}
-"bin/hint" {"bin/hint"}
 "example/" {"example/"}
 "example/config.json" {"example/config.json"}
 "example/reporter.js" {"example/reporter.js"}
@@ -73,4 +72,7 @@ lib: [
 "test/unit/" {"test/unit/"}
 "test/unit/cli.js" {"test/unit/cli.js"}
 "test/unit/hint.js" {"test/unit/hint.js"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

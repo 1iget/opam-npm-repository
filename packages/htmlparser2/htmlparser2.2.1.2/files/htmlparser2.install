@@ -49,3 +49,6 @@ lib: [
 "tests/HTML/21-conditional_comments.js" {"tests/HTML/21-conditional_comments.js"}
 "tests/HTML/22-lowercase_tags.js" {"tests/HTML/22-lowercase_tags.js"}
 ]
+libexec: [
+
+]

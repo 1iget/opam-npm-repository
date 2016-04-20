@@ -12,3 +12,6 @@ lib: [
 "test/put-test.js" {"test/put-test.js"}
 "test/search-test.js" {"test/search-test.js"}
 ]
+libexec: [
+
+]

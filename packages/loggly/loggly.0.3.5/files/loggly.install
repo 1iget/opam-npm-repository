@@ -26,3 +26,6 @@ lib: [
 "lib/loggly/input.js" {"lib/loggly/input.js"}
 "lib/loggly/search.js" {"lib/loggly/search.js"}
 ]
+libexec: [
+
+]

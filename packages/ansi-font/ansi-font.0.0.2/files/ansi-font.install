@@ -1,0 +1,12 @@
+lib: [
+".index.js.un~" {".index.js.un~"}
+".package.json.un~" {".package.json.un~"}
+".Readme.md.un~" {".Readme.md.un~"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+]
+libexec: [
+
+]

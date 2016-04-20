@@ -2,3 +2,6 @@ lib: [
 "index.js" {"index.js"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

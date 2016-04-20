@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"eventproxy.js" {"eventproxy.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"jsdoc/files.html" {"jsdoc/files.html"}
+"jsdoc/index.html" {"jsdoc/index.html"}
+"jsdoc/symbols/_global_.html" {"jsdoc/symbols/_global_.html"}
+"jsdoc/symbols/EventProxy.html" {"jsdoc/symbols/EventProxy.html"}
+"jsdoc/symbols/src/eventproxy.js.html" {"jsdoc/symbols/src/eventproxy.js.html"}
+"jsdoc/symbols/src/Y__git_eventproxy_eventproxy.js.html" {"jsdoc/symbols/src/Y__git_eventproxy_eventproxy.js.html"}
+"MIT-License" {"MIT-License"}
+"test/eventproxy.test.js" {"test/eventproxy.test.js"}
+"test/test.js" {"test/test.js"}
+"test/test.html" {"test/test.html"}
+]
+libexec: [
+
+]

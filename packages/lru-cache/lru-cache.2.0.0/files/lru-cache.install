@@ -7,3 +7,6 @@ lib: [
 "lib/lru-cache.js" {"lib/lru-cache.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

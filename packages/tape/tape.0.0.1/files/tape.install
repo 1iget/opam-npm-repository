@@ -26,3 +26,6 @@ lib: [
 "lib/default_stream.js" {"lib/default_stream.js"}
 "lib/defined.js" {"lib/defined.js"}
 ]
+libexec: [
+
+]

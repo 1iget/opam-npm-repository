@@ -33,3 +33,6 @@ lib: [
 "test/testSync.js" {"test/testSync.js"}
 "test/walk-test.sh" {"test/walk-test.sh"}
 ]
+libexec: [
+
+]

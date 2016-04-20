@@ -29,7 +29,9 @@ depends: [
 "cssauron-esprima" {="0.0.1"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/eslint.js %{bin}%/eslint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/eslint" ] 
+]
 

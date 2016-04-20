@@ -9,7 +9,6 @@ lib: [
 "prop.diff" {"prop.diff"}
 "README.md" {"README.md"}
 "var.diff" {"var.diff"}
-"bin/esparse.js" {"bin/esparse.js"}
 "assets/style.css" {"assets/style.css"}
 "demo/parse.html" {"demo/parse.html"}
 "test/benchmarks.html" {"test/benchmarks.html"}
@@ -29,4 +28,7 @@ lib: [
 "test/3rdparty/parse-js.js" {"test/3rdparty/parse-js.js"}
 "test/3rdparty/Tokenizer.js" {"test/3rdparty/Tokenizer.js"}
 "test/3rdparty/ZeParser.js" {"test/3rdparty/ZeParser.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
 ]

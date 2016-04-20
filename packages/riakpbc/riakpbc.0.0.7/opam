@@ -6,7 +6,7 @@ author: "nathan-lafreniere <quitlahok@gmail.com>"
 license: "MIT"
 dev-repo: "git://github.com:nlf/riakpbc.git"
 depends: [
-"protobuf.js" {="ImdpdDovL2dpdGh1Yi5jb20va2Vpa2t1L3Byb3RvYnVmLmpzLmdpdCI"}
+"protobuf_js" {="ImdpdDovL2dpdGh1Yi5jb20va2Vpa2t1L3Byb3RvYnVmLmpzLmdpdCI"}
 
 "butils" {="latest"}
 

@@ -26,3 +26,6 @@ lib: [
 "conf.json" {"conf.json"}
 "HISTORY.md" {"HISTORY.md"}
 ]
+libexec: [
+
+]

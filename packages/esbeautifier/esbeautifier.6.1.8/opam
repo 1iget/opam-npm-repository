@@ -33,7 +33,9 @@ depends: [
 "write" {>="0.2.0" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cli.js %{bin}%/esbeautifier"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esbeautifier" ] 
+]
 

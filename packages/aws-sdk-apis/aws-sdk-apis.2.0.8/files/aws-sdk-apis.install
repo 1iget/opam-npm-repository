@@ -41,3 +41,6 @@ lib: [
 "apis/symlinks.json" {"apis/symlinks.json"}
 "lib/translator.js" {"lib/translator.js"}
 ]
+libexec: [
+
+]

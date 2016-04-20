@@ -34,3 +34,6 @@ lib: [
 "test/fixtures/profound.tmpl.json" {"test/fixtures/profound.tmpl.json"}
 "test/fixtures/quetz.tmpl.json" {"test/fixtures/quetz.tmpl.json"}
 ]
+libexec: [
+
+]

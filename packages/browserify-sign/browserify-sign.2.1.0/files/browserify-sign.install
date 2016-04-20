@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"asn1.js" {"asn1.js"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+"sign.js" {"sign.js"}
+"algos.js" {"algos.js"}
+"parseKeys.js" {"parseKeys.js"}
+"verify.js" {"verify.js"}
+"readme.md" {"readme.md"}
+"test/index.js" {"test/index.js"}
+"test/1024.priv" {"test/1024.priv"}
+"test/1024.pub" {"test/1024.pub"}
+"test/rsa.1024.priv" {"test/rsa.1024.priv"}
+"test/rsa.1024.pub" {"test/rsa.1024.pub"}
+"test/rsa.2028.priv" {"test/rsa.2028.priv"}
+"test/rsa.2028.pub" {"test/rsa.2028.pub"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

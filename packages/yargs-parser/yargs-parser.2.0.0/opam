@@ -8,7 +8,7 @@ dev-repo: "git+ssh://git@github.com/yargs/yargs-parser.git"
 depends: [
 "camelcase" {>="2.1.0" & <"3.0.0"}
 
-"lodash.assign" {>="4.0.2" & <"5.0.0"}
+"lodash_assign" {>="4.0.2" & <"5.0.0"}
 
 ]
 

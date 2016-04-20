@@ -9,3 +9,6 @@ lib: [
 "test/windows.js" {"test/windows.js"}
 "x.tap" {"x.tap"}
 ]
+libexec: [
+
+]

@@ -11,3 +11,6 @@ lib: [
 "lang/pt-PT.js" {"lang/pt-PT.js"}
 "lang/sv-SE.js" {"lang/sv-SE.js"}
 ]
+libexec: [
+
+]

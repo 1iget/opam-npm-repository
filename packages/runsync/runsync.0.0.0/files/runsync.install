@@ -14,3 +14,6 @@ lib: [
 "src/win/runner.cc" {"src/win/runner.cc"}
 "src/win/runner.hh" {"src/win/runner.hh"}
 ]
+libexec: [
+
+]

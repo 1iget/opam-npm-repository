@@ -28,3 +28,6 @@ lib: [
 "test/parse.coffee" {"test/parse.coffee"}
 "test/render.coffee" {"test/render.coffee"}
 ]
+libexec: [
+
+]

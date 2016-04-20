@@ -1,8 +1,0 @@
-lib: [
-"package.json" {"package.json"}
-".npmignore" {".npmignore"}
-"index.js" {"index.js"}
-"History.md" {"History.md"}
-"lib/extend.js" {"lib/extend.js"}
-"Readme.md" {"Readme.md"}
-]

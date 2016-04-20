@@ -1,0 +1,44 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"should.min.js" {"should.min.js"}
+"gulpfile.js" {"gulpfile.js"}
+"index.js" {"index.js"}
+"should.js" {"should.js"}
+".travis.yml" {".travis.yml"}
+".zuul.yml" {".zuul.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"lib/eql.js" {"lib/eql.js"}
+"lib/inspect.js" {"lib/inspect.js"}
+"lib/should.js" {"lib/should.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/ext/assert.js" {"lib/ext/assert.js"}
+"lib/ext/chain.js" {"lib/ext/chain.js"}
+"lib/ext/contain.js" {"lib/ext/contain.js"}
+"lib/ext/eql.js" {"lib/ext/eql.js"}
+"lib/ext/bool.js" {"lib/ext/bool.js"}
+"lib/ext/match.js" {"lib/ext/match.js"}
+"lib/ext/number.js" {"lib/ext/number.js"}
+"lib/ext/property.js" {"lib/ext/property.js"}
+"lib/ext/string.js" {"lib/ext/string.js"}
+"lib/ext/type.js" {"lib/ext/type.js"}
+"lib/ext/error.js" {"lib/ext/error.js"}
+"History.md" {"History.md"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/codeStyleSettings.xml" {".idea/codeStyleSettings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/jsLinters/jshint.xml" {".idea/jsLinters/jshint.xml"}
+".idea/libraries/Node_js_Dependencies_for_should_js.xml" {".idea/libraries/Node_js_Dependencies_for_should_js.xml"}
+".idea/libraries/should_js_node_modules.xml" {".idea/libraries/should_js_node_modules.xml"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/should.js.iml" {".idea/should.js.iml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"Readme.md" {"Readme.md"}
+]
+libexec: [
+
+]

@@ -10,3 +10,6 @@ lib: [
 "test/reduce.js" {"test/reduce.js"}
 "test/index.html" {"test/index.html"}
 ]
+libexec: [
+
+]

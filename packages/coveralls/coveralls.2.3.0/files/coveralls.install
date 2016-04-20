@@ -3,7 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "index.js" {"index.js"}
-"bin/coveralls.js" {"bin/coveralls.js"}
 ".travis.yml" {".travis.yml"}
 "fixtures/istanbul.lcov" {"fixtures/istanbul.lcov"}
 "fixtures/lib/index.js" {"fixtures/lib/index.js"}
@@ -22,4 +21,7 @@ lib: [
 "test/logger.js" {"test/logger.js"}
 "test/sendToCoveralls.js" {"test/sendToCoveralls.js"}
 "coverage.json" {"coverage.json"}
+]
+libexec: [
+"bin/coveralls.js" {"bin/coveralls.js"}
 ]

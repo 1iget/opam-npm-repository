@@ -104,3 +104,6 @@ lib: [
 "bin/mr" {"bin/mr"}
 "adhoc.html" {"adhoc.html"}
 ]
+libexec: [
+
+]

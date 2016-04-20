@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"width.js" {"width.js"}
+"index.js" {"index.js"}
+"utils.js" {"utils.js"}
+"Readme.md" {"Readme.md"}
+"bench/index.js" {"bench/index.js"}
+"bench/large.json" {"bench/large.json"}
+]
+libexec: [
+
+]

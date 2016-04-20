@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".editorconfig" {".editorconfig"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

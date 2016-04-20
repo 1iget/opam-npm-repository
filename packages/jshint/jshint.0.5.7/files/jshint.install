@@ -7,7 +7,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/hint" {"bin/hint"}
 "example/config.json" {"example/config.json"}
 "example/reporter.js" {"example/reporter.js"}
 "lib/cli.js" {"lib/cli.js"}
@@ -86,4 +85,7 @@ lib: [
 "packages/jshint/tests/unit/fixtures/undef_func.js" {"packages/jshint/tests/unit/fixtures/undef_func.js"}
 "packages/jshint/tests/unit/fixtures/undefstrict.js" {"packages/jshint/tests/unit/fixtures/undefstrict.js"}
 "packages/jshint/tests/unit/fixtures/white.js" {"packages/jshint/tests/unit/fixtures/white.js"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

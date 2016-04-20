@@ -1,0 +1,22 @@
+lib: [
+".npmignore" {".npmignore"}
+"grunt.js" {"grunt.js"}
+"lib/" {"lib/"}
+"lib/glob.js" {"lib/glob.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/fixture/" {"test/fixture/"}
+"test/fixture/boot" {"test/fixture/boot"}
+"test/fixture/foo/" {"test/fixture/foo/"}
+"test/fixture/foo/bar/" {"test/fixture/foo/bar/"}
+"test/fixture/foo/bar/baz/" {"test/fixture/foo/bar/baz/"}
+"test/fixture/foo/bar/baz/boot" {"test/fixture/foo/bar/baz/boot"}
+"test/fixture/foo/bar/boot" {"test/fixture/foo/bar/boot"}
+"test/fixture/foo/boot" {"test/fixture/foo/boot"}
+"test/glob_test.js" {"test/glob_test.js"}
+]
+libexec: [
+
+]

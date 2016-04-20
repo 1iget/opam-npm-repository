@@ -97,7 +97,9 @@ depends: [
 "builtins" {="0.0.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/browserify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/browserify" ] 
+]
 

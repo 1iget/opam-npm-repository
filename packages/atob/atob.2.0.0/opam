@@ -8,7 +8,9 @@ dev-repo: "git://github.com/coolaj86/node-browser-compat/atob.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/atob.js %{bin}%/atob"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/atob" ] 
+]
 

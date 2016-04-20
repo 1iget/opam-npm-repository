@@ -28,3 +28,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 ".verbrc.md" {".verbrc.md"}
 ]
+libexec: [
+
+]

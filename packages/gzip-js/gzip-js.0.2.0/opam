@@ -11,7 +11,9 @@ depends: [
 "deflate-js" {>="0.2.1"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/runner.js %{bin}%/gzip-js"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gzip-js" ] 
+]
 

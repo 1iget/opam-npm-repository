@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"browser/TimeSpan-1.2.js" {"browser/TimeSpan-1.2.js"}
+"browser/TimeSpan-1.2.min.js" {"browser/TimeSpan-1.2.min.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/time-span.html" {"docs/time-span.html"}
+"lib/time-span.js" {"lib/time-span.js"}
+"test/date-parser-test.js" {"test/date-parser-test.js"}
+"test/helpers.js" {"test/helpers.js"}
+"test/time-span-test.js" {"test/time-span-test.js"}
+]
+libexec: [
+
+]

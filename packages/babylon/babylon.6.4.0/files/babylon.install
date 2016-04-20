@@ -4,6 +4,8 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/babylon.js" {"bin/babylon.js"}
 "AUTHORS" {"AUTHORS"}
+]
+libexec: [
+"bin/babylon.js" {"bin/babylon.js"}
 ]

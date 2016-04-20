@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"bench.js" {"bench.js"}
+"weak-map.js" {"weak-map.js"}
+"sync" {"sync"}
+"sync.patch" {"sync.patch"}
+"test/index.js" {"test/index.js"}
+"test/weak-map-test.js" {"test/weak-map-test.js"}
+]
+libexec: [
+
+]

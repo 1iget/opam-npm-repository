@@ -4,3 +4,6 @@ lib: [
 "lib/path-is-inside.js" {"lib/path-is-inside.js"}
 "LICENSE.txt" {"LICENSE.txt"}
 ]
+libexec: [
+
+]

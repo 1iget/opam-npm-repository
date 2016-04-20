@@ -13,3 +13,6 @@ lib: [
 "test/writable_test.js" {"test/writable_test.js"}
 "test/data.md" {"test/data.md"}
 ]
+libexec: [
+
+]

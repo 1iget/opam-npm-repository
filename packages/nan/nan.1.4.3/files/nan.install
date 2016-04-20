@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"include_dirs.js" {"include_dirs.js"}
+"appveyor.yml" {"appveyor.yml"}
+"LICENSE.md" {"LICENSE.md"}
+".dntrc" {".dntrc"}
+"nan.h" {"nan.h"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+]
+libexec: [
+
+]

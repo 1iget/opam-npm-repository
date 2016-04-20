@@ -23,7 +23,9 @@ depends: [
 "mkdirp" {="0.5.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/_mocha %{bin}%/_mocha"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/_mocha" ] 
+]
 

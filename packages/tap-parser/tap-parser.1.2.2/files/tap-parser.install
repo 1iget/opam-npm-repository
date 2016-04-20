@@ -6,3 +6,6 @@ lib: [
 "bin/usage.txt" {"bin/usage.txt"}
 "readme.markdown" {"readme.markdown"}
 ]
+libexec: [
+
+]

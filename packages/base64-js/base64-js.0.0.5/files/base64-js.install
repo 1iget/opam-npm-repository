@@ -7,3 +7,6 @@ lib: [
 "lib/b64.js" {"lib/b64.js"}
 "test/convert.js" {"test/convert.js"}
 ]
+libexec: [
+
+]

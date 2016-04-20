@@ -69,3 +69,6 @@ lib: [
 "test/vendor/qunit.css" {"test/vendor/qunit.css"}
 "test/vendor/qunit.js" {"test/vendor/qunit.js"}
 ]
+libexec: [
+
+]

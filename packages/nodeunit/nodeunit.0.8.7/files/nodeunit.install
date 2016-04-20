@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/nodeunit" {"bin/nodeunit"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
 "deps/async.js" {"deps/async.js"}
 "deps/console.log.js" {"deps/console.log.js"}
@@ -82,4 +81,7 @@ lib: [
 "examples/browser/suite3.js" {"examples/browser/suite3.js"}
 "examples/browser/test.html" {"examples/browser/test.html"}
 "examples/nested/nested_reporter_test.unit.js" {"examples/nested/nested_reporter_test.unit.js"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

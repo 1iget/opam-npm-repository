@@ -18,7 +18,6 @@ lib: [
 "deps/ejs.js" {"deps/ejs.js"}
 "deps/async.js" {"deps/async.js"}
 "deps/json2.js" {"deps/json2.js"}
-"bin/nodeunit" {"bin/nodeunit"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
 "lib/assert.js" {"lib/assert.js"}
 "lib/utils.js" {"lib/utils.js"}
@@ -85,4 +84,7 @@ lib: [
 "dist/nodeunit/lib/reporters/skip_passed.js" {"dist/nodeunit/lib/reporters/skip_passed.js"}
 "dist/nodeunit/lib/reporters/index.js" {"dist/nodeunit/lib/reporters/index.js"}
 "dist/nodeunit/lib/reporters/html.js" {"dist/nodeunit/lib/reporters/html.js"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

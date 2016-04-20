@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/jquery/esprima.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esvalidate.js %{bin}%/esvalidate"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esvalidate" ] 
+]
 

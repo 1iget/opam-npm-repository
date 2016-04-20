@@ -19,11 +19,13 @@ lib: [
 "docs/wiki/Implementation-Notes.md" {"docs/wiki/Implementation-Notes.md"}
 "docs/licenses.md" {"docs/licenses.md"}
 "docs/docco.css" {"docs/docco.css"}
-"bin/twigjs" {"bin/twigjs"}
 "lib/paths.js" {"lib/paths.js"}
 "lib/compile.js" {"lib/compile.js"}
 ".travis.yml" {".travis.yml"}
 "twig.min.js.map" {"twig.min.js.map"}
 "test-ext/test.original.js" {"test-ext/test.original.js"}
 "test-ext/checkout.sh" {"test-ext/checkout.sh"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

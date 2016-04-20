@@ -25,3 +25,6 @@ lib: [
 "lib/util/location.js" {"lib/util/location.js"}
 "lib/util/whitespace.js" {"lib/util/whitespace.js"}
 ]
+libexec: [
+
+]

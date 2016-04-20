@@ -9,3 +9,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "test/main.js" {"test/main.js"}
 ]
+libexec: [
+
+]

@@ -17,3 +17,6 @@ lib: [
 "test/isNull.js" {"test/isNull.js"}
 "test/isStream.js" {"test/isStream.js"}
 ]
+libexec: [
+
+]

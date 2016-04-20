@@ -1,0 +1,18 @@
+lib: [
+"child.js" {"child.js"}
+"dist/" {"dist/"}
+"dist/ba-hooker.js" {"dist/ba-hooker.js"}
+"dist/ba-hooker.min.js" {"dist/ba-hooker.min.js"}
+"grunt.js" {"grunt.js"}
+"lib/" {"lib/"}
+"lib/hooker.js" {"lib/hooker.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"package.json" {"package.json"}
+"parent.js" {"parent.js"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/hooker_test.js" {"test/hooker_test.js"}
+]
+libexec: [
+
+]

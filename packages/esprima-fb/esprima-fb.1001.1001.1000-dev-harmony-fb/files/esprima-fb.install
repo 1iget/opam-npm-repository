@@ -9,8 +9,6 @@ lib: [
 "examples/tokendist.js" {"examples/tokendist.js"}
 "component.json" {"component.json"}
 "doc/index.html" {"doc/index.html"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
-"bin/esparse.js" {"bin/esparse.js"}
 "index.html" {"index.html"}
 "test/benchmarks.js" {"test/benchmarks.js"}
 "test/test.js" {"test/test.js"}
@@ -30,4 +28,8 @@ lib: [
 "test/esprima.js.html" {"test/esprima.js.html"}
 "test/compare.html" {"test/compare.html"}
 "LICENSE.BSD" {"LICENSE.BSD"}
+]
+libexec: [
+"bin/esvalidate.js" {"bin/esvalidate.js"}
+"bin/esparse.js" {"bin/esparse.js"}
 ]

@@ -106,7 +106,6 @@ lib: [
 "CHANGES.md" {"CHANGES.md"}
 "bin/" {"bin/"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
-"bin/whiskey" {"bin/whiskey"}
 "package.json" {"package.json"}
 "lib-cov/" {"lib-cov/"}
 "lib-cov/extern/" {"lib-cov/extern/"}
@@ -128,4 +127,7 @@ lib: [
 "lib-cov/extern/long-stack-traces/lib/long-stack-traces.js" {"lib-cov/extern/long-stack-traces/lib/long-stack-traces.js"}
 "lib-cov/extern/long-stack-traces/package.json" {"lib-cov/extern/long-stack-traces/package.json"}
 "lib-cov/extern/long-stack-traces/examples.html" {"lib-cov/extern/long-stack-traces/examples.html"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

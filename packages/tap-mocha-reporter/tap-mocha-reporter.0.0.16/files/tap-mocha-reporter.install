@@ -49,3 +49,6 @@ lib: [
 "fast.out" {"fast.out"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

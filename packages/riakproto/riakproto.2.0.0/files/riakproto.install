@@ -39,3 +39,6 @@ lib: [
 "riak_pb/tools.mk" {"riak_pb/tools.mk"}
 "riak_pb/pom.xml" {"riak_pb/pom.xml"}
 ]
+libexec: [
+
+]

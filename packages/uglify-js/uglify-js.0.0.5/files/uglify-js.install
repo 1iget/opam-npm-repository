@@ -3,7 +3,6 @@ lib: [
 "docstyle.css" {"docstyle.css"}
 "package.json" {"package.json"}
 "bin/" {"bin/"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 ".gitignore" {".gitignore"}
 "README.org" {"README.org"}
 "test/" {"test/"}
@@ -90,4 +89,7 @@ lib: [
 "lib/squeeze-more.js" {"lib/squeeze-more.js"}
 "lib/process.js" {"lib/process.js"}
 "lib/parse-js.js" {"lib/parse-js.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

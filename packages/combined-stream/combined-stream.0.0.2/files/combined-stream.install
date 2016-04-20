@@ -18,3 +18,6 @@ lib: [
 "test/tmp/combined-file1-buffer-file2-string.txt" {"test/tmp/combined-file1-buffer-file2-string.txt"}
 "test/tmp/combined.txt" {"test/tmp/combined.txt"}
 ]
+libexec: [
+
+]

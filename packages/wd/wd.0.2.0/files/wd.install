@@ -1,7 +1,6 @@
 lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/deprecated-chain.js" {"lib/deprecated-chain.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
@@ -87,4 +86,7 @@ lib: [
 "test/saucelabs/config.js" {"test/saucelabs/config.js"}
 "test/saucelabs/promise-test.js" {"test/saucelabs/promise-test.js"}
 "test/unit/callback-test.js" {"test/unit/callback-test.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

@@ -21,3 +21,6 @@ lib: [
 "visitors/__tests__/es6-rest-param-visitors-test.js" {"visitors/__tests__/es6-rest-param-visitors-test.js"}
 "visitors/__tests__/es6-template-visitors-test.js" {"visitors/__tests__/es6-template-visitors-test.js"}
 ]
+libexec: [
+
+]

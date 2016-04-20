@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"prelude-browser.js" {"prelude-browser.js"}
+"prelude.js" {"prelude.js"}
+"prelude-browser-min.js" {"prelude-browser-min.js"}
+]
+libexec: [
+
+]

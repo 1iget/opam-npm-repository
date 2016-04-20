@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/test.txt" {"test/fixtures/test.txt"}
 "test/fixtures/test.yaml" {"test/fixtures/test.yaml"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,21 @@
+lib: [
+".npmignore" {".npmignore"}
+"example/" {"example/"}
+"example/basic.js" {"example/basic.js"}
+"ignore.js" {"ignore.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/.ignore" {"test/.ignore"}
+"test/.npmignore" {"test/.npmignore"}
+"test/00-setup.js" {"test/00-setup.js"}
+"test/basic.js" {"test/basic.js"}
+"test/common.js" {"test/common.js"}
+"test/ignore-most.js" {"test/ignore-most.js"}
+"test/nested-ignores.js" {"test/nested-ignores.js"}
+"test/unignore-child.js" {"test/unignore-child.js"}
+"test/zz-cleanup.js" {"test/zz-cleanup.js"}
+]
+libexec: [
+
+]

@@ -19,7 +19,6 @@ lib: [
 ".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
 ".idea/vcs.xml" {".idea/vcs.xml"}
 ".idea/workspace.xml" {".idea/workspace.xml"}
-"bin/cli.js" {"bin/cli.js"}
 ".travis.yml" {".travis.yml"}
 "lib/console.js" {"lib/console.js"}
 "lib/process.js" {"lib/process.js"}
@@ -27,4 +26,7 @@ lib: [
 "npm-shrinkwrap.json" {"npm-shrinkwrap.json"}
 "src/main.js" {"src/main.js"}
 "src/options.js" {"src/options.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

@@ -9,7 +9,9 @@ depends: [
 "wodge" {>="0.8.1" & <"0.9.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/common-dir"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/common-dir" ] 
+]
 

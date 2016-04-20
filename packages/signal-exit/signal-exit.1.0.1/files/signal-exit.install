@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/sigint.js" {"test/fixtures/sigint.js"}
 "test/fixtures/sigterm.js" {"test/fixtures/sigterm.js"}
 ]
+libexec: [
+
+]

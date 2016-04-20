@@ -15,7 +15,9 @@ depends: [
 "findit" {>="0.1.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/jasmine-node %{bin}%/jasmine-node"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasmine-node" ] 
+]
 

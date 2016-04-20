@@ -18,3 +18,6 @@ lib: [
 "lib/watermarks.js" {"lib/watermarks.js"}
 "lib/xml-writer.js" {"lib/xml-writer.js"}
 ]
+libexec: [
+
+]

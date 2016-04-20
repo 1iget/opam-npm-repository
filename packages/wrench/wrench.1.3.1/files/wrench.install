@@ -6,3 +6,6 @@ lib: [
 "lib/x.js" {"lib/x.js"}
 "tests/mkdirSyncRecursive.js" {"tests/mkdirSyncRecursive.js"}
 ]
+libexec: [
+
+]

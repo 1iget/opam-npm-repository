@@ -17,3 +17,6 @@ lib: [
 "lib/string.js" {"lib/string.js"}
 ".min-wd" {".min-wd"}
 ]
+libexec: [
+
+]

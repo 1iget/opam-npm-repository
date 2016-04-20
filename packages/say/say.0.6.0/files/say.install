@@ -9,3 +9,6 @@ lib: [
 "lib/say.js" {"lib/say.js"}
 "logo.png" {"logo.png"}
 ]
+libexec: [
+
+]

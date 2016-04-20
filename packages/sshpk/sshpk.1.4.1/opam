@@ -15,7 +15,9 @@ depends: [
 "big-integer" {>="1.6.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/sshpk-conv %{bin}%/sshpk-conv"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/sshpk-conv" ] 
+]
 

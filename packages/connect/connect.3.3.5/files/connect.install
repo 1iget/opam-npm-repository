@@ -7,3 +7,6 @@ lib: [
 "lib/connect.js" {"lib/connect.js"}
 "lib/proto.js" {"lib/proto.js"}
 ]
+libexec: [
+
+]

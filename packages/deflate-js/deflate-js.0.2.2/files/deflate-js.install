@@ -4,10 +4,8 @@ lib: [
 "index.js" {"index.js"}
 ".gitignore" {".gitignore"}
 "bin/random.txt.deflate" {"bin/random.txt.deflate"}
-"bin/inflate.js" {"bin/inflate.js"}
 "bin/declaration.txt.deflate" {"bin/declaration.txt.deflate"}
 "bin/helloWorld.txt.deflate" {"bin/helloWorld.txt.deflate"}
-"bin/deflate.js" {"bin/deflate.js"}
 "lib/rawdeflate.js" {"lib/rawdeflate.js"}
 "lib/rawinflate.js" {"lib/rawinflate.js"}
 "test/deflate.py" {"test/deflate.py"}
@@ -186,4 +184,8 @@ lib: [
 "js/node_modules/bean/support/smoosh/examples/config_json/dist/base-0.0.1.js" {"js/node_modules/bean/support/smoosh/examples/config_json/dist/base-0.0.1.js"}
 "js/node_modules/bean/support/smoosh/examples/config_json/dist/secondary-0.0.1.js" {"js/node_modules/bean/support/smoosh/examples/config_json/dist/secondary-0.0.1.js"}
 "js/node_modules/bean/support/smoosh/examples/config_json/dist/base-0.0.1.min.js" {"js/node_modules/bean/support/smoosh/examples/config_json/dist/base-0.0.1.min.js"}
+]
+libexec: [
+"bin/inflate.js" {"bin/inflate.js"}
+"bin/deflate.js" {"bin/deflate.js"}
 ]

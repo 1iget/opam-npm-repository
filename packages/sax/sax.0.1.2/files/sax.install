@@ -1,0 +1,30 @@
+lib: [
+"" {""}
+"examples/" {"examples/"}
+"lib/" {"lib/"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/buffer-overrun.js" {"test/buffer-overrun.js"}
+"test/cdata-chunked.js" {"test/cdata-chunked.js"}
+"test/cdata-end-split.js" {"test/cdata-end-split.js"}
+"test/cdata-multiple.js" {"test/cdata-multiple.js"}
+"test/cdata.js" {"test/cdata.js"}
+"test/index.js" {"test/index.js"}
+"test/self-closing-child-strict.js" {"test/self-closing-child-strict.js"}
+"test/self-closing-child.js" {"test/self-closing-child.js"}
+"test/self-closing-tag.js" {"test/self-closing-tag.js"}
+"test/trailing-non-whitespace.js" {"test/trailing-non-whitespace.js"}
+"lib/sax.js" {"lib/sax.js"}
+"examples/example.js" {"examples/example.js"}
+"examples/not-pretty.xml" {"examples/not-pretty.xml"}
+"examples/pretty-print.js" {"examples/pretty-print.js"}
+"examples/strict.dtd" {"examples/strict.dtd"}
+"examples/switch-bench.js" {"examples/switch-bench.js"}
+"examples/test.html" {"examples/test.html"}
+"examples/test.xml" {"examples/test.xml"}
+]
+libexec: [
+
+]

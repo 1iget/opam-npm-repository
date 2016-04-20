@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/crypto.js" {"lib/crypto.js"}
+"lib/uri.js" {"lib/uri.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/index.js" {"lib/index.js"}
+"test/crypto.js" {"test/crypto.js"}
+"test/uri.js" {"test/uri.js"}
+"test/readme.js" {"test/readme.js"}
+"test/utils.js" {"test/utils.js"}
+"test/index.js" {"test/index.js"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/hawk.png" {"images/hawk.png"}
+"images/logo.png" {"images/logo.png"}
+"example/usage.js" {"example/usage.js"}
+]
+libexec: [
+
+]

@@ -68,3 +68,6 @@ lib: [
 "test/fixtures/strong.js" {"test/fixtures/strong.js"}
 "test/fixtures/h5.js" {"test/fixtures/h5.js"}
 ]
+libexec: [
+
+]

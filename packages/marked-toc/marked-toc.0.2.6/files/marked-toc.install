@@ -3,7 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "index.js" {"index.js"}
-"bin/toc" {"bin/toc"}
 "bower.json" {"bower.json"}
 ".jshintrc" {".jshintrc"}
 "LICENSE-MIT" {"LICENSE-MIT"}
@@ -45,4 +44,7 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 "examples/toc.js" {"examples/toc.js"}
 "examples/toc.json" {"examples/toc.json"}
+]
+libexec: [
+"bin/toc" {"bin/toc"}
 ]

@@ -1,0 +1,27 @@
+lib: [
+"" {""}
+"examples/" {"examples/"}
+"lib/" {"lib/"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"new" {"new"}
+"old" {"old"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/test-basic.js" {"test/test-basic.js"}
+"test/test-client-close.js" {"test/test-client-close.js"}
+"test/test-readonly-attrs.js" {"test/test-readonly-attrs.js"}
+"test/test-ready-state.js" {"test/test-ready-state.js"}
+"test/test-server-close.js" {"test/test-server-close.js"}
+"test/test-unix-send-fd.js" {"test/test-unix-send-fd.js"}
+"test/test-unix-sockets.js" {"test/test-unix-sockets.js"}
+"lib/.websocket.js.swp" {"lib/.websocket.js.swp"}
+"lib/websocket.js" {"lib/websocket.js"}
+"examples/client-unix.js" {"examples/client-unix.js"}
+"examples/client.js" {"examples/client.js"}
+"examples/server-unix.js" {"examples/server-unix.js"}
+]
+libexec: [
+
+]

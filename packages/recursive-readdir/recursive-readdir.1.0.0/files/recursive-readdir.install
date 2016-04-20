@@ -10,3 +10,6 @@ lib: [
 "test/testdir/c.txt" {"test/testdir/c.txt"}
 "test/testdir/d.txt" {"test/testdir/d.txt"}
 ]
+libexec: [
+
+]

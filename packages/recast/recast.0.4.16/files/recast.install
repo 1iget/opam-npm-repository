@@ -34,3 +34,6 @@ lib: [
 "test/data/empty.js" {"test/data/empty.js"}
 "test/data/regexp-props.js" {"test/data/regexp-props.js"}
 ]
+libexec: [
+
+]

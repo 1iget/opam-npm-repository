@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/expander.js" {"lib/expander.js"}
+]
+libexec: [
+
+]

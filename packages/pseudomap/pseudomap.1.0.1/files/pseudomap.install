@@ -5,3 +5,6 @@ lib: [
 "map.js" {"map.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

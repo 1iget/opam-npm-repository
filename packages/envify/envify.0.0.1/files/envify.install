@@ -6,3 +6,6 @@ lib: [
 "test.js" {"test.js"}
 "bin/envify" {"bin/envify"}
 ]
+libexec: [
+
+]

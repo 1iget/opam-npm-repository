@@ -13,7 +13,9 @@ depends: [
 "cli" {>="0.4.0" & <"0.5.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esformatter %{bin}%/esformatter"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esformatter" ] 
+]
 

@@ -20,3 +20,6 @@ lib: [
 "test/readable.asynct.js" {"test/readable.asynct.js"}
 "test/helper/index.js" {"test/helper/index.js"}
 ]
+libexec: [
+
+]

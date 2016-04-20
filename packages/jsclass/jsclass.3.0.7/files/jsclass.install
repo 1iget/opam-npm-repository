@@ -1,6 +1,5 @@
 lib: [
 "bin/" {"bin/"}
-"bin/jsbuild" {"bin/jsbuild"}
 "package.json" {"package.json"}
 "CHANGELOG.txt" {"CHANGELOG.txt"}
 "LICENSE.txt" {"LICENSE.txt"}
@@ -66,4 +65,7 @@ lib: [
 "src/assets/testui.css" {"src/assets/testui.css"}
 "src/loader-browser.js" {"src/loader-browser.js"}
 "index.js" {"index.js"}
+]
+libexec: [
+"bin/jsbuild" {"bin/jsbuild"}
 ]

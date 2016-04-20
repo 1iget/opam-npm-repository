@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lower-case-first.js" {"lower-case-first.js"}
+"lower-case-first.d.ts" {"lower-case-first.d.ts"}
+]
+libexec: [
+
+]

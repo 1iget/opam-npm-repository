@@ -1,0 +1,23 @@
+lib: [
+"case1.js" {"case1.js"}
+"CHANGES" {"CHANGES"}
+"common.js" {"common.js"}
+"LICENSE" {"LICENSE"}
+"mock.js" {"mock.js"}
+"package.json" {"package.json"}
+"q-fs.js" {"q-fs.js"}
+"README" {"README"}
+"root.js" {"root.js"}
+"examples/read.js" {"examples/read.js"}
+"test/all.js" {"test/all.js"}
+"test/lazy.js" {"test/lazy.js"}
+"test/root.js" {"test/root.js"}
+"test/mock/merge.js" {"test/mock/merge.js"}
+"test/mock/object.js" {"test/mock/object.js"}
+"test/mock/read.js" {"test/mock/read.js"}
+"test/mock/subtree.js" {"test/mock/subtree.js"}
+"test/mock/dummy/hello.txt" {"test/mock/dummy/hello.txt"}
+]
+libexec: [
+
+]

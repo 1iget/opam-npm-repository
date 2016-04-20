@@ -20,3 +20,6 @@ lib: [
 "tests/shown/foo/dolor.md" {"tests/shown/foo/dolor.md"}
 "tests/shown/foo/lorem.txt" {"tests/shown/foo/lorem.txt"}
 ]
+libexec: [
+
+]

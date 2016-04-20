@@ -19,8 +19,6 @@ lib: [
 "editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet"}
 "editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet"}
 "editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "Readme.md" {"Readme.md"}
 "support/compile.js" {"support/compile.js"}
 "support/foot.js" {"support/foot.js"}
@@ -70,4 +68,8 @@ lib: [
 "lib/reporters/templates/menu.jade" {"lib/reporters/templates/menu.jade"}
 "lib/reporters/templates/script.html" {"lib/reporters/templates/script.html"}
 "lib/reporters/templates/style.html" {"lib/reporters/templates/style.html"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "MIT"
 dev-repo: "https://github.com/calvinmetcalf/publicEncrypt.git"
 depends: [
-"bn.js" {>="0.16.0" & <"0.17.0"}
+"bn_js" {>="0.16.0" & <"0.17.0"}
 
 "browserify-rsa" {>="1.1.0" & <"2.0.0"}
 

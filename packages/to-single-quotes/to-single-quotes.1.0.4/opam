@@ -9,7 +9,9 @@ depends: [
 "get-stdin" {>="3.0.0" & <"4.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/to-single-quotes"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/to-single-quotes" ] 
+]
 

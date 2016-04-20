@@ -7,3 +7,6 @@ lib: [
 "templates/title-link.md" {"templates/title-link.md"}
 "templates/title.md" {"templates/title.md"}
 ]
+libexec: [
+
+]

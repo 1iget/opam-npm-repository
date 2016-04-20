@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+"Jakefile.js" {"Jakefile.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"src/lib/configr.js" {"src/lib/configr.js"}
+"test/configr.js" {"test/configr.js"}
+"test/config_test/db.json" {"test/config_test/db.json"}
+"test/config_test/general.json" {"test/config_test/general.json"}
+"test/config_test/dev/db.json" {"test/config_test/dev/db.json"}
+"test/config_test/prod/db.json" {"test/config_test/prod/db.json"}
+"test/config_test/prod/general.json" {"test/config_test/prod/general.json"}
+]
+libexec: [
+
+]

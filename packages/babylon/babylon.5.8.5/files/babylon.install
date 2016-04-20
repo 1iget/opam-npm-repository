@@ -23,3 +23,6 @@ lib: [
 "lib/plugins/jsx/index.js" {"lib/plugins/jsx/index.js"}
 "lib/plugins/jsx/xhtml.js" {"lib/plugins/jsx/xhtml.js"}
 ]
+libexec: [
+
+]

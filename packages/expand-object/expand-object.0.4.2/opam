@@ -15,7 +15,9 @@ depends: [
 "set-value" {>="0.3.3" & <"0.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/expand-object"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/expand-object" ] 
+]
 

@@ -127,3 +127,6 @@ lib: [
 "test/fixtures/directory/" {"test/fixtures/directory/"}
 "test/fixtures/directory/.hidden" {"test/fixtures/directory/.hidden"}
 ]
+libexec: [
+
+]

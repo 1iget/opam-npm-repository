@@ -11,3 +11,6 @@ lib: [
 "bin/regexpu" {"bin/regexpu"}
 "man/regexpu.1" {"man/regexpu.1"}
 ]
+libexec: [
+
+]

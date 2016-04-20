@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/defined.js" {"example/defined.js"}
+"readme.markdown" {"readme.markdown"}
+"test/def.js" {"test/def.js"}
+"test/falsy.js" {"test/falsy.js"}
+]
+libexec: [
+
+]

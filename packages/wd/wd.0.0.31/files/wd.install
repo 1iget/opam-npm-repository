@@ -61,7 +61,6 @@ lib: [
 "browser-scripts/safe-execute-async.js" {"browser-scripts/safe-execute-async.js"}
 "browser-scripts/safe-execute.js" {"browser-scripts/safe-execute.js"}
 "browser-scripts/wait-for-cond-in-browser.js" {"browser-scripts/wait-for-cond-in-browser.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
 "lib/main.js" {"lib/main.js"}
@@ -69,4 +68,7 @@ lib: [
 "lib/special-keys.js" {"lib/special-keys.js"}
 "lib/utils.js" {"lib/utils.js"}
 "lib/webdriver.js" {"lib/webdriver.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

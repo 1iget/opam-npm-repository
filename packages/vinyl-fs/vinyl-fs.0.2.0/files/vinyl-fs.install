@@ -1,0 +1,29 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/dest/index.js" {"lib/dest/index.js"}
+"lib/dest/writeBuffer.js" {"lib/dest/writeBuffer.js"}
+"lib/dest/writeContents.js" {"lib/dest/writeContents.js"}
+"lib/dest/writeDir.js" {"lib/dest/writeDir.js"}
+"lib/dest/writeStream.js" {"lib/dest/writeStream.js"}
+"lib/src/bufferFile.js" {"lib/src/bufferFile.js"}
+"lib/src/getContents.js" {"lib/src/getContents.js"}
+"lib/src/getStats.js" {"lib/src/getStats.js"}
+"lib/src/index.js" {"lib/src/index.js"}
+"lib/src/readDir.js" {"lib/src/readDir.js"}
+"lib/src/streamFile.js" {"lib/src/streamFile.js"}
+".travis.yml" {".travis.yml"}
+"test/dest.js" {"test/dest.js"}
+"test/src.js" {"test/src.js"}
+"test/fixtures/bom-utf16be.txt" {"test/fixtures/bom-utf16be.txt"}
+"test/fixtures/bom-utf16le.txt" {"test/fixtures/bom-utf16le.txt"}
+"test/fixtures/bom-utf8.txt" {"test/fixtures/bom-utf8.txt"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/fixtures/wow/suchempty" {"test/fixtures/wow/suchempty"}
+]
+libexec: [
+
+]

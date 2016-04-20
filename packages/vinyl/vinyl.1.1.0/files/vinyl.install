@@ -9,3 +9,6 @@ lib: [
 "lib/isNull.js" {"lib/isNull.js"}
 "lib/isStream.js" {"lib/isStream.js"}
 ]
+libexec: [
+
+]

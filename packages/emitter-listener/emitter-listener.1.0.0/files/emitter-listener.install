@@ -5,3 +5,6 @@ lib: [
 "listener.js" {"listener.js"}
 "test/basic.tap.js" {"test/basic.tap.js"}
 ]
+libexec: [
+
+]

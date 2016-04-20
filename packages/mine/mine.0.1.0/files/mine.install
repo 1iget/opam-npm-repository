@@ -23,3 +23,6 @@ lib: [
 "test/files/word.js" {"test/files/word.js"}
 "test/files/yield.js" {"test/files/yield.js"}
 ]
+libexec: [
+
+]

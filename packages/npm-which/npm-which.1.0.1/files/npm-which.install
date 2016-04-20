@@ -7,3 +7,6 @@ lib: [
 "bin/npm-which.js" {"bin/npm-which.js"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

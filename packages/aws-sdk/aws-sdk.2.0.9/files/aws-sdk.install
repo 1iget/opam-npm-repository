@@ -75,3 +75,6 @@ lib: [
 "scripts/console" {"scripts/console"}
 "bower.json" {"bower.json"}
 ]
+libexec: [
+
+]

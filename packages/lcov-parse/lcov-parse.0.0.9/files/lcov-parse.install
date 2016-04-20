@@ -12,3 +12,6 @@ lib: [
 "coverage/lcov.info" {"coverage/lcov.info"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

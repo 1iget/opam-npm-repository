@@ -41,3 +41,6 @@ lib: [
 "upload.py" {"upload.py"}
 "v8.log" {"v8.log"}
 ]
+libexec: [
+
+]

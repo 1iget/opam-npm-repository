@@ -34,3 +34,6 @@ lib: [
 "lib/middleware/logger.js" {"lib/middleware/logger.js"}
 "lib/public/favicon.ico" {"lib/public/favicon.ico"}
 ]
+libexec: [
+
+]

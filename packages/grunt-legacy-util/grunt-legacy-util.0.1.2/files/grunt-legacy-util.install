@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/exec.cmd" {"test/fixtures/exec.cmd"}
 "test/fixtures/exec.sh" {"test/fixtures/exec.sh"}
 ]
+libexec: [
+
+]

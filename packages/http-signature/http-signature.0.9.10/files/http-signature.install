@@ -26,3 +26,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 ".gitmodules" {".gitmodules"}
 ]
+libexec: [
+
+]

@@ -11,3 +11,6 @@ lib: [
 "docs/repos-list.md" {"docs/repos-list.md"}
 "docs/repos.json" {"docs/repos.json"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Makefile.targ" {"Makefile.targ"}
+"tests/tst.inherit.js" {"tests/tst.inherit.js"}
+"tests/tst.serror.js" {"tests/tst.serror.js"}
+"tests/tst.verror.js" {"tests/tst.verror.js"}
+"tests/tst.werror.js" {"tests/tst.werror.js"}
+".gitmodules" {".gitmodules"}
+"experiments/test-error-properties.js" {"experiments/test-error-properties.js"}
+"jsl.node.conf" {"jsl.node.conf"}
+"lib/verror.js" {"lib/verror.js"}
+"Makefile" {"Makefile"}
+"examples/levels-verror.js" {"examples/levels-verror.js"}
+"examples/levels-werror.js" {"examples/levels-werror.js"}
+"examples/nested.js" {"examples/nested.js"}
+"examples/varargs.js" {"examples/varargs.js"}
+"examples/verror.js" {"examples/verror.js"}
+"examples/werror.js" {"examples/werror.js"}
+]
+libexec: [
+
+]

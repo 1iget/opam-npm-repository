@@ -38,3 +38,6 @@ lib: [
 "lib/jsdom/living/index.js" {"lib/jsdom/living/index.js"}
 "lib/jsdom/living/helpers/validate-names.js" {"lib/jsdom/living/helpers/validate-names.js"}
 ]
+libexec: [
+
+]

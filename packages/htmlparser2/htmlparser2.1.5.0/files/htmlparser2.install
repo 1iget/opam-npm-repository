@@ -36,3 +36,6 @@ lib: [
 "tests/24-rdf.js" {"tests/24-rdf.js"}
 "tests/25-events.js" {"tests/25-events.js"}
 ]
+libexec: [
+
+]

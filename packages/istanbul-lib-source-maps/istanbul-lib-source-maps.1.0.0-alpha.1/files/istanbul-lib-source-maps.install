@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/map-store.js" {"lib/map-store.js"}
+"lib/mapped.js" {"lib/mapped.js"}
+"lib/transformer.js" {"lib/transformer.js"}
+]
+libexec: [
+
+]

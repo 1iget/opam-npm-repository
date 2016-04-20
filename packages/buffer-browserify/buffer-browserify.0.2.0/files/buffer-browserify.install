@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"buffer_ieee754.js" {"buffer_ieee754.js"}
+"index.js" {"index.js"}
+"test/buffer.js" {"test/buffer.js"}
+"test/indexes.js" {"test/indexes.js"}
+"test/is-encoding.js" {"test/is-encoding.js"}
+]
+libexec: [
+
+]

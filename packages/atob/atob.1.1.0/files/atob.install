@@ -5,3 +5,6 @@ lib: [
 "test.js" {"test.js"}
 "bin/atob.js" {"bin/atob.js"}
 ]
+libexec: [
+
+]

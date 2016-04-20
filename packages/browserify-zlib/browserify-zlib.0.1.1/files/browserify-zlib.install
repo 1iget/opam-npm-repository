@@ -20,3 +20,6 @@ lib: [
 "test/ignored/test-zlib-dictionary.js" {"test/ignored/test-zlib-dictionary.js"}
 "test/ignored/test-zlib-params.js" {"test/ignored/test-zlib-params.js"}
 ]
+libexec: [
+
+]

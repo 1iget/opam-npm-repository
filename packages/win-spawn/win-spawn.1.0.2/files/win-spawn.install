@@ -3,5 +3,7 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "index.js" {"index.js"}
+]
+libexec: [
 "bin/win-spawn" {"bin/win-spawn"}
 ]

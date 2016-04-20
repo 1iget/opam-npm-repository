@@ -32,3 +32,6 @@ lib: [
 "node-ffi/example/factorial/README" {"node-ffi/example/factorial/README"}
 "node-ffi/example/factorial/wscript" {"node-ffi/example/factorial/wscript"}
 ]
+libexec: [
+
+]

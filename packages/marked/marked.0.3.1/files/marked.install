@@ -9,5 +9,7 @@ lib: [
 "component.json" {"component.json"}
 "lib/marked.js" {"lib/marked.js"}
 "man/marked.1" {"man/marked.1"}
+]
+libexec: [
 "bin/marked" {"bin/marked"}
 ]

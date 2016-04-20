@@ -7,3 +7,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/vendor/compiler.jar" {"lib/vendor/compiler.jar"}
 ]
+libexec: [
+
+]

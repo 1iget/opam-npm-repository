@@ -15,7 +15,9 @@ depends: [
 "uglify-js" {>="2.2.5" & <"2.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cli.js %{bin}%/umd"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/umd" ] 
+]
 

@@ -3,9 +3,11 @@ lib: [
 "README.md" {"README.md"}
 "escodegen.browser.js" {"escodegen.browser.js"}
 "escodegen.js" {"escodegen.js"}
-"bin/escodegen.js" {"bin/escodegen.js"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "component.json" {"component.json"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "LICENSE.source-map" {"LICENSE.source-map"}
+]
+libexec: [
+"bin/escodegen.js" {"bin/escodegen.js"}
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

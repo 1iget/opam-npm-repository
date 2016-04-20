@@ -1,0 +1,29 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"example/strings_src.js" {"example/strings_src.js"}
+"example/strings.js" {"example/strings.js"}
+"test/strings.js" {"test/strings.js"}
+"test/both.js" {"test/both.js"}
+"test/nested.js" {"test/nested.js"}
+"test/files/strings.js" {"test/files/strings.js"}
+"test/files/both.js" {"test/files/both.js"}
+"test/files/nested.js" {"test/files/nested.js"}
+"node_modules/findit/index.js" {"node_modules/findit/index.js"}
+"node_modules/findit/package.json" {"node_modules/findit/package.json"}
+"node_modules/findit/README.markdown" {"node_modules/findit/README.markdown"}
+"node_modules/findit/examples/emitter.js" {"node_modules/findit/examples/emitter.js"}
+"node_modules/findit/examples/sync.js" {"node_modules/findit/examples/sync.js"}
+"node_modules/findit/examples/callback.js" {"node_modules/findit/examples/callback.js"}
+"node_modules/findit/test/cycle.js" {"node_modules/findit/test/cycle.js"}
+"node_modules/findit/test/foo.js" {"node_modules/findit/test/foo.js"}
+"node_modules/findit/test/module.js" {"node_modules/findit/test/module.js"}
+"node_modules/findit/test/foo/x" {"node_modules/findit/test/foo/x"}
+"node_modules/findit/test/foo/a/y" {"node_modules/findit/test/foo/a/y"}
+"node_modules/findit/test/foo/a/b/z" {"node_modules/findit/test/foo/a/b/z"}
+"node_modules/findit/test/foo/a/b/c/w" {"node_modules/findit/test/foo/a/b/c/w"}
+]
+libexec: [
+
+]

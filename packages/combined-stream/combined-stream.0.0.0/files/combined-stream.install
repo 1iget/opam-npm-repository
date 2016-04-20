@@ -52,3 +52,6 @@ lib: [
 "node_modules/far/test/integration/test-include.js" {"node_modules/far/test/integration/test-include.js"}
 "node_modules/far/test/integration/paths/test-expand-sync.js" {"node_modules/far/test/integration/paths/test-expand-sync.js"}
 ]
+libexec: [
+
+]

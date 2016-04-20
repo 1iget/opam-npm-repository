@@ -16,3 +16,6 @@ lib: [
 "lib/visit.js" {"lib/visit.js"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ]
+libexec: [
+
+]

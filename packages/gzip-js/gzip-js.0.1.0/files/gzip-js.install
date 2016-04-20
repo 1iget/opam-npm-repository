@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 ".gitignore" {".gitignore"}
-"bin/runner.js" {"bin/runner.js"}
 "lib/gzip.js" {"lib/gzip.js"}
 "test/runner.py" {"test/runner.py"}
 "test/test.txt" {"test/test.txt"}
@@ -26,4 +25,7 @@ lib: [
 "test/test-outs/declaration.txt.3.out.gz" {"test/test-outs/declaration.txt.3.out.gz"}
 "test/test-files/hello-world.txt" {"test/test-files/hello-world.txt"}
 "test/test-files/spec.txt" {"test/test-files/spec.txt"}
+]
+libexec: [
+"bin/runner.js" {"bin/runner.js"}
 ]

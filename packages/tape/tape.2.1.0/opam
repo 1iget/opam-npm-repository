@@ -15,7 +15,9 @@ depends: [
 "through" {>="2.3.4" & <"2.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/tape %{bin}%/tape"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tape" ] 
+]
 

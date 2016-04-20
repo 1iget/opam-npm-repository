@@ -19,7 +19,6 @@ lib: [
 ".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
 ".idea/vcs.xml" {".idea/vcs.xml"}
 ".idea/workspace.xml" {".idea/workspace.xml"}
-"bin/esbeautifier.js" {"bin/esbeautifier.js"}
 ".travis.yml" {".travis.yml"}
 "lib/cli.js" {"lib/cli.js"}
 "lib/console.js" {"lib/console.js"}
@@ -27,4 +26,7 @@ lib: [
 "lib/process.js" {"lib/process.js"}
 "npm-shrinkwrap.json" {"npm-shrinkwrap.json"}
 "specs/cli.js" {"specs/cli.js"}
+]
+libexec: [
+"bin/esbeautifier.js" {"bin/esbeautifier.js"}
 ]

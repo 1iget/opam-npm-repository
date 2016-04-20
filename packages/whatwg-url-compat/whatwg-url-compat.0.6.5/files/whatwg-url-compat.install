@@ -6,3 +6,6 @@ lib: [
 "jsconfig.json" {"jsconfig.json"}
 "lib/url.js" {"lib/url.js"}
 ]
+libexec: [
+
+]

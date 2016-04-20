@@ -18,3 +18,6 @@ lib: [
 "examples/hello.js" {"examples/hello.js"}
 "examples/json.js" {"examples/json.js"}
 ]
+libexec: [
+
+]

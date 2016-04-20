@@ -26,3 +26,6 @@ lib: [
 "alternate_parsers/faster_bson.js" {"alternate_parsers/faster_bson.js"}
 "tools/gleak.js" {"tools/gleak.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,10 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"example/cmp.js" {"example/cmp.js"}
+"test/cmp.js" {"test/cmp.js"}
+]
+libexec: [
+
+]

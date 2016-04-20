@@ -9,3 +9,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "test/vm.js" {"test/vm.js"}
 ]
+libexec: [
+
+]

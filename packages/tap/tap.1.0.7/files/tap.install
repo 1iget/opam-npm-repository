@@ -16,3 +16,6 @@ lib: [
 "bin/mochatap.js" {"bin/mochatap.js"}
 "bin/run.js" {"bin/run.js"}
 ]
+libexec: [
+
+]

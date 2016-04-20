@@ -17,3 +17,6 @@ lib: [
 "lib/rules/wrap-multilines.js" {"lib/rules/wrap-multilines.js"}
 "lib/rules/no-did-update-set-state.js" {"lib/rules/no-did-update-set-state.js"}
 ]
+libexec: [
+
+]

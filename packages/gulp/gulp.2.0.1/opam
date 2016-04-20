@@ -25,7 +25,9 @@ depends: [
 "resolve" {="0.5.1"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

@@ -5,7 +5,6 @@ lib: [
 "index.js" {"index.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 "ignoring-code-for-coverage.md" {"ignoring-code-for-coverage.md"}
-"lib/cli.js" {"lib/cli.js"}
 "lib/register-plugins.js" {"lib/register-plugins.js"}
 "lib/hook.js" {"lib/hook.js"}
 "lib/instrumenter.js" {"lib/instrumenter.js"}
@@ -126,4 +125,7 @@ lib: [
 "test/other/data/matcher/node_modules/mod-file.js" {"test/other/data/matcher/node_modules/mod-file.js"}
 "test/other/data/matcher/node_modules/dep/mod-file.js" {"test/other/data/matcher/node_modules/dep/mod-file.js"}
 "yui-coverage-comparison.md" {"yui-coverage-comparison.md"}
+]
+libexec: [
+"lib/cli.js" {"lib/cli.js"}
 ]

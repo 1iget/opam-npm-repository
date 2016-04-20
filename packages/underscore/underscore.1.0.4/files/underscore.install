@@ -41,6 +41,6 @@ lib: [
 "1289345822532-0.9594567683525383/test/vendor/._qunit.js" {"1289345822532-0.9594567683525383/test/vendor/._qunit.js"}
 "1289345822532-0.9594567683525383/test/vendor/qunit.js" {"1289345822532-0.9594567683525383/test/vendor/qunit.js"}
 ]
-bin: [
+libexec: [
 
 ]

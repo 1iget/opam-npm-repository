@@ -7,3 +7,6 @@ lib: [
 "LICENSE-MIT" {"LICENSE-MIT"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

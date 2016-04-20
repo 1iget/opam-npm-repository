@@ -58,3 +58,6 @@ lib: [
 "test/1.4-specific/http-client-search-test.js" {"test/1.4-specific/http-client-search-test.js"}
 "test/1.4-specific/protocol-buffers-search-test.js" {"test/1.4-specific/protocol-buffers-search-test.js"}
 ]
+libexec: [
+
+]

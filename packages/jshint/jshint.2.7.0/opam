@@ -23,7 +23,9 @@ depends: [
 "lodash" {>="3.6.0" & <"3.7.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jshint %{bin}%/jshint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jshint" ] 
+]
 

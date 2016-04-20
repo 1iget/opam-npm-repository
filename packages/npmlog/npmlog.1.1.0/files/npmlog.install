@@ -10,3 +10,6 @@ lib: [
 "test/basic.js" {"test/basic.js"}
 "test/progress.js" {"test/progress.js"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "lib/sync.js" {"lib/sync.js"}
 "lib/utils.js" {"lib/utils.js"}
 ]
+libexec: [
+
+]

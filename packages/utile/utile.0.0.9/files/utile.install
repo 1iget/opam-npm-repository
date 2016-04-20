@@ -16,3 +16,6 @@ lib: [
 "test/fixtures/require-directory/helloWorld.js" {"test/fixtures/require-directory/helloWorld.js"}
 "test/fixtures/require-directory/directory/index.js" {"test/fixtures/require-directory/directory/index.js"}
 ]
+libexec: [
+
+]

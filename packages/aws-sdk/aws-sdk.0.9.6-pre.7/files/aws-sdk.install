@@ -235,3 +235,6 @@ lib: [
 "test/xml/builder.spec.coffee" {"test/xml/builder.spec.coffee"}
 "test/xml/parser.spec.coffee" {"test/xml/parser.spec.coffee"}
 ]
+libexec: [
+
+]

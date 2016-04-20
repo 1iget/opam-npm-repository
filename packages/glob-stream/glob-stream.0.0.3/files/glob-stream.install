@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/whatsgoingon/test.js" {"test/fixtures/whatsgoingon/test.js"}
 "test/main.coffee" {"test/main.coffee"}
 ]
+libexec: [
+
+]

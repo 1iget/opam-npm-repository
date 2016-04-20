@@ -5,3 +5,6 @@ lib: [
 "build/build.js" {"build/build.js"}
 "component.json" {"component.json"}
 ]
+libexec: [
+
+]

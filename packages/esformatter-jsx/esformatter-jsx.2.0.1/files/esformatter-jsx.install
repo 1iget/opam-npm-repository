@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"changelog.md" {"changelog.md"}
+"lib/default-unformatted.js" {"lib/default-unformatted.js"}
+"lib/espree-options.js" {"lib/espree-options.js"}
+"lib/falafel-helper.js" {"lib/falafel-helper.js"}
+"lib/find-parent.js" {"lib/find-parent.js"}
+"lib/format-jsx.js" {"lib/format-jsx.js"}
+"lib/plugin.js" {"lib/plugin.js"}
+"lib/rocambole-helper.js" {"lib/rocambole-helper.js"}
+"lib/update-node.js" {"lib/update-node.js"}
+]
+libexec: [
+
+]

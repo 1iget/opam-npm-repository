@@ -60,3 +60,6 @@ lib: [
 "test/transports/webhook-test.js" {"test/transports/webhook-test.js"}
 "test/winston-test.js" {"test/winston-test.js"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "lib/resolve.js" {"lib/resolve.js"}
 "lib/task.js" {"lib/task.js"}
 ]
+libexec: [
+
+]

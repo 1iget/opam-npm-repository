@@ -12,3 +12,6 @@ lib: [
 "examples/parseq_catch.js" {"examples/parseq_catch.js"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

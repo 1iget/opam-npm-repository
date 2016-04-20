@@ -4,3 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "lib/bufferjoiner.js" {"lib/bufferjoiner.js"}
 ]
+libexec: [
+
+]

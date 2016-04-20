@@ -12,3 +12,6 @@ lib: [
 "examples/run.js" {"examples/run.js"}
 "lib/yaml.js" {"lib/yaml.js"}
 ]
+libexec: [
+
+]

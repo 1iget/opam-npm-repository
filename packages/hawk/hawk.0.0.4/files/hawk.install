@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/hawk.js" {"lib/hawk.js"}
+"test/hawk.js" {"test/hawk.js"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/hawk.png" {"images/hawk.png"}
+"example/usage.js" {"example/usage.js"}
+]
+libexec: [
+
+]

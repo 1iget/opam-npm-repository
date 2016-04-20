@@ -9,7 +9,9 @@ depends: [
 "q" {>="0.8.0" & <"0.9.0" & >="0.8.11"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/mr %{bin}%/mr"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mr" ] 
+]
 

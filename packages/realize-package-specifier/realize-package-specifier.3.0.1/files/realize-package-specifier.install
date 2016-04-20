@@ -11,3 +11,6 @@ lib: [
 "test/npa-gitlab.js" {"test/npa-gitlab.js"}
 "test/npa-windows.js" {"test/npa-windows.js"}
 ]
+libexec: [
+
+]

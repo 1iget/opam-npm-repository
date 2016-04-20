@@ -8,3 +8,6 @@ lib: [
 "src/lolex.js" {"src/lolex.js"}
 "test/lolex-test.js" {"test/lolex-test.js"}
 ]
+libexec: [
+
+]

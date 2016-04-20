@@ -27,3 +27,6 @@ lib: [
 "test/fixtures/strings.js" {"test/fixtures/strings.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

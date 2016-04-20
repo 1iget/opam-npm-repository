@@ -6,7 +6,6 @@ lib: [
 "twig.js" {"twig.js"}
 "twig.min.js" {"twig.min.js"}
 ".gitmodules" {".gitmodules"}
-"bin/twigjs" {"bin/twigjs"}
 "lib/paths.js" {"lib/paths.js"}
 "lib/compile.js" {"lib/compile.js"}
 ".travis.yml" {".travis.yml"}
@@ -21,4 +20,7 @@ lib: [
 "docs/wiki/Implementation-Notes.md" {"docs/wiki/Implementation-Notes.md"}
 "docs/licenses.md" {"docs/licenses.md"}
 "docs/docco.css" {"docs/docco.css"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

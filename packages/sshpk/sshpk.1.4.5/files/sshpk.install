@@ -22,3 +22,6 @@ lib: [
 "lib/formats/ssh-private.js" {"lib/formats/ssh-private.js"}
 "lib/formats/ssh.js" {"lib/formats/ssh.js"}
 ]
+libexec: [
+
+]

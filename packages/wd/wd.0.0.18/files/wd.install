@@ -10,7 +10,6 @@ lib: [
 "examples/example.ondemand.ie.js" {"examples/example.ondemand.ie.js"}
 "examples/example.ondemand.js" {"examples/example.ondemand.js"}
 "lib/" {"lib/"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/browser-scripts/" {"lib/browser-scripts/"}
 "lib/browser-scripts/safe-execute-async.js" {"lib/browser-scripts/safe-execute-async.js"}
 "lib/browser-scripts/safe-execute.js" {"lib/browser-scripts/safe-execute.js"}
@@ -56,4 +55,7 @@ lib: [
 "test/unit/per-method-test.js" {"test/unit/per-method-test.js"}
 "test/unit/wd-remote-init-test.coffee" {"test/unit/wd-remote-init-test.coffee"}
 "test/unit/wd-remote-init-test.js" {"test/unit/wd-remote-init-test.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

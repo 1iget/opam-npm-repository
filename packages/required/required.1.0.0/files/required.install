@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
-"bin/required" {"bin/required"}
 "test/cache_source.js" {"test/cache_source.js"}
 "test/ignore_missing.js" {"test/ignore_missing.js"}
 "test/runner.js" {"test/runner.js"}
@@ -27,4 +26,7 @@ lib: [
 "test/fixtures/double.js.dep" {"test/fixtures/double.js.dep"}
 "test/fixtures/native.js.dep" {"test/fixtures/native.js.dep"}
 "test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+"bin/required" {"bin/required"}
 ]

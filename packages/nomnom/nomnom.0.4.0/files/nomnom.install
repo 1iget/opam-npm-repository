@@ -42,3 +42,6 @@ lib: [
 "test/._shortcut.js" {"test/._shortcut.js"}
 "test/shortcut.js" {"test/shortcut.js"}
 ]
+libexec: [
+
+]

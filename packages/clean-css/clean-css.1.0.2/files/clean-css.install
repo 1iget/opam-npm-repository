@@ -5,6 +5,8 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "History.md" {"History.md"}
-"bin/cleancss" {"bin/cleancss"}
 "lib/clean.js" {"lib/clean.js"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

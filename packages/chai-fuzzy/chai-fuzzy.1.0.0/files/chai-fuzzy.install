@@ -9,3 +9,6 @@ lib: [
 "test/chai-fuzzy.js" {"test/chai-fuzzy.js"}
 "test/index.html" {"test/index.html"}
 ]
+libexec: [
+
+]

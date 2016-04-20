@@ -26,3 +26,6 @@ lib: [
 "tests/ast/switchStatement.js" {"tests/ast/switchStatement.js"}
 "tests/ast/whileLoop.js" {"tests/ast/whileLoop.js"}
 ]
+libexec: [
+
+]

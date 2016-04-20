@@ -10,3 +10,6 @@ lib: [
 "text.coffee" {"text.coffee"}
 "text.xml" {"text.xml"}
 ]
+libexec: [
+
+]

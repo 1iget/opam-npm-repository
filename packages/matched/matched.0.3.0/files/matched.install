@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/c.md" {"test/fixtures/c.md"}
 "test/fixtures/c.txt" {"test/fixtures/c.txt"}
 ]
+libexec: [
+
+]

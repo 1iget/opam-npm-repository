@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"CHANGELOG" {"CHANGELOG"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+".travis.yml" {".travis.yml"}
+"lib/archiver.js" {"lib/archiver.js"}
+"lib/archiver/core.js" {"lib/archiver/core.js"}
+"lib/archiver/tar.js" {"lib/archiver/tar.js"}
+"lib/archiver/zip.js" {"lib/archiver/zip.js"}
+"lib/compat/buffer.js" {"lib/compat/buffer.js"}
+"lib/headers/tar.js" {"lib/headers/tar.js"}
+"lib/headers/zip.js" {"lib/headers/zip.js"}
+"lib/util/crc32.js" {"lib/util/crc32.js"}
+"lib/util/DeflateRawChecksum.js" {"lib/util/DeflateRawChecksum.js"}
+"lib/util/index.js" {"lib/util/index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/common.js" {"test/common.js"}
+"test/fixtures/test.txt" {"test/fixtures/test.txt"}
+"test/simple/archiver-tar.js" {"test/simple/archiver-tar.js"}
+"test/simple/archiver-zip.js" {"test/simple/archiver-zip.js"}
+"test/simple/utils.js" {"test/simple/utils.js"}
+"benchmark/common.js" {"benchmark/common.js"}
+"benchmark/simple/pack-zip.js" {"benchmark/simple/pack-zip.js"}
+"examples/pack-tar.js" {"examples/pack-tar.js"}
+"examples/pack-tgz.js" {"examples/pack-tgz.js"}
+"examples/pack-zip.js" {"examples/pack-zip.js"}
+"examples/fixtures/file1.txt" {"examples/fixtures/file1.txt"}
+"examples/fixtures/file2.txt" {"examples/fixtures/file2.txt"}
+]
+libexec: [
+
+]

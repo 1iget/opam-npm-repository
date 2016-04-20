@@ -1,0 +1,32 @@
+lib: [
+"" {""}
+"tags/" {"tags/"}
+"tags/block.js" {"tags/block.js"}
+"tags/include.js" {"tags/include.js"}
+"tags/index.js" {"tags/index.js"}
+"tags/for.js" {"tags/for.js"}
+"tags/extends.js" {"tags/extends.js"}
+"tags/if.js" {"tags/if.js"}
+"template.js" {"template.js"}
+"index.js" {"index.js"}
+"tests/" {"tests/"}
+"tests/base.html" {"tests/base.html"}
+"tests/run.js" {"tests/run.js"}
+"tests/forloop.js" {"tests/forloop.js"}
+"tests/test.html" {"tests/test.html"}
+"tests/test_forloop.html" {"tests/test_forloop.html"}
+"tests/run2.js" {"tests/run2.js"}
+"tests/included.html" {"tests/included.html"}
+"tests/page.html" {"tests/page.html"}
+"templateproto.js" {"templateproto.js"}
+"exceptions.js" {"exceptions.js"}
+"extensions.js" {"extensions.js"}
+"README.md" {"README.md"}
+"package.json" {"package.json"}
+"tokens.js" {"tokens.js"}
+"context.js" {"context.js"}
+".npmignore" {".npmignore"}
+]
+libexec: [
+
+]

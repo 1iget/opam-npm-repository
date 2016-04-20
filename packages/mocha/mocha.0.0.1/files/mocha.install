@@ -9,8 +9,6 @@ lib: [
 "mocha.js" {"mocha.js"}
 "package.json" {"package.json"}
 "Readme.md" {"Readme.md"}
-"bin/mocha" {"bin/mocha"}
-"bin/mocha-debug" {"bin/mocha-debug"}
 "support/compile.js" {"support/compile.js"}
 "support/tail.js" {"support/tail.js"}
 "lib/mocha.js" {"lib/mocha.js"}
@@ -66,4 +64,8 @@ lib: [
 "editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - before.tmSnippet"}
 "editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/bdd - it.tmSnippet"}
 "editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet" {"editors/JavaScript mocha.tmbundle/Snippets/untitled.tmSnippet"}
+]
+libexec: [
+"bin/mocha" {"bin/mocha"}
+"bin/mocha-debug" {"bin/mocha-debug"}
 ]

@@ -8,7 +8,7 @@ dev-repo: "git://github.com:nlf/riakpbc.git"
 depends: [
 "riakproto" {>="1.4.6" & <"1.5.0"}
 
-"protobuf.js" {>="1.0.0" & <"1.1.0"}
+"protobuf_js" {>="1.0.0" & <"1.1.0"}
 
 "butils" {="0.0.7"}
 

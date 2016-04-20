@@ -8,7 +8,6 @@ lib: [
 "lib/squeeze-more.js" {"lib/squeeze-more.js"}
 "lib/process.js" {"lib/process.js"}
 "lib/parse-js.js" {"lib/parse-js.js"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "test/testparser.js" {"test/testparser.js"}
 "test/beautify.js" {"test/beautify.js"}
 "test/unit/scripts.js" {"test/unit/scripts.js"}
@@ -82,4 +81,7 @@ lib: [
 "test/unit/compress/expected/issue9.js" {"test/unit/compress/expected/issue9.js"}
 "test/unit/compress/expected/issue53.js" {"test/unit/compress/expected/issue53.js"}
 "test/unit/compress/expected/forstatement.js" {"test/unit/compress/expected/forstatement.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

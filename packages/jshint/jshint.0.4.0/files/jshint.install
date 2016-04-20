@@ -7,7 +7,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/hint" {"bin/hint"}
 "example/config.json" {"example/config.json"}
 "example/reporter.js" {"example/reporter.js"}
 "lib/cli.js" {"lib/cli.js"}
@@ -61,4 +60,7 @@ lib: [
 "packages/jshint/tests/fixtures/switchFallThrough.js" {"packages/jshint/tests/fixtures/switchFallThrough.js"}
 "packages/jshint/tests/fixtures/undef.js" {"packages/jshint/tests/fixtures/undef.js"}
 "packages/jshint/tests/fixtures/white.js" {"packages/jshint/tests/fixtures/white.js"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

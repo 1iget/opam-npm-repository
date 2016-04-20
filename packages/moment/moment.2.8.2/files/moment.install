@@ -116,3 +116,6 @@ lib: [
 "x.coffee" {"x.coffee"}
 "z.coffee" {"z.coffee"}
 ]
+libexec: [
+
+]

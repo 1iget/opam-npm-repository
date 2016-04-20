@@ -4,7 +4,6 @@ lib: [
 "LICENSE.BSD" {"LICENSE.BSD"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/esparse.js" {"bin/esparse.js"}
 "demo/parse.html" {"demo/parse.html"}
 "assets/style.css" {"assets/style.css"}
 "assets/codemirror/codemirror.css" {"assets/codemirror/codemirror.css"}
@@ -26,4 +25,7 @@ lib: [
 "test/3rdparty/parse-js.js" {"test/3rdparty/parse-js.js"}
 "test/3rdparty/Tokenizer.js" {"test/3rdparty/Tokenizer.js"}
 "test/3rdparty/ZeParser.js" {"test/3rdparty/ZeParser.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
 ]

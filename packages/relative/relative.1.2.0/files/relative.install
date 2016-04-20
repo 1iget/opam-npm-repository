@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"bower.json" {"bower.json"}
+".verb.md" {".verb.md"}
+".jshintrc" {".jshintrc"}
+]
+libexec: [
+
+]

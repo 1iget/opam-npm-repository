@@ -26,3 +26,6 @@ lib: [
 "lib/bson/timestamp.js" {"lib/bson/timestamp.js"}
 "lib/bson/long.js" {"lib/bson/long.js"}
 ]
+libexec: [
+
+]

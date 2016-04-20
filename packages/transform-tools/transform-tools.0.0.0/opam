@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/75lb/transform-tools.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/transform-tools"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/transform-tools" ] 
+]
 

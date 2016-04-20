@@ -9,3 +9,6 @@ lib: [
 "fuzzy.js" {"fuzzy.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

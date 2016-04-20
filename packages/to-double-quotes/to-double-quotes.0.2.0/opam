@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/to-double-quotes"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/to-double-quotes"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/to-double-quotes" ] 
+]
 

@@ -6,3 +6,6 @@ lib: [
 "templates/fury.md" {"templates/fury.md"}
 "templates/travis.md" {"templates/travis.md"}
 ]
+libexec: [
+
+]

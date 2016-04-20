@@ -7,3 +7,6 @@ lib: [
 "Makefile" {"Makefile"}
 "lib/ripemd160.js" {"lib/ripemd160.js"}
 ]
+libexec: [
+
+]

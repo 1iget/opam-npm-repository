@@ -39,3 +39,6 @@ lib: [
 "tmpl/browser_to_commonjs.js.erb" {"tmpl/browser_to_commonjs.js.erb"}
 "tmpl/commonjs_to_browser.js.erb" {"tmpl/commonjs_to_browser.js.erb"}
 ]
+libexec: [
+
+]

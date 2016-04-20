@@ -40,3 +40,6 @@ lib: [
 "test/cases/unterminated-block-comment.json5" {"test/cases/unterminated-block-comment.json5"}
 "test/cases-todo/unicode-unquoted-key.json5" {"test/cases-todo/unicode-unquoted-key.json5"}
 ]
+libexec: [
+
+]

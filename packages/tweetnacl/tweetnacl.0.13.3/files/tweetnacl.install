@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"nacl-fast.js" {"nacl-fast.js"}
+"nacl-fast.min.js" {"nacl-fast.min.js"}
+"nacl.js" {"nacl.js"}
+"nacl.min.js" {"nacl.min.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+]
+libexec: [
+
+]

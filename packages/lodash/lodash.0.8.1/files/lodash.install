@@ -4,7 +4,6 @@ lib: [
 "lodash.min.js" {"lodash.min.js"}
 "index.js" {"index.js"}
 "lodash.js" {"lodash.js"}
-"build.js" {"build.js"}
 "lodash.underscore.min.js" {"lodash.underscore.min.js"}
 "LICENSE.txt" {"LICENSE.txt"}
 "doc/README.md" {"doc/README.md"}
@@ -43,4 +42,7 @@ lib: [
 "vendor/underscore/LICENSE" {"vendor/underscore/LICENSE"}
 "vendor/underscore/underscore-min.js" {"vendor/underscore/underscore-min.js"}
 "vendor/underscore/underscore.js" {"vendor/underscore/underscore.js"}
+]
+libexec: [
+"build.js" {"build.js"}
 ]

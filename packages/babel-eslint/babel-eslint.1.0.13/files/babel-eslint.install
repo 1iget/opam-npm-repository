@@ -8,3 +8,6 @@ lib: [
 "test/index.js" {"test/index.js"}
 "test/.eslintrc" {"test/.eslintrc"}
 ]
+libexec: [
+
+]

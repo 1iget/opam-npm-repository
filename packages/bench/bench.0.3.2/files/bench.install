@@ -3,7 +3,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "lib/bench.js" {"lib/bench.js"}
-"lib/cli-wrapper.js" {"lib/cli-wrapper.js"}
 "src/node-bench.c" {"src/node-bench.c"}
 "examples/array-ify.js" {"examples/array-ify.js"}
 "examples/array-iteration.js" {"examples/array-iteration.js"}
@@ -23,4 +22,7 @@ lib: [
 "examples/with-bench/func.js" {"examples/with-bench/func.js"}
 "examples/with-bench/with-vs-func.js" {"examples/with-bench/with-vs-func.js"}
 "examples/with-bench/with.js" {"examples/with-bench/with.js"}
+]
+libexec: [
+"lib/cli-wrapper.js" {"lib/cli-wrapper.js"}
 ]

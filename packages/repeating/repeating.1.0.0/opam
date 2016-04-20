@@ -11,7 +11,9 @@ depends: [
 "meow" {>="1.0.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/repeating"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/repeating" ] 
+]
 

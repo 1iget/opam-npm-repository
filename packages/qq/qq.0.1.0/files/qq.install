@@ -6,3 +6,6 @@ lib: [
 "test/all.js" {"test/all.js"}
 "test/deep.js" {"test/deep.js"}
 ]
+libexec: [
+
+]

@@ -21,6 +21,8 @@ lib: [
 "lib/repl.js" {"lib/repl.js"}
 "lib/rewriter.js" {"lib/rewriter.js"}
 "lib/scope.js" {"lib/scope.js"}
+]
+libexec: [
 "bin/cake" {"bin/cake"}
 "bin/coffee" {"bin/coffee"}
 ]

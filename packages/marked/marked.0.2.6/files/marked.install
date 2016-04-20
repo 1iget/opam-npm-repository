@@ -5,7 +5,9 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "man/marked.1" {"man/marked.1"}
-"bin/marked" {"bin/marked"}
 "lib/marked.js" {"lib/marked.js"}
 "Makefile" {"Makefile"}
+]
+libexec: [
+"bin/marked" {"bin/marked"}
 ]

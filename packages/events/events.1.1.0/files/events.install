@@ -24,3 +24,6 @@ lib: [
 "tests/subclass.js" {"tests/subclass.js"}
 "tests/max-listeners.js" {"tests/max-listeners.js"}
 ]
+libexec: [
+
+]

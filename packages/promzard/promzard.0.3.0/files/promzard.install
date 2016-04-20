@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"promzard.js" {"promzard.js"}
+"example/buffer.js" {"example/buffer.js"}
+"example/index.js" {"example/index.js"}
+"example/substack-input.js" {"example/substack-input.js"}
+"example/npm-init/package.json" {"example/npm-init/package.json"}
+"example/npm-init/README.md" {"example/npm-init/README.md"}
+"example/npm-init/init-input.js" {"example/npm-init/init-input.js"}
+"example/npm-init/init.js" {"example/npm-init/init.js"}
+"test/basic.js" {"test/basic.js"}
+"test/buffer.js" {"test/buffer.js"}
+"test/exports.js" {"test/exports.js"}
+"test/fn.js" {"test/fn.js"}
+"test/simple.js" {"test/simple.js"}
+"test/validate.js" {"test/validate.js"}
+"test/exports.input" {"test/exports.input"}
+"test/fn.input" {"test/fn.input"}
+"test/simple.input" {"test/simple.input"}
+"test/validate.input" {"test/validate.input"}
+]
+libexec: [
+
+]

@@ -11,7 +11,9 @@ lib: [
 "lib/convertLcovToCoveralls.js" {"lib/convertLcovToCoveralls.js"}
 "lib/handleInput.js" {"lib/handleInput.js"}
 "lib/sendToCoveralls.js" {"lib/sendToCoveralls.js"}
-"bin/coveralls.js" {"bin/coveralls.js"}
 "Makefile" {"Makefile"}
 "test/convertLcovToCoveralls.js" {"test/convertLcovToCoveralls.js"}
+]
+libexec: [
+"bin/coveralls.js" {"bin/coveralls.js"}
 ]

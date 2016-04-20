@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".lintignore.json" {".lintignore.json"}
+"build/lint.js" {"build/lint.js"}
+"lib/argv.js" {"lib/argv.js"}
+"Makefile" {"Makefile"}
+]
+libexec: [
+
+]

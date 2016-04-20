@@ -29,3 +29,6 @@ lib: [
 "wscat/README.md" {"wscat/README.md"}
 "wscat/bin/wscat" {"wscat/bin/wscat"}
 ]
+libexec: [
+
+]

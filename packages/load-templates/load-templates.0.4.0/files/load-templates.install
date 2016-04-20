@@ -45,3 +45,6 @@ lib: [
 "test/fixtures/two/f.md" {"test/fixtures/two/f.md"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

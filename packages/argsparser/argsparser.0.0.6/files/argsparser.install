@@ -7,3 +7,6 @@ lib: [
 "lib/argsparser.js" {"lib/argsparser.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

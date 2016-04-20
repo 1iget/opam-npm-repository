@@ -17,3 +17,6 @@ lib: [
 "examples/all_docs.js" {"examples/all_docs.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

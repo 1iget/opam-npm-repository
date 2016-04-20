@@ -32,3 +32,6 @@ lib: [
 "node-walk/examples/walk-singles-emitter.js" {"node-walk/examples/walk-singles-emitter.js"}
 "node-walk/examples/walk-whenever.js" {"node-walk/examples/walk-whenever.js"}
 ]
+libexec: [
+
+]

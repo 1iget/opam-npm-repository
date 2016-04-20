@@ -1,0 +1,16 @@
+lib: [
+".License.un~" {".License.un~"}
+".Readme.md.un~" {".Readme.md.un~"}
+"License" {"License"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"lib/.stack-trace.js.un~" {"lib/.stack-trace.js.un~"}
+"lib/stack-trace.js" {"lib/stack-trace.js"}
+"test/.common.js.un~" {"test/.common.js.un~"}
+"test/common.js" {"test/common.js"}
+"test/integration/.test-basic.js.un~" {"test/integration/.test-basic.js.un~"}
+"test/integration/test-basic.js" {"test/integration/test-basic.js"}
+]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "lib/hoek.js" {"lib/hoek.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

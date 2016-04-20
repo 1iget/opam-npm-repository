@@ -20,3 +20,6 @@ lib: [
 "test/sync.js" {"test/sync.js"}
 "test/chmod.js" {"test/chmod.js"}
 ]
+libexec: [
+
+]

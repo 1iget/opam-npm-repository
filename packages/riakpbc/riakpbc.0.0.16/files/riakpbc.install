@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"spec/riak-1.3.proto" {"spec/riak-1.3.proto"}
+"spec/riak-1.4.proto" {"spec/riak-1.4.proto"}
+"spec/riak_kv-1.3.proto" {"spec/riak_kv-1.3.proto"}
+"spec/riak_kv-1.4.proto" {"spec/riak_kv-1.4.proto"}
+"test/spec.js" {"test/spec.js"}
+".jshintignore" {".jshintignore"}
+]
+libexec: [
+
+]

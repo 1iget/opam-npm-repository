@@ -7,3 +7,6 @@ lib: [
 "test.js" {"test.js"}
 "lib/growl.js" {"lib/growl.js"}
 ]
+libexec: [
+
+]

@@ -9,6 +9,6 @@ lib: [
 "README" {"README"}
 "underscore.js" {"underscore.js"}
 ]
-bin: [
+libexec: [
 
 ]

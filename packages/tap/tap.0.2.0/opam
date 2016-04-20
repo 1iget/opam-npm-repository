@@ -19,7 +19,9 @@ depends: [
 "mkdirp" {>="0.2.2" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/tap.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

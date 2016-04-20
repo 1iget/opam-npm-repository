@@ -6,3 +6,6 @@ lib: [
 "tests/test.js" {"tests/test.js"}
 "lib/fileset.js" {"lib/fileset.js"}
 ]
+libexec: [
+
+]

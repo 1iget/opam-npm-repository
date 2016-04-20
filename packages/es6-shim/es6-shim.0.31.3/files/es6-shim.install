@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+"es6-sham.js" {"es6-sham.js"}
+"es6-sham.min.js" {"es6-sham.min.js"}
+"es6-shim.js" {"es6-shim.js"}
+"es6-shim.min.js" {"es6-shim.min.js"}
+"component.json" {"component.json"}
+"bower.json" {"bower.json"}
+".jscs.json" {".jscs.json"}
+"12.2" {"12.2"}
+"es6-sham.map" {"es6-sham.map"}
+"12.3" {"12.3"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"es6-shim.map" {"es6-shim.map"}
+".jshintrc" {".jshintrc"}
+"test-sham/set-prototype-of.js" {"test-sham/set-prototype-of.js"}
+"test-sham/index.html" {"test-sham/index.html"}
+]
+libexec: [
+
+]

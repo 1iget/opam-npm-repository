@@ -1,0 +1,39 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"benchmark/" {"benchmark/"}
+"benchmark/dict.js" {"benchmark/dict.js"}
+"benchmark/package.json" {"benchmark/package.json"}
+"benchmark/run.js" {"benchmark/run.js"}
+"bin/" {"bin/"}
+"bin/testfiles.js" {"bin/testfiles.js"}
+"bin/update.js" {"bin/update.js"}
+"CHANGELOG" {"CHANGELOG"}
+"features/" {"features/"}
+"features/db.js" {"features/db.js"}
+"features/index.js" {"features/index.js"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/agents.js" {"lib/agents.js"}
+"lib/update.js" {"lib/update.js"}
+"lib/useragent.js" {"lib/useragent.js"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"static/" {"static/"}
+"static/user_agent.after.yaml" {"static/user_agent.after.yaml"}
+"tests/" {"tests/"}
+"tests/features.test.js" {"tests/features.test.js"}
+"tests/fixtures/" {"tests/fixtures/"}
+"tests/fixtures/firefoxes.yaml" {"tests/fixtures/firefoxes.yaml"}
+"tests/fixtures/pgts.yaml" {"tests/fixtures/pgts.yaml"}
+"tests/fixtures/static.custom.yaml" {"tests/fixtures/static.custom.yaml"}
+"tests/fixtures/testcases.yaml" {"tests/fixtures/testcases.yaml"}
+"tests/parser.qa.js" {"tests/parser.qa.js"}
+"tests/parser.test.js" {"tests/parser.test.js"}
+]
+libexec: [
+
+]

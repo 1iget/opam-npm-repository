@@ -1,7 +1,6 @@
 lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
-"index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
 "LICENSE.APACHE2" {"LICENSE.APACHE2"}
 "LICENSE.MIT" {"LICENSE.MIT"}
@@ -27,4 +26,7 @@ lib: [
 "test/fixtures/depth.json" {"test/fixtures/depth.json"}
 "test/disabled/doubledot1.js" {"test/disabled/doubledot1.js"}
 "test/disabled/doubledot2.js" {"test/disabled/doubledot2.js"}
+]
+libexec: [
+"index.js" {"index.js"}
 ]

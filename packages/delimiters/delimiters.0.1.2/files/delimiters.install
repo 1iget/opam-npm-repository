@@ -17,3 +17,6 @@ lib: [
 "test/useDelims.js" {"test/useDelims.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

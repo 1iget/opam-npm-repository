@@ -9,3 +9,6 @@ lib: [
 "lib/stringify/index.js" {"lib/stringify/index.js"}
 "lib/stringify/source-map-support.js" {"lib/stringify/source-map-support.js"}
 ]
+libexec: [
+
+]

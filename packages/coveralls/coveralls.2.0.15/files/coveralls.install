@@ -14,10 +14,12 @@ lib: [
 "lib/sendToCoveralls.js" {"lib/sendToCoveralls.js"}
 "Makefile" {"Makefile"}
 "coverage.json" {"coverage.json"}
-"bin/coveralls.js" {"bin/coveralls.js"}
 "test/convertLcovToCoveralls.js" {"test/convertLcovToCoveralls.js"}
 "test/getOptions.js" {"test/getOptions.js"}
 "test/handleInput.js" {"test/handleInput.js"}
 "test/logger.js" {"test/logger.js"}
 "test/sendToCoveralls.js" {"test/sendToCoveralls.js"}
+]
+libexec: [
+"bin/coveralls.js" {"bin/coveralls.js"}
 ]

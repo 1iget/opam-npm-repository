@@ -11,3 +11,6 @@ lib: [
 "test/browserling.js" {"test/browserling.js"}
 "test/is-extended.test.js" {"test/is-extended.test.js"}
 ]
+libexec: [
+
+]

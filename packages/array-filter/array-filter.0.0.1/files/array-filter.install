@@ -7,3 +7,6 @@ lib: [
 "test/filter.js" {"test/filter.js"}
 "test/holes.js" {"test/holes.js"}
 ]
+libexec: [
+
+]

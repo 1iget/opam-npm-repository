@@ -11,3 +11,6 @@ lib: [
 "binding.gyp" {"binding.gyp"}
 "BoyerMoore.h" {"BoyerMoore.h"}
 ]
+libexec: [
+
+]

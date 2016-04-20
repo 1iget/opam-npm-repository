@@ -41,3 +41,6 @@ lib: [
 "lib/translator.js" {"lib/translator.js"}
 "scripts/translate-api" {"scripts/translate-api"}
 ]
+libexec: [
+
+]

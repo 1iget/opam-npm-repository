@@ -13,3 +13,6 @@ lib: [
 "test_browser/string.test.js" {"test_browser/string.test.js"}
 "test_browser/browser.test.html" {"test_browser/browser.test.html"}
 ]
+libexec: [
+
+]

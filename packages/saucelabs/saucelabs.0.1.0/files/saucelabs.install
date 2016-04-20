@@ -17,3 +17,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 "user" {"user"}
 ]
+libexec: [
+
+]

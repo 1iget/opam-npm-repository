@@ -7,3 +7,6 @@ lib: [
 "example/map.js" {"example/map.js"}
 "test/map.js" {"test/map.js"}
 ]
+libexec: [
+
+]

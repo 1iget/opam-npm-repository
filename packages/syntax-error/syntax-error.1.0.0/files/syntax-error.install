@@ -9,3 +9,6 @@ lib: [
 "test/check.js" {"test/check.js"}
 "test/sources/check.js" {"test/sources/check.js"}
 ]
+libexec: [
+
+]

@@ -10,7 +10,6 @@ lib: [
 "t.js" {"t.js"}
 "docco.css" {"docco.css"}
 "184.patch" {"184.patch"}
-"bin/acorn" {"bin/acorn"}
 "bin/update_authors.sh" {"bin/update_authors.sh"}
 "bin/without_eval" {"bin/without_eval"}
 ".gitattributes" {".gitattributes"}
@@ -34,4 +33,7 @@ lib: [
 "tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
 "util/walk.js" {"util/walk.js"}
 "y.jsx" {"y.jsx"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

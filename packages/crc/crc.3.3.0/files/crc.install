@@ -17,3 +17,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/crc24.js" {"lib/crc24.js"}
 ]
+libexec: [
+
+]

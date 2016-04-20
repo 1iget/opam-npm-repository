@@ -4,7 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "History.md" {"History.md"}
-"bin/cleancss" {"bin/cleancss"}
 "lib/clean.js" {"lib/clean.js"}
 "lib/utils/compatibility.js" {"lib/utils/compatibility.js"}
 "lib/utils/input-source-map-tracker.js" {"lib/utils/input-source-map-tracker.js"}
@@ -57,4 +56,7 @@ lib: [
 "lib/urls/reduce.js" {"lib/urls/reduce.js"}
 "lib/urls/rewrite.js" {"lib/urls/rewrite.js"}
 "lib/source-maps/track.js" {"lib/source-maps/track.js"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

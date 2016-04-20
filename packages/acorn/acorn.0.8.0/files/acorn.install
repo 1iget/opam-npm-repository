@@ -1,0 +1,33 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"acorn_csp.js" {"acorn_csp.js"}
+"acorn.js" {"acorn.js"}
+"acorn_loose.js" {"acorn_loose.js"}
+".travis.yml" {".travis.yml"}
+"AUTHORS" {"AUTHORS"}
+".gitattributes" {".gitattributes"}
+"bin/update_authors.sh" {"bin/update_authors.sh"}
+"bin/without_eval" {"bin/without_eval"}
+"docco.css" {"docco.css"}
+".tern-project" {".tern-project"}
+"test/bench.js" {"test/bench.js"}
+"test/codemirror-string.js" {"test/codemirror-string.js"}
+"test/driver.js" {"test/driver.js"}
+"test/jquery-string.js" {"test/jquery-string.js"}
+"test/run.js" {"test/run.js"}
+"test/tests-harmony.js" {"test/tests-harmony.js"}
+"test/tests.js" {"test/tests.js"}
+"test/bench.html" {"test/bench.html"}
+"test/compare/esprima.js" {"test/compare/esprima.js"}
+"test/compare/traceur.js" {"test/compare/traceur.js"}
+"test/index.html" {"test/index.html"}
+"tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
+"util/test_walk.js" {"util/test_walk.js"}
+"util/walk.js" {"util/walk.js"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
+]

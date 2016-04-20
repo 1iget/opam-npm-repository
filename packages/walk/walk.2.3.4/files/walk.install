@@ -5,3 +5,6 @@ lib: [
 "lib/walk-async-only.js" {"lib/walk-async-only.js"}
 "lib/walk.js" {"lib/walk.js"}
 ]
+libexec: [
+
+]

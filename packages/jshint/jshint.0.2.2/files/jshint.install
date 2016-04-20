@@ -3,7 +3,9 @@ lib: [
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/hint" {"bin/hint"}
 "packages/jshint/jshint.js" {"packages/jshint/jshint.js"}
 "packages/jshint/README.markdown" {"packages/jshint/README.markdown"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

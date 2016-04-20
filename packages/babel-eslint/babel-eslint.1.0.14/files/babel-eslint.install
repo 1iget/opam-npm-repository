@@ -10,3 +10,6 @@ lib: [
 "test/non-regression.js" {"test/non-regression.js"}
 "test/.eslintrc" {"test/.eslintrc"}
 ]
+libexec: [
+
+]

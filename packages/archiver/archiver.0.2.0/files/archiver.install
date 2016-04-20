@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG" {"CHANGELOG"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"examples/pack-async.js" {"examples/pack-async.js"}
+"examples/pack-tar-gzip.js" {"examples/pack-tar-gzip.js"}
+"examples/pack.js" {"examples/pack.js"}
+"lib/archiver.js" {"lib/archiver.js"}
+"lib/archiver/core.js" {"lib/archiver/core.js"}
+"lib/archiver/tar.js" {"lib/archiver/tar.js"}
+"lib/archiver/zip.js" {"lib/archiver/zip.js"}
+"lib/util/crc32.js" {"lib/util/crc32.js"}
+"lib/util/utils.js" {"lib/util/utils.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/tests.js" {"test/tests.js"}
+]
+libexec: [
+
+]

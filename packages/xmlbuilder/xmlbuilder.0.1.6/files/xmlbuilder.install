@@ -10,3 +10,6 @@ lib: [
 "test/test.coffee" {"test/test.coffee"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

@@ -47,3 +47,6 @@ lib: [
 "tests/HTML/18-enforce_empty_tags.js" {"tests/HTML/18-enforce_empty_tags.js"}
 "tests/HTML/19-ignore_empty_tags.js" {"tests/HTML/19-ignore_empty_tags.js"}
 ]
+libexec: [
+
+]

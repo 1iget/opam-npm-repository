@@ -16,3 +16,6 @@ lib: [
 "test/bed/root_file3.ext3" {"test/bed/root_file3.ext3"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

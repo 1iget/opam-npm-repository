@@ -13,8 +13,6 @@ lib: [
 "support/tail.js" {"support/tail.js"}
 "support/template.html" {"support/template.html"}
 ".travis.yml" {".travis.yml"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "Makefile" {"Makefile"}
 "mocha.css" {"mocha.css"}
 "editors/JavaScript mocha.tmbundle/info.plist" {"editors/JavaScript mocha.tmbundle/info.plist"}
@@ -69,4 +67,8 @@ lib: [
 "lib/reporters/templates/menu.jade" {"lib/reporters/templates/menu.jade"}
 "lib/reporters/templates/script.html" {"lib/reporters/templates/script.html"}
 "lib/reporters/templates/style.html" {"lib/reporters/templates/style.html"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

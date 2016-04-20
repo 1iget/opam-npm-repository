@@ -25,7 +25,9 @@ depends: [
 "debug" {>="0.7.4" & <"0.8.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esformatter %{bin}%/esformatter"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esformatter" ] 
+]
 

@@ -6,7 +6,7 @@ author: "coolaj86 <coolaj86@gmail.com>"
 license: "not defined"
 dev-repo: "git://github.com/coolaj86/nodejs-libs-4-browser.git"
 depends: [
-"events.node" {>="0.4.0"}
+"events_node" {>="0.4.0"}
 
 ]
 

@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
 "uglify-js.js" {"uglify-js.js"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "README.html" {"README.html"}
 "tmp/test.js" {"tmp/test.js"}
 "tmp/instrument.js" {"tmp/instrument.js"}
@@ -115,4 +114,7 @@ lib: [
 "lib/consolidator.js" {"lib/consolidator.js"}
 "README.org" {"README.org"}
 "docstyle.css" {"docstyle.css"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

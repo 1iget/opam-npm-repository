@@ -5,3 +5,6 @@ lib: [
 "mini-map.js" {"mini-map.js"}
 "test/mini-map-test.js" {"test/mini-map-test.js"}
 ]
+libexec: [
+
+]

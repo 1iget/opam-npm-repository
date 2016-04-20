@@ -155,3 +155,6 @@ lib: [
 "test/monkeys/a.js" {"test/monkeys/a.js"}
 "test/monkeys/program.js" {"test/monkeys/program.js"}
 ]
+libexec: [
+
+]

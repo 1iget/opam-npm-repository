@@ -1,0 +1,46 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"should.min.js" {"should.min.js"}
+"should.js" {"should.js"}
+"index.js" {"index.js"}
+"Readme.md" {"Readme.md"}
+"lib/browser.js" {"lib/browser.js"}
+"lib/eql.js" {"lib/eql.js"}
+"lib/node.js" {"lib/node.js"}
+"lib/should.js" {"lib/should.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/ext/assert.js" {"lib/ext/assert.js"}
+"lib/ext/string.js" {"lib/ext/string.js"}
+"lib/ext/chain.js" {"lib/ext/chain.js"}
+"lib/ext/deprecated.js" {"lib/ext/deprecated.js"}
+"lib/ext/eql.js" {"lib/ext/eql.js"}
+"lib/ext/bool.js" {"lib/ext/bool.js"}
+"lib/ext/http.js" {"lib/ext/http.js"}
+"lib/ext/match.js" {"lib/ext/match.js"}
+"lib/ext/number.js" {"lib/ext/number.js"}
+"lib/ext/property.js" {"lib/ext/property.js"}
+"lib/ext/type.js" {"lib/ext/type.js"}
+"lib/ext/error.js" {"lib/ext/error.js"}
+"lib/ext/browser/jquery.js" {"lib/ext/browser/jquery.js"}
+"Makefile" {"Makefile"}
+"History.md" {"History.md"}
+"should.js.for-tests" {"should.js.for-tests"}
+".idea/libraries/Node_js_Dependencies_for_should_js.xml" {".idea/libraries/Node_js_Dependencies_for_should_js.xml"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/inspectionProfiles/Project_Default.xml" {".idea/inspectionProfiles/Project_Default.xml"}
+".idea/inspectionProfiles/profiles_settings.xml" {".idea/inspectionProfiles/profiles_settings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/jsLinters/jshint.xml" {".idea/jsLinters/jshint.xml"}
+".idea/codeStyleSettings.xml" {".idea/codeStyleSettings.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/should.js.iml" {".idea/should.js.iml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+]
+libexec: [
+
+]

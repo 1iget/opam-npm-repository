@@ -13,7 +13,9 @@ depends: [
 "optimist" {>="0.6.0" & <"0.7.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/liftoff.js %{bin}%/liftoff"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/liftoff" ] 
+]
 

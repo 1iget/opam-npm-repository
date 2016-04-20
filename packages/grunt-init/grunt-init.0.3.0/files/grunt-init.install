@@ -21,3 +21,6 @@ lib: [
 "templates/misc/placeholder" {"templates/misc/placeholder"}
 "test/git_test.js" {"test/git_test.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"readdir.js" {"readdir.js"}
+".eslintrc" {".eslintrc"}
+"test/basic.js" {"test/basic.js"}
+"test/fixtures/@org/x/.keep" {"test/fixtures/@org/x/.keep"}
+"test/fixtures/@org/y/.keep" {"test/fixtures/@org/y/.keep"}
+"test/fixtures/@scope/x/.keep" {"test/fixtures/@scope/x/.keep"}
+"test/fixtures/@scope/y/.keep" {"test/fixtures/@scope/y/.keep"}
+"test/fixtures/a/x/.keep" {"test/fixtures/a/x/.keep"}
+"test/fixtures/a/y/.keep" {"test/fixtures/a/y/.keep"}
+"test/fixtures/b/x/.keep" {"test/fixtures/b/x/.keep"}
+"test/fixtures/b/y/.keep" {"test/fixtures/b/y/.keep"}
+]
+libexec: [
+
+]

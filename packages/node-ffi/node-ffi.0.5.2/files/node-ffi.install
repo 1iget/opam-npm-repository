@@ -786,3 +786,6 @@ lib: [
 "test/struct.js" {"test/struct.js"}
 "libffi-build.sh" {"libffi-build.sh"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"install.js" {"install.js"}
+"install.min.js" {"install.min.js"}
+"main.js" {"main.js"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/install.html" {"docs/install.html"}
+]
+libexec: [
+
+]

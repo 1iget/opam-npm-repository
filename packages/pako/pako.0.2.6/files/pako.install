@@ -28,3 +28,6 @@ lib: [
 "lib/zlib/zstream.js" {"lib/zlib/zstream.js"}
 "lib/zlib/inffast.js" {"lib/zlib/inffast.js"}
 ]
+libexec: [
+
+]

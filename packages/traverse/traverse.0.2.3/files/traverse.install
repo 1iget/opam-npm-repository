@@ -25,3 +25,6 @@ lib: [
 "js-traverse/test/interface.js" {"js-traverse/test/interface.js"}
 "js-traverse/test/stringify.js" {"js-traverse/test/stringify.js"}
 ]
+libexec: [
+
+]

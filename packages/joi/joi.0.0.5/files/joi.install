@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/joi.js" {"lib/joi.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/types/array.js" {"lib/types/array.js"}
+"lib/types/base.js" {"lib/types/base.js"}
+"lib/types/boolean.js" {"lib/types/boolean.js"}
+"lib/types/email.js" {"lib/types/email.js"}
+"lib/types/index.js" {"lib/types/index.js"}
+"lib/types/number.js" {"lib/types/number.js"}
+"lib/types/object.js" {"lib/types/object.js"}
+"lib/types/string.js" {"lib/types/string.js"}
+"Makefile" {"Makefile"}
+"test/utils.js" {"test/utils.js"}
+"test/support/meta.js" {"test/support/meta.js"}
+"test/types/array.js" {"test/types/array.js"}
+"test/types/base.js" {"test/types/base.js"}
+"test/types/boolean.js" {"test/types/boolean.js"}
+"test/types/index.js" {"test/types/index.js"}
+"test/types/number.js" {"test/types/number.js"}
+"test/types/string.js" {"test/types/string.js"}
+]
+libexec: [
+
+]

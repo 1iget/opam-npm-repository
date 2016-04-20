@@ -9,3 +9,6 @@ lib: [
 "Makefile" {"Makefile"}
 "lib/jsprim.js" {"lib/jsprim.js"}
 ]
+libexec: [
+
+]

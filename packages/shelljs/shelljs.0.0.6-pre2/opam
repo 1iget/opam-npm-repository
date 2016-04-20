@@ -8,7 +8,9 @@ dev-repo: "git://github.com/arturadib/shelljs.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/sjs %{bin}%/sjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/sjs" ] 
+]
 

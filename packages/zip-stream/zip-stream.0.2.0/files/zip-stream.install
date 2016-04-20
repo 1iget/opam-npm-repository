@@ -28,3 +28,6 @@ lib: [
 "test/fixtures/test.txt" {"test/fixtures/test.txt"}
 "test/helpers/index.js" {"test/helpers/index.js"}
 ]
+libexec: [
+
+]

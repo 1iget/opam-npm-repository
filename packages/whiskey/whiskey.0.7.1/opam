@@ -25,7 +25,9 @@ depends: [
 "underscore" {>="1.4.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/whiskey %{bin}%/whiskey"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/whiskey" ] 
+]
 

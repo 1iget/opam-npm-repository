@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"auto-bind.js" {"auto-bind.js"}
+"index.js" {"index.js"}
+"lazy.js" {"lazy.js"}
+".lint" {".lint"}
+".travis.yml" {".travis.yml"}
+"CHANGES" {"CHANGES"}
+"test/auto-bind.js" {"test/auto-bind.js"}
+"test/index.js" {"test/index.js"}
+"test/lazy.js" {"test/lazy.js"}
+]
+libexec: [
+
+]

@@ -36,6 +36,8 @@ lib: [
 "test/index.html" {"test/index.html"}
 "tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
 "util/walk.js" {"util/walk.js"}
-"bin/acorn" {"bin/acorn"}
 "bin/update_authors.sh" {"bin/update_authors.sh"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

@@ -40,3 +40,6 @@ lib: [
 "test_stream_write_2.tmp" {"test_stream_write_2.tmp"}
 "upload.py" {"upload.py"}
 ]
+libexec: [
+
+]

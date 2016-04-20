@@ -1,0 +1,17 @@
+lib: [
+"" {""}
+"example.js" {"example.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"tests/" {"tests/"}
+"useragent.js" {"useragent.js"}
+"tests/browser.js" {"tests/browser.js"}
+"tests/parser.js" {"tests/parser.js"}
+"tests/useragents/" {"tests/useragents/"}
+"tests/useragents/sample_user_agents.csv" {"tests/useragents/sample_user_agents.csv"}
+"tests/useragents/user_agent_data.csv" {"tests/useragents/user_agent_data.csv"}
+]
+libexec: [
+
+]

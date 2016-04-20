@@ -21,7 +21,9 @@ depends: [
 "glob" {="3.2.3"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/_mocha %{bin}%/_mocha"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/_mocha" ] 
+]
 

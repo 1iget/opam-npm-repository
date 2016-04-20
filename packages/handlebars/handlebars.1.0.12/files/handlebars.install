@@ -33,3 +33,6 @@ lib: [
 "release-notes.md" {"release-notes.md"}
 "handlebars-source.gemspec" {"handlebars-source.gemspec"}
 ]
+libexec: [
+
+]

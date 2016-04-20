@@ -7,3 +7,6 @@ lib: [
 "lib/deflate-crc32-stream.js" {"lib/deflate-crc32-stream.js"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

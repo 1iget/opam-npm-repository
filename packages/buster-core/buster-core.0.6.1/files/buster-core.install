@@ -83,3 +83,6 @@ lib: [
 "lib/define-version-getter.js" {"lib/define-version-getter.js"}
 "lib/buster-event-emitter.js" {"lib/buster-event-emitter.js"}
 ]
+libexec: [
+
+]

@@ -6,7 +6,7 @@ author: "indutny <fedor@indutny.com>"
 license: "MIT"
 dev-repo: "git@github.com:indutny/brorand"
 depends: [
-"randy.js" {>="1.5.1" & <"2.0.0"}
+"randy_js" {>="1.5.1" & <"2.0.0"}
 
 ]
 

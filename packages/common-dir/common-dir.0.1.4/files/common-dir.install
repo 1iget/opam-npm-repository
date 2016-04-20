@@ -8,3 +8,6 @@ lib: [
 "lib/common-dir.js" {"lib/common-dir.js"}
 "test/commonDir.js" {"test/commonDir.js"}
 ]
+libexec: [
+
+]

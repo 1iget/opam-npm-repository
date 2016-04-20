@@ -46,3 +46,6 @@ lib: [
 "slow.out" {"slow.out"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

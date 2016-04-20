@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/esbeautifier.js" {"bin/esbeautifier.js"}
 ".idea/libraries/esbeautifier_node_modules.xml" {".idea/libraries/esbeautifier_node_modules.xml"}
 ".idea/libraries/jasmine.xml" {".idea/libraries/jasmine.xml"}
 ".idea/.name" {".idea/.name"}
@@ -26,4 +25,7 @@ lib: [
 "lib/options.js" {"lib/options.js"}
 "lib/process.js" {"lib/process.js"}
 "specs/cli.js" {"specs/cli.js"}
+]
+libexec: [
+"bin/esbeautifier.js" {"bin/esbeautifier.js"}
 ]

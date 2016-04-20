@@ -12,3 +12,6 @@ lib: [
 "docs/quickstart.md" {"docs/quickstart.md"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

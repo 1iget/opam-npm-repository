@@ -12,3 +12,6 @@ lib: [
 "test/sample_files/nestedDir/servent.txt" {"test/sample_files/nestedDir/servent.txt"}
 "test/sample_files/zap.bat" {"test/sample_files/zap.bat"}
 ]
+libexec: [
+
+]

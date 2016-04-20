@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"browser.js" {"browser.js"}
+"LICENSE.APACHE2" {"LICENSE.APACHE2"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.MIT" {"LICENSE.MIT"}
+"lib/utils.js" {"lib/utils.js"}
+"test/ini.js" {"test/ini.js"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+"index.js" {"index.js"}
+]

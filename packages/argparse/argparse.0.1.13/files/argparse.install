@@ -36,3 +36,6 @@ lib: [
 "lib/help/formatter.js" {"lib/help/formatter.js"}
 "HISTORY.md" {"HISTORY.md"}
 ]
+libexec: [
+
+]

@@ -44,3 +44,6 @@ lib: [
 "test/utf16.js" {"test/utf16.js"}
 "test/indexes.js" {"test/indexes.js"}
 ]
+libexec: [
+
+]

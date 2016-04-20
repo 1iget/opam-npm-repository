@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"q.js" {"q.js"}
+"queue.js" {"queue.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"coverage/coverage.json" {"coverage/coverage.json"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov-report/q/index.html" {"coverage/lcov-report/q/index.html"}
+"coverage/lcov-report/q/q.js.html" {"coverage/lcov-report/q/q.js.html"}
+"coverage/lcov-report/q/queue.js.html" {"coverage/lcov-report/q/queue.js.html"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+]
+libexec: [
+
+]

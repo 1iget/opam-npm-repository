@@ -9,3 +9,6 @@ lib: [
 "test/object_mode.js" {"test/object_mode.js"}
 "test/string.js" {"test/string.js"}
 ]
+libexec: [
+
+]

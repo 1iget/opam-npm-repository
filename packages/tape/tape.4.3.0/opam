@@ -26,12 +26,14 @@ depends: [
 
 "resumer" {>="0.0.0" & <"0.1.0"}
 
-"string.prototype.trim" {>="1.1.1" & <"2.0.0"}
+"string_prototype_trim" {>="1.1.1" & <"2.0.0"}
 
 "through" {>="2.3.4" & <"2.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/tape %{bin}%/tape"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tape" ] 
+]
 

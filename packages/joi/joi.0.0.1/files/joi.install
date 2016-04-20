@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/types.js" {"test/types.js"}
+"test/validation.js" {"test/validation.js"}
+"Makefile" {"Makefile"}
+"lib/joi.js" {"lib/joi.js"}
+"lib/types/object.js" {"lib/types/object.js"}
+"lib/types/number.js" {"lib/types/number.js"}
+"lib/types/string.js" {"lib/types/string.js"}
+"lib/types/boolean.js" {"lib/types/boolean.js"}
+"lib/types/base.js" {"lib/types/base.js"}
+"lib/types/array.js" {"lib/types/array.js"}
+"lib/types/index.js" {"lib/types/index.js"}
+"lib/types/email.js" {"lib/types/email.js"}
+]
+libexec: [
+
+]

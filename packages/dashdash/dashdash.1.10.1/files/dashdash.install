@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/dashdash.js" {"lib/dashdash.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,23 @@
+lib: [
+"CHANGES" {"CHANGES"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"q-fs.js" {"q-fs.js"}
+"README" {"README"}
+"test.js" {"test.js"}
+"examples/read.js" {"examples/read.js"}
+"lib/common.js" {"lib/common.js"}
+"lib/mock.js" {"lib/mock.js"}
+"lib/root.js" {"lib/root.js"}
+"test/all.js" {"test/all.js"}
+"test/lazy.js" {"test/lazy.js"}
+"test/root.js" {"test/root.js"}
+"test/mock/merge.js" {"test/mock/merge.js"}
+"test/mock/object.js" {"test/mock/object.js"}
+"test/mock/read.js" {"test/mock/read.js"}
+"test/mock/subtree.js" {"test/mock/subtree.js"}
+"test/mock/dummy/hello.txt" {"test/mock/dummy/hello.txt"}
+]
+libexec: [
+
+]

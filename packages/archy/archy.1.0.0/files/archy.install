@@ -10,3 +10,6 @@ lib: [
 "test/multi_line.js" {"test/multi_line.js"}
 "test/non_unicode.js" {"test/non_unicode.js"}
 ]
+libexec: [
+
+]

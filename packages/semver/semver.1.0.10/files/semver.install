@@ -1,0 +1,12 @@
+lib: [
+"cp.js" {"cp.js"}
+"LICENSE" {"LICENSE"}
+"no-exit.js" {"no-exit.js"}
+"package.json" {"package.json"}
+"pipeout.js" {"pipeout.js"}
+"README.md" {"README.md"}
+"semver.js" {"semver.js"}
+]
+libexec: [
+"bin/semver" {"bin/semver"}
+]

@@ -6,3 +6,6 @@ lib: [
 "Readme.md" {"Readme.md"}
 "lib/delayed_stream.js" {"lib/delayed_stream.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/error.js" {"lib/error.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/index.js" {"lib/index.js"}
+"test/utils.js" {"test/utils.js"}
+"test/index.js" {"test/index.js"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/hawk.png" {"images/hawk.png"}
+"example/usage.js" {"example/usage.js"}
+]
+libexec: [
+
+]

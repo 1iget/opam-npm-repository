@@ -7,3 +7,6 @@ lib: [
 "lib/vendor/compiler.jar" {"lib/vendor/compiler.jar"}
 "src/index.coffee" {"src/index.coffee"}
 ]
+libexec: [
+
+]

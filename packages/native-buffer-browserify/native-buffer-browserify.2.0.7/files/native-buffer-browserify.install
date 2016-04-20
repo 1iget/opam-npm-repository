@@ -35,3 +35,6 @@ lib: [
 "test/is-encoding.js" {"test/is-encoding.js"}
 "test/slice.js" {"test/slice.js"}
 ]
+libexec: [
+
+]

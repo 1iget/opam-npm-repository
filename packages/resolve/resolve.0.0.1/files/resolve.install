@@ -9,3 +9,6 @@ lib: [
 "test/resolver/baz/package.json" {"test/resolver/baz/package.json"}
 "test/resolver/bar/node_modules/foo/index.js" {"test/resolver/bar/node_modules/foo/index.js"}
 ]
+libexec: [
+
+]

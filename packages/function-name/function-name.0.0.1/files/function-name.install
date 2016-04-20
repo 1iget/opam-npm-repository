@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"src/binding.cc" {"src/binding.cc"}
+]
+libexec: [
+
+]

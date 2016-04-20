@@ -11,3 +11,6 @@ lib: [
 "test/index.js" {"test/index.js"}
 "test/static/index.html" {"test/static/index.html"}
 ]
+libexec: [
+
+]

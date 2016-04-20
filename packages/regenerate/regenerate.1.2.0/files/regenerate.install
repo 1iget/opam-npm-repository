@@ -5,3 +5,6 @@ lib: [
 "regenerate.js" {"regenerate.js"}
 "LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
 ]
+libexec: [
+
+]

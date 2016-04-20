@@ -6,3 +6,6 @@ lib: [
 "test/nopad.js" {"test/nopad.js"}
 "test/thorough.js" {"test/thorough.js"}
 ]
+libexec: [
+
+]

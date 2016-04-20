@@ -12,3 +12,6 @@ lib: [
 "test/unzip-test.js" {"test/unzip-test.js"}
 "test/zip-test.js" {"test/zip-test.js"}
 ]
+libexec: [
+
+]

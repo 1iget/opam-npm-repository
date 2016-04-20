@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"verbfile.js" {"verbfile.js"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".jshintrc" {".jshintrc"}
+"lib/camelize.js" {"lib/camelize.js"}
+"lib/debug.js" {"lib/debug.js"}
+"lib/has-own.js" {"lib/has-own.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/validation.js" {"lib/validation.js"}
+"lib/loaders/index.js" {"lib/loaders/index.js"}
+"lib/middleware/init.js" {"lib/middleware/init.js"}
+".verb.md" {".verb.md"}
+"recipes/template-as-a-loader/README.md" {"recipes/template-as-a-loader/README.md"}
+"recipes/template-as-a-loader/index.js" {"recipes/template-as-a-loader/index.js"}
+"recipes/template-as-a-loader/api-docs.md" {"recipes/template-as-a-loader/api-docs.md"}
+".gitattributes" {".gitattributes"}
+]
+libexec: [
+
+]

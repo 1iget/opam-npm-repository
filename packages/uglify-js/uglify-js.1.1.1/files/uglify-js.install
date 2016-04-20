@@ -6,7 +6,6 @@ lib: [
 "uglify-js.js" {"uglify-js.js"}
 "docstyle.css" {"docstyle.css"}
 ".gitignore" {".gitignore"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "tmp/instrument2.js" {"tmp/instrument2.js"}
 "tmp/instrument.js" {"tmp/instrument.js"}
 "tmp/test.js" {"tmp/test.js"}
@@ -98,4 +97,7 @@ lib: [
 "test/unit/compress/test/issue9.js" {"test/unit/compress/test/issue9.js"}
 "test/unit/compress/test/issue11.js" {"test/unit/compress/test/issue11.js"}
 "test/unit/compress/test/issue17.js" {"test/unit/compress/test/issue17.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

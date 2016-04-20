@@ -6,7 +6,7 @@ author: "tjholowaychuk <tj@vision-media.ca>"
 license: "MIT"
 dev-repo: "https://github.com/visionmedia/bytes.js.git"
 depends: [
-"node.extend" {>="0.0.0"}
+"node_extend" {>="0.0.0"}
 
 ]
 

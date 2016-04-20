@@ -26,5 +26,7 @@ lib: [
 "lib/._clean.js" {"lib/._clean.js"}
 "lib/clean.js" {"lib/clean.js"}
 "bin/._cleancss" {"bin/._cleancss"}
+]
+libexec: [
 "bin/cleancss" {"bin/cleancss"}
 ]

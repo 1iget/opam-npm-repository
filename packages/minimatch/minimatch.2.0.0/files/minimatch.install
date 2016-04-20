@@ -12,3 +12,6 @@ lib: [
 "test/defaults.js" {"test/defaults.js"}
 "test/extglob-ending-with-state-char.js" {"test/extglob-ending-with-state-char.js"}
 ]
+libexec: [
+
+]

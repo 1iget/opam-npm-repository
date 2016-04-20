@@ -11,3 +11,6 @@ lib: [
 "lib/rules/prop-types.js" {"lib/rules/prop-types.js"}
 "test.jsx" {"test.jsx"}
 ]
+libexec: [
+
+]

@@ -35,3 +35,6 @@ lib: [
 "test/test.options.large-only.js" {"test/test.options.large-only.js"}
 "test/test.prompt.js" {"test/test.prompt.js"}
 ]
+libexec: [
+
+]

@@ -55,3 +55,6 @@ lib: [
 "test/node/fixtures/user.json" {"test/node/fixtures/user.json"}
 "test/node/fixtures/user.txt" {"test/node/fixtures/user.txt"}
 ]
+libexec: [
+
+]

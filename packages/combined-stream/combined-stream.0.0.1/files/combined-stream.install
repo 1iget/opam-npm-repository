@@ -16,3 +16,6 @@ lib: [
 "test/integration/test-unpaused-streams.js" {"test/integration/test-unpaused-streams.js"}
 "test/tmp/combined.txt" {"test/tmp/combined.txt"}
 ]
+libexec: [
+
+]

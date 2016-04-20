@@ -2,11 +2,13 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "index.js" {"index.js"}
-"bin/gulp.js" {"bin/gulp.js"}
 "completion/README.md" {"completion/README.md"}
 "completion/bash" {"completion/bash"}
 "completion/powershell" {"completion/powershell"}
 "completion/zsh" {"completion/zsh"}
 "lib/completion.js" {"lib/completion.js"}
 "lib/taskTree.js" {"lib/taskTree.js"}
+]
+libexec: [
+"bin/gulp.js" {"bin/gulp.js"}
 ]

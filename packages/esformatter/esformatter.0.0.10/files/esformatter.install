@@ -6,7 +6,6 @@ lib: [
 ".jshintrc" {".jshintrc"}
 ".travis.yml" {".travis.yml"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
-"bin/esformatter" {"bin/esformatter"}
 "lib/cli.js" {"lib/cli.js"}
 "lib/esformatter.js" {"lib/esformatter.js"}
 "lib/hooks.js" {"lib/hooks.js"}
@@ -140,4 +139,7 @@ lib: [
 "test/compare/rc/package/rc/nested-in.js" {"test/compare/rc/package/rc/nested-in.js"}
 "test/compare/rc/package/rc/nested-out.js" {"test/compare/rc/package/rc/nested-out.js"}
 "test/compare/rc/package/rc/.esformatter" {"test/compare/rc/package/rc/.esformatter"}
+]
+libexec: [
+"bin/esformatter" {"bin/esformatter"}
 ]

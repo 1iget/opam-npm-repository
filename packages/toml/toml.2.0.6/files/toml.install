@@ -19,3 +19,6 @@ lib: [
 "test/table_arrays_hard.toml" {"test/table_arrays_hard.toml"}
 "generate.sh" {"generate.sh"}
 ]
+libexec: [
+
+]

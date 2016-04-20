@@ -13,3 +13,6 @@ lib: [
 "lib/synonyms.js" {"lib/synonyms.js"}
 "lib/test.js" {"lib/test.js"}
 ]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/75lb/collect-all.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/collect-all"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/collect-all" ] 
+]
 

@@ -1,0 +1,46 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/joi.png" {"images/joi.png"}
+"images/validation.png" {"images/validation.png"}
+"languages/en-US.json" {"languages/en-US.json"}
+"lib/errors.js" {"lib/errors.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/messages.js" {"lib/messages.js"}
+"lib/set.js" {"lib/set.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/types/any.js" {"lib/types/any.js"}
+"lib/types/array.js" {"lib/types/array.js"}
+"lib/types/base.js" {"lib/types/base.js"}
+"lib/types/boolean.js" {"lib/types/boolean.js"}
+"lib/types/email.js" {"lib/types/email.js"}
+"lib/types/function.js" {"lib/types/function.js"}
+"lib/types/index.js" {"lib/types/index.js"}
+"lib/types/number.js" {"lib/types/number.js"}
+"lib/types/object.js" {"lib/types/object.js"}
+"lib/types/string.js" {"lib/types/string.js"}
+"AUTHORS" {"AUTHORS"}
+"test/index.js" {"test/index.js"}
+"test/messages.js" {"test/messages.js"}
+"test/set.js" {"test/set.js"}
+"test/languages/en-US.json" {"test/languages/en-US.json"}
+"test/support/meta.js" {"test/support/meta.js"}
+"test/types/any.js" {"test/types/any.js"}
+"test/types/array.js" {"test/types/array.js"}
+"test/types/base.js" {"test/types/base.js"}
+"test/types/boolean.js" {"test/types/boolean.js"}
+"test/types/function.js" {"test/types/function.js"}
+"test/types/index.js" {"test/types/index.js"}
+"test/types/number.js" {"test/types/number.js"}
+"test/types/object.js" {"test/types/object.js"}
+"test/types/string.js" {"test/types/string.js"}
+]
+libexec: [
+
+]

@@ -7,7 +7,6 @@ lib: [
 "acorn.js" {"acorn.js"}
 ".travis.yml" {".travis.yml"}
 ".gitattributes" {".gitattributes"}
-"bin/acorn" {"bin/acorn"}
 "docs/acorn.html" {"docs/acorn.html"}
 "docs/docco.css" {"docs/docco.css"}
 "docs/public/fonts/aller-bold.eot" {"docs/public/fonts/aller-bold.eot"}
@@ -34,4 +33,7 @@ lib: [
 "tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
 "util/walk.js" {"util/walk.js"}
 "validate.html" {"validate.html"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

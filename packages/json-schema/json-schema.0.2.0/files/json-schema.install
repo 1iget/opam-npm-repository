@@ -28,3 +28,6 @@ lib: [
 "lib/validate.js" {"lib/validate.js"}
 "test/tests.js" {"test/tests.js"}
 ]
+libexec: [
+
+]

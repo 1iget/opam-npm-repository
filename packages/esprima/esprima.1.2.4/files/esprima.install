@@ -2,11 +2,13 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "esprima.js" {"esprima.js"}
-"bin/esparse.js" {"bin/esparse.js"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
 "test/compat.js" {"test/compat.js"}
 "test/reflect.js" {"test/reflect.js"}
 "test/run.js" {"test/run.js"}
 "test/runner.js" {"test/runner.js"}
 "test/test.js" {"test/test.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

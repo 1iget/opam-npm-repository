@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "lib/clean.js" {"lib/clean.js"}
-"bin/cleancss" {"bin/cleancss"}
 "Makefile" {"Makefile"}
 "History.md" {"History.md"}
 "test/batch-test.js" {"test/batch-test.js"}
@@ -22,4 +21,7 @@ lib: [
 "test/data/reset-min.css" {"test/data/reset-min.css"}
 "test/data/reset.css" {"test/data/reset.css"}
 "test.bat" {"test.bat"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+".gitmodules" {".gitmodules"}
+"bower.json" {"bower.json"}
+"dist/Autolinker.js" {"dist/Autolinker.js"}
+"dist/Autolinker.min.js" {"dist/Autolinker.min.js"}
+"src/AnchorTagBuilder.js" {"src/AnchorTagBuilder.js"}
+"src/Autolinker.js" {"src/Autolinker.js"}
+"src/HtmlTag.js" {"src/HtmlTag.js"}
+"src/Util.js" {"src/Util.js"}
+"src/htmlParser/ElementNode.js" {"src/htmlParser/ElementNode.js"}
+"src/htmlParser/EntityNode.js" {"src/htmlParser/EntityNode.js"}
+"src/htmlParser/HtmlNode.js" {"src/htmlParser/HtmlNode.js"}
+"src/htmlParser/HtmlParser.js" {"src/htmlParser/HtmlParser.js"}
+"src/htmlParser/TextNode.js" {"src/htmlParser/TextNode.js"}
+"src/match/Email.js" {"src/match/Email.js"}
+"src/match/Match.js" {"src/match/Match.js"}
+"src/match/Phone.js" {"src/match/Phone.js"}
+"src/match/Twitter.js" {"src/match/Twitter.js"}
+"src/match/Url.js" {"src/match/Url.js"}
+"src/matchParser/MatchParser.js" {"src/matchParser/MatchParser.js"}
+"src/matchParser/MatchValidator.js" {"src/matchParser/MatchValidator.js"}
+".jshintrc" {".jshintrc"}
+"tests/AutolinkerSpec.js" {"tests/AutolinkerSpec.js"}
+"tests/HtmlTagSpec.js" {"tests/HtmlTagSpec.js"}
+"tests/UtilSpec.js" {"tests/UtilSpec.js"}
+"tests/htmlParser/HtmlParserSpec.js" {"tests/htmlParser/HtmlParserSpec.js"}
+"tests/index.html" {"tests/index.html"}
+]
+libexec: [
+
+]

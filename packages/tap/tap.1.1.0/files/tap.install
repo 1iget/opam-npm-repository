@@ -18,3 +18,6 @@ lib: [
 "scripts/generate-test-test.js" {"scripts/generate-test-test.js"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ]
+libexec: [
+
+]

@@ -19,6 +19,8 @@ lib: [
 "test/test-files/helloWorld.txt" {"test/test-files/helloWorld.txt"}
 "test/test-files/lorem.txt" {"test/test-files/lorem.txt"}
 "test/test-files/random.txt" {"test/test-files/random.txt"}
+]
+libexec: [
 "bin/deflate.js" {"bin/deflate.js"}
 "bin/inflate.js" {"bin/inflate.js"}
 ]

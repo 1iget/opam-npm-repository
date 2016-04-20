@@ -17,3 +17,6 @@ lib: [
 "test/spawn_script/delay.js" {"test/spawn_script/delay.js"}
 "test/spawn_script/uppercase.js" {"test/spawn_script/uppercase.js"}
 ]
+libexec: [
+
+]

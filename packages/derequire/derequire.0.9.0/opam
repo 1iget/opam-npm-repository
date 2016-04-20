@@ -15,7 +15,9 @@ depends: [
 "estraverse" {>="1.5.0" & <"1.6.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/derequire"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/derequire" ] 
+]
 

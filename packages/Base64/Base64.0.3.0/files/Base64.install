@@ -11,3 +11,6 @@ lib: [
 "scripts/prepublish" {"scripts/prepublish"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

@@ -25,3 +25,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/streams.js" {"lib/streams.js"}
 ]
+libexec: [
+
+]

@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
-"bin/required" {"bin/required"}
 "test/cache_source.js" {"test/cache_source.js"}
 "test/runner.js" {"test/runner.js"}
 "test/fixtures/cache_source.js" {"test/fixtures/cache_source.js"}
@@ -28,4 +27,7 @@ lib: [
 "tmp/a.js" {"tmp/a.js"}
 "tmp/b.js" {"tmp/b.js"}
 "tmp/c.js" {"tmp/c.js"}
+]
+libexec: [
+"bin/required" {"bin/required"}
 ]

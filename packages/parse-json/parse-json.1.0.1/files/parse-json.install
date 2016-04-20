@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE.md" {"LICENSE.md"}
+".bumpedrc" {".bumpedrc"}
+".npmrc" {".npmrc"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+".editorconfig" {".editorconfig"}
+".gitattributes" {".gitattributes"}
+"bower.json" {"bower.json"}
+"dist/parse-json.js" {"dist/parse-json.js"}
+"dist/example.html" {"dist/example.html"}
+"gulpfile.coffee" {"gulpfile.coffee"}
+".jscsrc" {".jscsrc"}
+".jshintrc" {".jshintrc"}
+"test/sample.json" {"test/sample.json"}
+"test/test.coffee" {"test/test.coffee"}
+"test/test.sh" {"test/test.sh"}
+]
+libexec: [
+
+]

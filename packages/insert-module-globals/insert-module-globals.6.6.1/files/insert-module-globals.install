@@ -34,3 +34,6 @@ lib: [
 "test/always/hidden_from_quick_test.js" {"test/always/hidden_from_quick_test.js"}
 "test/always/main.js" {"test/always/main.js"}
 ]
+libexec: [
+
+]

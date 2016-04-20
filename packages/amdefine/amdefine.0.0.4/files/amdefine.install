@@ -5,3 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "amdefine.js" {"amdefine.js"}
 ]
+libexec: [
+
+]

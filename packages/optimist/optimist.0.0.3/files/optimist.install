@@ -11,3 +11,6 @@ lib: [
 "examples/xup.js" {"examples/xup.js"}
 "test/parse.js" {"test/parse.js"}
 ]
+libexec: [
+
+]

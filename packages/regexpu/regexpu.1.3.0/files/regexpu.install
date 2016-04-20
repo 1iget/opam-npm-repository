@@ -11,3 +11,6 @@ lib: [
 "data/character-class-escape-sets.js" {"data/character-class-escape-sets.js"}
 "data/iu-mappings.json" {"data/iu-mappings.json"}
 ]
+libexec: [
+
+]

@@ -5,7 +5,6 @@ lib: [
 ".editorconfig" {".editorconfig"}
 ".jshintrc" {".jshintrc"}
 ".travis.yml" {".travis.yml"}
-"bin/esformatter" {"bin/esformatter"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "lib/esformatter.js" {"lib/esformatter.js"}
 "lib/hooks.js" {"lib/hooks.js"}
@@ -91,4 +90,7 @@ lib: [
 "test/compare/default/array_expression-out.js" {"test/compare/default/array_expression-out.js"}
 "test/compare/default/while_statement-out.js" {"test/compare/default/while_statement-out.js"}
 "test/compare/default/function_expression-in.js" {"test/compare/default/function_expression-in.js"}
+]
+libexec: [
+"bin/esformatter" {"bin/esformatter"}
 ]

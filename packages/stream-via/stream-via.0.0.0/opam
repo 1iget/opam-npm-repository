@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/75lb/stream-via.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/stream-via"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/stream-via" ] 
+]
 

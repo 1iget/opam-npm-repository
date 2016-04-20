@@ -53,3 +53,6 @@ lib: [
 "spec/simple/http_test.coffee" {"spec/simple/http_test.coffee"}
 "spec/simple/protobuf_test.coffee" {"spec/simple/protobuf_test.coffee"}
 ]
+libexec: [
+
+]

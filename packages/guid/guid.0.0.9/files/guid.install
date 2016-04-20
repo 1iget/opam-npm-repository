@@ -1,0 +1,10 @@
+lib: [
+"ender.js" {"ender.js"}
+"guid.js" {"guid.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

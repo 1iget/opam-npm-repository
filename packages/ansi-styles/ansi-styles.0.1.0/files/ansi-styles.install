@@ -3,3 +3,6 @@ lib: [
 "ansi-styles.js" {"ansi-styles.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

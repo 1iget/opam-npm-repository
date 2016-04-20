@@ -6,7 +6,9 @@ lib: [
 "index.js" {"index.js"}
 "Makefile" {"Makefile"}
 "lib/marked.js" {"lib/marked.js"}
-"bin/marked" {"bin/marked"}
 "man/marked.1" {"man/marked.1"}
 "component.json" {"component.json"}
+]
+libexec: [
+"bin/marked" {"bin/marked"}
 ]

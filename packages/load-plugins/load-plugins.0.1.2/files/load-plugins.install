@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/c.js" {"test/fixtures/c.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

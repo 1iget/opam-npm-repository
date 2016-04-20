@@ -13,7 +13,6 @@ lib: [
 "assets/yui/treeview.css" {"assets/yui/treeview.css"}
 "assets/yui/yahoo-dom-event.js" {"assets/yui/yahoo-dom-event.js"}
 "bin/" {"bin/"}
-"bin/esparse.js" {"bin/esparse.js"}
 "changes" {"changes"}
 "cm" {"cm"}
 "demo/" {"demo/"}
@@ -72,4 +71,7 @@ lib: [
 "tools/" {"tools/"}
 "tools/generate-unicode-regex.py" {"tools/generate-unicode-regex.py"}
 "tools/update-coverage.sh" {"tools/update-coverage.sh"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
 ]

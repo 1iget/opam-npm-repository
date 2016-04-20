@@ -10,7 +10,7 @@ depends: [
 
 "flat-cache" {>="1.0.3" & <"2.0.0"}
 
-"lodash.assign" {>="3.0.0" & <"4.0.0"}
+"lodash_assign" {>="3.0.0" & <"4.0.0"}
 
 "text-table" {>="0.2.0" & <"0.3.0"}
 

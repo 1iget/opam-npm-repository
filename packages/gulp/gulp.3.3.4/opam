@@ -33,7 +33,9 @@ depends: [
 "semver" {>="2.2.1" & <"2.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp.js %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

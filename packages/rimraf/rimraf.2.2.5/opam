@@ -8,7 +8,9 @@ dev-repo: "git://github.com/isaacs/rimraf.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin.js %{bin}%/rimraf"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/rimraf" ] 
+]
 

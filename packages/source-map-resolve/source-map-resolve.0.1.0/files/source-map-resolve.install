@@ -14,3 +14,6 @@ lib: [
 "test/source-map-resolve.js" {"test/source-map-resolve.js"}
 "test/windows.js" {"test/windows.js"}
 ]
+libexec: [
+
+]

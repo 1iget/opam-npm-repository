@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"Vagrantfile" {"Vagrantfile"}
+".jshintignore" {".jshintignore"}
+"clean_vm.sh" {"clean_vm.sh"}
+".travis.yml" {".travis.yml"}
+"lib/connection-manager.js" {"lib/connection-manager.js"}
+"lib/merge.js" {"lib/merge.js"}
+"lib/parse-response.js" {"lib/parse-response.js"}
+"lib/quorum.js" {"lib/quorum.js"}
+"makefile" {"makefile"}
+"test/client-test.js" {"test/client-test.js"}
+"test/get-index-test.js" {"test/get-index-test.js"}
+"test/search-test.js" {"test/search-test.js"}
+"test/streaming-error-test.js" {"test/streaming-error-test.js"}
+"test/text-content-type-test.js" {"test/text-content-type-test.js"}
+"test/provision_vagrant.sh" {"test/provision_vagrant.sh"}
+"bin/enable-riak-search.sh" {"bin/enable-riak-search.sh"}
+]
+libexec: [
+
+]

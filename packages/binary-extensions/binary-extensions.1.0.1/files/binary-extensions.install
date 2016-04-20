@@ -4,3 +4,6 @@ lib: [
 "readme.md" {"readme.md"}
 "binary-extensions.json" {"binary-extensions.json"}
 ]
+libexec: [
+
+]

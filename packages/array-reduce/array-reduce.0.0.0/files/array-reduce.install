@@ -7,3 +7,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "test/reduce.js" {"test/reduce.js"}
 ]
+libexec: [
+
+]

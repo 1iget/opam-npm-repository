@@ -10,3 +10,6 @@ lib: [
 "test/test.js" {"test/test.js"}
 "test/fixture.txt" {"test/fixture.txt"}
 ]
+libexec: [
+
+]

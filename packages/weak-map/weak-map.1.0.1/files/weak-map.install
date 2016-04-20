@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"verify.js" {"verify.js"}
+"weak-map.js" {"weak-map.js"}
+"sync" {"sync"}
+"sync.patch" {"sync.patch"}
+"verify" {"verify"}
+]
+libexec: [
+
+]

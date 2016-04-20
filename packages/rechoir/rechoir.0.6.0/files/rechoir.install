@@ -10,3 +10,6 @@ lib: [
 "lib/normalize.js" {"lib/normalize.js"}
 "lib/register.js" {"lib/register.js"}
 ]
+libexec: [
+
+]

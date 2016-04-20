@@ -6,3 +6,6 @@ lib: [
 "lib/exp.js" {"lib/exp.js"}
 "lib/regex.js" {"lib/regex.js"}
 ]
+libexec: [
+
+]

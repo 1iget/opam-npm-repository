@@ -11,7 +11,9 @@ depends: [
 "required" {>="0.2.0" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cmd.js %{bin}%/module-deps"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/module-deps" ] 
+]
 

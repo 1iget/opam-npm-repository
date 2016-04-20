@@ -5,3 +5,6 @@ lib: [
 "index.js" {"index.js"}
 "lib/js-yaml.js" {"lib/js-yaml.js"}
 ]
+libexec: [
+
+]

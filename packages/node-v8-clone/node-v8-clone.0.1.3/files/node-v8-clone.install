@@ -12,3 +12,6 @@ lib: [
 "bench/date.js" {"bench/date.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

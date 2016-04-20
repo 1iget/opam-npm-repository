@@ -34,3 +34,6 @@ lib: [
 "lib/wireprotocol/commands.js" {"lib/wireprotocol/commands.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

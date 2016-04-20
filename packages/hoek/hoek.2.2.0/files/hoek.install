@@ -17,3 +17,6 @@ lib: [
 "Makefile" {"Makefile"}
 "images/hoek.png" {"images/hoek.png"}
 ]
+libexec: [
+
+]

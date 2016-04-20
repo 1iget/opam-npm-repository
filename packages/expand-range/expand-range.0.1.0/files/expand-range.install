@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/fixtures/alpha-lower.js" {"benchmark/fixtures/alpha-lower.js"}
+"benchmark/fixtures/alpha-upper.js" {"benchmark/fixtures/alpha-upper.js"}
+"benchmark/fixtures/padded.js" {"benchmark/fixtures/padded.js"}
+"benchmark/fixtures/range.js" {"benchmark/fixtures/range.js"}
+"benchmark/libs/brace-expansion.js" {"benchmark/libs/brace-expansion.js"}
+"benchmark/libs/expand.js" {"benchmark/libs/expand.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+".verbrc.md" {".verbrc.md"}
+]
+libexec: [
+
+]

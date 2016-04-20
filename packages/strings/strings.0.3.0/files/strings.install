@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"docs/api.md" {"docs/api.md"}
+"docs/basics.md" {"docs/basics.md"}
+"docs/examples.md" {"docs/examples.md"}
+".gitattributes" {".gitattributes"}
+"bower.json" {"bower.json"}
+".jshintrc" {".jshintrc"}
+".verbrc.md" {".verbrc.md"}
+"lib/utils.js" {"lib/utils.js"}
+"test/test.js" {"test/test.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"vendor/gulp/package.json" {"vendor/gulp/package.json"}
+"vendor/gulp/README.md" {"vendor/gulp/README.md"}
+"vendor/gulp/index.js" {"vendor/gulp/index.js"}
+"vendor/gulp/bin/gulp.js" {"vendor/gulp/bin/gulp.js"}
+"vendor/gulp/completion/README.md" {"vendor/gulp/completion/README.md"}
+"vendor/gulp/completion/bash" {"vendor/gulp/completion/bash"}
+"vendor/gulp/completion/zsh" {"vendor/gulp/completion/zsh"}
+"vendor/gulp/lib/completion.js" {"vendor/gulp/lib/completion.js"}
+"vendor/gulp/lib/taskTree.js" {"vendor/gulp/lib/taskTree.js"}
+"vendor/metalsmith/package.json" {"vendor/metalsmith/package.json"}
+"vendor/metalsmith/.npmignore" {"vendor/metalsmith/.npmignore"}
+"vendor/metalsmith/History.md" {"vendor/metalsmith/History.md"}
+"vendor/metalsmith/Makefile" {"vendor/metalsmith/Makefile"}
+"vendor/metalsmith/Readme.md" {"vendor/metalsmith/Readme.md"}
+"vendor/metalsmith/bin/metalsmith" {"vendor/metalsmith/bin/metalsmith"}
+"vendor/metalsmith/lib/index.js" {"vendor/metalsmith/lib/index.js"}
+]
+libexec: [
+
+]

@@ -35,7 +35,6 @@ lib: [
 "examples/with-bench/with-vs-func.js" {"examples/with-bench/with-vs-func.js"}
 "examples/with-bench/with.js" {"examples/with-bench/with.js"}
 "lib/bench.js" {"lib/bench.js"}
-"lib/cli-wrapper.js" {"lib/cli-wrapper.js"}
 "slowdumb/s.js" {"slowdumb/s.js"}
 "slowdumb/file-10" {"slowdumb/file-10"}
 "slowdumb/file-1000" {"slowdumb/file-1000"}
@@ -1060,4 +1059,7 @@ lib: [
 "slowdumb/file-999" {"slowdumb/file-999"}
 "slowdumb/file-467" {"slowdumb/file-467"}
 "src/node-bench.c" {"src/node-bench.c"}
+]
+libexec: [
+"lib/cli-wrapper.js" {"lib/cli-wrapper.js"}
 ]

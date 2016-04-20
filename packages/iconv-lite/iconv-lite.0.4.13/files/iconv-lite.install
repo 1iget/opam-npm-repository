@@ -27,3 +27,6 @@ lib: [
 "lib/streams.js" {"lib/streams.js"}
 "Changelog.md" {"Changelog.md"}
 ]
+libexec: [
+
+]

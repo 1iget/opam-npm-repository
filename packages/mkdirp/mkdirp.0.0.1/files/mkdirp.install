@@ -6,3 +6,6 @@ lib: [
 "examples/pow.js" {"examples/pow.js"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

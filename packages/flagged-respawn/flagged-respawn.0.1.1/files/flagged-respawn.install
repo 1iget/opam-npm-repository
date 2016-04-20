@@ -9,3 +9,6 @@ lib: [
 "bin/example.js" {"bin/example.js"}
 "lib/reorder.js" {"lib/reorder.js"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "src/xregexp-unicode-scripts.js" {"src/xregexp-unicode-scripts.js"}
 "src/xregexp.js" {"src/xregexp.js"}
 ]
+libexec: [
+
+]

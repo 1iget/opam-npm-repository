@@ -13,3 +13,6 @@ lib: [
 "test/lazy.js" {"test/lazy.js"}
 "test/queue.js" {"test/queue.js"}
 ]
+libexec: [
+
+]

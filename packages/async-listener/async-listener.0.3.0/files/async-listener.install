@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"glue.js" {"glue.js"}
+"index.js" {"index.js"}
+"test/add-remove.tap.js" {"test/add-remove.tap.js"}
+"test/core-asynclistener-nexttick-remove.simple.js" {"test/core-asynclistener-nexttick-remove.simple.js"}
+"test/core-asynclistener-only-add.simple.js" {"test/core-asynclistener-only-add.simple.js"}
+"test/core-asynclistener-remove-after.simple.js" {"test/core-asynclistener-remove-after.simple.js"}
+"test/core-asynclistener.simple.js" {"test/core-asynclistener.simple.js"}
+"test/core-asynclistener-error.simple.js" {"test/core-asynclistener-error.simple.js"}
+"test/fork-listen2-problem.tap.js" {"test/fork-listen2-problem.tap.js"}
+"test/fork-listener.js" {"test/fork-listener.js"}
+"test/no-after-following-error.tap.js" {"test/no-after-following-error.tap.js"}
+"test/overlapping-nexttick.tap.js" {"test/overlapping-nexttick.tap.js"}
+"test/simple-counter-with-io.tap.js" {"test/simple-counter-with-io.tap.js"}
+"test/core-asynclistener-add-after.simple.js" {"test/core-asynclistener-add-after.simple.js"}
+"test/simple-counter.tap.js" {"test/simple-counter.tap.js"}
+"test/core-asynclistener-active-state.simple.js" {"test/core-asynclistener-active-state.simple.js"}
+"test/simplified-error.simple.js" {"test/simplified-error.simple.js"}
+"test/errors-this-tick.tap.js" {"test/errors-this-tick.tap.js"}
+]
+libexec: [
+
+]

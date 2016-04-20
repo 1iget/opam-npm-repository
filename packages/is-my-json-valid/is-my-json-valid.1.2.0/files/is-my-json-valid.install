@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"compile.js" {"compile.js"}
+"require.js" {"require.js"}
+"index.js" {"index.js"}
+"example.js" {"example.js"}
+".travis.yml" {".travis.yml"}
+"test/validate.js" {"test/validate.js"}
+"test/test.schema" {"test/test.schema"}
+]
+libexec: [
+
+]

@@ -21,3 +21,6 @@ lib: [
 "src/pathwatcher_win.cc" {"src/pathwatcher_win.cc"}
 "src/unsafe_persistent.h" {"src/unsafe_persistent.h"}
 ]
+libexec: [
+
+]

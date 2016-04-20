@@ -6,3 +6,6 @@ lib: [
 "example/edit.js" {"example/edit.js"}
 "example/beep.json" {"example/beep.json"}
 ]
+libexec: [
+
+]

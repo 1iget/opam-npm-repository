@@ -17,7 +17,9 @@ depends: [
 "typical" {>="2.3.0" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/collect-json"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/collect-json" ] 
+]
 

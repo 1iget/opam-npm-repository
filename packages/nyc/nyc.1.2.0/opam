@@ -21,7 +21,9 @@ depends: [
 "spawn-wrap" {="0.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/nyc-report.js %{bin}%/nyc-report"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/nyc-report" ] 
+]
 

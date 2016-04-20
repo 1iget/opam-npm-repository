@@ -8,3 +8,6 @@ lib: [
 "test/compare.js" {"test/compare.js"}
 "test/util.js" {"test/util.js"}
 ]
+libexec: [
+
+]

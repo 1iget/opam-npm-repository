@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "main.js" {"main.js"}
-"bin/commonize" {"bin/commonize"}
 "lib/cache.js" {"lib/cache.js"}
 "lib/commoner.js" {"lib/commoner.js"}
 "lib/context.js" {"lib/context.js"}
@@ -32,4 +31,7 @@ lib: [
 "wrappers/amd.js" {"wrappers/amd.js"}
 "wrappers/install.js" {"wrappers/install.js"}
 "wrappers/naked.js" {"wrappers/naked.js"}
+]
+libexec: [
+"bin/commonize" {"bin/commonize"}
 ]

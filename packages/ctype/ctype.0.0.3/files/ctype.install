@@ -16,3 +16,6 @@ lib: [
 "tst/ctio/uint/tst.ruint.js" {"tst/ctio/uint/tst.ruint.js"}
 "tst/ctio/uint/tst.wuint.js" {"tst/ctio/uint/tst.wuint.js"}
 ]
+libexec: [
+
+]

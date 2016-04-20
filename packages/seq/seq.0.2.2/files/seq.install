@@ -14,3 +14,6 @@ lib: [
 "examples/stat_all.coffee" {"examples/stat_all.coffee"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

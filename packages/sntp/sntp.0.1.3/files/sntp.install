@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test/index.js" {"test/index.js"}
+"lib/index.js" {"lib/index.js"}
+"examples/time.js" {"examples/time.js"}
+"examples/offset.js" {"examples/offset.js"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

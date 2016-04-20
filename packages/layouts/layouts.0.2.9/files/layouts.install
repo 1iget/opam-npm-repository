@@ -30,3 +30,6 @@ lib: [
 "test/fixtures/simple.tmpl" {"test/fixtures/simple.tmpl"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

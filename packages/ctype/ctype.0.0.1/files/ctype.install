@@ -13,3 +13,6 @@ lib: [
 "tst/ctio/float/tst.wfloat.js" {"tst/ctio/float/tst.wfloat.js"}
 "tst/ctio/float/tst.rfloat.js" {"tst/ctio/float/tst.rfloat.js"}
 ]
+libexec: [
+
+]

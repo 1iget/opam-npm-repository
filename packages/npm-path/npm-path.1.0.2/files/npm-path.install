@@ -7,3 +7,6 @@ lib: [
 "bin/npm-path" {"bin/npm-path"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

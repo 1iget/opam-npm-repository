@@ -1,0 +1,10 @@
+lib: [
+".gitignore" {".gitignore"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"examples/my-program.js" {"examples/my-program.js"}
+"lib/nopt.js" {"lib/nopt.js"}
+]
+libexec: [
+
+]

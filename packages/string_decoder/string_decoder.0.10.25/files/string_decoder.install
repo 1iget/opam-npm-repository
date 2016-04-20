@@ -458,3 +458,6 @@ lib: [
 "test/simple/test-string-decoder.js" {"test/simple/test-string-decoder.js"}
 "test/simple/test-string-decoder-end.js" {"test/simple/test-string-decoder-end.js"}
 ]
+libexec: [
+
+]

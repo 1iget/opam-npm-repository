@@ -102,3 +102,6 @@ lib: [
 "spec/transitive/c.js" {"spec/transitive/c.js"}
 "spec/transitive/program.js" {"spec/transitive/program.js"}
 ]
+libexec: [
+
+]

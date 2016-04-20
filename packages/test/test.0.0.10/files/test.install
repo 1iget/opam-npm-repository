@@ -1,0 +1,44 @@
+lib: [
+"test-commonjs/" {"test-commonjs/"}
+"test-commonjs/._.DS_Store" {"test-commonjs/._.DS_Store"}
+"test-commonjs/.DS_Store" {"test-commonjs/.DS_Store"}
+"test-commonjs/.package.json.un~" {"test-commonjs/.package.json.un~"}
+"test-commonjs/.README.md.un~" {"test-commonjs/.README.md.un~"}
+"test-commonjs/lib/" {"test-commonjs/lib/"}
+"test-commonjs/package.json" {"test-commonjs/package.json"}
+"test-commonjs/README.md" {"test-commonjs/README.md"}
+"test-commonjs/test/" {"test-commonjs/test/"}
+"test-commonjs/test/.all.js.un~" {"test-commonjs/test/.all.js.un~"}
+"test-commonjs/test/.assert.js.swp" {"test-commonjs/test/.assert.js.swp"}
+"test-commonjs/test/.assert.js.un~" {"test-commonjs/test/.assert.js.un~"}
+"test-commonjs/test/.async.js.un~" {"test-commonjs/test/.async.js.un~"}
+"test-commonjs/test/.fail-fast.js.un~" {"test-commonjs/test/.fail-fast.js.un~"}
+"test-commonjs/test/.node-test.js.swp" {"test-commonjs/test/.node-test.js.swp"}
+"test-commonjs/test/.node-test.js.un~" {"test-commonjs/test/.node-test.js.un~"}
+"test-commonjs/test/.suites.js.un~" {"test-commonjs/test/.suites.js.un~"}
+"test-commonjs/test/.test-runner.js.swp" {"test-commonjs/test/.test-runner.js.swp"}
+"test-commonjs/test/.test-runner.js.un~" {"test-commonjs/test/.test-runner.js.un~"}
+"test-commonjs/test/all.js" {"test-commonjs/test/all.js"}
+"test-commonjs/test/assert.js" {"test-commonjs/test/assert.js"}
+"test-commonjs/test/async.js" {"test-commonjs/test/async.js"}
+"test-commonjs/test/custom-asserts.js" {"test-commonjs/test/custom-asserts.js"}
+"test-commonjs/test/fail-fast.js" {"test-commonjs/test/fail-fast.js"}
+"test-commonjs/test/tosource.js" {"test-commonjs/test/tosource.js"}
+"test-commonjs/test/utils/" {"test-commonjs/test/utils/"}
+"test-commonjs/test/utils/.assert-report.js.un~" {"test-commonjs/test/utils/.assert-report.js.un~"}
+"test-commonjs/test/utils/.assert.js.un~" {"test-commonjs/test/utils/.assert.js.un~"}
+"test-commonjs/test/utils/assert-report.js" {"test-commonjs/test/utils/assert-report.js"}
+"test-commonjs/lib/.assert-override.js.un~" {"test-commonjs/lib/.assert-override.js.un~"}
+"test-commonjs/lib/.assert.js.un~" {"test-commonjs/lib/.assert.js.un~"}
+"test-commonjs/lib/._.DS_Store" {"test-commonjs/lib/._.DS_Store"}
+"test-commonjs/lib/.DS_Store" {"test-commonjs/lib/.DS_Store"}
+"test-commonjs/lib/.log.js.un~" {"test-commonjs/lib/.log.js.un~"}
+"test-commonjs/lib/.logger.js.un~" {"test-commonjs/lib/.logger.js.un~"}
+"test-commonjs/lib/.test.js.un~" {"test-commonjs/lib/.test.js.un~"}
+"test-commonjs/lib/assert.js" {"test-commonjs/lib/assert.js"}
+"test-commonjs/lib/log.js" {"test-commonjs/lib/log.js"}
+"test-commonjs/lib/test.js" {"test-commonjs/lib/test.js"}
+]
+libexec: [
+
+]

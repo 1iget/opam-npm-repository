@@ -4,3 +4,6 @@ lib: [
 "LICENSE.txt" {"LICENSE.txt"}
 "lib/sinon-chai.js" {"lib/sinon-chai.js"}
 ]
+libexec: [
+
+]

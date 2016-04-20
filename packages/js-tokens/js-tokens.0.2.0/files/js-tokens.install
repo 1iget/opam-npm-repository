@@ -19,3 +19,6 @@ lib: [
 "regex.coffee" {"regex.coffee"}
 "x-package.json5" {"x-package.json5"}
 ]
+libexec: [
+
+]

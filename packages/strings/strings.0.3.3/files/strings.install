@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"docs/verbfile.js" {"docs/verbfile.js"}
+"docs/basics.md" {"docs/basics.md"}
+"docs/parsers-example.md" {"docs/parsers-example.md"}
+"docs/tutorial.md" {"docs/tutorial.md"}
+".verbrc.md" {".verbrc.md"}
+"lib/utils.js" {"lib/utils.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/extend.js" {"test/extend.js"}
+"test/transform.js" {"test/transform.js"}
+"test/parser.js" {"test/parser.js"}
+"test/parsers.js" {"test/parsers.js"}
+"test/pattern.js" {"test/pattern.js"}
+"test/group.js" {"test/group.js"}
+"test/propstring.js" {"test/propstring.js"}
+"test/replacement.js" {"test/replacement.js"}
+"test/template.js" {"test/template.js"}
+"test/test.js" {"test/test.js"}
+"test/use.js" {"test/use.js"}
+"test/process.js" {"test/process.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

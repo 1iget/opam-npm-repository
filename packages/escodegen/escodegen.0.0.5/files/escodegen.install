@@ -5,7 +5,6 @@ lib: [
 "escodegen.js" {"escodegen.js"}
 ".travis.yml" {".travis.yml"}
 ".vimrc.local" {".vimrc.local"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "test/api.js" {"test/api.js"}
 "test/comment.js" {"test/comment.js"}
@@ -97,4 +96,7 @@ lib: [
 "tmp/res2.js" {"tmp/res2.js"}
 "tmp/t.js" {"tmp/t.js"}
 "tmp/t2.js" {"tmp/t2.js"}
+]
+libexec: [
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

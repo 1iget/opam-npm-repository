@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"glue.js" {"glue.js"}
+"index.js" {"index.js"}
+"test/add-remove.tap.js" {"test/add-remove.tap.js"}
+"test/from-core.tap.js" {"test/from-core.tap.js"}
+]
+libexec: [
+
+]

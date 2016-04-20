@@ -23,3 +23,6 @@ lib: [
 "opts.js" {"opts.js"}
 "LICENSE" {"LICENSE"}
 ]
+libexec: [
+
+]

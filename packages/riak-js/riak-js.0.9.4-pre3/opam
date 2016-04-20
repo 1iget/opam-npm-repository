@@ -10,7 +10,7 @@ depends: [
 
 "butils" {="latest"}
 
-"protobuf.js" {="latest"}
+"protobuf_js" {="latest"}
 
 "riakpbc" {="ImdpdDovL2dpdGh1Yi5jb20vcm9pZHJhZ2Uvcmlha3BiYy5naXQjbW0tcmVzb2x2ZS1wcm90by1zcGVjcyI"}
 

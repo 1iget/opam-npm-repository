@@ -7,6 +7,8 @@ lib: [
 "package.json" {"package.json"}
 "index.js" {"index.js"}
 "bin/" {"bin/"}
-"bin/marked" {"bin/marked"}
 "README.md" {"README.md"}
+]
+libexec: [
+"bin/marked" {"bin/marked"}
 ]

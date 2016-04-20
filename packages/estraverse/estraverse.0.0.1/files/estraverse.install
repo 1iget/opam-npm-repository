@@ -4,3 +4,6 @@ lib: [
 "estraverse.js" {"estraverse.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 ]
+libexec: [
+
+]

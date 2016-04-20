@@ -44,3 +44,6 @@ lib: [
 "lib/reporters/templates/style.html" {"lib/reporters/templates/style.html"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

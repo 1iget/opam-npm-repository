@@ -16,3 +16,6 @@ lib: [
 "test/html.js" {"test/html.js"}
 "test/object_tests.js" {"test/object_tests.js"}
 ]
+libexec: [
+
+]

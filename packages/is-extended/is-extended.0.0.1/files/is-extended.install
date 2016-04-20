@@ -10,3 +10,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "test/is-extended.test.js" {"test/is-extended.test.js"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "test/get-set.js" {"test/get-set.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

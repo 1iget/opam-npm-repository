@@ -32,3 +32,6 @@ lib: [
 "test/dir/symlinks/file" {"test/dir/symlinks/file"}
 "test.sh" {"test.sh"}
 ]
+libexec: [
+
+]

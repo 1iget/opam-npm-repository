@@ -11,3 +11,6 @@ lib: [
 "proto/riak_yokozuna.proto" {"proto/riak_yokozuna.proto"}
 "proto.json" {"proto.json"}
 ]
+libexec: [
+
+]

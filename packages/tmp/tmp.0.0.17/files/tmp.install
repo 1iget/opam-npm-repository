@@ -13,3 +13,6 @@ lib: [
 "test/spawn.js" {"test/spawn.js"}
 "test/unsafe.js" {"test/unsafe.js"}
 ]
+libexec: [
+
+]

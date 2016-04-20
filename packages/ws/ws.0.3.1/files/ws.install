@@ -1,7 +1,6 @@
 lib: [
 ".gitignore" {".gitignore"}
 "bin/" {"bin/"}
-"bin/wscat" {"bin/wscat"}
 "History.md" {"History.md"}
 "index.js" {"index.js"}
 "lib/" {"lib/"}
@@ -31,4 +30,7 @@ lib: [
 "test/WebSocket.test.js" {"test/WebSocket.test.js"}
 "test/WebSocketServer.test.js" {"test/WebSocketServer.test.js"}
 "wscript" {"wscript"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

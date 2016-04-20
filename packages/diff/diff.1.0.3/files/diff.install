@@ -7,3 +7,6 @@ lib: [
 "style.css" {"style.css"}
 "test/diffTest.js" {"test/diffTest.js"}
 ]
+libexec: [
+
+]

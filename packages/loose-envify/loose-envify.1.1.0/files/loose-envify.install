@@ -7,3 +7,6 @@ lib: [
 "loose-envify.js" {"loose-envify.js"}
 "replace.js" {"replace.js"}
 ]
+libexec: [
+
+]

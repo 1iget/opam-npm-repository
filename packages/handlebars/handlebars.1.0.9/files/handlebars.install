@@ -20,3 +20,6 @@ lib: [
 "lib/handlebars/compiler/visitor.js" {"lib/handlebars/compiler/visitor.js"}
 "README.markdown" {"README.markdown"}
 ]
+libexec: [
+
+]

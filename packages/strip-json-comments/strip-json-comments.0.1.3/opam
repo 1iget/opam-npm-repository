@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/strip-json-comments"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/strip-json-comments"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/strip-json-comments" ] 
+]
 

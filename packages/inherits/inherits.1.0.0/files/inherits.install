@@ -1,0 +1,8 @@
+lib: [
+"inherits.js" {"inherits.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

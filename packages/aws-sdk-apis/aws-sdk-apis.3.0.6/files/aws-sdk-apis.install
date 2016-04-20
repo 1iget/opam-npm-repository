@@ -90,3 +90,6 @@ lib: [
 "metadata.json" {"metadata.json"}
 "scripts/translate-api" {"scripts/translate-api"}
 ]
+libexec: [
+
+]

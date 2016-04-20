@@ -5,3 +5,6 @@ lib: [
 "examples/hello.js" {"examples/hello.js"}
 "test/testsets.js" {"test/testsets.js"}
 ]
+libexec: [
+
+]

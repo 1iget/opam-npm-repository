@@ -7,3 +7,6 @@ lib: [
 "LICENSE.md" {"LICENSE.md"}
 "test/url2-spec.js" {"test/url2-spec.js"}
 ]
+libexec: [
+
+]

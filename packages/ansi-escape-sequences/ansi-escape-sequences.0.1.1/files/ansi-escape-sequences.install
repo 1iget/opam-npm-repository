@@ -9,3 +9,6 @@ lib: [
 "lib/ansi-escape-sequences.js" {"lib/ansi-escape-sequences.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

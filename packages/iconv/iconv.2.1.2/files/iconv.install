@@ -264,3 +264,6 @@ lib: [
 "test/test-stream.js" {"test/test-stream.js"}
 "test/fixtures/lorem-ipsum.txt" {"test/fixtures/lorem-ipsum.txt"}
 ]
+libexec: [
+
+]

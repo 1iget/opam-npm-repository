@@ -9,3 +9,6 @@ lib: [
 "tests/callback.js" {"tests/callback.js"}
 "tests/emitter.js" {"tests/emitter.js"}
 ]
+libexec: [
+
+]

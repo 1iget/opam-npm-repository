@@ -28,3 +28,6 @@ lib: [
 "test/fixtures/all_npm.json" {"test/fixtures/all_npm.json"}
 "test/fixtures/depth.json" {"test/fixtures/depth.json"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"disparity-cli.js" {"disparity-cli.js"}
+"disparity.js" {"disparity.js"}
+"bin/disparity" {"bin/disparity"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"LICENSE.md" {"LICENSE.md"}
+"screenshots/chars.png" {"screenshots/chars.png"}
+"screenshots/unified.png" {"screenshots/unified.png"}
+"screenshots/unified_no_color.png" {"screenshots/unified_no_color.png"}
+"test/file1.js" {"test/file1.js"}
+"test/file2.js" {"test/file2.js"}
+"test/runner.js" {"test/runner.js"}
+"test/chars.html" {"test/chars.html"}
+"test/chars.txt" {"test/chars.txt"}
+"test/unified.html" {"test/unified.html"}
+"test/unified.txt" {"test/unified.txt"}
+"test/unified_2.txt" {"test/unified_2.txt"}
+"test/unified_no_color.txt" {"test/unified_no_color.txt"}
+]
+libexec: [
+
+]

@@ -1,0 +1,17 @@
+lib: [
+".gitignore" {".gitignore"}
+"fstream.js" {"fstream.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"examples/pipe.js" {"examples/pipe.js"}
+"examples/reader.js" {"examples/reader.js"}
+"examples/symlink-write.js" {"examples/symlink-write.js"}
+"examples/deep-copy/fstream.js" {"examples/deep-copy/fstream.js"}
+"examples/deep-copy/package.json" {"examples/deep-copy/package.json"}
+"examples/deep-copy/README.md" {"examples/deep-copy/README.md"}
+"examples/deep-copy/examples/pipe.js" {"examples/deep-copy/examples/pipe.js"}
+"examples/deep-copy/examples/reader.js" {"examples/deep-copy/examples/reader.js"}
+]
+libexec: [
+
+]

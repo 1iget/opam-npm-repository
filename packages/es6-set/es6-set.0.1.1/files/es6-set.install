@@ -37,3 +37,6 @@ lib: [
 "test/lib/primitive-iterator.js" {"test/lib/primitive-iterator.js"}
 "test/primitive/index.js" {"test/primitive/index.js"}
 ]
+libexec: [
+
+]

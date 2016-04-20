@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "main.js" {"main.js"}
-"bin/commonize" {"bin/commonize"}
 "lib/cache.js" {"lib/cache.js"}
 "lib/commoner.js" {"lib/commoner.js"}
 "lib/context.js" {"lib/context.js"}
@@ -13,4 +12,7 @@ lib: [
 "lib/relative.js" {"lib/relative.js"}
 "lib/util.js" {"lib/util.js"}
 "lib/watcher.js" {"lib/watcher.js"}
+]
+libexec: [
+"bin/commonize" {"bin/commonize"}
 ]

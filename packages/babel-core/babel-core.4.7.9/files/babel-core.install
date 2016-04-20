@@ -191,3 +191,6 @@ lib: [
 "templates.json" {"templates.json"}
 "CHANGELOG-6to5.md" {"CHANGELOG-6to5.md"}
 ]
+libexec: [
+
+]

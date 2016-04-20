@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "lodash.min.js" {"lodash.min.js"}
 "lodash.js" {"lodash.js"}
-"build.js" {"build.js"}
 "build/minify.js" {"build/minify.js"}
 "build/post-compile.js" {"build/post-compile.js"}
 "build/pre-compile.js" {"build/pre-compile.js"}
@@ -39,4 +38,7 @@ lib: [
 "vendor/underscore/LICENSE" {"vendor/underscore/LICENSE"}
 "vendor/underscore/underscore-min.js" {"vendor/underscore/underscore-min.js"}
 "vendor/underscore/underscore.js" {"vendor/underscore/underscore.js"}
+]
+libexec: [
+"build.js" {"build.js"}
 ]

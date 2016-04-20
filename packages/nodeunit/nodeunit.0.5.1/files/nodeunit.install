@@ -71,3 +71,6 @@ lib: [
 "nodeunit/examples/browser/suite2.js" {"nodeunit/examples/browser/suite2.js"}
 "nodeunit/examples/browser/suite1.js" {"nodeunit/examples/browser/suite1.js"}
 ]
+libexec: [
+
+]

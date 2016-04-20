@@ -43,3 +43,6 @@ lib: [
 "pkg/sinon-timers.js" {"pkg/sinon-timers.js"}
 "pkg/sinon.js" {"pkg/sinon.js"}
 ]
+libexec: [
+
+]

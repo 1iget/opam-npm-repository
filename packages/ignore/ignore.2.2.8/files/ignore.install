@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/.aignore" {"test/fixtures/.aignore"}
 "test/fixtures/.bignore" {"test/fixtures/.bignore"}
 ]
+libexec: [
+
+]

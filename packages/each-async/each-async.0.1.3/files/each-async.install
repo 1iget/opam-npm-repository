@@ -3,3 +3,6 @@ lib: [
 "each-async.js" {"each-async.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

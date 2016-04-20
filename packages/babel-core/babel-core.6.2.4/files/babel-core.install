@@ -1,0 +1,29 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"register.js" {"register.js"}
+"lib/store.js" {"lib/store.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/api/browser.js" {"lib/api/browser.js"}
+"lib/api/node.js" {"lib/api/node.js"}
+"lib/helpers/merge.js" {"lib/helpers/merge.js"}
+"lib/helpers/normalize-ast.js" {"lib/helpers/normalize-ast.js"}
+"lib/helpers/resolve.js" {"lib/helpers/resolve.js"}
+"lib/tools/build-external-helpers.js" {"lib/tools/build-external-helpers.js"}
+"lib/transformation/pipeline.js" {"lib/transformation/pipeline.js"}
+"lib/transformation/plugin-pass.js" {"lib/transformation/plugin-pass.js"}
+"lib/transformation/plugin.js" {"lib/transformation/plugin.js"}
+"lib/transformation/file/index.js" {"lib/transformation/file/index.js"}
+"lib/transformation/file/logger.js" {"lib/transformation/file/logger.js"}
+"lib/transformation/file/metadata.js" {"lib/transformation/file/metadata.js"}
+"lib/transformation/file/options/config.js" {"lib/transformation/file/options/config.js"}
+"lib/transformation/file/options/index.js" {"lib/transformation/file/options/index.js"}
+"lib/transformation/file/options/option-manager.js" {"lib/transformation/file/options/option-manager.js"}
+"lib/transformation/file/options/parsers.js" {"lib/transformation/file/options/parsers.js"}
+"lib/transformation/internal-plugins/block-hoist.js" {"lib/transformation/internal-plugins/block-hoist.js"}
+"lib/transformation/internal-plugins/shadow-functions.js" {"lib/transformation/internal-plugins/shadow-functions.js"}
+]
+libexec: [
+
+]

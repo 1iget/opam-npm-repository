@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "swap-case.js" {"swap-case.js"}
 ]
+libexec: [
+
+]

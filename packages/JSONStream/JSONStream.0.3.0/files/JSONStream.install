@@ -17,3 +17,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "examples/all_docs.js" {"examples/all_docs.js"}
 ]
+libexec: [
+
+]

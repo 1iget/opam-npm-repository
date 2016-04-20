@@ -10,7 +10,6 @@ lib: [
 "completion/zsh" {"completion/zsh"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ".gitattributes" {".gitattributes"}
-"bin/cli.js" {"bin/cli.js"}
 ".jshintrc" {".jshintrc"}
 "docs/recipes/layouts.js" {"docs/recipes/layouts.js"}
 "docs/recipes/api-docs.md" {"docs/recipes/api-docs.md"}
@@ -75,4 +74,7 @@ lib: [
 "test/fixtures/b.js" {"test/fixtures/b.js"}
 "test/fixtures/c.js" {"test/fixtures/c.js"}
 ".verb.md" {".verb.md"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

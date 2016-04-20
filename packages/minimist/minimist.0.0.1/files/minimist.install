@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/parse.js" {"example/parse.js"}
+"readme.markdown" {"readme.markdown"}
+"test/dash.js" {"test/dash.js"}
+"test/default_bool.js" {"test/default_bool.js"}
+"test/long.js" {"test/long.js"}
+"test/parse.js" {"test/parse.js"}
+"test/parse_modified.js" {"test/parse_modified.js"}
+"test/short.js" {"test/short.js"}
+"test/whitespace.js" {"test/whitespace.js"}
+]
+libexec: [
+
+]

@@ -4,8 +4,10 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/marked" {"bin/marked"}
 "Makefile" {"Makefile"}
 "man/marked.1" {"man/marked.1"}
 "lib/marked.js" {"lib/marked.js"}
+]
+libexec: [
+"bin/marked" {"bin/marked"}
 ]

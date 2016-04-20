@@ -81,3 +81,6 @@ lib: [
 "test/browser/stream2-basic.js" {"test/browser/stream2-basic.js"}
 "test/node/node-test.js" {"test/node/node-test.js"}
 ]
+libexec: [
+
+]

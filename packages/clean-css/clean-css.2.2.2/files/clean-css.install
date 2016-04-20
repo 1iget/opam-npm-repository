@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/cleancss" {"bin/cleancss"}
 "History.md" {"History.md"}
 "lib/clean.js" {"lib/clean.js"}
 "lib/colors/hsl-to-hex.js" {"lib/colors/hsl-to-hex.js"}
@@ -30,4 +29,7 @@ lib: [
 "lib/text/name-quotes.js" {"lib/text/name-quotes.js"}
 "lib/text/quote-scanner.js" {"lib/text/quote-scanner.js"}
 "lib/text/urls.js" {"lib/text/urls.js"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

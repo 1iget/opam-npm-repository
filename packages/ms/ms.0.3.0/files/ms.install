@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"ms.js" {"ms.js"}
+"component.json" {"component.json"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"test/test.js" {"test/test.js"}
+"test/index.html" {"test/index.html"}
+"test/support/jquery.js" {"test/support/jquery.js"}
+]
+libexec: [
+
+]

@@ -52,3 +52,6 @@ lib: [
 "test/fixtures/c.js" {"test/fixtures/c.js"}
 "test/fixtures/a.md" {"test/fixtures/a.md"}
 ]
+libexec: [
+
+]

@@ -7,7 +7,6 @@ lib: [
 "t.js" {"t.js"}
 ".travis.yml" {".travis.yml"}
 "LICENSE.source-map" {"LICENSE.source-map"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "tmp/bench.js" {"tmp/bench.js"}
 "tmp/c.js" {"tmp/c.js"}
 "tmp/jquery-1.7.2.js" {"tmp/jquery-1.7.2.js"}
@@ -96,4 +95,7 @@ lib: [
 "test/compare/unnecessary-parenthesized-in.js" {"test/compare/unnecessary-parenthesized-in.js"}
 "test/compare/unary-op.expected.js" {"test/compare/unary-op.expected.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
+]
+libexec: [
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

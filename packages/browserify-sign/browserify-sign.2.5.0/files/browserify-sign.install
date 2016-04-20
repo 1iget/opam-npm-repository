@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"verify.js" {"verify.js"}
+"utils.js" {"utils.js"}
+"test.js" {"test.js"}
+"algos.js" {"algos.js"}
+"asn1.js" {"asn1.js"}
+"sign.js" {"sign.js"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+"parseKeys.js" {"parseKeys.js"}
+"rsa.pub" {"rsa.pub"}
+"pub.pem" {"pub.pem"}
+"readme.md" {"readme.md"}
+"rsa.priv" {"rsa.priv"}
+"priv.pem" {"priv.pem"}
+"foo.pem" {"foo.pem"}
+"test/index.js" {"test/index.js"}
+"test/pass.1024.priv" {"test/pass.1024.priv"}
+"test/ec.pass.priv" {"test/ec.pass.priv"}
+"test/ec.priv" {"test/ec.priv"}
+"test/ec.pub" {"test/ec.pub"}
+"test/1024.priv" {"test/1024.priv"}
+"test/1024.pub" {"test/1024.pub"}
+"test/pass.1024.pub" {"test/pass.1024.pub"}
+"test/rsa.1024.priv" {"test/rsa.1024.priv"}
+"test/rsa.1024.pub" {"test/rsa.1024.pub"}
+"test/rsa.2028.priv" {"test/rsa.2028.priv"}
+"test/rsa.2028.pub" {"test/rsa.2028.pub"}
+"aesid.json" {"aesid.json"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

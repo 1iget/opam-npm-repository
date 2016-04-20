@@ -7,3 +7,6 @@ lib: [
 "lib/inherit.js" {"lib/inherit.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

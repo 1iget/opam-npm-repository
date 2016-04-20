@@ -11,3 +11,6 @@ lib: [
 "man/regexpu.1" {"man/regexpu.1"}
 "LICENSE-MIT.txt" {"LICENSE-MIT.txt"}
 ]
+libexec: [
+
+]

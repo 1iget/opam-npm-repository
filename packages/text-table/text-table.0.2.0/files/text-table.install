@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"example/align.js" {"example/align.js"}
+"example/center.js" {"example/center.js"}
+"example/dotalign.js" {"example/dotalign.js"}
+"example/doubledot.js" {"example/doubledot.js"}
+"example/table.js" {"example/table.js"}
+"readme.markdown" {"readme.markdown"}
+"test/align.js" {"test/align.js"}
+"test/ansi-colors.js" {"test/ansi-colors.js"}
+"test/center.js" {"test/center.js"}
+"test/dotalign.js" {"test/dotalign.js"}
+"test/doubledot.js" {"test/doubledot.js"}
+"test/table.js" {"test/table.js"}
+]
+libexec: [
+
+]

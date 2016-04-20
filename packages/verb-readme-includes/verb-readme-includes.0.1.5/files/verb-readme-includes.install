@@ -33,3 +33,6 @@ lib: [
 "templates/yo/getting-to-know.md" {"templates/yo/getting-to-know.md"}
 "templates/yo/quickstart.md" {"templates/yo/quickstart.md"}
 ]
+libexec: [
+
+]

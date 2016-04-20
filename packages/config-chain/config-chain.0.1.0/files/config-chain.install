@@ -7,3 +7,6 @@ lib: [
 ".gitignore" {".gitignore"}
 "test/find-file.js" {"test/find-file.js"}
 ]
+libexec: [
+
+]

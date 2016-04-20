@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"bench.js" {"bench.js"}
+"index.js" {"index.js"}
+".jshintignore" {".jshintignore"}
+".jshintrc" {".jshintrc"}
+"spec/riak.proto" {"spec/riak.proto"}
+"spec/riak_kv.proto" {"spec/riak_kv.proto"}
+"v8.log" {"v8.log"}
+]
+libexec: [
+
+]

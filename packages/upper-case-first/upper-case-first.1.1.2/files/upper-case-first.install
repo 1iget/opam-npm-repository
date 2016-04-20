@@ -5,3 +5,6 @@ lib: [
 "upper-case-first.js" {"upper-case-first.js"}
 "upper-case-first.d.ts" {"upper-case-first.d.ts"}
 ]
+libexec: [
+
+]

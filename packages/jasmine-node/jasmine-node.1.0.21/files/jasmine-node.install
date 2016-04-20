@@ -1,0 +1,42 @@
+lib: [
+".gitignore" {".gitignore"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"specs.sh" {"specs.sh"}
+".externalToolBuilders/jasmineSpecs.launch" {".externalToolBuilders/jasmineSpecs.launch"}
+"bin/jasmine-node" {"bin/jasmine-node"}
+"scripts/specs" {"scripts/specs"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jasmine-node.iml" {".idea/jasmine-node.iml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+"lib/jasmine-node/async-callback.js" {"lib/jasmine-node/async-callback.js"}
+"lib/jasmine-node/autotest.js" {"lib/jasmine-node/autotest.js"}
+"lib/jasmine-node/cli.js" {"lib/jasmine-node/cli.js"}
+"lib/jasmine-node/index.js" {"lib/jasmine-node/index.js"}
+"lib/jasmine-node/jasmine-2.0.0.rc1.js" {"lib/jasmine-node/jasmine-2.0.0.rc1.js"}
+"lib/jasmine-node/reporter.js" {"lib/jasmine-node/reporter.js"}
+"lib/jasmine-node/requirejs-runner.js" {"lib/jasmine-node/requirejs-runner.js"}
+"lib/jasmine-node/requirejs-spec-loader.js" {"lib/jasmine-node/requirejs-spec-loader.js"}
+"lib/jasmine-node/requirejs-wrapper-template.js" {"lib/jasmine-node/requirejs-wrapper-template.js"}
+"lib/jasmine-node/spec-collection.js" {"lib/jasmine-node/spec-collection.js"}
+"spec/async-callback_spec.js" {"spec/async-callback_spec.js"}
+"spec/AsyncSpec.coffee" {"spec/AsyncSpec.coffee"}
+"spec/CoffeeSpec.coffee" {"spec/CoffeeSpec.coffee"}
+"spec/helper_spec.js" {"spec/helper_spec.js"}
+"spec/reporter_spec.js" {"spec/reporter_spec.js"}
+"spec/sample_helper.js" {"spec/sample_helper.js"}
+"spec/SampleSpecs.js" {"spec/SampleSpecs.js"}
+"spec/TestSpec.js" {"spec/TestSpec.js"}
+"spec/nested.js/NestedSpec.js" {"spec/nested.js/NestedSpec.js"}
+"spec/nested/NestedSpec.js" {"spec/nested/NestedSpec.js"}
+"spec/nested/uber-nested/UberNestedSpec.js" {"spec/nested/uber-nested/UberNestedSpec.js"}
+]
+libexec: [
+
+]

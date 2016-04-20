@@ -33,3 +33,6 @@ lib: [
 "test/simple/test-stream2-writable.js" {"test/simple/test-stream2-writable.js"}
 "test/simple/test-stream2-readable-from-list.js" {"test/simple/test-stream2-readable-from-list.js"}
 ]
+libexec: [
+
+]

@@ -2,5 +2,7 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "which.js" {"which.js"}
+]
+libexec: [
 "bin/which" {"bin/which"}
 ]

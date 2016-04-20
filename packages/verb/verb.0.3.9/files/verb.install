@@ -8,7 +8,6 @@ lib: [
 ".verb.md" {".verb.md"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ".gitattributes" {".gitattributes"}
-"bin/cli.js" {"bin/cli.js"}
 ".jshintrc" {".jshintrc"}
 "lib/_verbfile.js" {"lib/_verbfile.js"}
 "lib/completion.js" {"lib/completion.js"}
@@ -65,4 +64,7 @@ lib: [
 "completion/fish" {"completion/fish"}
 "completion/powershell" {"completion/powershell"}
 "completion/zsh" {"completion/zsh"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

@@ -11,3 +11,6 @@ lib: [
 "test/bad.toml" {"test/bad.toml"}
 "test/example.toml" {"test/example.toml"}
 ]
+libexec: [
+
+]

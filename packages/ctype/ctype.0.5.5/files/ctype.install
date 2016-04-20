@@ -12,3 +12,6 @@ lib: [
 "tools/jsl.conf" {"tools/jsl.conf"}
 "tools/jsstyle" {"tools/jsstyle"}
 ]
+libexec: [
+
+]

@@ -25,3 +25,6 @@ lib: [
 "test/require-directory-test.js" {"test/require-directory-test.js"}
 "test/utile-test.js" {"test/utile-test.js"}
 ]
+libexec: [
+
+]

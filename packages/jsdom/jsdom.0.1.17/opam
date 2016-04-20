@@ -6,7 +6,7 @@ author: "tmpvar <tmpvar@gmail.com>"
 license: "not defined"
 
 depends: [
-"mjsunit.runner" {>="0.1.0"}
+"mjsunit_runner" {>="0.1.0"}
 
 ]
 

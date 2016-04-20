@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "changelog.md" {"changelog.md"}
 ".travis.yml" {".travis.yml"}
-"bin/runner.js" {"bin/runner.js"}
 "configs/mocha.json" {"configs/mocha.json"}
 "lib/chai-init.js" {"lib/chai-init.js"}
 "lib/console.js" {"lib/console.js"}
@@ -15,4 +14,7 @@ lib: [
 "specs/sinon.js" {"specs/sinon.js"}
 "src/main.js" {"src/main.js"}
 "src/options.js" {"src/options.js"}
+]
+libexec: [
+"bin/runner.js" {"bin/runner.js"}
 ]

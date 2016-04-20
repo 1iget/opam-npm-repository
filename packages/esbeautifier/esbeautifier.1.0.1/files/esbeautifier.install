@@ -21,5 +21,7 @@ lib: [
 "lib/cli.js" {"lib/cli.js"}
 "lib/options.js" {"lib/options.js"}
 "lib/process.js" {"lib/process.js"}
+]
+libexec: [
 "bin/esbeautifier.js" {"bin/esbeautifier.js"}
 ]

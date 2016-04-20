@@ -8,5 +8,7 @@ lib: [
 "test/basic.js" {"test/basic.js"}
 "test/bin.js" {"test/bin.js"}
 "test/windows.js" {"test/windows.js"}
+]
+libexec: [
 "bin/which" {"bin/which"}
 ]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"request.js" {"request.js"}
+"request_test.js" {"request_test.js"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

@@ -5,3 +5,6 @@ lib: [
 "browser.js" {"browser.js"}
 "minimatch.js" {"minimatch.js"}
 ]
+libexec: [
+
+]

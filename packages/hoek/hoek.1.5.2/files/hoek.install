@@ -16,3 +16,6 @@ lib: [
 "test/modules/test2.js" {"test/modules/test2.js"}
 "test/modules/test3.js" {"test/modules/test3.js"}
 ]
+libexec: [
+
+]

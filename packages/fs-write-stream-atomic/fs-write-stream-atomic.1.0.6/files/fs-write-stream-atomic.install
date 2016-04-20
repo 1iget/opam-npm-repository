@@ -12,3 +12,6 @@ lib: [
 "test/chown.js~" {"test/chown.js~"}
 "test/toolong.js~" {"test/toolong.js~"}
 ]
+libexec: [
+
+]

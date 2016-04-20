@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE.txt" {"LICENSE.txt"}
+"Makefile" {"Makefile"}
+"tools/cutarelease.py" {"tools/cutarelease.py"}
+"tools/jsstyle" {"tools/jsstyle"}
+"AUTHORS" {"AUTHORS"}
+"examples/custom-option-type.js" {"examples/custom-option-type.js"}
+"examples/date.js" {"examples/date.js"}
+"examples/foo.js" {"examples/foo.js"}
+"examples/hello.js" {"examples/hello.js"}
+"examples/help.js" {"examples/help.js"}
+"examples/option-groups.js" {"examples/option-groups.js"}
+"lib/dashdash.js" {"lib/dashdash.js"}
+"test/basics.test.js" {"test/basics.test.js"}
+"test/tap4nodeunit.js" {"test/tap4nodeunit.js"}
+"CHANGES.md" {"CHANGES.md"}
+"TODO.txt" {"TODO.txt"}
+]
+libexec: [
+
+]

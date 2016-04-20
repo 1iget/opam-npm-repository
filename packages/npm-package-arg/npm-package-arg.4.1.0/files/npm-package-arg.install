@@ -10,3 +10,6 @@ lib: [
 "test/gitlab.js" {"test/gitlab.js"}
 "test/windows.js" {"test/windows.js"}
 ]
+libexec: [
+
+]

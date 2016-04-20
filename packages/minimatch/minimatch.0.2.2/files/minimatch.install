@@ -9,3 +9,6 @@ lib: [
 "test/brace-expand.js" {"test/brace-expand.js"}
 "test/caching.js" {"test/caching.js"}
 ]
+libexec: [
+
+]

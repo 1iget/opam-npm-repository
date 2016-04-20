@@ -26,3 +26,6 @@ lib: [
 "lib/loggly/facet.js" {"lib/loggly/facet.js"}
 "lib/loggly/search.js" {"lib/loggly/search.js"}
 ]
+libexec: [
+
+]

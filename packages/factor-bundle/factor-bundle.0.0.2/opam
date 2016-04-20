@@ -21,7 +21,9 @@ depends: [
 "toposort" {>="0.2.10" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/factor-bundle"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/factor-bundle" ] 
+]
 

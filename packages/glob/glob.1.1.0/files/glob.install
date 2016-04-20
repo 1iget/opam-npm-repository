@@ -18,3 +18,6 @@ lib: [
 "src/glob_constants.h" {"src/glob_constants.h"}
 "lib/glob.js" {"lib/glob.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"es6-sham.js" {"es6-sham.js"}
+"es6-sham.min.js" {"es6-sham.min.js"}
+"es6-shim.js" {"es6-shim.js"}
+"es6-shim.min.js" {"es6-shim.min.js"}
+"es6-sham.map" {"es6-sham.map"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"es6-shim.map" {"es6-shim.map"}
+"bower.json" {"bower.json"}
+"test-sham/set-prototype-of.js" {"test-sham/set-prototype-of.js"}
+"test-sham/index.html" {"test-sham/index.html"}
+"component.json" {"component.json"}
+]
+libexec: [
+
+]

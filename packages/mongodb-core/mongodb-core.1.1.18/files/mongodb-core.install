@@ -33,3 +33,6 @@ lib: [
 "lib/wireprotocol/commands.js" {"lib/wireprotocol/commands.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

@@ -17,3 +17,6 @@ lib: [
 "test/test.js" {"test/test.js"}
 "test/compile-file-client.js" {"test/compile-file-client.js"}
 ]
+libexec: [
+
+]

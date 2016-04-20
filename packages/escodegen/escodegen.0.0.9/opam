@@ -9,7 +9,9 @@ depends: [
 "source-map" {>="0.1.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esgenerate.js %{bin}%/escodegen"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/escodegen" ] 
+]
 

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"lib/memoize.js" {"lib/memoize.js"}
+"lib/profile.js" {"lib/profile.js"}
+".lint" {".lint"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"benchmark/fibonacci.js" {"benchmark/fibonacci.js"}
+"CHANGES" {"CHANGES"}
+"test/memoize.js" {"test/memoize.js"}
+"test/profile.js" {"test/profile.js"}
+]
+libexec: [
+
+]

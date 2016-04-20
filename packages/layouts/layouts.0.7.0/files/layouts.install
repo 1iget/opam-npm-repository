@@ -5,3 +5,6 @@ lib: [
 "lib/interpolate.js" {"lib/interpolate.js"}
 "lib/make-regex.js" {"lib/make-regex.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"appveyor.yml" {"appveyor.yml"}
+".editorconfig" {".editorconfig"}
+".travis.yml" {".travis.yml"}
+"lib/enoent.js" {"lib/enoent.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/resolveCommand.js" {"lib/resolveCommand.js"}
+"lib/util/mixIn.js" {"lib/util/mixIn.js"}
+".jshintrc" {".jshintrc"}
+]
+libexec: [
+
+]

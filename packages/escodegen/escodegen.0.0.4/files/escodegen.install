@@ -7,7 +7,6 @@ lib: [
 "jquery.min.js" {"jquery.min.js"}
 "t.js" {"t.js"}
 "t2.js" {"t2.js"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 ".coverage_data/coveragefile_c4df68ce3c05d11c7bd8251824b19816" {".coverage_data/coveragefile_c4df68ce3c05d11c7bd8251824b19816"}
 ".coverage_data/coveragefile_f2de1c5f5bdab97c0d6700da33ccdd6c" {".coverage_data/coveragefile_f2de1c5f5bdab97c0d6700da33ccdd6c"}
@@ -84,4 +83,7 @@ lib: [
 "test/compare/unnecessary-parenthesized-in-2.js" {"test/compare/unnecessary-parenthesized-in-2.js"}
 "test/compare/unnecessary-parenthesized-in.expected.js" {"test/compare/unnecessary-parenthesized-in.expected.js"}
 "test/compare/unnecessary-parenthesized-in.js" {"test/compare/unnecessary-parenthesized-in.js"}
+]
+libexec: [
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

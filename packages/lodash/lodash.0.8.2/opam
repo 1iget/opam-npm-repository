@@ -8,7 +8,9 @@ dev-repo: "https://github.com/bestiejs/lodash.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./build.js %{bin}%/lodash"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/lodash" ] 
+]
 

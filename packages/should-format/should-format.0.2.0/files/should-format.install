@@ -13,3 +13,6 @@ lib: [
 "tests/browser/mocha.css" {"tests/browser/mocha.css"}
 ".eslintrc" {".eslintrc"}
 ]
+libexec: [
+
+]

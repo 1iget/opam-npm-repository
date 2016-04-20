@@ -12,3 +12,6 @@ lib: [
 "test/run.js" {"test/run.js"}
 "test/tests-jsx.js" {"test/tests-jsx.js"}
 ]
+libexec: [
+
+]

@@ -43,3 +43,6 @@ lib: [
 "tasks/init/node/test/name_test.js" {"tasks/init/node/test/name_test.js"}
 "tasks/init/node/lib/name.js" {"tasks/init/node/lib/name.js"}
 ]
+libexec: [
+
+]

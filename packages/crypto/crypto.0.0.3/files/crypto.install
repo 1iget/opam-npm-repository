@@ -1,0 +1,14 @@
+lib: [
+".md5.js.un~" {".md5.js.un~"}
+".package.json.un~" {".package.json.un~"}
+".sha1.js.un~" {".sha1.js.un~"}
+"History.md" {"History.md"}
+"md5.js" {"md5.js"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"sha1.js" {"sha1.js"}
+"test/test-crypto.js" {"test/test-crypto.js"}
+]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ license: "not defined"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/uglifyjs %{bin}%/uglifyjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/uglifyjs" ] 
+]
 

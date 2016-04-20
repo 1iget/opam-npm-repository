@@ -7,3 +7,6 @@ lib: [
 ".npmrc" {".npmrc"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

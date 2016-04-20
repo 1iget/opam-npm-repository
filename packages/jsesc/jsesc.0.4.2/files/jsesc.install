@@ -6,3 +6,6 @@ lib: [
 "bin/jsesc" {"bin/jsesc"}
 "man/jsesc.1" {"man/jsesc.1"}
 ]
+libexec: [
+
+]

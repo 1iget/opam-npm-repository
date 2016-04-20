@@ -4,3 +4,6 @@ lib: [
 "couch-login.js" {"couch-login.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"glue.js" {"glue.js"}
+"index.js" {"index.js"}
+"test/add-remove.tap.js" {"test/add-remove.tap.js"}
+"test/core-asynclistener-error.simple.js" {"test/core-asynclistener-error.simple.js"}
+"test/core-asynclistener-nexttick-remove.simple.js" {"test/core-asynclistener-nexttick-remove.simple.js"}
+"test/core-asynclistener-only-add.simple.js" {"test/core-asynclistener-only-add.simple.js"}
+"test/core-asynclistener.simple.js" {"test/core-asynclistener.simple.js"}
+]
+libexec: [
+
+]

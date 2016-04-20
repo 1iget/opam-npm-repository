@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+"LICENSE" {"LICENSE"}
+"CHANGES" {"CHANGES"}
+"package.json" {"package.json"}
+"q-http.js" {"q-http.js"}
+"README" {"README"}
+"sendfile.js" {"sendfile.js"}
+"temp.js" {"temp.js"}
+"temp.txt" {"temp.txt"}
+"TODO" {"TODO"}
+"test/basic.js" {"test/basic.js"}
+"test/deferred.js" {"test/deferred.js"}
+"test/keep-alive.js" {"test/keep-alive.js"}
+]
+libexec: [
+
+]

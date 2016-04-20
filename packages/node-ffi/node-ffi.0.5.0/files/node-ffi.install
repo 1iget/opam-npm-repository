@@ -69,3 +69,6 @@ lib: [
 "test.old/test.js" {"test.old/test.js"}
 "test.old/test.old.js" {"test.old/test.old.js"}
 ]
+libexec: [
+
+]

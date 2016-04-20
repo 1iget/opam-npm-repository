@@ -22,3 +22,6 @@ lib: [
 "test/fixtures/none.js.dep" {"test/fixtures/none.js.dep"}
 "test/fixtures/double.js.dep" {"test/fixtures/double.js.dep"}
 ]
+libexec: [
+
+]

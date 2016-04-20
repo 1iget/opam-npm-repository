@@ -14,3 +14,6 @@ lib: [
 "test/pluck.js" {"test/pluck.js"}
 "test/union.js" {"test/union.js"}
 ]
+libexec: [
+
+]

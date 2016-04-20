@@ -6,3 +6,6 @@ lib: [
 "test/path-tests.js" {"test/path-tests.js"}
 "test/fixtures/test.txt" {"test/fixtures/test.txt"}
 ]
+libexec: [
+
+]

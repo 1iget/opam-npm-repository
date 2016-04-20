@@ -44,3 +44,6 @@ lib: [
 "bin/ses" {"bin/ses"}
 "amdTestDir/amdTest2.js" {"amdTestDir/amdTest2.js"}
 ]
+libexec: [
+
+]

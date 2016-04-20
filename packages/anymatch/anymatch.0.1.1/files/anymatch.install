@@ -6,3 +6,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "src/index.coffee" {"src/index.coffee"}
 ]
+libexec: [
+
+]

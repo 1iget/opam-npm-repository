@@ -4,3 +4,6 @@ lib: [
 "escope.js" {"escope.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 ]
+libexec: [
+
+]

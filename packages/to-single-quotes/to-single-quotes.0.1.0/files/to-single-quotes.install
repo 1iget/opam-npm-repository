@@ -3,3 +3,6 @@ lib: [
 "to-single-quotes.js" {"to-single-quotes.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

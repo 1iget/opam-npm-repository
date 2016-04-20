@@ -29,3 +29,6 @@ lib: [
 "test/test.options.defaults.given.js" {"test/test.options.defaults.given.js"}
 "test/test.options.defaults.js" {"test/test.options.defaults.js"}
 ]
+libexec: [
+
+]

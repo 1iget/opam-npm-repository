@@ -1,0 +1,18 @@
+lib: [
+"node-useragent/" {"node-useragent/"}
+"node-useragent/example.js" {"node-useragent/example.js"}
+"node-useragent/LICENSE.txt" {"node-useragent/LICENSE.txt"}
+"node-useragent/package.json" {"node-useragent/package.json"}
+"node-useragent/._README.md" {"node-useragent/._README.md"}
+"node-useragent/README.md" {"node-useragent/README.md"}
+"node-useragent/tests/" {"node-useragent/tests/"}
+"node-useragent/useragent.js" {"node-useragent/useragent.js"}
+"node-useragent/tests/browser.js" {"node-useragent/tests/browser.js"}
+"node-useragent/tests/parser.js" {"node-useragent/tests/parser.js"}
+"node-useragent/tests/useragents/" {"node-useragent/tests/useragents/"}
+"node-useragent/tests/useragents/sample_user_agents.csv" {"node-useragent/tests/useragents/sample_user_agents.csv"}
+"node-useragent/tests/useragents/user_agent_data.csv" {"node-useragent/tests/useragents/user_agent_data.csv"}
+]
+libexec: [
+
+]

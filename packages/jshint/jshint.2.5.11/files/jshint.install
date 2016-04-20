@@ -4,7 +4,6 @@ lib: [
 "bin/apply" {"bin/apply"}
 "bin/build" {"bin/build"}
 "bin/changelog" {"bin/changelog"}
-"bin/jshint" {"bin/jshint"}
 "bin/land" {"bin/land"}
 "data/ascii-identifier-data.js" {"data/ascii-identifier-data.js"}
 "data/non-ascii-identifier-part-only.js" {"data/non-ascii-identifier-part-only.js"}
@@ -27,4 +26,7 @@ lib: [
 "src/reporters/non_error.js" {"src/reporters/non_error.js"}
 "src/reporters/unix.js" {"src/reporters/unix.js"}
 "src/platforms/rhino.js" {"src/platforms/rhino.js"}
+]
+libexec: [
+"bin/jshint" {"bin/jshint"}
 ]

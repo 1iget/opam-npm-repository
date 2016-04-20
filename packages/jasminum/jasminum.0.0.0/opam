@@ -17,7 +17,9 @@ depends: [
 "optimist" {>="0.6.1" & <"0.7.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./node-runner %{bin}%/jasminum"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasminum" ] 
+]
 

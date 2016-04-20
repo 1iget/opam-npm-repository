@@ -13,8 +13,6 @@ lib: [
 "Makefile" {"Makefile"}
 "mocha.css" {"mocha.css"}
 "component.json" {"component.json"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "Readme.md" {"Readme.md"}
 "lib/utils.js" {"lib/utils.js"}
 "lib/hook.js" {"lib/hook.js"}
@@ -61,4 +59,8 @@ lib: [
 "lib/reporters/templates/menu.jade" {"lib/reporters/templates/menu.jade"}
 "lib/reporters/templates/script.html" {"lib/reporters/templates/script.html"}
 "lib/reporters/templates/style.html" {"lib/reporters/templates/style.html"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

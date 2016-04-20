@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"build.js" {"build.js"}
+"test.js" {"test.js"}
+"sentence-case.js" {"sentence-case.js"}
+".travis.yml" {".travis.yml"}
+"vendor/camel-case-regexp.js" {"vendor/camel-case-regexp.js"}
+"vendor/non-word-regexp.js" {"vendor/non-word-regexp.js"}
+"vendor/trailing-digit-regexp.js" {"vendor/trailing-digit-regexp.js"}
+]
+libexec: [
+
+]

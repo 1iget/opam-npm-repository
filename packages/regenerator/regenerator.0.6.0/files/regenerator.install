@@ -17,3 +17,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "bin/regenerator" {"bin/regenerator"}
 ]
+libexec: [
+
+]

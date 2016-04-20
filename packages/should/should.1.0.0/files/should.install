@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".gitmodules" {".gitmodules"}
+"examples/runner.js" {"examples/runner.js"}
+"History.md" {"History.md"}
+"lib/eql.js" {"lib/eql.js"}
+"lib/should.js" {"lib/should.js"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+"test/exist.test.js" {"test/exist.test.js"}
+"test/should.test.js" {"test/should.test.js"}
+]
+libexec: [
+
+]

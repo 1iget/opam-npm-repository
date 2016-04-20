@@ -9,3 +9,6 @@ lib: [
 "test/extend.js" {"test/extend.js"}
 "test/pluck.js" {"test/pluck.js"}
 ]
+libexec: [
+
+]

@@ -7,3 +7,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "test/convert-source-map.js" {"test/convert-source-map.js"}
 ]
+libexec: [
+
+]

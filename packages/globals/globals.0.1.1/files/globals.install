@@ -3,3 +3,6 @@ lib: [
 "globals.json" {"globals.json"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

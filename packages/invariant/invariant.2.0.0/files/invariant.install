@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"browser.js" {"browser.js"}
+"invariant.js" {"invariant.js"}
+]
+libexec: [
+
+]

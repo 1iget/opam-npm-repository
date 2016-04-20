@@ -6,3 +6,6 @@ lib: [
 "Cakefile" {"Cakefile"}
 "src/index.coffee" {"src/index.coffee"}
 ]
+libexec: [
+
+]

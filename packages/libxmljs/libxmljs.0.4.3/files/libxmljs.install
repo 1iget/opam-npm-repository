@@ -82,3 +82,6 @@ lib: [
 "tools/js2c.py" {"tools/js2c.py"}
 "tools/jsmin.py" {"tools/jsmin.py"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,19 @@
+lib: [
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"cli.js" {"cli.js"}
+"examples/echo.js" {"examples/echo.js"}
+"examples/glob.js" {"examples/glob.js"}
+"examples/long_desc.js" {"examples/long_desc.js"}
+"examples/progress.js" {"examples/progress.js"}
+"examples/command.js" {"examples/command.js"}
+"examples/cat.js" {"examples/cat.js"}
+"examples/spinner.js" {"examples/spinner.js"}
+"examples/sort.js" {"examples/sort.js"}
+"examples/static.coffee" {"examples/static.coffee"}
+"examples/static.js" {"examples/static.js"}
+]
+libexec: [
+
+]

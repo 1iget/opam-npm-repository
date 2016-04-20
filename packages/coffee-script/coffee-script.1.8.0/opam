@@ -9,7 +9,9 @@ depends: [
 "mkdirp" {>="0.3.5" & <"0.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cake %{bin}%/cake"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/cake" ] 
+]
 

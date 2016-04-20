@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+"include_dirs.js" {"include_dirs.js"}
+"appveyor.yml" {"appveyor.yml"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"LICENSE.md" {"LICENSE.md"}
+".nan.h.un~" {".nan.h.un~"}
+"build/config.gypi" {"build/config.gypi"}
+".dntrc" {".dntrc"}
+"nan.h" {"nan.h"}
+"nan.h.orig" {"nan.h.orig"}
+]
+libexec: [
+
+]

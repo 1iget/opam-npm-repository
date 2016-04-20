@@ -1,0 +1,19 @@
+lib: [
+".gitignore" {".gitignore"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/eventsource.js" {"lib/eventsource.js"}
+"lib/eventstream.jison" {"lib/eventstream.jison"}
+"lib/eventstream.js" {"lib/eventstream.js"}
+"test/certificate.pem" {"test/certificate.pem"}
+"test/eventsource_test.js" {"test/eventsource_test.js"}
+"test/key.pem" {"test/key.pem"}
+"doc/.gitignore" {"doc/.gitignore"}
+]
+libexec: [
+
+]

@@ -1,0 +1,10 @@
+lib: [
+"node-sprintf/" {"node-sprintf/"}
+"node-sprintf/README.md" {"node-sprintf/README.md"}
+"node-sprintf/package.json" {"node-sprintf/package.json"}
+"node-sprintf/lib/" {"node-sprintf/lib/"}
+"node-sprintf/lib/sprintf.js" {"node-sprintf/lib/sprintf.js"}
+]
+libexec: [
+
+]

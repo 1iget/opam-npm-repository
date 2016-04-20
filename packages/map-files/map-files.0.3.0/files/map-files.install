@@ -16,3 +16,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 ".jshintrc" {".jshintrc"}
 ]
+libexec: [
+
+]

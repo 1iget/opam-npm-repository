@@ -15,5 +15,7 @@ lib: [
 "LICENSE" {"LICENSE"}
 "HELP" {"HELP"}
 "bin/" {"bin/"}
+]
+libexec: [
 "bin/hint" {"bin/hint"}
 ]

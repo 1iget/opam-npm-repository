@@ -27,3 +27,6 @@ lib: [
 "test/unprefix/hello.js" {"test/unprefix/hello.js"}
 "test/unprefix/main.js" {"test/unprefix/main.js"}
 ]
+libexec: [
+
+]

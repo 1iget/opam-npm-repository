@@ -42,3 +42,6 @@ lib: [
 "amdTestDir/amdTest2.js" {"amdTestDir/amdTest2.js"}
 "explicit.html" {"explicit.html"}
 ]
+libexec: [
+
+]

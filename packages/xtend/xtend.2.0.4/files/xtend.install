@@ -7,3 +7,6 @@ lib: [
 "index.js" {"index.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

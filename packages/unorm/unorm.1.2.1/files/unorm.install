@@ -12,3 +12,6 @@ lib: [
 "test/simple.js" {"test/simple.js"}
 "test/NormalizationTest.txt" {"test/NormalizationTest.txt"}
 ]
+libexec: [
+
+]

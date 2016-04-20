@@ -25,7 +25,9 @@ depends: [
 "optionator" {>="0.5.0" & <"0.6.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cli.js %{bin}%/eslinter"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/eslinter" ] 
+]
 

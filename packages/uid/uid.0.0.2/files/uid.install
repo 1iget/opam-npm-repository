@@ -2,10 +2,12 @@ lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
 "index.js" {"index.js"}
-"bin/uid" {"bin/uid"}
 "component.json" {"component.json"}
 "History.md" {"History.md"}
 "Makefile" {"Makefile"}
 "Readme.md" {"Readme.md"}
 "test.html" {"test.html"}
+]
+libexec: [
+"bin/uid" {"bin/uid"}
 ]

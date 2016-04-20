@@ -40,3 +40,6 @@ lib: [
 "tests/rendering/finals/basic.basic.html" {"tests/rendering/finals/basic.basic.html"}
 "tests/rendering/finals/doctype.basic.html" {"tests/rendering/finals/doctype.basic.html"}
 ]
+libexec: [
+
+]

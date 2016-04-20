@@ -21,3 +21,6 @@ lib: [
 "test/multiple_objects_error.js" {"test/multiple_objects_error.js"}
 "test/fixtures/all_npm.json" {"test/fixtures/all_npm.json"}
 ]
+libexec: [
+
+]

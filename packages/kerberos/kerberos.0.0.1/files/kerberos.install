@@ -21,3 +21,6 @@ lib: [
 "test/kerberos_tests.js" {"test/kerberos_tests.js"}
 "test/kerberos_win32_test.js" {"test/kerberos_win32_test.js"}
 ]
+libexec: [
+
+]

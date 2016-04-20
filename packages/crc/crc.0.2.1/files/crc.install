@@ -9,3 +9,6 @@ lib: [
 "test/crc.js" {"test/crc.js"}
 "test/index.html" {"test/index.html"}
 ]
+libexec: [
+
+]

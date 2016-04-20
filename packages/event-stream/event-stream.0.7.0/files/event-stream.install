@@ -16,3 +16,6 @@ lib: [
 "test/readme.markdown" {"test/readme.markdown"}
 "test/.gitignore" {"test/.gitignore"}
 ]
+libexec: [
+
+]

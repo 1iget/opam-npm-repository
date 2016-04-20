@@ -35,3 +35,6 @@ lib: [
 "build/default/objectid_1.o" {"build/default/objectid_1.o"}
 "build/default/timestamp_1.o" {"build/default/timestamp_1.o"}
 ]
+libexec: [
+
+]

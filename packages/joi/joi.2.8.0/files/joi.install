@@ -1,0 +1,42 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"Makefile" {"Makefile"}
+".travis.yml" {".travis.yml"}
+"images/joi.png" {"images/joi.png"}
+"images/validation.png" {"images/validation.png"}
+"languages/en-us.json" {"languages/en-us.json"}
+"lib/alternatives.js" {"lib/alternatives.js"}
+"lib/boolean.js" {"lib/boolean.js"}
+"lib/cast.js" {"lib/cast.js"}
+"lib/date.js" {"lib/date.js"}
+"lib/array.js" {"lib/array.js"}
+"lib/function.js" {"lib/function.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/number.js" {"lib/number.js"}
+"lib/object.js" {"lib/object.js"}
+"lib/string.js" {"lib/string.js"}
+"lib/any.js" {"lib/any.js"}
+"lib/utils.js" {"lib/utils.js"}
+"lib/errors.js" {"lib/errors.js"}
+"AUTHORS" {"AUTHORS"}
+"test/any.js" {"test/any.js"}
+"test/boolean.js" {"test/boolean.js"}
+"test/date.js" {"test/date.js"}
+"test/function.js" {"test/function.js"}
+"test/array.js" {"test/array.js"}
+"test/index.js" {"test/index.js"}
+"test/object.js" {"test/object.js"}
+"test/number.js" {"test/number.js"}
+"test/string.js" {"test/string.js"}
+"test/helper.js" {"test/helper.js"}
+"test/languages/empty.json" {"test/languages/empty.json"}
+"test/languages/en-us.json" {"test/languages/en-us.json"}
+]
+libexec: [
+
+]

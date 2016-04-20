@@ -10,3 +10,6 @@ lib: [
 "test/parse_input.json" {"test/parse_input.json"}
 "test/parse_output.json" {"test/parse_output.json"}
 ]
+libexec: [
+
+]

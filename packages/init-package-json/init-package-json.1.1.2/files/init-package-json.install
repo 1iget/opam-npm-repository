@@ -13,3 +13,6 @@ lib: [
 "test/npm-defaults.js" {"test/npm-defaults.js"}
 "test/basic.input" {"test/basic.input"}
 ]
+libexec: [
+
+]

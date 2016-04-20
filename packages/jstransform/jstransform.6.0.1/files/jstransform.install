@@ -27,3 +27,6 @@ lib: [
 "visitors/__tests__/es6-template-visitors-test.js" {"visitors/__tests__/es6-template-visitors-test.js"}
 "visitors/__tests__/es7-spread-property-visitors-test.js" {"visitors/__tests__/es7-spread-property-visitors-test.js"}
 ]
+libexec: [
+
+]

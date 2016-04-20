@@ -6,8 +6,10 @@ lib: [
 "index.js" {"index.js"}
 ".jshintrc" {".jshintrc"}
 ".travis.yml" {".travis.yml"}
-"bin/liftoff.js" {"bin/liftoff.js"}
 "lib/find_cwd.js" {"lib/find_cwd.js"}
 "lib/find_local.js" {"lib/find_local.js"}
 "lib/valid_extensions.js" {"lib/valid_extensions.js"}
+]
+libexec: [
+"bin/liftoff.js" {"bin/liftoff.js"}
 ]

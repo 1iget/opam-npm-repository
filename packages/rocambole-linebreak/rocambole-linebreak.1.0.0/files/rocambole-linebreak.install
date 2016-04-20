@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"rocambole-linebreak.js" {"rocambole-linebreak.js"}
+"LICENSE.md" {"LICENSE.md"}
+]
+libexec: [
+
+]

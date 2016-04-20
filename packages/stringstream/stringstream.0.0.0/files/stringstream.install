@@ -3,3 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 ]
+libexec: [
+
+]

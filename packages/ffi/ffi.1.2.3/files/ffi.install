@@ -781,3 +781,6 @@ lib: [
 "lib/type.js" {"lib/type.js"}
 "lib/errno.js" {"lib/errno.js"}
 ]
+libexec: [
+
+]

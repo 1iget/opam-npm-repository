@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"q-http.js" {"q-http.js"}
+".travis.yml" {".travis.yml"}
+"CHANGES.md" {"CHANGES.md"}
+"test/all.js" {"test/all.js"}
+"test/basic.js" {"test/basic.js"}
+"test/deferred.js" {"test/deferred.js"}
+"test/keep-alive.js" {"test/keep-alive.js"}
+]
+libexec: [
+
+]

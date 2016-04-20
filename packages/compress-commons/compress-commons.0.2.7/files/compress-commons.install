@@ -12,3 +12,6 @@ lib: [
 "lib/archivers/zip/zip-archive-output-stream.js" {"lib/archivers/zip/zip-archive-output-stream.js"}
 "lib/util/index.js" {"lib/util/index.js"}
 ]
+libexec: [
+
+]

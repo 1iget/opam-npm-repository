@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"configs/esformatter.json" {"configs/esformatter.json"}
+"configs/eslint.json" {"configs/eslint.json"}
+"configs/jscs.json" {"configs/jscs.json"}
+"configs/prepush.json" {"configs/prepush.json"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/libraries/jasmine.xml" {".idea/libraries/jasmine.xml"}
+".idea/libraries/prepush_node_modules.xml" {".idea/libraries/prepush_node_modules.xml"}
+".idea/compiler.xml" {".idea/compiler.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/prepush.iml" {".idea/prepush.iml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".travis.yml" {".travis.yml"}
+"hook/pre-push.js" {"hook/pre-push.js"}
+"lib/cli.js" {"lib/cli.js"}
+"lib/console.js" {"lib/console.js"}
+"lib/git-dir.js" {"lib/git-dir.js"}
+"lib/hook.js" {"lib/hook.js"}
+"lib/options.js" {"lib/options.js"}
+"lib/process.js" {"lib/process.js"}
+"lib/promise.js" {"lib/promise.js"}
+"specs/lib/cli.js" {"specs/lib/cli.js"}
+"specs/lib/git-dir.js" {"specs/lib/git-dir.js"}
+]
+libexec: [
+"bin/prepush.js" {"bin/prepush.js"}
+]

@@ -4,3 +4,6 @@ lib: [
 "index.js" {"index.js"}
 "LICENSE.md" {"LICENSE.md"}
 ]
+libexec: [
+
+]

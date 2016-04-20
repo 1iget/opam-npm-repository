@@ -9,3 +9,6 @@ lib: [
 "test/locales/en.json" {"test/locales/en.json"}
 "test/locales/pirate.json" {"test/locales/pirate.json"}
 ]
+libexec: [
+
+]

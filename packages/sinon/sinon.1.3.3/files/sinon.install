@@ -73,3 +73,6 @@ lib: [
 "lib/sinon/util/fake_xml_http_request.js" {"lib/sinon/util/fake_xml_http_request.js"}
 "lib/sinon/sandbox.js" {"lib/sinon/sandbox.js"}
 ]
+libexec: [
+
+]

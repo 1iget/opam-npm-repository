@@ -12,3 +12,6 @@ lib: [
 "tests/fixtures/05_null_file.gif" {"tests/fixtures/05_null_file.gif"}
 "tests/fixtures/06_trunks.gif" {"tests/fixtures/06_trunks.gif"}
 ]
+libexec: [
+
+]

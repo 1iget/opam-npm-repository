@@ -13,7 +13,9 @@ depends: [
 "through" {>="2.2.0" & <"2.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cmd.js %{bin}%/module-deps"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/module-deps" ] 
+]
 

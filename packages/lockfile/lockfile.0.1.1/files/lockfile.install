@@ -4,3 +4,6 @@ lib: [
 "lib/lockfile.js" {"lib/lockfile.js"}
 "src/lockfile.coffee" {"src/lockfile.coffee"}
 ]
+libexec: [
+
+]

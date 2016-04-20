@@ -8,3 +8,6 @@ lib: [
 "example/comment-to-json.js" {"example/comment-to-json.js"}
 "test/convert-source-map.js" {"test/convert-source-map.js"}
 ]
+libexec: [
+
+]

@@ -24,3 +24,6 @@ lib: [
 "test/browser/mocha.css" {"test/browser/mocha.css"}
 "test/browser/qs.css" {"test/browser/qs.css"}
 ]
+libexec: [
+
+]

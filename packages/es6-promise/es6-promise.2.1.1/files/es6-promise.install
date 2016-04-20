@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"dist/es6-promise.js" {"dist/es6-promise.js"}
+"dist/es6-promise.min.js" {"dist/es6-promise.min.js"}
+"dist/test/browserify.js" {"dist/test/browserify.js"}
+"dist/test/es6-promise.js" {"dist/test/es6-promise.js"}
+"dist/test/es6-promise.min.js" {"dist/test/es6-promise.min.js"}
+"dist/test/json3.js" {"dist/test/json3.js"}
+"dist/test/mocha.js" {"dist/test/mocha.js"}
+"dist/test/worker.js" {"dist/test/worker.js"}
+"dist/test/index.html" {"dist/test/index.html"}
+"dist/test/mocha.css" {"dist/test/mocha.css"}
+"lib/es6-promise.umd.js" {"lib/es6-promise.umd.js"}
+"lib/es6-promise/-internal.js" {"lib/es6-promise/-internal.js"}
+"lib/es6-promise/asap.js" {"lib/es6-promise/asap.js"}
+"lib/es6-promise/enumerator.js" {"lib/es6-promise/enumerator.js"}
+"lib/es6-promise/polyfill.js" {"lib/es6-promise/polyfill.js"}
+"lib/es6-promise/promise.js" {"lib/es6-promise/promise.js"}
+"lib/es6-promise/utils.js" {"lib/es6-promise/utils.js"}
+"lib/es6-promise/promise/all.js" {"lib/es6-promise/promise/all.js"}
+"lib/es6-promise/promise/race.js" {"lib/es6-promise/promise/race.js"}
+"lib/es6-promise/promise/reject.js" {"lib/es6-promise/promise/reject.js"}
+"lib/es6-promise/promise/resolve.js" {"lib/es6-promise/promise/resolve.js"}
+]
+libexec: [
+
+]

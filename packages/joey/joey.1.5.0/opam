@@ -15,7 +15,9 @@ depends: [
 "url2" {>="1.0.0" & <"1.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/joey %{bin}%/joey"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/joey" ] 
+]
 

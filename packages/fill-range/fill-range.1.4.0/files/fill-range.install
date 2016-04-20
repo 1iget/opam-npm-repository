@@ -12,3 +12,6 @@ lib: [
 "benchmark/fixtures/a-z.js" {"benchmark/fixtures/a-z.js"}
 "benchmark/fixtures/random.js" {"benchmark/fixtures/random.js"}
 ]
+libexec: [
+
+]

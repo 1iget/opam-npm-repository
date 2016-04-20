@@ -11,7 +11,9 @@ depends: [
 "lcov-parse" {="0.0.3"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/coveralls.js %{bin}%/coveralls"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/coveralls" ] 
+]
 

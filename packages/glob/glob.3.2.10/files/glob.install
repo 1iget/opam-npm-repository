@@ -22,3 +22,6 @@ lib: [
 "test/nocase-nomagic.js" {"test/nocase-nomagic.js"}
 "test/bash-results.json" {"test/bash-results.json"}
 ]
+libexec: [
+
+]

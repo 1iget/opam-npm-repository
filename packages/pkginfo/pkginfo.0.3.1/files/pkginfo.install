@@ -16,3 +16,6 @@ lib: [
 "lib/pkginfo.js" {"lib/pkginfo.js"}
 "test/pkginfo-test.js" {"test/pkginfo-test.js"}
 ]
+libexec: [
+
+]

@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/npm/node-semver.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/semver %{bin}%/semver"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/semver" ] 
+]
 

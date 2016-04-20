@@ -6,3 +6,6 @@ lib: [
 "lib/is-binary.js" {"lib/is-binary.js"}
 "lib/nodefs-handler.js" {"lib/nodefs-handler.js"}
 ]
+libexec: [
+
+]

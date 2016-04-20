@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+"docs/api.md" {"docs/api.md"}
+"docs/example.md" {"docs/example.md"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+".jshintrc" {".jshintrc"}
+"lib/utils.js" {"lib/utils.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+".verbrc.yml" {".verbrc.yml"}
+"test/example.js" {"test/example.js"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+
+]

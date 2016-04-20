@@ -21,3 +21,6 @@ lib: [
 "test/index.js" {"test/index.js"}
 "test/pipe.js" {"test/pipe.js"}
 ]
+libexec: [
+
+]

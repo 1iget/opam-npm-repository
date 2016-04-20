@@ -24,7 +24,7 @@ depends: [
 
 "glob-expand" {="0.0.2"}
 
-"lodash.merge" {>="3.0.3" & <"4.0.0"}
+"lodash_merge" {>="3.0.3" & <"4.0.0"}
 
 "optionator" {>="0.5.0" & <"0.6.0"}
 
@@ -37,7 +37,9 @@ depends: [
 "write" {>="0.1.1" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/esbeautifier.js %{bin}%/esbeautifier"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/esbeautifier" ] 
+]
 

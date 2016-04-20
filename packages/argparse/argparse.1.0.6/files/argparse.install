@@ -27,3 +27,6 @@ lib: [
 "lib/help/added_formatters.js" {"lib/help/added_formatters.js"}
 "lib/help/formatter.js" {"lib/help/formatter.js"}
 ]
+libexec: [
+
+]

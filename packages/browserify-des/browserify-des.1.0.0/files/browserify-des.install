@@ -5,3 +5,6 @@ lib: [
 "test.js" {"test.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

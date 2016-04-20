@@ -6,7 +6,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "assets/style.css" {"assets/style.css"}
-"bin/esparse.js" {"bin/esparse.js"}
 "demo/parse.html" {"demo/parse.html"}
 "test/benchmarks.html" {"test/benchmarks.html"}
 "test/benchmarks.js" {"test/benchmarks.js"}
@@ -21,4 +20,7 @@ lib: [
 "test/3rdparty/parse-js.js" {"test/3rdparty/parse-js.js"}
 "test/3rdparty/Tokenizer.js" {"test/3rdparty/Tokenizer.js"}
 "test/3rdparty/ZeParser.js" {"test/3rdparty/ZeParser.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
 ]

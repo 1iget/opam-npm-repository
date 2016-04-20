@@ -21,7 +21,6 @@ lib: [
 "test/" {"test/"}
 "test/simple.sh" {"test/simple.sh"}
 "bin/" {"bin/"}
-"bin/whiskey" {"bin/whiskey"}
 "LICENSE" {"LICENSE"}
 "lib/" {"lib/"}
 "lib/assert.js" {"lib/assert.js"}
@@ -50,4 +49,7 @@ lib: [
 "lib/run.js" {"lib/run.js"}
 "lib/constants.js" {"lib/constants.js"}
 "lib/parser.js" {"lib/parser.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

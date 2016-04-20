@@ -25,3 +25,6 @@ lib: [
 "test/fixtures/multi-ca" {"test/fixtures/multi-ca"}
 "test/fixtures/userconfig" {"test/fixtures/userconfig"}
 ]
+libexec: [
+
+]

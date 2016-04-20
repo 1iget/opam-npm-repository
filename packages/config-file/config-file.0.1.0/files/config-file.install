@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/fixtures/.configrc" {"test/fixtures/.configrc"}
+"test/fixtures/.configrc.yml" {"test/fixtures/.configrc.yml"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

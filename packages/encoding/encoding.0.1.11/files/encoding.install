@@ -6,3 +6,6 @@ lib: [
 "lib/encoding.js" {"lib/encoding.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"simple-is.js" {"simple-is.js"}
+"test/simple-is-tests.js" {"test/simple-is-tests.js"}
+]
+libexec: [
+
+]

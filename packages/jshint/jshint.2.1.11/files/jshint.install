@@ -4,7 +4,6 @@ lib: [
 "bin/apply" {"bin/apply"}
 "bin/build" {"bin/build"}
 "bin/changelog" {"bin/changelog"}
-"bin/jshint" {"bin/jshint"}
 "bin/land" {"bin/land"}
 "src/cli.js" {"src/cli.js"}
 "src/jshint.js" {"src/jshint.js"}
@@ -19,4 +18,7 @@ lib: [
 "src/reporters/default.js" {"src/reporters/default.js"}
 "src/reporters/jslint_xml.js" {"src/reporters/jslint_xml.js"}
 "src/reporters/non_error.js" {"src/reporters/non_error.js"}
+]
+libexec: [
+"bin/jshint" {"bin/jshint"}
 ]

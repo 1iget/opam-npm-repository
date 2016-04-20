@@ -9,3 +9,6 @@ lib: [
 "test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
 "test/main.coffee" {"test/main.coffee"}
 ]
+libexec: [
+
+]

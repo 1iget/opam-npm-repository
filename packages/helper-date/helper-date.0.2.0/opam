@@ -6,7 +6,7 @@ author: "jonschlinkert <github@sellside.com>"
 license: "Not defined"
 dev-repo: "git://github.com/helpers/helper-date.git"
 depends: [
-"date.js" {>="0.2.0" & <"0.3.0"}
+"date_js" {>="0.2.0" & <"0.3.0"}
 
 "extend-shallow" {>="0.2.0" & <"0.3.0"}
 

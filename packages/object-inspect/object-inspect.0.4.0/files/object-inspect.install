@@ -15,3 +15,6 @@ lib: [
 "test/undef.js" {"test/undef.js"}
 "test/browser/dom.js" {"test/browser/dom.js"}
 ]
+libexec: [
+
+]

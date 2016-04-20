@@ -20,5 +20,7 @@ lib: [
 "lib/watchFile.js" {"lib/watchFile.js"}
 "lib/readFile.js" {"lib/readFile.js"}
 "lib/createInputStream.js" {"lib/createInputStream.js"}
+]
+libexec: [
 "bin/gulp" {"bin/gulp"}
 ]

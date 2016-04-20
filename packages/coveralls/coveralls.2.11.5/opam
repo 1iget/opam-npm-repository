@@ -15,7 +15,9 @@ depends: [
 "request" {="2.67.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/coveralls.js %{bin}%/coveralls"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/coveralls" ] 
+]
 

@@ -14,3 +14,6 @@ lib: [
 "Readme.md" {"Readme.md"}
 "component.json" {"component.json"}
 ]
+libexec: [
+
+]

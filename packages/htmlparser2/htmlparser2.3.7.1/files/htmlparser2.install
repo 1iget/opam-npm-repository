@@ -13,3 +13,6 @@ lib: [
 "lib/WritableStream.js" {"lib/WritableStream.js"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"src/shell.cpp" {"src/shell.cpp"}
+"test/unixSpec.js" {"test/unixSpec.js"}
+"test/winspec.js" {"test/winspec.js"}
+]
+libexec: [
+
+]

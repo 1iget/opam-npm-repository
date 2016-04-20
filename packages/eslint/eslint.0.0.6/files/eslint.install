@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
-"bin/eslint.js" {"bin/eslint.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 "conf/eslint.json" {"conf/eslint.json"}
 ".jshintignore" {".jshintignore"}
@@ -85,4 +84,7 @@ lib: [
 "tests/lib/rules/curly.js" {"tests/lib/rules/curly.js"}
 "tests/lib/rules/use-isnan.js" {"tests/lib/rules/use-isnan.js"}
 "tests/lib/rules/no-empty.js" {"tests/lib/rules/no-empty.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

@@ -16,3 +16,6 @@ lib: [
 "test/win-rebase.js" {"test/win-rebase.js"}
 "test/fixtures/script.js" {"test/fixtures/script.js"}
 ]
+libexec: [
+
+]

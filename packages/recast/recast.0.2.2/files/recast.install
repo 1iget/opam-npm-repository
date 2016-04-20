@@ -33,3 +33,6 @@ lib: [
 "test/data/regexp-props.js" {"test/data/regexp-props.js"}
 "test/data/to-while.js" {"test/data/to-while.js"}
 ]
+libexec: [
+
+]

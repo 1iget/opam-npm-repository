@@ -8,7 +8,9 @@ dev-repo: "http://github.com/caolan/nodeunit.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/testrunner.js %{bin}%/nodeunit"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/nodeunit" ] 
+]
 

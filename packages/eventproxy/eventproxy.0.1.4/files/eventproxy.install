@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"jsdoc/files.html" {"jsdoc/files.html"}
+"jsdoc/index.html" {"jsdoc/index.html"}
+"jsdoc/symbols/_global_.html" {"jsdoc/symbols/_global_.html"}
+"jsdoc/symbols/EventProxy.html" {"jsdoc/symbols/EventProxy.html"}
+"jsdoc/symbols/src/eventproxy.js.html" {"jsdoc/symbols/src/eventproxy.js.html"}
+"jsdoc/symbols/src/Y__git_eventproxy_eventproxy.js.html" {"jsdoc/symbols/src/Y__git_eventproxy_eventproxy.js.html"}
+"lib/eventproxy.js" {"lib/eventproxy.js"}
+"MIT-License" {"MIT-License"}
+"test/chai.js" {"test/chai.js"}
+"test/mocha.js" {"test/mocha.js"}
+"test/require.js" {"test/require.js"}
+"test/sea.js" {"test/sea.js"}
+"test/test.js" {"test/test.js"}
+"test/mocha.css" {"test/mocha.css"}
+"test/test.html" {"test/test.html"}
+"test/test_requirejs.html" {"test/test_requirejs.html"}
+"test/test_seajs.html" {"test/test_seajs.html"}
+]
+libexec: [
+
+]

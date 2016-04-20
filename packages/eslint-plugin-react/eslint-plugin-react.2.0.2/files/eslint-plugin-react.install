@@ -20,3 +20,6 @@ lib: [
 "lib/rules/no-did-update-set-state.js" {"lib/rules/no-did-update-set-state.js"}
 "lib/util/component.js" {"lib/util/component.js"}
 ]
+libexec: [
+
+]

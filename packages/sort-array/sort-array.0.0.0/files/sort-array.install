@@ -7,3 +7,6 @@ lib: [
 "lib/sort-array.js" {"lib/sort-array.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

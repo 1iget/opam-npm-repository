@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"dsl.js" {"dsl.js"}
+"expectation.js" {"expectation.js"}
+"suite.js" {"suite.js"}
+"browser-reporter.js" {"browser-reporter.js"}
+"reporter.js" {"reporter.js"}
+"spy-expectation.js" {"spy-expectation.js"}
+"spy-object.js" {"spy-object.js"}
+"any.js" {"any.js"}
+"spy.js" {"spy.js"}
+"jasminum.js" {"jasminum.js"}
+"test.js" {"test.js"}
+"node-runner.js" {"node-runner.js"}
+"jasminum.css" {"jasminum.css"}
+"test/index.js" {"test/index.js"}
+"test/jasmine-test.js" {"test/jasmine-test.js"}
+"test/index.html" {"test/index.html"}
+]
+libexec: [
+
+]

@@ -6,3 +6,6 @@ lib: [
 "examples/pow.js" {"examples/pow.js"}
 "test/mkdirp.js" {"test/mkdirp.js"}
 ]
+libexec: [
+
+]

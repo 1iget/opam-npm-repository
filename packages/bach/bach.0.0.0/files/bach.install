@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"parallel.js" {"parallel.js"}
+"series.js" {"series.js"}
+".jshintrc" {".jshintrc"}
+"lib/onComplete.js" {"lib/onComplete.js"}
+"test/parallel.js" {"test/parallel.js"}
+]
+libexec: [
+
+]

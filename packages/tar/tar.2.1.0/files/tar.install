@@ -1,0 +1,37 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"tar.js" {"tar.js"}
+"examples/extracter.js" {"examples/extracter.js"}
+"examples/packer.js" {"examples/packer.js"}
+"examples/reader.js" {"examples/reader.js"}
+"lib/buffer-entry.js" {"lib/buffer-entry.js"}
+"lib/entry-writer.js" {"lib/entry-writer.js"}
+"lib/entry.js" {"lib/entry.js"}
+"lib/extended-header-writer.js" {"lib/extended-header-writer.js"}
+"lib/extended-header.js" {"lib/extended-header.js"}
+"lib/extract.js" {"lib/extract.js"}
+"lib/global-header-writer.js" {"lib/global-header-writer.js"}
+"lib/header.js" {"lib/header.js"}
+"lib/pack.js" {"lib/pack.js"}
+"lib/parse.js" {"lib/parse.js"}
+".travis.yml" {".travis.yml"}
+"test/00-setup-fixtures.js" {"test/00-setup-fixtures.js"}
+"test/dir-normalization.js" {"test/dir-normalization.js"}
+"test/parse.js" {"test/parse.js"}
+"test/error-on-broken.js" {"test/error-on-broken.js"}
+"test/extract-move.js" {"test/extract-move.js"}
+"test/pack.js" {"test/pack.js"}
+"test/pack-no-proprietary.js" {"test/pack-no-proprietary.js"}
+"test/header.js" {"test/header.js"}
+"test/zz-cleanup.js" {"test/zz-cleanup.js"}
+"test/extract.js" {"test/extract.js"}
+"test/fixtures.tgz" {"test/fixtures.tgz"}
+"test/cb-never-called-1.0.1.tgz" {"test/cb-never-called-1.0.1.tgz"}
+"test/dir-normalization.tar" {"test/dir-normalization.tar"}
+]
+libexec: [
+
+]

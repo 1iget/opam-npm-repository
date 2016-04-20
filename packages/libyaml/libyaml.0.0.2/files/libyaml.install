@@ -1,0 +1,13 @@
+lib: [
+".gitignore" {".gitignore"}
+"binding.cc" {"binding.cc"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.coffee" {"test.coffee"}
+"wscript" {"wscript"}
+"yaml.js" {"yaml.js"}
+]
+libexec: [
+
+]

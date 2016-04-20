@@ -43,3 +43,6 @@ lib: [
 "example/upload.js" {"example/upload.js"}
 "benchmark/bench-multipart-parser.js" {"benchmark/bench-multipart-parser.js"}
 ]
+libexec: [
+
+]

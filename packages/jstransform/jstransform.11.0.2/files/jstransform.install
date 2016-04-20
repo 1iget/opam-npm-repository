@@ -72,3 +72,6 @@ lib: [
 "visitors/__tests__/gen/generate-type-syntax-test.js" {"visitors/__tests__/gen/generate-type-syntax-test.js"}
 "visitors/__tests__/gen/type-syntax-test.rec.js" {"visitors/__tests__/gen/type-syntax-test.rec.js"}
 ]
+libexec: [
+
+]

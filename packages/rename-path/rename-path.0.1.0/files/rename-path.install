@@ -11,3 +11,6 @@ lib: [
 "test/rename.js" {"test/rename.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

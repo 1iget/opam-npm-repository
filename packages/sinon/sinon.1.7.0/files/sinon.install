@@ -55,3 +55,6 @@ lib: [
 "test/sinon-dist.html" {"test/sinon-dist.html"}
 "test/sinon.html" {"test/sinon.html"}
 ]
+libexec: [
+
+]

@@ -24,6 +24,8 @@ lib: [
 "test-ext/test.original.js" {"test-ext/test.original.js"}
 "test-ext/checkout.sh" {"test-ext/checkout.sh"}
 ".travis.yml" {".travis.yml"}
-"bin/twigjs" {"bin/twigjs"}
 "twig.min.js.map" {"twig.min.js.map"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

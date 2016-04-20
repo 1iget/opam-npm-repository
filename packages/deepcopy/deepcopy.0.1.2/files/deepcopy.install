@@ -9,3 +9,6 @@ lib: [
 "test/test-deepcopy.js" {"test/test-deepcopy.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

@@ -15,7 +15,9 @@ depends: [
 "serializerr" {>="1.0.1" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/npm-run.js %{bin}%/npm-run"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/npm-run" ] 
+]
 

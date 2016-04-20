@@ -7,3 +7,6 @@ lib: [
 "src/README.md" {"src/README.md"}
 "src/index.coffee" {"src/index.coffee"}
 ]
+libexec: [
+
+]

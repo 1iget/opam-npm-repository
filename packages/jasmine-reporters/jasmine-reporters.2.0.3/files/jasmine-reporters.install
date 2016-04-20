@@ -27,3 +27,6 @@ lib: [
 "src/teamcity_reporter.js" {"src/teamcity_reporter.js"}
 "src/terminal_reporter.js" {"src/terminal_reporter.js"}
 ]
+libexec: [
+
+]

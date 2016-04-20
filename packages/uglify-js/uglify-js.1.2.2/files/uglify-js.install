@@ -5,7 +5,6 @@ lib: [
 "uglify-js.js" {"uglify-js.js"}
 "README.org" {"README.org"}
 ".gitignore" {".gitignore"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "lib/process.js" {"lib/process.js"}
 "lib/squeeze-more.js" {"lib/squeeze-more.js"}
 "lib/object-ast.js" {"lib/object-ast.js"}
@@ -101,4 +100,7 @@ lib: [
 "test/unit/compress/test/issue53.js" {"test/unit/compress/test/issue53.js"}
 "test/unit/compress/test/issue25.js" {"test/unit/compress/test/issue25.js"}
 "test/unit/compress/test/mangle.js" {"test/unit/compress/test/mangle.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

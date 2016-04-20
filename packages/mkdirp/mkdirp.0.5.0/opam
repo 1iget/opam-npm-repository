@@ -9,7 +9,9 @@ depends: [
 "minimist" {="0.0.8"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/mkdirp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mkdirp" ] 
+]
 

@@ -3,3 +3,6 @@ lib: [
 "slash.js" {"slash.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

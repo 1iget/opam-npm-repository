@@ -1,0 +1,16 @@
+
+0.1.2
+
+ * Swapped util for n-util in response to new Node module
+   name conflict.
+
+0.1.0
+
+ * Reorganized for NPM
+
+0.0.1
+
+ * Renamed ComponentMap back to Branch
+ * Renamed Redirect to PermanentRedirect
+ * Introduced TemporaryRedirect
+ * Intorduced PostJson

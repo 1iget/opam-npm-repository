@@ -21,7 +21,9 @@ depends: [
 "tap-parser" {>="1.0.4" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/index.js %{bin}%/tap-mocha-reporter"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap-mocha-reporter" ] 
+]
 

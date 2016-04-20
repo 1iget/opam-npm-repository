@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"dsl.js" {"dsl.js"}
+"expectation.js" {"expectation.js"}
+"spy.js" {"spy.js"}
+"any.js" {"any.js"}
+"suite.js" {"suite.js"}
+"spy-object.js" {"spy-object.js"}
+"platform-reporter.js" {"platform-reporter.js"}
+"reporter.js" {"reporter.js"}
+"runner.js" {"runner.js"}
+"search.js" {"search.js"}
+"spy-expectation.js" {"spy-expectation.js"}
+"jasminum.js" {"jasminum.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"jasminum.css" {"jasminum.css"}
+"browser/reporter.js" {"browser/reporter.js"}
+"test/index.js" {"test/index.js"}
+"test/jasmine-test.js" {"test/jasmine-test.js"}
+"test/jasminum-test.js" {"test/jasminum-test.js"}
+"test/index.html" {"test/index.html"}
+"phantom/index.js" {"phantom/index.js"}
+"phantom/runner.js" {"phantom/runner.js"}
+"phantom/script.js" {"phantom/script.js"}
+"phantom/index.html" {"phantom/index.html"}
+]
+libexec: [
+
+]

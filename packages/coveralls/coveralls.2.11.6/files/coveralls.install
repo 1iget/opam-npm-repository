@@ -6,7 +6,6 @@ lib: [
 "fixtures/istanbul.lcov" {"fixtures/istanbul.lcov"}
 "fixtures/lib/index.js" {"fixtures/lib/index.js"}
 "fixtures/onefile.lcov" {"fixtures/onefile.lcov"}
-"bin/coveralls.js" {"bin/coveralls.js"}
 ".travis.yml" {".travis.yml"}
 "Makefile" {"Makefile"}
 "lib/convertLcovToCoveralls.js" {"lib/convertLcovToCoveralls.js"}
@@ -22,4 +21,7 @@ lib: [
 "test/handleInput.js" {"test/handleInput.js"}
 "test/logger.js" {"test/logger.js"}
 "test/sendToCoveralls.js" {"test/sendToCoveralls.js"}
+]
+libexec: [
+"bin/coveralls.js" {"bin/coveralls.js"}
 ]

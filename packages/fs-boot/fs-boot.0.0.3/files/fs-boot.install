@@ -6,3 +6,6 @@ lib: [
 "fs-boot/package.json" {"fs-boot/package.json"}
 "fs-boot/README" {"fs-boot/README"}
 ]
+libexec: [
+
+]

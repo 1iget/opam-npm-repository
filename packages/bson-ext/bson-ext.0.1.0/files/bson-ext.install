@@ -33,3 +33,6 @@ lib: [
 "test/node/data/test_gs_weird_bug.png" {"test/node/data/test_gs_weird_bug.png"}
 "test/node/tools/utils.js" {"test/node/tools/utils.js"}
 ]
+libexec: [
+
+]

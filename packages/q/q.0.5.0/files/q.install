@@ -41,3 +41,6 @@ lib: [
 "test/value-of.js" {"test/value-of.js"}
 "test/issue/9.js" {"test/issue/9.js"}
 ]
+libexec: [
+
+]

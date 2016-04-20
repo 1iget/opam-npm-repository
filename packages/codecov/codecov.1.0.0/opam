@@ -13,7 +13,9 @@ depends: [
 "argv" {="0.0.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/codecov %{bin}%/codecov"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/codecov" ] 
+]
 

@@ -5,3 +5,6 @@ lib: [
 "lib/growl.js" {"lib/growl.js"}
 "Readme.md" {"Readme.md"}
 ]
+libexec: [
+
+]

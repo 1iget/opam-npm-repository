@@ -16,7 +16,6 @@ lib: [
 ".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
 ".idea/vcs.xml" {".idea/vcs.xml"}
 ".idea/workspace.xml" {".idea/workspace.xml"}
-"bin/runner.js" {"bin/runner.js"}
 "configs/eslint.json" {"configs/eslint.json"}
 "configs/mocha.json" {"configs/mocha.json"}
 "lib/chai-init.js" {"lib/chai-init.js"}
@@ -30,4 +29,7 @@ lib: [
 "specs/chai.js" {"specs/chai.js"}
 "specs/sinon.js" {"specs/sinon.js"}
 "specs/bin/runner.js" {"specs/bin/runner.js"}
+]
+libexec: [
+"bin/runner.js" {"bin/runner.js"}
 ]

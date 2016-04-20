@@ -157,3 +157,6 @@ lib: [
 "tools/find-naughty-polyfill" {"tools/find-naughty-polyfill"}
 "tools/generate-core-package-json" {"tools/generate-core-package-json"}
 ]
+libexec: [
+
+]

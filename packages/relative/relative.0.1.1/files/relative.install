@@ -9,3 +9,6 @@ lib: [
 "test/tests.js" {"test/tests.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

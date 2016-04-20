@@ -33,3 +33,6 @@ lib: [
 "test/source-map/test-source-node.js" {"test/source-map/test-source-node.js"}
 "test/source-map/util.js" {"test/source-map/util.js"}
 ]
+libexec: [
+
+]

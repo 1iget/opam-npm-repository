@@ -7,3 +7,6 @@ lib: [
 "lib/resolve-dep.js" {"lib/resolve-dep.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

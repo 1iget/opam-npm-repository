@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"crosswalk-semver-to-module.js" {"crosswalk-semver-to-module.js"}
+".jshintrc" {".jshintrc"}
+"lib/node-pre-gyp.js" {"lib/node-pre-gyp.js"}
+"lib/rebuild.js" {"lib/rebuild.js"}
+"remake.sh" {"remake.sh"}
+"upload.sh" {"upload.sh"}
+]
+libexec: [
+"bin/node-pre-gyp.js" {"bin/node-pre-gyp.js"}
+]

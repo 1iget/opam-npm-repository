@@ -32,3 +32,6 @@ lib: [
 "test/simple/test-stream2-transform.js" {"test/simple/test-stream2-transform.js"}
 "test/simple/test-stream2-writable.js" {"test/simple/test-stream2-writable.js"}
 ]
+libexec: [
+
+]

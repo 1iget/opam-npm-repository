@@ -16,7 +16,6 @@ lib: [
 "src/validation.cc" {"src/validation.cc"}
 "src/bufferutil.cc" {"src/bufferutil.cc"}
 "bin/" {"bin/"}
-"bin/wscat" {"bin/wscat"}
 "bench/" {"bench/"}
 "bench/WebSocket.benchmark.js" {"bench/WebSocket.benchmark.js"}
 "bench/util.js" {"bench/util.js"}
@@ -36,4 +35,7 @@ lib: [
 ".gitignore" {".gitignore"}
 "History.md" {"History.md"}
 "README.md" {"README.md"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

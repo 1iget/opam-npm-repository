@@ -1,0 +1,19 @@
+lib: [
+"jaque/" {"jaque/"}
+"jaque/CHANGES" {"jaque/CHANGES"}
+"jaque/inspect.js" {"jaque/inspect.js"}
+"jaque/lib/" {"jaque/lib/"}
+"jaque/package.json" {"jaque/package.json"}
+"jaque/README" {"jaque/README"}
+"jaque/temp.js" {"jaque/temp.js"}
+"jaque/test.js" {"jaque/test.js"}
+"jaque/lib/jaque/" {"jaque/lib/jaque/"}
+"jaque/lib/jaque.js" {"jaque/lib/jaque.js"}
+"jaque/lib/jaque/cookie.js" {"jaque/lib/jaque/cookie.js"}
+"jaque/lib/jaque/mime-types.js" {"jaque/lib/jaque/mime-types.js"}
+"jaque/lib/jaque/querystring.js" {"jaque/lib/jaque/querystring.js"}
+"jaque/lib/jaque/util.js" {"jaque/lib/jaque/util.js"}
+]
+libexec: [
+
+]

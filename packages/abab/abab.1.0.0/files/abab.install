@@ -12,3 +12,6 @@ lib: [
 "test/atob.js" {"test/atob.js"}
 "test/btoa.js" {"test/btoa.js"}
 ]
+libexec: [
+
+]

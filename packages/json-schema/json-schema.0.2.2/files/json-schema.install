@@ -31,3 +31,6 @@ lib: [
 "draft-02/schema" {"draft-02/schema"}
 "test/tests.js" {"test/tests.js"}
 ]
+libexec: [
+
+]

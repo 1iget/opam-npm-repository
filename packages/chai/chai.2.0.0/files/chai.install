@@ -40,3 +40,6 @@ lib: [
 "lib/chai/utils/type.js" {"lib/chai/utils/type.js"}
 "lib/chai/utils/getProperties.js" {"lib/chai/utils/getProperties.js"}
 ]
+libexec: [
+
+]

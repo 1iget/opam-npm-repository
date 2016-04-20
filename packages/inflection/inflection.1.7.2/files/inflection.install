@@ -8,3 +8,6 @@ lib: [
 "lib/inflection.js" {"lib/inflection.js"}
 "History.md" {"History.md"}
 ]
+libexec: [
+
+]

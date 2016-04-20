@@ -16,3 +16,6 @@ lib: [
 "yamlish-py/test/test_writer.py" {"yamlish-py/test/test_writer.py"}
 "yamlish-py/yamlish.py" {"yamlish-py/yamlish.py"}
 ]
+libexec: [
+
+]

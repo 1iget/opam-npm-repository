@@ -12,3 +12,6 @@ lib: [
 "test/parse.test.js" {"test/parse.test.js"}
 "test/stringify.test.js" {"test/stringify.test.js"}
 ]
+libexec: [
+
+]

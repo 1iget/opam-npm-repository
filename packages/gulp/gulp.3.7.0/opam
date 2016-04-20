@@ -31,7 +31,9 @@ depends: [
 "vinyl-fs" {>="0.2.0" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp.js %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

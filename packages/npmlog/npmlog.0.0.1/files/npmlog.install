@@ -5,3 +5,6 @@ lib: [
 "log.js" {"log.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

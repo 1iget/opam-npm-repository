@@ -18,3 +18,6 @@ lib: [
 "tests/readdir.js" {"tests/readdir.js"}
 "tests/runner.js" {"tests/runner.js"}
 ]
+libexec: [
+
+]

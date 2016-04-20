@@ -76,3 +76,6 @@ lib: [
 "test/fixtures/parser_test.js" {"test/fixtures/parser_test.js"}
 "test/fixtures/tokenizer_test.js" {"test/fixtures/tokenizer_test.js"}
 ]
+libexec: [
+
+]

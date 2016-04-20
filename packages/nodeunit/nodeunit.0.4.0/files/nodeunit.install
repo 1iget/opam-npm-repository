@@ -53,3 +53,6 @@ lib: [
 "nodeunit/test/test-runmodule.js" {"nodeunit/test/test-runmodule.js"}
 "nodeunit/test/test-runtest.js" {"nodeunit/test/test-runtest.js"}
 ]
+libexec: [
+
+]

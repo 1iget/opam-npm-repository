@@ -13,3 +13,6 @@ lib: [
 "test/diffing-NaN.js" {"test/diffing-NaN.js"}
 "test/html.js" {"test/html.js"}
 ]
+libexec: [
+
+]

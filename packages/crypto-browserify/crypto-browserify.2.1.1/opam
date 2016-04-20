@@ -6,7 +6,7 @@ author: "dominictarr <dominic.tarr@gmail.com>"
 license: "MIT"
 dev-repo: "git://github.com/dominictarr/crypto-browserify.git"
 depends: [
-"sha.js" {="2.1.0"}
+"sha_js" {="2.1.0"}
 
 ]
 

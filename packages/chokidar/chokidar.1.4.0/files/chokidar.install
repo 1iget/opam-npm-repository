@@ -6,3 +6,6 @@ lib: [
 "lib/nodefs-handler.js" {"lib/nodefs-handler.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 ]
+libexec: [
+
+]

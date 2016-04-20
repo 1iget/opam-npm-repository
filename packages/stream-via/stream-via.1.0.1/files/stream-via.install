@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"example/async.js" {"example/async.js"}
+"example/simple.js" {"example/simple.js"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/stream-via.js" {"lib/stream-via.js"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+
+]

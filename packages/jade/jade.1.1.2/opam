@@ -21,7 +21,9 @@ depends: [
 "constantinople" {>="1.0.2" & <"1.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jade.js %{bin}%/jade"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jade" ] 
+]
 

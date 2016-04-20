@@ -13,7 +13,9 @@ depends: [
 "glob" {>="4.3.1" & <"4.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/vows %{bin}%/vows"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/vows" ] 
+]
 

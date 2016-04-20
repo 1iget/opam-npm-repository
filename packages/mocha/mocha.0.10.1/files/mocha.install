@@ -3,8 +3,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "_mocha.js" {"_mocha.js"}
 "bin/" {"bin/"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "editors/" {"editors/"}
 "editors/JavaScript mocha.tmbundle/" {"editors/JavaScript mocha.tmbundle/"}
 "editors/JavaScript mocha.tmbundle/info.plist" {"editors/JavaScript mocha.tmbundle/info.plist"}
@@ -63,4 +61,8 @@ lib: [
 "package.json" {"package.json"}
 "Readme.md" {"Readme.md"}
 "test.js" {"test.js"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

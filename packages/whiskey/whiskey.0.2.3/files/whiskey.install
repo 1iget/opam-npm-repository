@@ -21,7 +21,6 @@ lib: [
 "example/init.js" {"example/init.js"}
 "example/test-failure.js" {"example/test-failure.js"}
 "example/test-chdir.js" {"example/test-chdir.js"}
-"bin/whiskey" {"bin/whiskey"}
 "lib/parser.js" {"lib/parser.js"}
 "lib/run.js" {"lib/run.js"}
 "lib/errors.js" {"lib/errors.js"}
@@ -43,4 +42,7 @@ lib: [
 "lib/extern/long-stack-traces/README.md" {"lib/extern/long-stack-traces/README.md"}
 "lib/extern/long-stack-traces/package.json" {"lib/extern/long-stack-traces/package.json"}
 "lib/extern/long-stack-traces/lib/long-stack-traces.js" {"lib/extern/long-stack-traces/lib/long-stack-traces.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/noMatter.md" {"test/fixtures/noMatter.md"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

@@ -58,3 +58,6 @@ lib: [
 "lib/sinon/util/fake_timers.js" {"lib/sinon/util/fake_timers.js"}
 "lib/sinon/util/fake_xml_http_request.js" {"lib/sinon/util/fake_xml_http_request.js"}
 ]
+libexec: [
+
+]

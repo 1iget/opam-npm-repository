@@ -14,7 +14,6 @@ lib: [
 "tmp/test.js" {"tmp/test.js"}
 "tmp/instrument2.js" {"tmp/instrument2.js"}
 "tmp/hoist.js" {"tmp/hoist.js"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "test/testparser.js" {"test/testparser.js"}
 "test/beautify.js" {"test/beautify.js"}
 "test/unit/scripts.js" {"test/unit/scripts.js"}
@@ -99,4 +98,7 @@ lib: [
 "test/unit/compress/expected/issue9.js" {"test/unit/compress/expected/issue9.js"}
 "test/unit/compress/expected/issue53.js" {"test/unit/compress/expected/issue53.js"}
 "test/unit/compress/expected/forstatement.js" {"test/unit/compress/expected/forstatement.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

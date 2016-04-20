@@ -23,3 +23,6 @@ lib: [
 "test/big5File.txt" {"test/big5File.txt"}
 "test/gbkFile.txt" {"test/gbkFile.txt"}
 ]
+libexec: [
+
+]

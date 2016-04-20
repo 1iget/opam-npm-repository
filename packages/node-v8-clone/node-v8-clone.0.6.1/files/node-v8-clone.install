@@ -21,3 +21,6 @@ lib: [
 "test/shared.js" {"test/shared.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

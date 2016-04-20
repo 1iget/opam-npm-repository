@@ -2,6 +2,8 @@ lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
-"cli.js" {"cli.js"}
 "index.js" {"index.js"}
+]
+libexec: [
+"cli.js" {"cli.js"}
 ]

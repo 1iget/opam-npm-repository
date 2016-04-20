@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"array-flatten.js" {"array-flatten.js"}
+]
+libexec: [
+
+]

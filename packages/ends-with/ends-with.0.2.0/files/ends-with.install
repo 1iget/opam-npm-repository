@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/implementations/index-of.js" {"benchmark/implementations/index-of.js"}
+"benchmark/implementations/last-index-of.js" {"benchmark/implementations/last-index-of.js"}
+"benchmark/implementations/re-exec.js" {"benchmark/implementations/re-exec.js"}
+"benchmark/implementations/re-search.js" {"benchmark/implementations/re-search.js"}
+"benchmark/implementations/re-test.js" {"benchmark/implementations/re-test.js"}
+"benchmark/implementations/slice.js" {"benchmark/implementations/slice.js"}
+"benchmark/implementations/substr.js" {"benchmark/implementations/substr.js"}
+"benchmark/implementations/substring.js" {"benchmark/implementations/substring.js"}
+"benchmark/implementations/while.js" {"benchmark/implementations/while.js"}
+"benchmark/samples/lorem1.txt" {"benchmark/samples/lorem1.txt"}
+"benchmark/samples/lorem2.txt" {"benchmark/samples/lorem2.txt"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]
+libexec: [
+
+]

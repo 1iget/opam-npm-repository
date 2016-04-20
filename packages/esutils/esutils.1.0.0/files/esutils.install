@@ -9,3 +9,6 @@ lib: [
 "test/code.coffee" {"test/code.coffee"}
 "test/keyword.coffee" {"test/keyword.coffee"}
 ]
+libexec: [
+
+]

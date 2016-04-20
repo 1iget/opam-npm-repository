@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/bad-child.js" {"test/fixtures/bad-child.js"}
 "test/fixtures/child.js" {"test/fixtures/child.js"}
 ]
+libexec: [
+
+]

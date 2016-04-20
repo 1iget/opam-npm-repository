@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"acorn_loose.js" {"acorn_loose.js"}
+"test.js" {"test.js"}
+"foo.js" {"foo.js"}
+"acorn.js" {"acorn.js"}
+".tern-port" {".tern-port"}
+"index.html" {"index.html"}
+"util/walk.js" {"util/walk.js"}
+"util/test_walk.js" {"util/test_walk.js"}
+"util/.tern-port" {"util/.tern-port"}
+".tern-project" {".tern-project"}
+"docco.css" {"docco.css"}
+"test/tests.js" {"test/tests.js"}
+"test/codemirror-string.js" {"test/codemirror-string.js"}
+"test/driver.js" {"test/driver.js"}
+"test/run.js" {"test/run.js"}
+"test/bench.js" {"test/bench.js"}
+"test/jquery-string.js" {"test/jquery-string.js"}
+"test/compare/esprima.js" {"test/compare/esprima.js"}
+"test/compare/uglifyjs2.js" {"test/compare/uglifyjs2.js"}
+"test/compare/uglifyjs.js" {"test/compare/uglifyjs.js"}
+"test/bench.html" {"test/bench.html"}
+"test/index.html" {"test/index.html"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
+]

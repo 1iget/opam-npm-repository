@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
-"bin/gulp" {"bin/gulp"}
 "lib/createFilesStream.js" {"lib/createFilesStream.js"}
 "lib/createFileStream.js" {"lib/createFileStream.js"}
 "lib/main.js" {"lib/main.js"}
@@ -18,4 +17,7 @@ lib: [
 "test/fixtures/stuff/test.dmc" {"test/fixtures/stuff/test.dmc"}
 "test/fixtures/test/run.jade" {"test/fixtures/test/run.jade"}
 "test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+]
+libexec: [
+"bin/gulp" {"bin/gulp"}
 ]

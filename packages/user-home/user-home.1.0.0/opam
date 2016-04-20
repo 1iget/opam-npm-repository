@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/user-home"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/user-home"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/user-home" ] 
+]
 

@@ -34,7 +34,6 @@ lib: [
 "examples/promise/chrome.js" {"examples/promise/chrome.js"}
 "examples/promise/sauce.js" {"examples/promise/sauce.js"}
 "examples/promise/monkey.patch-no-chain.js" {"examples/promise/monkey.patch-no-chain.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/deprecated-chain.js" {"lib/deprecated-chain.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
@@ -88,4 +87,7 @@ lib: [
 "test/specs/callback-specs.js" {"test/specs/callback-specs.js"}
 "test/specs/remote-specs.js" {"test/specs/remote-specs.js"}
 "wait" {"wait"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

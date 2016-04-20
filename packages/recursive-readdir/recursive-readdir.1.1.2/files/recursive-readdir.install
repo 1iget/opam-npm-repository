@@ -13,3 +13,6 @@ lib: [
 "test/testdir/d.txt" {"test/testdir/d.txt"}
 "test/testdirBeta/ignore.txt" {"test/testdirBeta/ignore.txt"}
 ]
+libexec: [
+
+]

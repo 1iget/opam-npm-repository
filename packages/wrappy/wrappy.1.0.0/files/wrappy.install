@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"wrappy.js" {"wrappy.js"}
+"test/basic.js" {"test/basic.js"}
+]
+libexec: [
+
+]

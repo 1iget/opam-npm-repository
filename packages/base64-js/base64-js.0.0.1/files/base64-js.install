@@ -4,3 +4,6 @@ lib: [
 "lib/b64.js" {"lib/b64.js"}
 "test/runner.js" {"test/runner.js"}
 ]
+libexec: [
+
+]

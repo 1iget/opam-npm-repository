@@ -8,3 +8,6 @@ lib: [
 "test/cmp.js" {"test/cmp.js"}
 "test/NaN.js" {"test/NaN.js"}
 ]
+libexec: [
+
+]

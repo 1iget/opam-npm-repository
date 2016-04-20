@@ -6,7 +6,7 @@ author: "None <none@none.com>"
 license: "not defined"
 
 depends: [
-"Array.prototype.forEachAsync" {>="2.1.0"}
+"Array_prototype_forEachAsync" {>="2.1.0"}
 
 ]
 

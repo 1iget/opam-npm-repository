@@ -66,3 +66,6 @@ lib: [
 "test/sinon.html" {"test/sinon.html"}
 "test/timers.html" {"test/timers.html"}
 ]
+libexec: [
+
+]

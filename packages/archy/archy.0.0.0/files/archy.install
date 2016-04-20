@@ -6,3 +6,6 @@ lib: [
 "examples/beep.js" {"examples/beep.js"}
 "test/beep.js" {"test/beep.js"}
 ]
+libexec: [
+
+]

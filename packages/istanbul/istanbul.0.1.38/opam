@@ -29,7 +29,9 @@ depends: [
 "resolve" {>="0.4.0" & <"0.5.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/cli.js %{bin}%/istanbul"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/istanbul" ] 
+]
 

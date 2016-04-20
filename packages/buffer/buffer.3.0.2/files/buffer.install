@@ -30,3 +30,6 @@ lib: [
 "test/es6/README.txt" {"test/es6/README.txt"}
 "vlc-log.txt" {"vlc-log.txt"}
 ]
+libexec: [
+
+]

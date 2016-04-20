@@ -5,3 +5,6 @@ lib: [
 "package.json" {"package.json"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

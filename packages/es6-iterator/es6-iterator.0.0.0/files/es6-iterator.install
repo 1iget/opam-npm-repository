@@ -16,3 +16,6 @@ lib: [
 "test/to-array.js" {"test/to-array.js"}
 ".lint" {".lint"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "test/integration/test-retry-operation.js" {"test/integration/test-retry-operation.js"}
 "test/integration/test-timeouts.js" {"test/integration/test-timeouts.js"}
 ]
+libexec: [
+
+]

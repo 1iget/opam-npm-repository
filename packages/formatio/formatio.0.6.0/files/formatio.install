@@ -1,0 +1,16 @@
+lib: [
+"test/" {"test/"}
+"test/formatio-test.js" {"test/formatio-test.js"}
+".travis.yml" {".travis.yml"}
+"Readme.rst" {"Readme.rst"}
+"AUTHORS" {"AUTHORS"}
+"package.json" {"package.json"}
+"lib/" {"lib/"}
+"lib/formatio.js" {"lib/formatio.js"}
+"run-tests" {"run-tests"}
+"jsTestDriver.conf" {"jsTestDriver.conf"}
+"LICENSE" {"LICENSE"}
+]
+libexec: [
+
+]

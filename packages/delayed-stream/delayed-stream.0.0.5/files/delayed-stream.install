@@ -16,3 +16,6 @@ lib: [
 "test/integration/test-pipe-resumes.js" {"test/integration/test-pipe-resumes.js"}
 "test/integration/test-proxy-readable.js" {"test/integration/test-proxy-readable.js"}
 ]
+libexec: [
+
+]

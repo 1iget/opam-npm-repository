@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/elliptic.js" {"lib/elliptic.js"}
+"lib/elliptic/curves.js" {"lib/elliptic/curves.js"}
+"lib/elliptic/hmac-drbg.js" {"lib/elliptic/hmac-drbg.js"}
+"lib/elliptic/utils.js" {"lib/elliptic/utils.js"}
+"lib/elliptic/curve/base.js" {"lib/elliptic/curve/base.js"}
+"lib/elliptic/curve/edwards.js" {"lib/elliptic/curve/edwards.js"}
+"lib/elliptic/curve/index.js" {"lib/elliptic/curve/index.js"}
+"lib/elliptic/curve/mont.js" {"lib/elliptic/curve/mont.js"}
+"lib/elliptic/curve/short.js" {"lib/elliptic/curve/short.js"}
+"lib/elliptic/ec/index.js" {"lib/elliptic/ec/index.js"}
+"lib/elliptic/ec/key.js" {"lib/elliptic/ec/key.js"}
+"lib/elliptic/ec/signature.js" {"lib/elliptic/ec/signature.js"}
+"lib/elliptic/eddsa/index.js" {"lib/elliptic/eddsa/index.js"}
+"lib/elliptic/eddsa/key.js" {"lib/elliptic/eddsa/key.js"}
+"lib/elliptic/eddsa/signature.js" {"lib/elliptic/eddsa/signature.js"}
+"lib/elliptic/precomputed/secp256k1.js" {"lib/elliptic/precomputed/secp256k1.js"}
+]
+libexec: [
+
+]

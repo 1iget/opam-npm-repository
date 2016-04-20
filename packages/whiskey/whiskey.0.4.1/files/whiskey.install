@@ -48,7 +48,6 @@ lib: [
 "assets/keybd_open.png" {"assets/keybd_open.png"}
 "assets/jquery-1.4.3.min.js" {"assets/jquery-1.4.3.min.js"}
 "test/run.sh" {"test/run.sh"}
-"bin/whiskey" {"bin/whiskey"}
 "lib/assert.js" {"lib/assert.js"}
 "lib/util.js" {"lib/util.js"}
 "lib/scopeleaks.js" {"lib/scopeleaks.js"}
@@ -83,4 +82,7 @@ lib: [
 "lib/extern/optparse/examples/nodejs-test.js" {"lib/extern/optparse/examples/nodejs-test.js"}
 "lib/extern/optparse/examples/browser-test.html" {"lib/extern/optparse/examples/browser-test.html"}
 "lib/extern/optparse/lib/optparse.js" {"lib/extern/optparse/lib/optparse.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

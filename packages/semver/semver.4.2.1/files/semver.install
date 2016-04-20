@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"semver.browser.js" {"semver.browser.js"}
+"semver.js" {"semver.js"}
+"semver.min.js" {"semver.min.js"}
+"Makefile" {"Makefile"}
+"test/amd.js" {"test/amd.js"}
+"test/clean.js" {"test/clean.js"}
+"test/gtr.js" {"test/gtr.js"}
+"test/index.js" {"test/index.js"}
+"test/ltr.js" {"test/ltr.js"}
+"test/no-module.js" {"test/no-module.js"}
+"semver.browser.js.gz" {"semver.browser.js.gz"}
+"foot.js.txt" {"foot.js.txt"}
+"head.js.txt" {"head.js.txt"}
+"semver.min.js.gz" {"semver.min.js.gz"}
+]
+libexec: [
+"bin/semver" {"bin/semver"}
+]

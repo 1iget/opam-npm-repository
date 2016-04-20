@@ -8,3 +8,6 @@ lib: [
 "nodefsevents.cc" {"nodefsevents.cc"}
 "Readme.md" {"Readme.md"}
 ]
+libexec: [
+
+]

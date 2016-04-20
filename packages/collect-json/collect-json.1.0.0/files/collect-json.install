@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bin/cli.js" {"bin/cli.js"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/collect-json.js" {"lib/collect-json.js"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+
+]

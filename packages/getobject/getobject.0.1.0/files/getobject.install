@@ -9,3 +9,6 @@ lib: [
 "lib/getobject.js" {"lib/getobject.js"}
 "test/namespace_test.js" {"test/namespace_test.js"}
 ]
+libexec: [
+
+]

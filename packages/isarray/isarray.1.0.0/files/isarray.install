@@ -8,3 +8,6 @@ lib: [
 "Makefile" {"Makefile"}
 "component.json" {"component.json"}
 ]
+libexec: [
+
+]

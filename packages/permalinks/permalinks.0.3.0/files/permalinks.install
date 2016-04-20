@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+".gitattributes" {".gitattributes"}
+".jshintrc" {".jshintrc"}
+"docs/custom-replacement-patterns.md" {"docs/custom-replacement-patterns.md"}
+"docs/date-patterns.md" {"docs/date-patterns.md"}
+"docs/examples.md" {"docs/examples.md"}
+"docs/moment.md" {"docs/moment.md"}
+"docs/options.md" {"docs/options.md"}
+"docs/patterns.md" {"docs/patterns.md"}
+"docs/seo.md" {"docs/seo.md"}
+"docs/special-patterns.md" {"docs/special-patterns.md"}
+".verbrc.md" {".verbrc.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/test.js" {"test/test.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+
+]

@@ -31,3 +31,6 @@ lib: [
 "test/fixtures/comments-2.js" {"test/fixtures/comments-2.js"}
 "test/fixtures/delims.md" {"test/fixtures/delims.md"}
 ]
+libexec: [
+
+]

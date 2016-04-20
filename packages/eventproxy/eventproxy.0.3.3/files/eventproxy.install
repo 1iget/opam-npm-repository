@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+"MIT-License" {"MIT-License"}
+"README_en.md" {"README_en.md"}
+"component.json" {"component.json"}
+"coverage/prettify.js" {"coverage/prettify.js"}
+"coverage/coverage.json" {"coverage/coverage.json"}
+"coverage/eventproxy/index.html" {"coverage/eventproxy/index.html"}
+"coverage/eventproxy/index.js.html" {"coverage/eventproxy/index.js.html"}
+"coverage/eventproxy/lib/eventproxy.js.html" {"coverage/eventproxy/lib/eventproxy.js.html"}
+"coverage/eventproxy/lib/index.html" {"coverage/eventproxy/lib/index.html"}
+"coverage/index.html" {"coverage/index.html"}
+"coverage/prettify.css" {"coverage/prettify.css"}
+"lib/eventproxy.js" {"lib/eventproxy.js"}
+"AUTHORS" {"AUTHORS"}
+]
+libexec: [
+
+]

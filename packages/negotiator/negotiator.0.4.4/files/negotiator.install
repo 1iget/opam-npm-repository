@@ -9,3 +9,6 @@ lib: [
 "lib/negotiator.js" {"lib/negotiator.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

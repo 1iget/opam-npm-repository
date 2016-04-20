@@ -4,3 +4,6 @@ lib: [
 "LICENSE.md" {"LICENSE.md"}
 "lib/unorm.js" {"lib/unorm.js"}
 ]
+libexec: [
+
+]

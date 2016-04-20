@@ -67,7 +67,9 @@ depends: [
 "verb-readme-includes" {="0.0.1"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/docs %{bin}%/docs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/docs" ] 
+]
 

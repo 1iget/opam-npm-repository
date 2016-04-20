@@ -69,3 +69,6 @@ lib: [
 "lib/sinon/stub.js" {"lib/sinon/stub.js"}
 "LICENSE" {"LICENSE"}
 ]
+libexec: [
+
+]

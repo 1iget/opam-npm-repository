@@ -5,3 +5,6 @@ lib: [
 "constant-case.js" {"constant-case.js"}
 "constant-case.d.ts" {"constant-case.d.ts"}
 ]
+libexec: [
+
+]

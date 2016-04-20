@@ -1,0 +1,21 @@
+lib: [
+"example/" {"example/"}
+"example/prof.js" {"example/prof.js"}
+"example/top/" {"example/top/"}
+"example/top/run.js" {"example/top/run.js"}
+"example/top/src.js" {"example/top/src.js"}
+"example/tiny.js" {"example/tiny.js"}
+"index.js" {"index.js"}
+"test/" {"test/"}
+"test/cover.js" {"test/cover.js"}
+"test/return.js" {"test/return.js"}
+"test/src/" {"test/src/"}
+"test/src/cover.js" {"test/src/cover.js"}
+".npmignore" {".npmignore"}
+"package.json" {"package.json"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+]
+libexec: [
+
+]

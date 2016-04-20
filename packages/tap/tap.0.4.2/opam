@@ -27,7 +27,9 @@ depends: [
 "glob" {>="3.2.1" & <"3.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/tap.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

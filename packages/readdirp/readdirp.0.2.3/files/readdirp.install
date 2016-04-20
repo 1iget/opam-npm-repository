@@ -144,3 +144,6 @@ lib: [
 "test/bed/root_file2.ext2" {"test/bed/root_file2.ext2"}
 "test/bed/root_file3.ext3" {"test/bed/root_file3.ext3"}
 ]
+libexec: [
+
+]

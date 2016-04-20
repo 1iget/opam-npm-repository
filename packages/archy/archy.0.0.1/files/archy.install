@@ -8,3 +8,6 @@ lib: [
 "test/beep.js" {"test/beep.js"}
 "test/multi_line.js" {"test/multi_line.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,23 @@
+lib: [
+"" {""}
+"wrappers/" {"wrappers/"}
+"wrappers/prelude.js" {"wrappers/prelude.js"}
+"wrappers/body.js" {"wrappers/body.js"}
+"builtins/" {"builtins/"}
+"index.js" {"index.js"}
+"examples/" {"examples/"}
+"examples/npm/" {"examples/npm/"}
+"examples/npm/index.html" {"examples/npm/index.html"}
+"examples/npm/server.js" {"examples/npm/server.js"}
+"examples/simple/" {"examples/simple/"}
+"examples/simple/js/" {"examples/simple/js/"}
+"examples/simple/js/foo.js" {"examples/simple/js/foo.js"}
+"examples/simple/js/bar.js" {"examples/simple/js/bar.js"}
+"examples/simple/index.html" {"examples/simple/index.html"}
+"examples/simple/server.js" {"examples/simple/server.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

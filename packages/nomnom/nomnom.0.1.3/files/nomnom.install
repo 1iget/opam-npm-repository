@@ -18,3 +18,6 @@ lib: [
 "test/shortcut.js" {"test/shortcut.js"}
 "lib/nomnom.js" {"lib/nomnom.js"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "lib/test.js" {"lib/test.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 ]
+libexec: [
+
+]

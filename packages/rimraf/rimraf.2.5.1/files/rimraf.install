@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"rimraf.js" {"rimraf.js"}
+]
+libexec: [
+"bin.js" {"bin.js"}
+]

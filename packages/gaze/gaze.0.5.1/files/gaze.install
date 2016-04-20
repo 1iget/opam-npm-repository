@@ -5,3 +5,6 @@ lib: [
 "lib/helper.js" {"lib/helper.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

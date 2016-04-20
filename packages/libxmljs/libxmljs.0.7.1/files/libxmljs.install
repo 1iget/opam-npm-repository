@@ -67,3 +67,6 @@ lib: [
 "test/fixtures/warnings/ent9.xml" {"test/fixtures/warnings/ent9.xml"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

@@ -11,7 +11,9 @@ depends: [
 "get-stdin" {>="4.0.1" & <"5.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/has-ansi"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/has-ansi" ] 
+]
 

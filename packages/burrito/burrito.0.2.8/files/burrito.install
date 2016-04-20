@@ -1,0 +1,21 @@
+lib: [
+"server.js" {"server.js"}
+"index.html" {"index.html"}
+"index.js" {"index.js"}
+".npmignore" {".npmignore"}
+"main.js" {"main.js"}
+"package.json" {"package.json"}
+"README.markdown" {"README.markdown"}
+"browserify.js" {"browserify.js"}
+"example/wrap.js" {"example/wrap.js"}
+"example/microwave.js" {"example/microwave.js"}
+"test/wrap.js" {"test/wrap.js"}
+"test/microwave.js" {"test/microwave.js"}
+"test/err.js" {"test/err.js"}
+"test/ast.js" {"test/ast.js"}
+"test/parent.js" {"test/parent.js"}
+"test/label.js" {"test/label.js"}
+]
+libexec: [
+
+]

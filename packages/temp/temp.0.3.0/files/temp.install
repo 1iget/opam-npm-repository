@@ -7,3 +7,6 @@ lib: [
 "lib/temp.js" {"lib/temp.js"}
 "test/temp-test.js" {"test/temp-test.js"}
 ]
+libexec: [
+
+]

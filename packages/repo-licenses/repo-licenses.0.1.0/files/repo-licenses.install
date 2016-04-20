@@ -8,3 +8,6 @@ lib: [
 "templates/LICENSE-MIT" {"templates/LICENSE-MIT"}
 "templates/LICENSE-MPL-2.0" {"templates/LICENSE-MPL-2.0"}
 ]
+libexec: [
+
+]

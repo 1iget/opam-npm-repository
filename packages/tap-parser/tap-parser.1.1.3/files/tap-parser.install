@@ -79,3 +79,6 @@ lib: [
 "test/fixtures/broken-yamlish-looks-like-child.tap" {"test/fixtures/broken-yamlish-looks-like-child.tap"}
 "test/fixtures/yamlish.tap" {"test/fixtures/yamlish.tap"}
 ]
+libexec: [
+
+]

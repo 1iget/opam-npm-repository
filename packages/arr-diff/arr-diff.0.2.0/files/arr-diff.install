@@ -1,0 +1,28 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".verb.md" {".verb.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".gitattributes" {".gitattributes"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/code/filter.js" {"benchmark/code/filter.js"}
+"benchmark/code/for-lefthand.js" {"benchmark/code/for-lefthand.js"}
+"benchmark/code/for-negative.js" {"benchmark/code/for-negative.js"}
+"benchmark/code/for-reverse.js" {"benchmark/code/for-reverse.js"}
+"benchmark/code/for.js" {"benchmark/code/for.js"}
+"benchmark/code/forEach-2.js" {"benchmark/code/forEach-2.js"}
+"benchmark/code/forEach.js" {"benchmark/code/forEach.js"}
+"benchmark/code/reduce.js" {"benchmark/code/reduce.js"}
+"benchmark/code/while-splice.js" {"benchmark/code/while-splice.js"}
+"benchmark/code/while.js" {"benchmark/code/while.js"}
+"benchmark/fixtures/basic.js" {"benchmark/fixtures/basic.js"}
+"bower.json" {"bower.json"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+]
+libexec: [
+
+]

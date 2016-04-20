@@ -6,3 +6,6 @@ lib: [
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

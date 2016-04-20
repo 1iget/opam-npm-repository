@@ -16,3 +16,6 @@ lib: [
 "test/string.test.coffee" {"test/string.test.coffee"}
 "test/string.test.js" {"test/string.test.js"}
 ]
+libexec: [
+
+]

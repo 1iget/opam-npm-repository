@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "MIT"
 dev-repo: "git+ssh://git@github.com/calvinmetcalf/browserify-rsa.git"
 depends: [
-"bn.js" {>="3.0.0" & <"4.0.0"}
+"bn_js" {>="3.0.0" & <"4.0.0"}
 
 "randombytes" {>="2.0.1" & <"3.0.0"}
 

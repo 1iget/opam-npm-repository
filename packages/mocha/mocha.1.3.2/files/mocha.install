@@ -12,8 +12,6 @@ lib: [
 "mocha.css" {"mocha.css"}
 "images/error.png" {"images/error.png"}
 "images/ok.png" {"images/ok.png"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "lib/utils.js" {"lib/utils.js"}
 "lib/hook.js" {"lib/hook.js"}
 "lib/mocha.js" {"lib/mocha.js"}
@@ -59,4 +57,8 @@ lib: [
 "lib/reporters/templates/style.html" {"lib/reporters/templates/style.html"}
 "Readme.md" {"Readme.md"}
 "Makefile" {"Makefile"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

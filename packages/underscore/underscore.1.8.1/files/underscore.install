@@ -6,6 +6,6 @@ lib: [
 "underscore.js" {"underscore.js"}
 "underscore-min.map" {"underscore-min.map"}
 ]
-bin: [
+libexec: [
 
 ]

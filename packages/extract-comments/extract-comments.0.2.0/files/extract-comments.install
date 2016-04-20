@@ -11,3 +11,6 @@ lib: [
 "test/fixtures/assemble.js" {"test/fixtures/assemble.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

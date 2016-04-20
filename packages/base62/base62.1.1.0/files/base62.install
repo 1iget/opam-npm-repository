@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"base62.js" {"base62.js"}
+".travis.yml" {".travis.yml"}
+"Readme.md" {"Readme.md"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+
+]

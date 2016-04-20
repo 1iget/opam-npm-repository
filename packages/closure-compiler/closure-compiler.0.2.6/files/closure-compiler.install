@@ -9,3 +9,6 @@ lib: [
 "src/index.coffee" {"src/index.coffee"}
 "update_compiler.sh" {"update_compiler.sh"}
 ]
+libexec: [
+
+]

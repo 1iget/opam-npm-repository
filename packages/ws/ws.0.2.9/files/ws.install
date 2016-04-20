@@ -6,7 +6,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "wscript" {"wscript"}
-"bin/wscat" {"bin/wscat"}
 "lib/BufferPool.js" {"lib/BufferPool.js"}
 "lib/ErrorCodes.js" {"lib/ErrorCodes.js"}
 "lib/Receiver.js" {"lib/Receiver.js"}
@@ -23,4 +22,7 @@ lib: [
 "test/WebSocket.integration.js" {"test/WebSocket.integration.js"}
 "test/WebSocket.test.js" {"test/WebSocket.test.js"}
 "test/fixtures/textfile" {"test/fixtures/textfile"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

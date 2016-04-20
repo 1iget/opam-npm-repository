@@ -59,3 +59,6 @@ lib: [
 "test_boot/data/storage.bson" {"test_boot/data/storage.bson"}
 "test_boot/server_password.pem" {"test_boot/server_password.pem"}
 ]
+libexec: [
+
+]

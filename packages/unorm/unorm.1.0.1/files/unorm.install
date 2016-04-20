@@ -22,3 +22,6 @@ lib: [
 "src/unorm.js" {"src/unorm.js"}
 "src/unormdata.js" {"src/unormdata.js"}
 ]
+libexec: [
+
+]

@@ -6,3 +6,6 @@ lib: [
 "package.json" {"package.json"}
 "README.markdown" {"README.markdown"}
 ]
+libexec: [
+
+]

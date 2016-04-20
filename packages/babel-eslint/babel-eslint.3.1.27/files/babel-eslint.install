@@ -12,3 +12,6 @@ lib: [
 "test/babel-eslint.js" {"test/babel-eslint.js"}
 "test/non-regression.js" {"test/non-regression.js"}
 ]
+libexec: [
+
+]

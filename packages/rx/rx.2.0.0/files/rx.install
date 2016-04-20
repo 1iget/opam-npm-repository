@@ -1,0 +1,35 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"rx-vsdoc.js" {"rx-vsdoc.js"}
+"rx.binding.min.js" {"rx.binding.min.js"}
+"rx.coincidence-vsdoc.js" {"rx.coincidence-vsdoc.js"}
+"rx.time-vsdoc.js" {"rx.time-vsdoc.js"}
+"rx.binding.js" {"rx.binding.js"}
+"rx.testing.min.js" {"rx.testing.min.js"}
+"rx.experimental.js" {"rx.experimental.js"}
+"rx.experimental.min.js" {"rx.experimental.min.js"}
+"rx.joinpatterns-vsdoc.js" {"rx.joinpatterns-vsdoc.js"}
+"rx.joinpatterns.js" {"rx.joinpatterns.js"}
+"rx.binding-vsdoc.js" {"rx.binding-vsdoc.js"}
+"rx.joinpatterns.min.js" {"rx.joinpatterns.min.js"}
+"rx.aggregates.min.js" {"rx.aggregates.min.js"}
+"rx.js" {"rx.js"}
+"rx.aggregates.js" {"rx.aggregates.js"}
+"rx.min.js" {"rx.min.js"}
+"rx.aggregates-vsdoc.js" {"rx.aggregates-vsdoc.js"}
+"rx.node.js" {"rx.node.js"}
+"rx.coincidence.min.js" {"rx.coincidence.min.js"}
+"rx.testing-vsdoc.js" {"rx.testing-vsdoc.js"}
+"rx.time.js" {"rx.time.js"}
+"rx.testing.js" {"rx.testing.js"}
+"rx.coincidence.js" {"rx.coincidence.js"}
+"rx.time.min.js" {"rx.time.min.js"}
+"rx.experimental-vsdoc.js" {"rx.experimental-vsdoc.js"}
+"authors.txt" {"authors.txt"}
+"readme.md" {"readme.md"}
+"license.md" {"license.md"}
+]
+libexec: [
+
+]

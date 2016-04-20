@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"fetch.js" {"fetch.js"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"appveyor.yml" {"appveyor.yml"}
+]
+libexec: [
+
+]

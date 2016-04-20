@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/native.js.dep" {"test/fixtures/native.js.dep"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

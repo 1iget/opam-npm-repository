@@ -15,7 +15,9 @@ depends: [
 "log-driver" {="1.2.4"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/coveralls.js %{bin}%/coveralls"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/coveralls" ] 
+]
 

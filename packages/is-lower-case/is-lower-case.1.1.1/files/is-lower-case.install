@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "is-lower-case.js" {"is-lower-case.js"}
 ]
+libexec: [
+
+]

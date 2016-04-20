@@ -28,3 +28,6 @@ lib: [
 "lib/utils/transferFlags.js" {"lib/utils/transferFlags.js"}
 "lib/utils/getName.js" {"lib/utils/getName.js"}
 ]
+libexec: [
+
+]

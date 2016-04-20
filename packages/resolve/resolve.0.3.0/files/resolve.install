@@ -30,3 +30,6 @@ lib: [
 "lib/sync.js" {"lib/sync.js"}
 "lib/core.json" {"lib/core.json"}
 ]
+libexec: [
+
+]

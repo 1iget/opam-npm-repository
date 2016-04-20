@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"es6-shim.js" {"es6-shim.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+]
+libexec: [
+
+]

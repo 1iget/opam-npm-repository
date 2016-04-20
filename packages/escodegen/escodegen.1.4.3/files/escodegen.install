@@ -5,6 +5,8 @@ lib: [
 "gulpfile.js" {"gulpfile.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "LICENSE.source-map" {"LICENSE.source-map"}
+]
+libexec: [
 "bin/escodegen.js" {"bin/escodegen.js"}
 "bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

@@ -80,3 +80,6 @@ lib: [
 "node-crc/lib/._crc.js" {"node-crc/lib/._crc.js"}
 "node-crc/lib/crc.js" {"node-crc/lib/crc.js"}
 ]
+libexec: [
+
+]

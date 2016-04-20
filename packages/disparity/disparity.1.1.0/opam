@@ -13,7 +13,9 @@ depends: [
 "has-ansi" {>="1.0.3" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/disparity %{bin}%/disparity"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/disparity" ] 
+]
 

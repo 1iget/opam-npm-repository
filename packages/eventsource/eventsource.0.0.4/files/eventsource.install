@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+"History.md" {"History.md"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/eventsource.js" {"lib/eventsource.js"}
+"lib/eventstream.jison" {"lib/eventstream.jison"}
+"lib/eventstream.js" {"lib/eventstream.js"}
+"test/eventsource_test.js" {"test/eventsource_test.js"}
+"doc/.gitignore" {"doc/.gitignore"}
+]
+libexec: [
+
+]

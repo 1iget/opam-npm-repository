@@ -5,3 +5,6 @@ lib: [
 "lib/zip-stream.js" {"lib/zip-stream.js"}
 "lib/util/index.js" {"lib/util/index.js"}
 ]
+libexec: [
+
+]

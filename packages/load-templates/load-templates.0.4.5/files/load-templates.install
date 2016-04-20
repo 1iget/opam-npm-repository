@@ -56,3 +56,6 @@ lib: [
 "test/fixtures/two/f.md" {"test/fixtures/two/f.md"}
 "test/actual/templates2.js" {"test/actual/templates2.js"}
 ]
+libexec: [
+
+]

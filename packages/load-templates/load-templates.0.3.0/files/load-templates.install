@@ -30,3 +30,6 @@ lib: [
 "test/fixtures/pages/c.txt" {"test/fixtures/pages/c.txt"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

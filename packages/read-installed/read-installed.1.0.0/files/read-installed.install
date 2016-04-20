@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/peer-at-latest/node_modules/debug/package.json" {"test/fixtures/peer-at-latest/node_modules/debug/package.json"}
 "test/fixtures/peer-at-latest/node_modules/strong-task-emitter/package.json" {"test/fixtures/peer-at-latest/node_modules/strong-task-emitter/package.json"}
 ]
+libexec: [
+
+]

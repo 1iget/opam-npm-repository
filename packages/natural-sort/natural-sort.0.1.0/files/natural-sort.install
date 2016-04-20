@@ -5,3 +5,6 @@ lib: [
 "bower.json" {"bower.json"}
 "dist/natural-sort.js" {"dist/natural-sort.js"}
 ]
+libexec: [
+
+]

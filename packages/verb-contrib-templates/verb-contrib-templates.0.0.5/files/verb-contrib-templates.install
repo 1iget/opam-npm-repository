@@ -12,3 +12,6 @@ lib: [
 "templates/related-repos-list.md" {"templates/related-repos-list.md"}
 "templates/related-repos.md" {"templates/related-repos.md"}
 ]
+libexec: [
+
+]

@@ -25,3 +25,6 @@ lib: [
 "test/issue62.js" {"test/issue62.js"}
 "test/symlinkme/file.js" {"test/symlinkme/file.js"}
 ]
+libexec: [
+
+]

@@ -17,7 +17,9 @@ depends: [
 "escope" {="1.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/eslint.js %{bin}%/eslint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/eslint" ] 
+]
 

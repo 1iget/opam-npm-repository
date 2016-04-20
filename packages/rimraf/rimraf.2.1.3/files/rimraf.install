@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"rimraf.js" {"rimraf.js"}
+"AUTHORS" {"AUTHORS"}
+"test/test-async.js" {"test/test-async.js"}
+"test/test-sync.js" {"test/test-sync.js"}
+"test/run.sh" {"test/run.sh"}
+"test/setup.sh" {"test/setup.sh"}
+]
+libexec: [
+
+]

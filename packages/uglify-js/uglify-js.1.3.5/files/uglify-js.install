@@ -4,7 +4,6 @@ lib: [
 "uglify-js.js" {"uglify-js.js"}
 "README.html" {"README.html"}
 "README.org" {"README.org"}
-"bin/uglifyjs" {"bin/uglifyjs"}
 "docstyle.css" {"docstyle.css"}
 "lib/consolidator.js" {"lib/consolidator.js"}
 "lib/parse-js.js" {"lib/parse-js.js"}
@@ -117,4 +116,7 @@ lib: [
 "tmp/hoist.js" {"tmp/hoist.js"}
 "tmp/instrument.js" {"tmp/instrument.js"}
 "tmp/test.js" {"tmp/test.js"}
+]
+libexec: [
+"bin/uglifyjs" {"bin/uglifyjs"}
 ]

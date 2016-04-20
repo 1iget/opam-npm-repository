@@ -85,7 +85,9 @@ depends: [
 "domain-browser" {>="1.1.0" & <"1.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/browserify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/browserify" ] 
+]
 

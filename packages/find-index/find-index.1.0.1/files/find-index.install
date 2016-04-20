@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"findIndex.js" {"findIndex.js"}
+"findLastIndex.js" {"findLastIndex.js"}
+"last.js" {"last.js"}
+"perf/benchmark.js" {"perf/benchmark.js"}
+]
+libexec: [
+
+]

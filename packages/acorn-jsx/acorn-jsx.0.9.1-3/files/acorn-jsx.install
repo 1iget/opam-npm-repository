@@ -9,7 +9,6 @@ lib: [
 ".tern-project" {".tern-project"}
 ".gitattributes" {".gitattributes"}
 ".travis.yml" {".travis.yml"}
-"bin/acorn" {"bin/acorn"}
 "bin/update_authors.sh" {"bin/update_authors.sh"}
 "bin/without_eval" {"bin/without_eval"}
 "docs/acorn.html" {"docs/acorn.html"}
@@ -38,4 +37,7 @@ lib: [
 "test/compare/traceur.js" {"test/compare/traceur.js"}
 "test/index.html" {"test/index.html"}
 "util/walk.js" {"util/walk.js"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

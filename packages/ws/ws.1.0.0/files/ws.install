@@ -20,3 +20,6 @@ lib: [
 "lib/WebSocketServer.js" {"lib/WebSocketServer.js"}
 "lib/Receiver.js" {"lib/Receiver.js"}
 ]
+libexec: [
+
+]

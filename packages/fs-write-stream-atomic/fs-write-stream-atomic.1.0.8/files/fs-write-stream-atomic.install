@@ -11,3 +11,6 @@ lib: [
 "test/slow-close.js" {"test/slow-close.js"}
 "test/toolong.js" {"test/toolong.js"}
 ]
+libexec: [
+
+]

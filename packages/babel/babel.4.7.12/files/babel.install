@@ -15,13 +15,7 @@ lib: [
 "bin/_babel-node" {"bin/_babel-node"}
 "bin/babel/dir.js" {"bin/babel/dir.js"}
 "bin/babel/file.js" {"bin/babel/file.js"}
-"bin/babel/index.js" {"bin/babel/index.js"}
 "bin/babel/util.js" {"bin/babel/util.js"}
-"bin/babel-external-helpers" {"bin/babel-external-helpers"}
-"bin/babel-node" {"bin/babel-node"}
-"bin/deprecated/6to5" {"bin/deprecated/6to5"}
-"bin/deprecated/6to5-node" {"bin/deprecated/6to5-node"}
-"bin/deprecated/6to5-runtime" {"bin/deprecated/6to5-runtime"}
 "lib/babel/util.js" {"lib/babel/util.js"}
 "lib/babel/patch.js" {"lib/babel/patch.js"}
 "lib/babel/messages.js" {"lib/babel/messages.js"}
@@ -170,4 +164,12 @@ lib: [
 "tools/generate-core-package-json" {"tools/generate-core-package-json"}
 "templates.json" {"templates.json"}
 "CHANGELOG-6to5.md" {"CHANGELOG-6to5.md"}
+]
+libexec: [
+"bin/babel/index.js" {"bin/babel/index.js"}
+"bin/babel-external-helpers" {"bin/babel-external-helpers"}
+"bin/babel-node" {"bin/babel-node"}
+"bin/deprecated/6to5" {"bin/deprecated/6to5"}
+"bin/deprecated/6to5-node" {"bin/deprecated/6to5-node"}
+"bin/deprecated/6to5-runtime" {"bin/deprecated/6to5-runtime"}
 ]

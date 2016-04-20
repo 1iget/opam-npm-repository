@@ -1,0 +1,28 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"benchmark/" {"benchmark/"}
+"benchmark/dict.js" {"benchmark/dict.js"}
+"benchmark/package.json" {"benchmark/package.json"}
+"benchmark/run.js" {"benchmark/run.js"}
+"bin/" {"bin/"}
+"bin/testfiles.js" {"bin/testfiles.js"}
+"bin/update.js" {"bin/update.js"}
+"CHANGELOG" {"CHANGELOG"}
+"features/" {"features/"}
+"features/index.js" {"features/index.js"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/agents.js" {"lib/agents.js"}
+"lib/update.js" {"lib/update.js"}
+"lib/useragent.js" {"lib/useragent.js"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"static/" {"static/"}
+"static/user_agent.after.yaml" {"static/user_agent.after.yaml"}
+]
+libexec: [
+
+]

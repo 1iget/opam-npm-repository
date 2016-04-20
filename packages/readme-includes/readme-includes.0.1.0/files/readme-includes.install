@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"templates/footer.md" {"templates/footer.md"}
+"templates/CHANGELOG.yml" {"templates/CHANGELOG.yml"}
+"templates/author.md" {"templates/author.md"}
+"templates/authors.md" {"templates/authors.md"}
+"templates/cli.md" {"templates/cli.md"}
+"templates/contributing-extra.md" {"templates/contributing-extra.md"}
+"templates/contributing.md" {"templates/contributing.md"}
+"templates/contributors.md" {"templates/contributors.md"}
+"templates/author/github.md" {"templates/author/github.md"}
+"templates/author/twitter.md" {"templates/author/twitter.md"}
+"templates/author/url.md" {"templates/author/url.md"}
+"templates/history.md" {"templates/history.md"}
+"templates/install-bower.md" {"templates/install-bower.md"}
+"templates/install-global.md" {"templates/install-global.md"}
+"templates/install-npm.md" {"templates/install-npm.md"}
+"templates/install.md" {"templates/install.md"}
+"templates/issues.md" {"templates/issues.md"}
+"templates/tests.md" {"templates/tests.md"}
+]
+libexec: [
+
+]

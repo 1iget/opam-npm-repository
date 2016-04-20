@@ -14,3 +14,6 @@ lib: [
 "test/returning.coffee" {"test/returning.coffee"}
 "test/throwing.coffee" {"test/throwing.coffee"}
 ]
+libexec: [
+
+]

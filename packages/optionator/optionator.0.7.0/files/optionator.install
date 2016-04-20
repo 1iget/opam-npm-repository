@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/coerce.js" {"lib/coerce.js"}
+"lib/help.js" {"lib/help.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/parse-type.js" {"lib/parse-type.js"}
+"lib/util.js" {"lib/util.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+]
+libexec: [
+
+]

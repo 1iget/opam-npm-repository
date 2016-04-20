@@ -29,3 +29,6 @@ lib: [
 "test/server/static/basic.txt" {"test/server/static/basic.txt"}
 "test/server/static/browserify.png" {"test/server/static/browserify.png"}
 ]
+libexec: [
+
+]

@@ -3,11 +3,13 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 ".travis.yml" {".travis.yml"}
-"bin/coveralls.js" {"bin/coveralls.js"}
 "coverage.json" {"coverage.json"}
 "fixtures/lib/index.js" {"fixtures/lib/index.js"}
 "fixtures/onefile.lcov" {"fixtures/onefile.lcov"}
 "lib/convertLcovToCoveralls.js" {"lib/convertLcovToCoveralls.js"}
 "lib/sendToCoveralls.js" {"lib/sendToCoveralls.js"}
 "test/convertLcovToCoveralls.js" {"test/convertLcovToCoveralls.js"}
+]
+libexec: [
+"bin/coveralls.js" {"bin/coveralls.js"}
 ]

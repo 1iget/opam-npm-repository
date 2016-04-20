@@ -11,3 +11,6 @@ lib: [
 "test/fixture.yaml" {"test/fixture.yaml"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

@@ -53,3 +53,6 @@ lib: [
 "test/sinon/util/fake_server_test.js" {"test/sinon/util/fake_server_test.js"}
 "test/sinon/util/event_test.js" {"test/sinon/util/event_test.js"}
 ]
+libexec: [
+
+]

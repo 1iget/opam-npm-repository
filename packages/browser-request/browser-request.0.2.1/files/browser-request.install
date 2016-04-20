@@ -28,3 +28,6 @@ lib: [
 "dist/requirejs/request.js" {"dist/requirejs/request.js"}
 "dist/requirejs/xmlhttprequest.js" {"dist/requirejs/xmlhttprequest.js"}
 ]
+libexec: [
+
+]

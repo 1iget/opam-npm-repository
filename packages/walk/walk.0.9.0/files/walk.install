@@ -5,3 +5,6 @@ lib: [
 "node-walk/walk-test.js" {"node-walk/walk-test.js"}
 "node-walk/lib/walk.js" {"node-walk/lib/walk.js"}
 ]
+libexec: [
+
+]

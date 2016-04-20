@@ -19,3 +19,6 @@ lib: [
 "test/foo/baz/bar" {"test/foo/baz/bar"}
 "test/foo/baz/quux/bar" {"test/foo/baz/quux/bar"}
 ]
+libexec: [
+
+]

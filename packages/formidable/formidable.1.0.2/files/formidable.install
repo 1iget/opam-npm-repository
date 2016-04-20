@@ -24,3 +24,6 @@ lib: [
 "test/simple/test-multipart-parser.js" {"test/simple/test-multipart-parser.js"}
 "test/integration/test-multipart-parser.js" {"test/integration/test-multipart-parser.js"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "templates/npm.md" {"templates/npm.md"}
 "templates/travis.md" {"templates/travis.md"}
 ]
+libexec: [
+
+]

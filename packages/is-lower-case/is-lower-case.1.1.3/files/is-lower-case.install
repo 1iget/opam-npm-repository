@@ -5,3 +5,6 @@ lib: [
 "is-lower-case.js" {"is-lower-case.js"}
 "is-lower-case.d.ts" {"is-lower-case.d.ts"}
 ]
+libexec: [
+
+]

@@ -20,3 +20,6 @@ lib: [
 "node_modules/deep-equal/lib/keys.js" {"node_modules/deep-equal/lib/keys.js"}
 "node_modules/deep-equal/readme.markdown" {"node_modules/deep-equal/readme.markdown"}
 ]
+libexec: [
+
+]

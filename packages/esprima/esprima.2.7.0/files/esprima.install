@@ -4,6 +4,8 @@ lib: [
 "esprima.js" {"esprima.js"}
 "ChangeLog" {"ChangeLog"}
 "LICENSE.BSD" {"LICENSE.BSD"}
+]
+libexec: [
 "bin/esparse.js" {"bin/esparse.js"}
 "bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

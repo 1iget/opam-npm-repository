@@ -10,7 +10,9 @@ lib: [
 "lib/filters/console_spec_filter.js" {"lib/filters/console_spec_filter.js"}
 "lib/reporters/console_reporter.js" {"lib/reporters/console_reporter.js"}
 "lib/reporters/exit_code_reporter.js" {"lib/reporters/exit_code_reporter.js"}
-"bin/jasmine.js" {"bin/jasmine.js"}
 ".travis.yml" {".travis.yml"}
 "tasks/jasmine.js" {"tasks/jasmine.js"}
+]
+libexec: [
+"bin/jasmine.js" {"bin/jasmine.js"}
 ]

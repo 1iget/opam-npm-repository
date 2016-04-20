@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+"rx.time.min.js" {"rx.time.min.js"}
+"rx.node.js" {"rx.node.js"}
+"rx.aggregates.js" {"rx.aggregates.js"}
+"rx.aggregates.min.js" {"rx.aggregates.min.js"}
+"rx.binding.js" {"rx.binding.js"}
+"rx.coincidence.js" {"rx.coincidence.js"}
+"rx.modern.min.js" {"rx.modern.min.js"}
+"rx.experimental.js" {"rx.experimental.js"}
+"rx.experimental.min.js" {"rx.experimental.min.js"}
+"rx.joinpatterns.js" {"rx.joinpatterns.js"}
+"rx.testing.js" {"rx.testing.js"}
+"rx.joinpatterns.min.js" {"rx.joinpatterns.min.js"}
+"Gruntfile.js" {"Gruntfile.js"}
+"rx.js" {"rx.js"}
+"rx.testing.min.js" {"rx.testing.min.js"}
+"rx.min.js" {"rx.min.js"}
+"rx.time.js" {"rx.time.js"}
+"rx.modern.js" {"rx.modern.js"}
+"rx.binding.min.js" {"rx.binding.min.js"}
+"rx.coincidence.min.js" {"rx.coincidence.min.js"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+"license.txt" {"license.txt"}
+"bower.json" {"bower.json"}
+"authors.txt" {"authors.txt"}
+".jamignore" {".jamignore"}
+]
+libexec: [
+
+]

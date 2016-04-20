@@ -9,3 +9,6 @@ lib: [
 "lib/collect-all.js" {"lib/collect-all.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

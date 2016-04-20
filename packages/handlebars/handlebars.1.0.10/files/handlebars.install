@@ -27,3 +27,6 @@ lib: [
 "lib/handlebars/compiler/visitor.js" {"lib/handlebars/compiler/visitor.js"}
 "lib/handlebars/source.rb" {"lib/handlebars/source.rb"}
 ]
+libexec: [
+
+]

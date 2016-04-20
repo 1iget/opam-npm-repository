@@ -1,0 +1,29 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"changelog.md" {"changelog.md"}
+".travis.yml" {".travis.yml"}
+"configs/eslint.json" {"configs/eslint.json"}
+"lib/console.js" {"lib/console.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/bin/cli.js" {"specs/bin/cli.js"}
+".idea/libraries/jasmine.xml" {".idea/libraries/jasmine.xml"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/eslinter.iml" {".idea/eslinter.iml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/compiler.xml" {".idea/compiler.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
+]

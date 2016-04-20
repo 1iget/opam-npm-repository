@@ -10,3 +10,6 @@ lib: [
 "support/sync-package-managers.js" {"support/sync-package-managers.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

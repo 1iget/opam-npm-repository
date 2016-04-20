@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"verify.js" {"verify.js"}
+"algos.js" {"algos.js"}
+"browser.js" {"browser.js"}
+"curves.js" {"curves.js"}
+"index.js" {"index.js"}
+"sign.js" {"sign.js"}
+"algos.json" {"algos.json"}
+"test/index.js" {"test/index.js"}
+"test/fixtures.json" {"test/fixtures.json"}
+".jshintrc" {".jshintrc"}
+"readme.md" {"readme.md"}
+".travis.yml" {".travis.yml"}
+"ec.param" {"ec.param"}
+]
+libexec: [
+
+]

@@ -20,3 +20,6 @@ lib: [
 "CHANGES" {"CHANGES"}
 "bin/generate-color-images" {"bin/generate-color-images"}
 ]
+libexec: [
+
+]

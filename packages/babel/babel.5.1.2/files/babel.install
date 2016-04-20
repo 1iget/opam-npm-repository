@@ -7,8 +7,10 @@ lib: [
 "bin/_babel-node" {"bin/_babel-node"}
 "bin/babel/dir.js" {"bin/babel/dir.js"}
 "bin/babel/file.js" {"bin/babel/file.js"}
-"bin/babel/index.js" {"bin/babel/index.js"}
 "bin/babel/util.js" {"bin/babel/util.js"}
+]
+libexec: [
+"bin/babel/index.js" {"bin/babel/index.js"}
 "bin/babel-external-helpers" {"bin/babel-external-helpers"}
 "bin/babel-node" {"bin/babel-node"}
 ]

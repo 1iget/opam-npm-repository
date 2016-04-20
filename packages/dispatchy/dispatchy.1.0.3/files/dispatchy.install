@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"changelog.md" {"changelog.md"}
+"deps/eslint.json" {"deps/eslint.json"}
+".travis.yml" {".travis.yml"}
+"specs/dispatchy.js" {"specs/dispatchy.js"}
+]
+libexec: [
+
+]

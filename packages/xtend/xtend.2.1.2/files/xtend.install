@@ -9,3 +9,6 @@ lib: [
 "test.js" {"test.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "entities/xml.json" {"entities/xml.json"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

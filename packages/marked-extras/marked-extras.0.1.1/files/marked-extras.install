@@ -9,3 +9,6 @@ lib: [
 "lib/tmpl.js" {"lib/tmpl.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

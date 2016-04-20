@@ -26,3 +26,6 @@ lib: [
 "package.json" {"package.json"}
 "LICENSE" {"LICENSE"}
 ]
+libexec: [
+
+]

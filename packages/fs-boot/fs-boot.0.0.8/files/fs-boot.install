@@ -8,3 +8,6 @@ lib: [
 "test/" {"test/"}
 "test/directory.js" {"test/directory.js"}
 ]
+libexec: [
+
+]

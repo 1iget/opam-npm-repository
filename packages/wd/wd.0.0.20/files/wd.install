@@ -9,7 +9,6 @@ lib: [
 "examples/example.firefox.js" {"examples/example.firefox.js"}
 "examples/example.ondemand.ie.js" {"examples/example.ondemand.ie.js"}
 "examples/example.ondemand.js" {"examples/example.ondemand.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/element.js" {"lib/element.js"}
 "lib/jsonwire-errors.js" {"lib/jsonwire-errors.js"}
 "lib/main.js" {"lib/main.js"}
@@ -46,4 +45,7 @@ lib: [
 "test/unit/assets/test-page.html" {"test/unit/assets/test-page.html"}
 "test/unit/wd-remote-init-test.coffee" {"test/unit/wd-remote-init-test.coffee"}
 "test/unit/element-test.coffee" {"test/unit/element-test.coffee"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

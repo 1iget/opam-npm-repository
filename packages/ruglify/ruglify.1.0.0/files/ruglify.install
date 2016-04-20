@@ -8,3 +8,6 @@ lib: [
 "test/fixture/jquery.js" {"test/fixture/jquery.js"}
 "test/fixture/jquery.min.js" {"test/fixture/jquery.min.js"}
 ]
+libexec: [
+
+]

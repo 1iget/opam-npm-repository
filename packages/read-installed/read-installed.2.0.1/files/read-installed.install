@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/package.json" {"test/fixtures/package.json"}
 "test/fixtures/extraneous-detected/package.json" {"test/fixtures/extraneous-detected/package.json"}
 ]
+libexec: [
+
+]

@@ -7,3 +7,6 @@ lib: [
 "lib/format.js" {"lib/format.js"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

@@ -5,3 +5,6 @@ lib: [
 "Makefile" {"Makefile"}
 "lib/options.js" {"lib/options.js"}
 ]
+libexec: [
+
+]

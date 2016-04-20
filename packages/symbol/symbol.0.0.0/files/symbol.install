@@ -3,3 +3,6 @@ lib: [
 "index.js" {"index.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

@@ -13,3 +13,6 @@ lib: [
 "benchmark/bench.gnu" {"benchmark/bench.gnu"}
 "benchmark/bench.sh" {"benchmark/bench.sh"}
 ]
+libexec: [
+
+]

@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 ".travis.yml" {".travis.yml"}
-"bin/vows" {"bin/vows"}
 "lib/vows.js" {"lib/vows.js"}
 "lib/assert/error.js" {"lib/assert/error.js"}
 "lib/assert/macros.js" {"lib/assert/macros.js"}
@@ -46,4 +45,7 @@ lib: [
 "test/fixtures/supress-stdout/output.js" {"test/fixtures/supress-stdout/output.js"}
 "test/experimental/gh-325.js" {"test/experimental/gh-325.js"}
 "test/reporters/reporters-test.js" {"test/reporters/reporters-test.js"}
+]
+libexec: [
+"bin/vows" {"bin/vows"}
 ]

@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"browser.js" {"browser.js"}
+"test.js" {"test.js"}
+]
+libexec: [
+"index.js" {"index.js"}
+]

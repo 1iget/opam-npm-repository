@@ -4,3 +4,6 @@ lib: [
 "index.js" {"index.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

@@ -11,3 +11,6 @@ lib: [
 "test/test-basic.js" {"test/test-basic.js"}
 "test/test-regress-01.js" {"test/test-regress-01.js"}
 ]
+libexec: [
+
+]

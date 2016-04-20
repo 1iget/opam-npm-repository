@@ -9,3 +9,6 @@ lib: [
 "prompt.js" {"prompt.js"}
 "README.md" {"README.md"}
 ]
+libexec: [
+
+]

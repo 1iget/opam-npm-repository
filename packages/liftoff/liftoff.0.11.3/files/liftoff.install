@@ -21,3 +21,6 @@ lib: [
 "lib/silent_require.js" {"lib/silent_require.js"}
 "UPGRADING.md" {"UPGRADING.md"}
 ]
+libexec: [
+
+]

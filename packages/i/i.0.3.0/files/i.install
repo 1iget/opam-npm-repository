@@ -20,3 +20,6 @@ lib: [
 "package.json" {"package.json"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

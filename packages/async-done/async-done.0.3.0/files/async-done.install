@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"test/callbacks.js" {"test/callbacks.js"}
+"test/observables.js" {"test/observables.js"}
+"test/promises.js" {"test/promises.js"}
+"test/streams.js" {"test/streams.js"}
+]
+libexec: [
+
+]

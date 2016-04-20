@@ -3,3 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "diff.js" {"diff.js"}
 ]
+libexec: [
+
+]

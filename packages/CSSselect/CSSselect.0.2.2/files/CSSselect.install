@@ -10,3 +10,6 @@ lib: [
 "tests/qwery/tests.js" {"tests/qwery/tests.js"}
 "tests/qwery/index.html" {"tests/qwery/index.html"}
 ]
+libexec: [
+
+]

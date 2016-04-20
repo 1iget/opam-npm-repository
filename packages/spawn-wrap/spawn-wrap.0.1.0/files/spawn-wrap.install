@@ -10,3 +10,6 @@ lib: [
 "test/fixtures/script.js" {"test/fixtures/script.js"}
 "TODO.md" {"TODO.md"}
 ]
+libexec: [
+
+]

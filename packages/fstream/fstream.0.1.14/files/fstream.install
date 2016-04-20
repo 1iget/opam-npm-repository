@@ -1,0 +1,31 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"examples/" {"examples/"}
+"examples/filter-pipe.js" {"examples/filter-pipe.js"}
+"examples/pipe.js" {"examples/pipe.js"}
+"examples/reader.js" {"examples/reader.js"}
+"examples/symlink-write.js" {"examples/symlink-write.js"}
+"fstream.js" {"fstream.js"}
+"lib/" {"lib/"}
+"lib/abstract.js" {"lib/abstract.js"}
+"lib/collect.js" {"lib/collect.js"}
+"lib/dir-reader.js" {"lib/dir-reader.js"}
+"lib/dir-writer.js" {"lib/dir-writer.js"}
+"lib/file-reader.js" {"lib/file-reader.js"}
+"lib/file-writer.js" {"lib/file-writer.js"}
+"lib/get-type.js" {"lib/get-type.js"}
+"lib/link-reader.js" {"lib/link-reader.js"}
+"lib/link-writer.js" {"lib/link-writer.js"}
+"lib/proxy-reader.js" {"lib/proxy-reader.js"}
+"lib/proxy-writer.js" {"lib/proxy-writer.js"}
+"lib/reader.js" {"lib/reader.js"}
+"lib/socket-reader.js" {"lib/socket-reader.js"}
+"lib/writer.js" {"lib/writer.js"}
+"LICENCE" {"LICENCE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

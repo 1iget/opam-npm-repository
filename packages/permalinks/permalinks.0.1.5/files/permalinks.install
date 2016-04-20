@@ -1,0 +1,44 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"Gruntfile.js" {"Gruntfile.js"}
+"permalinks.js" {"permalinks.js"}
+".gitattributes" {".gitattributes"}
+"CHANGELOG" {"CHANGELOG"}
+"docs/examples.md" {"docs/examples.md"}
+"docs/options.md" {"docs/options.md"}
+"docs/patterns.md" {"docs/patterns.md"}
+"docs/quickstart.md" {"docs/quickstart.md"}
+"docs/README.tmpl.md" {"docs/README.tmpl.md"}
+"docs/seo.md" {"docs/seo.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/actual/built_in_property/articles/arctic-ice-is-really-cold/index.html" {"test/actual/built_in_property/articles/arctic-ice-is-really-cold/index.html"}
+"test/actual/built_in_property/articles/index.html" {"test/actual/built_in_property/articles/index.html"}
+"test/actual/built_in_property/index.html" {"test/actual/built_in_property/index.html"}
+"test/actual/index_pages/articles/arctic-ice-is-really-cold/index.html" {"test/actual/index_pages/articles/arctic-ice-is-really-cold/index.html"}
+"test/actual/index_pages/articles/index.html" {"test/actual/index_pages/articles/index.html"}
+"test/actual/index_pages/index.html" {"test/actual/index_pages/index.html"}
+"test/actual/no_opts/articles/arctic-ice-is-really-cold.html" {"test/actual/no_opts/articles/arctic-ice-is-really-cold.html"}
+"test/actual/no_opts/articles/index.html" {"test/actual/no_opts/articles/index.html"}
+"test/actual/no_opts/index.html" {"test/actual/no_opts/index.html"}
+"test/actual/preset/articles/arctic-ice-is-really-cold/index.html" {"test/actual/preset/articles/arctic-ice-is-really-cold/index.html"}
+"test/actual/preset/articles/index.html" {"test/actual/preset/articles/index.html"}
+"test/actual/preset/index.html" {"test/actual/preset/index.html"}
+"test/actual/replacement_pattern/articles/index.html" {"test/actual/replacement_pattern/articles/index.html"}
+"test/actual/replacement_pattern/articles/permalinks/jon-schlinkert/arctic-ice-is-really-cold/index.html" {"test/actual/replacement_pattern/articles/permalinks/jon-schlinkert/arctic-ice-is-really-cold/index.html"}
+"test/actual/replacement_pattern/index.html" {"test/actual/replacement_pattern/index.html"}
+"test/actual/structure/articles/2013/10/02/index.html" {"test/actual/structure/articles/2013/10/02/index.html"}
+"test/actual/structure/articles/index.html" {"test/actual/structure/articles/index.html"}
+"test/actual/structure/index.html" {"test/actual/structure/index.html"}
+"test/actual/yfm_custom_property/articles/index.html" {"test/actual/yfm_custom_property/articles/index.html"}
+"test/actual/yfm_custom_property/articles/this-is-a-custom-property/index.html" {"test/actual/yfm_custom_property/articles/this-is-a-custom-property/index.html"}
+"test/actual/yfm_custom_property/index.html" {"test/actual/yfm_custom_property/index.html"}
+"test/fixtures/default.hbs" {"test/fixtures/default.hbs"}
+"test/fixtures/pages/articles/arctic-ice-is-really-cold.hbs" {"test/fixtures/pages/articles/arctic-ice-is-really-cold.hbs"}
+"test/fixtures/pages/articles/index.hbs" {"test/fixtures/pages/articles/index.hbs"}
+"test/fixtures/pages/index.hbs" {"test/fixtures/pages/index.hbs"}
+]
+libexec: [
+
+]

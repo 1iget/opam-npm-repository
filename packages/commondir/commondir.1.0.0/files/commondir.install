@@ -6,3 +6,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "test/dirs.js" {"test/dirs.js"}
 ]
+libexec: [
+
+]

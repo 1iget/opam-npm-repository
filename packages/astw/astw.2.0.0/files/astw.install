@@ -8,3 +8,6 @@ lib: [
 "test/json.js" {"test/json.js"}
 "test/parent.js" {"test/parent.js"}
 ]
+libexec: [
+
+]

@@ -33,3 +33,6 @@ lib: [
 "lib/test.js" {"lib/test.js"}
 "lib/default_stream.js" {"lib/default_stream.js"}
 ]
+libexec: [
+
+]

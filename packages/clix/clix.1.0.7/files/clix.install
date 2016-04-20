@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"changelog.md" {"changelog.md"}
+"bin/cli.js" {"bin/cli.js"}
+"configs/esformatter.json" {"configs/esformatter.json"}
+"configs/eslint.json" {"configs/eslint.json"}
+"configs/jscs.json" {"configs/jscs.json"}
+"lib/cli-launcher.js" {"lib/cli-launcher.js"}
+"lib/cli-options.js" {"lib/cli-options.js"}
+"lib/console.js" {"lib/console.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/bin/cli.js" {"specs/bin/cli.js"}
+".travis.yml" {".travis.yml"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]
+libexec: [
+
+]

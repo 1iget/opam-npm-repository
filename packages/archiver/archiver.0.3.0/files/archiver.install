@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG" {"CHANGELOG"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"examples/pack-tgz.js" {"examples/pack-tgz.js"}
+"examples/pack.js" {"examples/pack.js"}
+"lib/archiver.js" {"lib/archiver.js"}
+"lib/archiver/core.js" {"lib/archiver/core.js"}
+"lib/archiver/tar.js" {"lib/archiver/tar.js"}
+"lib/archiver/zip.js" {"lib/archiver/zip.js"}
+"lib/headers/tar.js" {"lib/headers/tar.js"}
+"lib/headers/zip.js" {"lib/headers/zip.js"}
+"lib/util/crc32.js" {"lib/util/crc32.js"}
+"lib/util/index.js" {"lib/util/index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"tests/archiver-tar.js" {"tests/archiver-tar.js"}
+"tests/archiver-zip.js" {"tests/archiver-zip.js"}
+"tests/utils.js" {"tests/utils.js"}
+]
+libexec: [
+
+]

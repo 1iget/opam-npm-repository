@@ -129,3 +129,6 @@ lib: [
 "test/parse-cases/todo/unicode-unquoted-key.json5" {"test/parse-cases/todo/unicode-unquoted-key.json5"}
 "test/readme.md" {"test/readme.md"}
 ]
+libexec: [
+
+]

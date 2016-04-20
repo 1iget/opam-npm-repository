@@ -24,3 +24,6 @@ lib: [
 "timestamp.h" {"timestamp.h"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

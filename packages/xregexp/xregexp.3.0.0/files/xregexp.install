@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "xregexp-all.js" {"xregexp-all.js"}
 ]
+libexec: [
+
+]

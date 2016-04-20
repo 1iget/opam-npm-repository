@@ -47,3 +47,6 @@ lib: [
 "examples/couchdb.js" {"examples/couchdb.js"}
 "examples/raw-mode.js" {"examples/raw-mode.js"}
 ]
+libexec: [
+
+]

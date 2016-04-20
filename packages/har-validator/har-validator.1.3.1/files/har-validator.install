@@ -2,7 +2,9 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/har-validator" {"bin/har-validator"}
 "src/index.js" {"src/index.js"}
 "src/schemas.json" {"src/schemas.json"}
+]
+libexec: [
+"bin/har-validator" {"bin/har-validator"}
 ]

@@ -27,3 +27,6 @@ lib: [
 "test/parser.js" {"test/parser.js"}
 "test/data/regexp-props.js" {"test/data/regexp-props.js"}
 ]
+libexec: [
+
+]

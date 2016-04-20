@@ -16,3 +16,6 @@ lib: [
 "test/test-spawn-timeout.js" {"test/test-spawn-timeout.js"}
 "test/test-spawn.js" {"test/test-spawn.js"}
 ]
+libexec: [
+
+]

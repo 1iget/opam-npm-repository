@@ -25,7 +25,9 @@ depends: [
 "iconv-lite" {>="0.2.11" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/commonize %{bin}%/commonize"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/commonize" ] 
+]
 

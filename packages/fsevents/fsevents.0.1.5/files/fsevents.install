@@ -8,3 +8,6 @@ lib: [
 "binding.gyp" {"binding.gyp"}
 "nodefsevents.cc" {"nodefsevents.cc"}
 ]
+libexec: [
+
+]

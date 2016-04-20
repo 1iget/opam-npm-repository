@@ -11,3 +11,6 @@ lib: [
 "lib/parse_options.js" {"lib/parse_options.js"}
 "lib/silent_require.js" {"lib/silent_require.js"}
 ]
+libexec: [
+
+]

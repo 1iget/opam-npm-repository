@@ -1,0 +1,18 @@
+lib: [
+"uuid.js" {"uuid.js"}
+"package.json" {"package.json"}
+"LICENSE.md" {"LICENSE.md"}
+".gitignore" {".gitignore"}
+"README.md" {"README.md"}
+"test/test.js" {"test/test.js"}
+"test/compare_v1.js" {"test/compare_v1.js"}
+"test/test.html" {"test/test.html"}
+"benchmark/benchmark.js" {"benchmark/benchmark.js"}
+"benchmark/bench.gnu" {"benchmark/bench.gnu"}
+"benchmark/bench.sh" {"benchmark/bench.sh"}
+"benchmark/README.md" {"benchmark/README.md"}
+"benchmark/benchmark-native.c" {"benchmark/benchmark-native.c"}
+]
+libexec: [
+
+]

@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"dist/promise-0.1.0.amd.js" {"dist/promise-0.1.0.amd.js"}
+"dist/promise-0.1.0.js" {"dist/promise-0.1.0.js"}
+"dist/promise-0.1.0.min.js" {"dist/promise-0.1.0.min.js"}
+"dist/commonjs/main.js" {"dist/commonjs/main.js"}
+"dist/commonjs/promise/all.js" {"dist/commonjs/promise/all.js"}
+"dist/commonjs/promise/asap.js" {"dist/commonjs/promise/asap.js"}
+"dist/commonjs/promise/cast.js" {"dist/commonjs/promise/cast.js"}
+"dist/commonjs/promise/config.js" {"dist/commonjs/promise/config.js"}
+"dist/commonjs/promise/polyfill.js" {"dist/commonjs/promise/polyfill.js"}
+"dist/commonjs/promise/promise.js" {"dist/commonjs/promise/promise.js"}
+"dist/commonjs/promise/race.js" {"dist/commonjs/promise/race.js"}
+"dist/commonjs/promise/reject.js" {"dist/commonjs/promise/reject.js"}
+"dist/commonjs/promise/resolve.js" {"dist/commonjs/promise/resolve.js"}
+"dist/commonjs/promise/utils.js" {"dist/commonjs/promise/utils.js"}
+]
+libexec: [
+
+]

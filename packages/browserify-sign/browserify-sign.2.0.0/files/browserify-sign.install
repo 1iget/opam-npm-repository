@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"verify.js" {"verify.js"}
+"asn1.js" {"asn1.js"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+"algos.js" {"algos.js"}
+"sign.js" {"sign.js"}
+"readme.md" {"readme.md"}
+".travis.yml" {".travis.yml"}
+"test/index.js" {"test/index.js"}
+"test/rsa.1024.priv" {"test/rsa.1024.priv"}
+"test/rsa.1024.pub" {"test/rsa.1024.pub"}
+"test/rsa.2028.priv" {"test/rsa.2028.priv"}
+"test/rsa.2028.pub" {"test/rsa.2028.pub"}
+]
+libexec: [
+
+]

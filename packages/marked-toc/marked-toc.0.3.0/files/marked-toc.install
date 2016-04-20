@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
-"cli.js" {"cli.js"}
 "index.js" {"index.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ".jshintrc" {".jshintrc"}
@@ -44,4 +43,7 @@ lib: [
 "bower.json" {"bower.json"}
 "examples/toc.js" {"examples/toc.js"}
 "examples/toc.json" {"examples/toc.json"}
+]
+libexec: [
+"cli.js" {"cli.js"}
 ]

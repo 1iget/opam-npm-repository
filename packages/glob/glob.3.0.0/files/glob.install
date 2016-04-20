@@ -10,3 +10,6 @@ lib: [
 "test/bash-comparison.js" {"test/bash-comparison.js"}
 "test/zz-cleanup.js" {"test/zz-cleanup.js"}
 ]
+libexec: [
+
+]

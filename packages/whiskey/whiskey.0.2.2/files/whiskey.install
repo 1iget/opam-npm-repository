@@ -53,5 +53,7 @@ lib: [
 "example/test-chdir.js" {"example/test-chdir.js"}
 ".npmignore" {".npmignore"}
 "bin/" {"bin/"}
+]
+libexec: [
 "bin/whiskey" {"bin/whiskey"}
 ]

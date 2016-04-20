@@ -8,7 +8,9 @@ dev-repo: "git://github.com/TooTallNate/ansi.js.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./examples/starwars.js %{bin}%/starwars"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/starwars" ] 
+]
 

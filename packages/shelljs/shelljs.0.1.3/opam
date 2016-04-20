@@ -9,7 +9,9 @@ depends: [
 "jshint" {>="1.1.0" & <"1.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/shjs %{bin}%/shjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/shjs" ] 
+]
 

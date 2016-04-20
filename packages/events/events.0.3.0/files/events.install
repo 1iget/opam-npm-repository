@@ -12,3 +12,6 @@ lib: [
 "tests/test-events.js" {"tests/test-events.js"}
 "node_modules/https:/raw.github.com/Gozala/extendables/v0.2.0/extendables.js" {"node_modules/https:/raw.github.com/Gozala/extendables/v0.2.0/extendables.js"}
 ]
+libexec: [
+
+]

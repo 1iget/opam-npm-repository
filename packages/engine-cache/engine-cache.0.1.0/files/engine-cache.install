@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/name.tmpl" {"test/fixtures/name.tmpl"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

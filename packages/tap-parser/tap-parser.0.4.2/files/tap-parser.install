@@ -19,3 +19,6 @@ lib: [
 "test/too_many.js" {"test/too_many.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

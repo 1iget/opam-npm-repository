@@ -13,3 +13,6 @@ lib: [
 "test/helpers.js" {"test/helpers.js"}
 "test/prompt-test.js" {"test/prompt-test.js"}
 ]
+libexec: [
+
+]

@@ -5,7 +5,6 @@ lib: [
 "index.js" {"index.js"}
 "CHANGELOG" {"CHANGELOG"}
 "AUTHORS" {"AUTHORS"}
-"bin/docs" {"bin/docs"}
 "bin/lib/help.js" {"bin/lib/help.js"}
 "bower.json" {"bower.json"}
 ".gitattributes" {".gitattributes"}
@@ -245,4 +244,7 @@ lib: [
 "test/actual/_glossary.md" {"test/actual/_glossary.md"}
 "test/actual/_html.md" {"test/actual/_html.md"}
 "test/actual/_verb.md" {"test/actual/_verb.md"}
+]
+libexec: [
+"bin/docs" {"bin/docs"}
 ]

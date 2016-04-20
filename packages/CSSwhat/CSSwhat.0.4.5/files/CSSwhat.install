@@ -7,3 +7,6 @@ lib: [
 "tests/test.js" {"tests/test.js"}
 "tests/out.json" {"tests/out.json"}
 ]
+libexec: [
+
+]

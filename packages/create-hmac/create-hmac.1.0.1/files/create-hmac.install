@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"create-hmac.js" {"create-hmac.js"}
+"test.js" {"test.js"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

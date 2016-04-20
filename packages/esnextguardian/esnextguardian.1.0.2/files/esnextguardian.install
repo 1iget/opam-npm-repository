@@ -6,3 +6,6 @@ lib: [
 "HISTORY.md" {"HISTORY.md"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

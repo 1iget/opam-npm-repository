@@ -9,3 +9,6 @@ lib: [
 "test/convert.js" {"test/convert.js"}
 "test/url-safe.js" {"test/url-safe.js"}
 ]
+libexec: [
+
+]

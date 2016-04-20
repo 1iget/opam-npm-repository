@@ -59,3 +59,6 @@ lib: [
 "test/standalone/test-issue-5.js" {"test/standalone/test-issue-5.js"}
 "test/standalone/test-issue-21.js" {"test/standalone/test-issue-21.js"}
 ]
+libexec: [
+
+]

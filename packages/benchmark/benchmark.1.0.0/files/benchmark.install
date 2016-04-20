@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"benchmark.js" {"benchmark.js"}
+"doc/README.md" {"doc/README.md"}
+"LICENSE.txt" {"LICENSE.txt"}
+"test/test.js" {"test/test.js"}
+"test/run-test.sh" {"test/run-test.sh"}
+]
+libexec: [
+
+]

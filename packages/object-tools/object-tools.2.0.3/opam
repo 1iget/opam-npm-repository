@@ -15,7 +15,9 @@ depends: [
 "typical" {>="2.2.0" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/object-tools"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/object-tools" ] 
+]
 

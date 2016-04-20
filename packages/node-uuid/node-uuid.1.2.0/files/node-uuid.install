@@ -1,0 +1,15 @@
+lib: [
+"uuid.js" {"uuid.js"}
+"package.json" {"package.json"}
+"LICENSE.md" {"LICENSE.md"}
+"README.md" {"README.md"}
+"test/options.js" {"test/options.js"}
+"test/benchmark.js" {"test/benchmark.js"}
+"test/test.js" {"test/test.js"}
+"test/compare_v1.js" {"test/compare_v1.js"}
+"test/test.html" {"test/test.html"}
+"test/benchmark-native.c" {"test/benchmark-native.c"}
+]
+libexec: [
+
+]

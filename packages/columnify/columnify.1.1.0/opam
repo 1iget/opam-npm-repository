@@ -8,7 +8,7 @@ dev-repo: "git://github.com/timoxley/columnify.git"
 depends: [
 "strip-ansi" {>="0.2.1" & <"0.3.0"}
 
-"wcwidth.js" {>="0.0.4" & <"0.1.0"}
+"wcwidth_js" {>="0.0.4" & <"0.1.0"}
 
 ]
 

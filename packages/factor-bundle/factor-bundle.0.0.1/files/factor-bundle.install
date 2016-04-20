@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"bin/cmd.js" {"bin/cmd.js"}
+"bin/usage.txt" {"bin/usage.txt"}
+"example/w.js" {"example/w.js"}
+"example/x.js" {"example/x.js"}
+"example/y.js" {"example/y.js"}
+"example/z.js" {"example/z.js"}
+"readme.markdown" {"readme.markdown"}
+"test/deps.js" {"test/deps.js"}
+"test/files.js" {"test/files.js"}
+"test/files/a.js" {"test/files/a.js"}
+"test/files/t.js" {"test/files/t.js"}
+"test/files/w.js" {"test/files/w.js"}
+"test/files/x.js" {"test/files/x.js"}
+"test/files/y.js" {"test/files/y.js"}
+"test/files/z.js" {"test/files/z.js"}
+]
+libexec: [
+
+]

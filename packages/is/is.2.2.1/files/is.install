@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"LICENSE.md" {"LICENSE.md"}
+"component.json" {"component.json"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/index.js" {"test/index.js"}
+]
+libexec: [
+
+]

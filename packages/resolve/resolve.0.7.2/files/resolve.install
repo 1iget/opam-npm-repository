@@ -54,3 +54,6 @@ lib: [
 "test/dotdot/index.js" {"test/dotdot/index.js"}
 "test/dotdot/abc/index.js" {"test/dotdot/abc/index.js"}
 ]
+libexec: [
+
+]

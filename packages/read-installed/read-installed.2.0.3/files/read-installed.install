@@ -16,3 +16,6 @@ lib: [
 "test/fixtures/extraneous-detected/package.json" {"test/fixtures/extraneous-detected/package.json"}
 "test/fixtures/grandparent-peer/package.json" {"test/fixtures/grandparent-peer/package.json"}
 ]
+libexec: [
+
+]

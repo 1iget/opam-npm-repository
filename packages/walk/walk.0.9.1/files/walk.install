@@ -13,3 +13,6 @@ lib: [
 "node-walk/walk-test/dir1/file-2" {"node-walk/walk-test/dir1/file-2"}
 "node-walk/lib/walk.js" {"node-walk/lib/walk.js"}
 ]
+libexec: [
+
+]

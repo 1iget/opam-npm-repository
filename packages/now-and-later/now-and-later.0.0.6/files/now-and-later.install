@@ -12,3 +12,6 @@ lib: [
 "test/map.js" {"test/map.js"}
 "test/mapSeries.js" {"test/mapSeries.js"}
 ]
+libexec: [
+
+]

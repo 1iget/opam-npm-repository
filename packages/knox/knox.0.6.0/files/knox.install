@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"lib/auth.js" {"lib/auth.js"}
+"lib/client.js" {"lib/client.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/utils.js" {"lib/utils.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"Readme.md" {"Readme.md"}
+]
+libexec: [
+
+]

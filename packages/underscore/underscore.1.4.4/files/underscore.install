@@ -12,6 +12,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "CNAME" {"CNAME"}
 ]
-bin: [
+libexec: [
 
 ]

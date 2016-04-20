@@ -21,3 +21,6 @@ lib: [
 "test/basic.input" {"test/basic.input"}
 "test/lib/common.js" {"test/lib/common.js"}
 ]
+libexec: [
+
+]

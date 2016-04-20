@@ -50,3 +50,6 @@ lib: [
 "example/post.js" {"example/post.js"}
 "example/upload.js" {"example/upload.js"}
 ]
+libexec: [
+
+]

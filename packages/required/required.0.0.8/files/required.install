@@ -25,3 +25,6 @@ lib: [
 "test/fixtures/one_local.js.dep" {"test/fixtures/one_local.js.dep"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

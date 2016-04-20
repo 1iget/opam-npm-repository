@@ -71,3 +71,6 @@ lib: [
 "scripts/console" {"scripts/console"}
 "UPGRADING.md" {"UPGRADING.md"}
 ]
+libexec: [
+
+]

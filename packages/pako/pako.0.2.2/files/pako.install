@@ -28,3 +28,6 @@ lib: [
 "lib/zlib/inffast.js" {"lib/zlib/inffast.js"}
 "bower.json" {"bower.json"}
 ]
+libexec: [
+
+]

@@ -19,3 +19,6 @@ lib: [
 "src/toml.peg" {"src/toml.peg"}
 "generate.sh" {"generate.sh"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "README.md" {"README.md"}
 "lib/long-stack-traces.js" {"lib/long-stack-traces.js"}
 ]
+libexec: [
+
+]

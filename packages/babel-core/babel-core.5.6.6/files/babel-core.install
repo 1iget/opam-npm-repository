@@ -207,3 +207,6 @@ lib: [
 "templates.json" {"templates.json"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ]
+libexec: [
+
+]

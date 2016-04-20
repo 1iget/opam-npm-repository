@@ -35,7 +35,9 @@ depends: [
 "which" {>="1.0.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/node-gyp.js %{bin}%/node-gyp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/node-gyp" ] 
+]
 

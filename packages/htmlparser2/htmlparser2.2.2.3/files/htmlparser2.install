@@ -60,3 +60,6 @@ lib: [
 "tests/Feeds/02-atom.js" {"tests/Feeds/02-atom.js"}
 "tests/Feeds/03-rdf.js" {"tests/Feeds/03-rdf.js"}
 ]
+libexec: [
+
+]

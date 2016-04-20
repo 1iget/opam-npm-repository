@@ -50,3 +50,6 @@ lib: [
 "pkg/sinon.js" {"pkg/sinon.js"}
 "pkg/sinon-server-1.15.2.js" {"pkg/sinon-server-1.15.2.js"}
 ]
+libexec: [
+
+]

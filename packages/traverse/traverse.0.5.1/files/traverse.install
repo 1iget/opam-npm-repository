@@ -27,3 +27,6 @@ lib: [
 "test/equal.js" {"test/equal.js"}
 "test/lib/deep_equal.js" {"test/lib/deep_equal.js"}
 ]
+libexec: [
+
+]

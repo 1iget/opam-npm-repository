@@ -12,3 +12,6 @@ lib: [
 "test/peer-dep-at-latest.js" {"test/peer-dep-at-latest.js"}
 "test/fixtures/package.json" {"test/fixtures/package.json"}
 ]
+libexec: [
+
+]

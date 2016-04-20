@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/completion.js" {"lib/completion.js"}
+"lib/parser.js" {"lib/parser.js"}
+"lib/usage.js" {"lib/usage.js"}
+"lib/validation.js" {"lib/validation.js"}
+"locales/de.json" {"locales/de.json"}
+"locales/en.json" {"locales/en.json"}
+"locales/es.json" {"locales/es.json"}
+"locales/fr.json" {"locales/fr.json"}
+"locales/ja.json" {"locales/ja.json"}
+"locales/pirate.json" {"locales/pirate.json"}
+"locales/pl.json" {"locales/pl.json"}
+"locales/pt.json" {"locales/pt.json"}
+"locales/pt_BR.json" {"locales/pt_BR.json"}
+"locales/zh.json" {"locales/zh.json"}
+"completion.sh.hbs" {"completion.sh.hbs"}
+]
+libexec: [
+
+]

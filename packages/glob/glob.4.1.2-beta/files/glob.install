@@ -32,3 +32,6 @@ lib: [
 "examples/g.js" {"examples/g.js"}
 "examples/usr-local.js" {"examples/usr-local.js"}
 ]
+libexec: [
+
+]

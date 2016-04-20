@@ -10,3 +10,6 @@ lib: [
 "test/sh/err.sh" {"test/sh/err.sh"}
 "test/sh/out.sh" {"test/sh/out.sh"}
 ]
+libexec: [
+
+]

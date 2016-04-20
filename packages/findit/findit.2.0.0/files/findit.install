@@ -29,3 +29,6 @@ lib: [
 "test/symlinks/dir2/file2" {"test/symlinks/dir2/file2"}
 "test/symlinks/file" {"test/symlinks/file"}
 ]
+libexec: [
+
+]

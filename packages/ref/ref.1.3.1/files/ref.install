@@ -38,3 +38,6 @@ lib: [
 "test/object.js" {"test/object.js"}
 "test/utf16le.bin" {"test/utf16le.bin"}
 ]
+libexec: [
+
+]

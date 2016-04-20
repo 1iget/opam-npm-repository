@@ -36,3 +36,6 @@ lib: [
 "demo/weak-map-demo.js" {"demo/weak-map-demo.js"}
 "demo/object-demo.js" {"demo/object-demo.js"}
 ]
+libexec: [
+
+]

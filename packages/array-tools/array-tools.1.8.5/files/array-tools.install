@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bin/cli.js" {"bin/cli.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"jsdoc2md/README.hbs" {"jsdoc2md/README.hbs"}
+"lib/array-tools.js" {"lib/array-tools.js"}
+"test/arrayify.js" {"test/arrayify.js"}
+"test/extract.js" {"test/extract.js"}
+"test/findWhere.js" {"test/findWhere.js"}
+"test/groupby.js" {"test/groupby.js"}
+"test/exists.js" {"test/exists.js"}
+"test/pluck.js" {"test/pluck.js"}
+"test/remove.js" {"test/remove.js"}
+"test/sortBy.js" {"test/sortBy.js"}
+"test/spliceWhile.js" {"test/spliceWhile.js"}
+"test/union.js" {"test/union.js"}
+"test/contains.js" {"test/contains.js"}
+"test/unique.js" {"test/unique.js"}
+"test/common.js" {"test/common.js"}
+"test/where.js" {"test/where.js"}
+"test/chaining.js" {"test/chaining.js"}
+"test/without.js" {"test/without.js"}
+"test/pick.js" {"test/pick.js"}
+".zuul.yml" {".zuul.yml"}
+]
+libexec: [
+
+]

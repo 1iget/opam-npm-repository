@@ -16,3 +16,6 @@ lib: [
 "text.coffee" {"text.coffee"}
 "incompat.coffee" {"incompat.coffee"}
 ]
+libexec: [
+
+]

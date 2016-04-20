@@ -15,3 +15,6 @@ lib: [
 "test/fixtures/subdir/add.txt" {"test/fixtures/subdir/add.txt"}
 "test/fixtures/unlink.txt" {"test/fixtures/unlink.txt"}
 ]
+libexec: [
+
+]

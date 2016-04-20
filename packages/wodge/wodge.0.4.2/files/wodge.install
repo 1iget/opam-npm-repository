@@ -6,3 +6,6 @@ lib: [
 ".jshintrc" {".jshintrc"}
 "test/api.js" {"test/api.js"}
 ]
+libexec: [
+
+]

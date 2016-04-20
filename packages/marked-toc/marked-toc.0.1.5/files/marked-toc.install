@@ -22,3 +22,6 @@ lib: [
 "test/fixtures/repos-list.md" {"test/fixtures/repos-list.md"}
 "test/fixtures/test.md" {"test/fixtures/test.md"}
 ]
+libexec: [
+
+]

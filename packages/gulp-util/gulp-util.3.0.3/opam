@@ -16,13 +16,13 @@ depends: [
 
 "dateformat" {>="1.0.11" & <"2.0.0"}
 
-"lodash.reescape" {>="3.0.0" & <"4.0.0"}
+"lodash_reescape" {>="3.0.0" & <"4.0.0"}
 
-"lodash.reevaluate" {>="3.0.0" & <"4.0.0"}
+"lodash_reevaluate" {>="3.0.0" & <"4.0.0"}
 
-"lodash.reinterpolate" {>="3.0.0" & <"4.0.0"}
+"lodash_reinterpolate" {>="3.0.0" & <"4.0.0"}
 
-"lodash.template" {>="3.0.0" & <"4.0.0"}
+"lodash_template" {>="3.0.0" & <"4.0.0"}
 
 "minimist" {>="1.1.0" & <"2.0.0"}
 

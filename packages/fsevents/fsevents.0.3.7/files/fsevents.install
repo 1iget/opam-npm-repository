@@ -17,3 +17,6 @@ lib: [
 "src/thread.cc" {"src/thread.cc"}
 "binding.gyp" {"binding.gyp"}
 ]
+libexec: [
+
+]

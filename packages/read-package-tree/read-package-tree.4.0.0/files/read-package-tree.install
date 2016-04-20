@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/selflink/package.json" {"test/fixtures/selflink/package.json"}
 "test/fixtures/selflink/archy.txt" {"test/fixtures/selflink/archy.txt"}
 ]
+libexec: [
+
+]

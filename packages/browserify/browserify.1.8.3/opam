@@ -21,7 +21,9 @@ depends: [
 "optimist" {>="0.2.6" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/browserify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/browserify" ] 
+]
 

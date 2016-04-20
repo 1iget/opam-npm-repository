@@ -12,3 +12,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 ".verb.md" {".verb.md"}
 ]
+libexec: [
+
+]

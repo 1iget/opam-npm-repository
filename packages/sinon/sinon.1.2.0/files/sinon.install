@@ -48,3 +48,6 @@ lib: [
 "test/sinon/util/fake_xml_http_request_test.js" {"test/sinon/util/fake_xml_http_request_test.js"}
 "test/sinon/util/event_test.js" {"test/sinon/util/event_test.js"}
 ]
+libexec: [
+
+]

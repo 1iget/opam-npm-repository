@@ -10,7 +10,6 @@ lib: [
 "jshint.json" {"jshint.json"}
 ".travis.yml" {".travis.yml"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
-"bin/jshint" {"bin/jshint"}
 "res/jshint.ai" {"res/jshint.ai"}
 "src/cli/cli.js" {"src/cli/cli.js"}
 "src/next/constants.js" {"src/next/constants.js"}
@@ -149,4 +148,7 @@ lib: [
 "tests/stable/unit/fixtures/blocks.js" {"tests/stable/unit/fixtures/blocks.js"}
 "tests/stable/unit/fixtures/with.js" {"tests/stable/unit/fixtures/with.js"}
 "tests/stable/unit/fixtures/loopfunc.js" {"tests/stable/unit/fixtures/loopfunc.js"}
+]
+libexec: [
+"bin/jshint" {"bin/jshint"}
 ]

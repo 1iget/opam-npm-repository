@@ -6,3 +6,6 @@ lib: [
 "lib/read.js" {"lib/read.js"}
 "test/common-test.js" {"test/common-test.js"}
 ]
+libexec: [
+
+]

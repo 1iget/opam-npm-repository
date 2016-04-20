@@ -8,3 +8,6 @@ lib: [
 "languages.json" {"languages.json"}
 "scripts/build" {"scripts/build"}
 ]
+libexec: [
+
+]

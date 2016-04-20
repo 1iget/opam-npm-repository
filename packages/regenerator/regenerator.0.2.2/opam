@@ -23,7 +23,9 @@ depends: [
 "browserify" {>="2.34.0" & <"2.35.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/regenerator %{bin}%/regenerator"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/regenerator" ] 
+]
 

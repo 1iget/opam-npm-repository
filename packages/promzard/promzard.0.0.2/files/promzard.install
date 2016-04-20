@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"in.js" {"in.js"}
+"promzard.js" {"promzard.js"}
+"example/index.js" {"example/index.js"}
+"example/npm-init/init.js" {"example/npm-init/init.js"}
+"example/npm-init/init.json" {"example/npm-init/init.json"}
+"example/substack.json" {"example/substack.json"}
+"test/basic.js" {"test/basic.js"}
+"test/fn.js" {"test/fn.js"}
+"test/simple.js" {"test/simple.js"}
+"test/fn.json" {"test/fn.json"}
+"test/simple.json" {"test/simple.json"}
+]
+libexec: [
+
+]

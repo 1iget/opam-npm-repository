@@ -19,3 +19,6 @@ lib: [
 "test/fixtures/errors.json" {"test/fixtures/errors.json"}
 "test/fixtures/regex.json" {"test/fixtures/regex.json"}
 ]
+libexec: [
+
+]

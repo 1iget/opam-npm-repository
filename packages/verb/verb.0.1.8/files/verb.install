@@ -6,7 +6,6 @@ lib: [
 "CHANGELOG" {"CHANGELOG"}
 "AUTHORS" {"AUTHORS"}
 "bin/lib/help.js" {"bin/lib/help.js"}
-"bin/verb" {"bin/verb"}
 "bower.json" {"bower.json"}
 ".gitattributes" {".gitattributes"}
 "docs/learn/familiarize.md" {"docs/learn/familiarize.md"}
@@ -246,4 +245,7 @@ lib: [
 "test/actual/_glossary.md" {"test/actual/_glossary.md"}
 "test/actual/_html.md" {"test/actual/_html.md"}
 "test/actual/_verb.md" {"test/actual/_verb.md"}
+]
+libexec: [
+"bin/verb" {"bin/verb"}
 ]

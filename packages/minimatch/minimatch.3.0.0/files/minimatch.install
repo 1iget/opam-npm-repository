@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "minimatch.js" {"minimatch.js"}
 ]
+libexec: [
+
+]

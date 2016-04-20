@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/hint" {"bin/hint"}
 "lib/cli.js" {"lib/cli.js"}
 "lib/hint.js" {"lib/hint.js"}
 "lib/reporters/default.js" {"lib/reporters/default.js"}
@@ -10,4 +9,7 @@ lib: [
 "lib/reporters/non_error.js" {"lib/reporters/non_error.js"}
 "packages/jshint/jshint.js" {"packages/jshint/jshint.js"}
 "packages/jshint/README.markdown" {"packages/jshint/README.markdown"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

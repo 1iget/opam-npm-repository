@@ -12,3 +12,6 @@ lib: [
 "lib/ansi.js" {"lib/ansi.js"}
 "lib/newlines.js" {"lib/newlines.js"}
 ]
+libexec: [
+
+]

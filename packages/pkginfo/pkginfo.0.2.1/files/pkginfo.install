@@ -19,3 +19,6 @@ lib: [
 "node_modules/eyes/lib/eyes.js" {"node_modules/eyes/lib/eyes.js"}
 "node_modules/eyes/test/eyes-test.js" {"node_modules/eyes/test/eyes-test.js"}
 ]
+libexec: [
+
+]

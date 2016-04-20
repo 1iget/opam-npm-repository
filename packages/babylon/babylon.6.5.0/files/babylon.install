@@ -5,5 +5,7 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 "AUTHORS" {"AUTHORS"}
+]
+libexec: [
 "bin/babylon.js" {"bin/babylon.js"}
 ]

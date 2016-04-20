@@ -5,3 +5,6 @@ lib: [
 "examples.js" {"examples.js"}
 "stringmap.js" {"stringmap.js"}
 ]
+libexec: [
+
+]

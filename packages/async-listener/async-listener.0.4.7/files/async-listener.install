@@ -1,0 +1,38 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"glue.js" {"glue.js"}
+"index.js" {"index.js"}
+"test/add-remove.tap.js" {"test/add-remove.tap.js"}
+"test/core-asynclistener-error-throw-in-before.simple.js" {"test/core-asynclistener-error-throw-in-before.simple.js"}
+"test/core-asynclistener-error-throw-in-error.simple.js" {"test/core-asynclistener-error-throw-in-error.simple.js"}
+"test/core-asynclistener-error.simple.js" {"test/core-asynclistener-error.simple.js"}
+"test/core-asynclistener-nexttick-remove.simple.js" {"test/core-asynclistener-nexttick-remove.simple.js"}
+"test/core-asynclistener-error-throw-in-before-multiple.simple.js" {"test/core-asynclistener-error-throw-in-before-multiple.simple.js"}
+"test/core-asynclistener-remove-before.simple.js" {"test/core-asynclistener-remove-before.simple.js"}
+"test/core-asynclistener-remove-inflight-error.simple.js" {"test/core-asynclistener-remove-inflight-error.simple.js"}
+"test/core-asynclistener-remove-inflight.simple.js" {"test/core-asynclistener-remove-inflight.simple.js"}
+"test/core-asynclistener.simple.js" {"test/core-asynclistener.simple.js"}
+"test/errors-this-tick.tap.js" {"test/errors-this-tick.tap.js"}
+"test/core-asynclistener-error-throw-in-after.simple.js" {"test/core-asynclistener-error-throw-in-after.simple.js"}
+"test/fork-listen2-problem.tap.js" {"test/fork-listen2-problem.tap.js"}
+"test/core-asynclistener-error-net.simple.js" {"test/core-asynclistener-error-net.simple.js"}
+"test/fork-listener.js" {"test/fork-listener.js"}
+"test/core-asynclistener-error-multiple-unhandled.simple.js" {"test/core-asynclistener-error-multiple-unhandled.simple.js"}
+"test/handle.tap.js" {"test/handle.tap.js"}
+"test/core-asynclistener-error-multiple-mix.simple.js" {"test/core-asynclistener-error-multiple-mix.simple.js"}
+"test/no-after-following-error.tap.js" {"test/no-after-following-error.tap.js"}
+"test/core-asynclistener-error-multiple-handled.simple.js" {"test/core-asynclistener-error-multiple-handled.simple.js"}
+"test/overlapping-nexttick.tap.js" {"test/overlapping-nexttick.tap.js"}
+"test/simple-counter.tap.js" {"test/simple-counter.tap.js"}
+"test/simple-counter-with-io.tap.js" {"test/simple-counter-with-io.tap.js"}
+"test/connection-handler-disconnects.tap.js" {"test/connection-handler-disconnects.tap.js"}
+"test/simplified-error.simple.js" {"test/simplified-error.simple.js"}
+"test/core-asynclistener-only-add.simple.js" {"test/core-asynclistener-only-add.simple.js"}
+"test/core/core-asynclistener-add-inflight.js" {"test/core/core-asynclistener-add-inflight.js"}
+"test/core/core-asynclistener-error-throw-in-before-inflight.js" {"test/core/core-asynclistener-error-throw-in-before-inflight.js"}
+]
+libexec: [
+
+]

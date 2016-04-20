@@ -4,8 +4,6 @@ lib: [
 "package.json" {"package.json"}
 "Rakefile" {"Rakefile"}
 "README" {"README"}
-"bin/cake" {"bin/cake"}
-"bin/coffee" {"bin/coffee"}
 "lib/browser.js" {"lib/browser.js"}
 "lib/cake.js" {"lib/cake.js"}
 "lib/coffee-script.js" {"lib/coffee-script.js"}
@@ -20,4 +18,8 @@ lib: [
 "lib/repl.js" {"lib/repl.js"}
 "lib/rewriter.js" {"lib/rewriter.js"}
 "lib/scope.js" {"lib/scope.js"}
+]
+libexec: [
+"bin/cake" {"bin/cake"}
+"bin/coffee" {"bin/coffee"}
 ]

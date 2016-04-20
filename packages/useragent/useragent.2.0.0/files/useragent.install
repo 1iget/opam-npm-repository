@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"features/index.js" {"features/index.js"}
+".travis.yml" {".travis.yml"}
+"lib/regexps.js" {"lib/regexps.js"}
+"lib/update.js" {"lib/update.js"}
+"CREDITS" {"CREDITS"}
+"Makefile" {"Makefile"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"bin/testfiles.js" {"bin/testfiles.js"}
+"bin/update.js" {"bin/update.js"}
+"static/user_agent.after.yaml" {"static/user_agent.after.yaml"}
+]
+libexec: [
+
+]

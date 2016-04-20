@@ -27,3 +27,6 @@ lib: [
 "benchmark/fixtures/multiple.js" {"benchmark/fixtures/multiple.js"}
 "benchmark/fixtures/two.js" {"benchmark/fixtures/two.js"}
 ]
+libexec: [
+
+]

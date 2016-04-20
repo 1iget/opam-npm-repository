@@ -13,3 +13,6 @@ lib: [
 "test/ref-deref.js" {"test/ref-deref.js"}
 "test/sizeof.js" {"test/sizeof.js"}
 ]
+libexec: [
+
+]

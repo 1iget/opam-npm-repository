@@ -19,3 +19,6 @@ lib: [
 "lib/formats/rfc4253.js" {"lib/formats/rfc4253.js"}
 "lib/formats/ssh.js" {"lib/formats/ssh.js"}
 ]
+libexec: [
+
+]

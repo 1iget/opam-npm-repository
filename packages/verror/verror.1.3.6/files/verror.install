@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"jsl.node.conf" {"jsl.node.conf"}
+"Makefile" {"Makefile"}
+".gitmodules" {".gitmodules"}
+"tests/tst.werror.js" {"tests/tst.werror.js"}
+"tests/tst.verror.js" {"tests/tst.verror.js"}
+"tests/tst.inherit.js" {"tests/tst.inherit.js"}
+"lib/verror.js" {"lib/verror.js"}
+"Makefile.targ" {"Makefile.targ"}
+"examples/levels-werror.js" {"examples/levels-werror.js"}
+"examples/levels-verror.js" {"examples/levels-verror.js"}
+"examples/werror.js" {"examples/werror.js"}
+"examples/varargs.js" {"examples/varargs.js"}
+"examples/verror.js" {"examples/verror.js"}
+]
+libexec: [
+
+]

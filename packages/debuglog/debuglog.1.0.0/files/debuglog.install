@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "debuglog.js" {"debuglog.js"}
 ]
+libexec: [
+
+]

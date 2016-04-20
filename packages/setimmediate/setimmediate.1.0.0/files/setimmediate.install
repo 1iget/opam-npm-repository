@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"setImmediate.js" {"setImmediate.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"qUnitTest/tests.js" {"qUnitTest/tests.js"}
+"qUnitTest/worker.js" {"qUnitTest/worker.js"}
+"qUnitTest/lib/qunit.js" {"qUnitTest/lib/qunit.js"}
+"qUnitTest/lib/qunit.css" {"qUnitTest/lib/qunit.css"}
+"qUnitTest/runner.htm" {"qUnitTest/runner.htm"}
+"qUnitTest/selfClose.htm" {"qUnitTest/selfClose.htm"}
+]
+libexec: [
+
+]

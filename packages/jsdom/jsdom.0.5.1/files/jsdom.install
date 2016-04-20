@@ -25,3 +25,6 @@ lib: [
 "lib/jsdom/selectors/index.js" {"lib/jsdom/selectors/index.js"}
 "LICENSE.txt" {"LICENSE.txt"}
 ]
+libexec: [
+
+]

@@ -10,5 +10,7 @@ lib: [
 "lib/sendToCoveralls.js" {"lib/sendToCoveralls.js"}
 "test/convertLcovToCoveralls.js" {"test/convertLcovToCoveralls.js"}
 ".travis.yml" {".travis.yml"}
+]
+libexec: [
 "bin/coveralls.js" {"bin/coveralls.js"}
 ]

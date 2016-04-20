@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"gulpfile.js" {"gulpfile.js"}
+"example/example.html" {"example/example.html"}
+"bower.json" {"bower.json"}
+"build/hash-string.js" {"build/hash-string.js"}
+"build/hash-string.min.js" {"build/hash-string.min.js"}
+"source/hash-string.js" {"source/hash-string.js"}
+]
+libexec: [
+
+]

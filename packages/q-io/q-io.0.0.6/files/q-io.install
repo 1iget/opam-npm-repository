@@ -1,0 +1,10 @@
+lib: [
+"CHANGES" {"CHANGES"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"q-io.js" {"q-io.js"}
+"README" {"README"}
+]
+libexec: [
+
+]

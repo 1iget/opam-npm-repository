@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"templates/history.md" {"templates/history.md"}
+"templates/CHANGELOG.yml" {"templates/CHANGELOG.yml"}
+"templates/authors.md" {"templates/authors.md"}
+"templates/cli.md" {"templates/cli.md"}
+"templates/contributing-extra.md" {"templates/contributing-extra.md"}
+"templates/contributing.md" {"templates/contributing.md"}
+"templates/contributors.md" {"templates/contributors.md"}
+"templates/footer.md" {"templates/footer.md"}
+"templates/github.md" {"templates/github.md"}
+"templates/author.md" {"templates/author.md"}
+"templates/install-bower.md" {"templates/install-bower.md"}
+"templates/install-global.md" {"templates/install-global.md"}
+"templates/install-npm.md" {"templates/install-npm.md"}
+"templates/install.md" {"templates/install.md"}
+"templates/issues.md" {"templates/issues.md"}
+"templates/run-verb.md" {"templates/run-verb.md"}
+"templates/tests.md" {"templates/tests.md"}
+"templates/twitter.md" {"templates/twitter.md"}
+]
+libexec: [
+
+]

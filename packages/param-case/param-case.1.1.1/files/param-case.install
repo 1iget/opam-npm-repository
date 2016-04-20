@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "param-case.js" {"param-case.js"}
 ]
+libexec: [
+
+]

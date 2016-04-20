@@ -6,3 +6,6 @@ lib: [
 "LICENSE.txt" {"LICENSE.txt"}
 "lang/de.js" {"lang/de.js"}
 ]
+libexec: [
+
+]

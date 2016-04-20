@@ -11,3 +11,6 @@ lib: [
 "test/pouchdb.js" {"test/pouchdb.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

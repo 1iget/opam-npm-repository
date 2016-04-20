@@ -31,7 +31,9 @@ depends: [
 "readable-stream" {>="1.0.27-1" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cmd.js %{bin}%/module-deps"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/module-deps" ] 
+]
 

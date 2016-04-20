@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "AUTHORS" {"AUTHORS"}
-"bin/babylon.js" {"bin/babylon.js"}
 "lib/index.js" {"lib/index.js"}
 "lib/options.js" {"lib/options.js"}
 "lib/parser/comments.js" {"lib/parser/comments.js"}
@@ -25,4 +24,7 @@ lib: [
 "lib/util/identifier.js" {"lib/util/identifier.js"}
 "lib/util/location.js" {"lib/util/location.js"}
 "lib/util/whitespace.js" {"lib/util/whitespace.js"}
+]
+libexec: [
+"bin/babylon.js" {"bin/babylon.js"}
 ]

@@ -22,3 +22,6 @@ lib: [
 "amd-test/script.coffee" {"amd-test/script.coffee"}
 "amd-test/script.map" {"amd-test/script.map"}
 ]
+libexec: [
+
+]

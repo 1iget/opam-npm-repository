@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"browser/TimeSpan-1.2.js" {"browser/TimeSpan-1.2.js"}
+"browser/TimeSpan-1.2.min.js" {"browser/TimeSpan-1.2.min.js"}
+"docs/docco.css" {"docs/docco.css"}
+"docs/time-span.html" {"docs/time-span.html"}
+"test/date-parser-test.js" {"test/date-parser-test.js"}
+"test/helpers.js" {"test/helpers.js"}
+"test/time-span-test.js" {"test/time-span-test.js"}
+"lib/time-span.js" {"lib/time-span.js"}
+]
+libexec: [
+
+]

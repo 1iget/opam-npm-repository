@@ -4,7 +4,9 @@ lib: [
 "LICENSE" {"LICENSE"}
 "which.js" {"which.js"}
 ".travis.yml" {".travis.yml"}
-"bin/which" {"bin/which"}
 "test/basic.js" {"test/basic.js"}
 "test/bin.js" {"test/bin.js"}
+]
+libexec: [
+"bin/which" {"bin/which"}
 ]

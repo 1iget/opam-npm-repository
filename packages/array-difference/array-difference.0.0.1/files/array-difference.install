@@ -10,3 +10,6 @@ lib: [
 "index.html" {"index.html"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

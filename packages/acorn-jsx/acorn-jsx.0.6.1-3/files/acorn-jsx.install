@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "acorn.js" {"acorn.js"}
 "acorn_loose.js" {"acorn_loose.js"}
-"bin/acorn" {"bin/acorn"}
 ".travis.yml" {".travis.yml"}
 "docs/acorn.html" {"docs/acorn.html"}
 "docs/docco.css" {"docs/docco.css"}
@@ -34,4 +33,7 @@ lib: [
 "test/index.html" {"test/index.html"}
 "tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
 "util/walk.js" {"util/walk.js"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

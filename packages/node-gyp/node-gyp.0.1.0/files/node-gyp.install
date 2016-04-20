@@ -1,0 +1,25 @@
+lib: [
+"2685/" {"2685/"}
+"2685/patch.gypi" {"2685/patch.gypi"}
+"2722/" {"2722/"}
+"2722/patch.gypi" {"2722/patch.gypi"}
+"bin/" {"bin/"}
+"legacy/" {"legacy/"}
+"legacy/addon.gypi" {"legacy/addon.gypi"}
+"legacy/common.gypi" {"legacy/common.gypi"}
+"legacy/gyp_addon" {"legacy/gyp_addon"}
+"lib/" {"lib/"}
+"lib/build.js" {"lib/build.js"}
+"lib/clean.js" {"lib/clean.js"}
+"lib/configure.js" {"lib/configure.js"}
+"lib/copy.js" {"lib/copy.js"}
+"lib/install.js" {"lib/install.js"}
+"lib/list.js" {"lib/list.js"}
+"lib/node-gyp.js" {"lib/node-gyp.js"}
+"lib/remove.js" {"lib/remove.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+"bin/node-gyp.js" {"bin/node-gyp.js"}
+]

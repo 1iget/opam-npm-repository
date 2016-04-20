@@ -26,3 +26,6 @@ lib: [
 "test/fixtures/namespace/c.json" {"test/fixtures/namespace/c.json"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

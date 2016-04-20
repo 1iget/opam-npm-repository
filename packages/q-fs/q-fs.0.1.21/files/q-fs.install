@@ -1,0 +1,29 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"CHANGES.md" {"CHANGES.md"}
+"common.js" {"common.js"}
+"LICENSE" {"LICENSE"}
+"mock.js" {"mock.js"}
+"package.json" {"package.json"}
+"q-fs.js" {"q-fs.js"}
+"README.html" {"README.html"}
+"README.md" {"README.md"}
+"root.js" {"root.js"}
+"TODO" {"TODO"}
+"examples/read.js" {"examples/read.js"}
+"test/all.js" {"test/all.js"}
+"test/lazy.js" {"test/lazy.js"}
+"test/partial.js" {"test/partial.js"}
+"test/root.js" {"test/root.js"}
+"test/fixtures/1234.txt" {"test/fixtures/1234.txt"}
+"test/issues/1.js" {"test/issues/1.js"}
+"test/mock/merge.js" {"test/mock/merge.js"}
+"test/mock/object.js" {"test/mock/object.js"}
+"test/mock/read.js" {"test/mock/read.js"}
+"test/mock/subtree.js" {"test/mock/subtree.js"}
+"test/mock/dummy/hello.txt" {"test/mock/dummy/hello.txt"}
+]
+libexec: [
+
+]

@@ -8,7 +8,7 @@ dev-repo: "git+https://github.com/tapjs/node-tap.git"
 depends: [
 "clean-yaml-object" {>="0.1.0" & <"0.2.0"}
 
-"codecov.io" {>="0.1.6" & <"0.2.0"}
+"codecov_io" {>="0.1.6" & <"0.2.0"}
 
 "coveralls" {>="2.11.2" & <"3.0.0"}
 
@@ -43,7 +43,9 @@ depends: [
 "tmatch" {>="1.0.2" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/run.js %{bin}%/tap"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tap" ] 
+]
 

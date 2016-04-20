@@ -29,7 +29,9 @@ depends: [
 "crypto-browserify" {>="0.0.0" & <"1.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/browserify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/browserify" ] 
+]
 

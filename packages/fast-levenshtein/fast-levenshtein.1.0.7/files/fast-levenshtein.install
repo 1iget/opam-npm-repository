@@ -4,3 +4,6 @@ lib: [
 "levenshtein.js" {"levenshtein.js"}
 "LICENSE.md" {"LICENSE.md"}
 ]
+libexec: [
+
+]

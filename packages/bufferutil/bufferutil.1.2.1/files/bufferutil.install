@@ -8,3 +8,6 @@ lib: [
 "binding.gyp" {"binding.gyp"}
 "src/bufferutil.cc" {"src/bufferutil.cc"}
 ]
+libexec: [
+
+]

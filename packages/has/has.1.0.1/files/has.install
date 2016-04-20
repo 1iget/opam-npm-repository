@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+".jshintrc" {".jshintrc"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"README.mkd" {"README.mkd"}
+"src/index.js" {"src/index.js"}
+"test/index.js" {"test/index.js"}
+"test/.jshintrc" {"test/.jshintrc"}
+]
+libexec: [
+
+]

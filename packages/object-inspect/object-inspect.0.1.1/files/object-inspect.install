@@ -11,3 +11,6 @@ lib: [
 "test/fn.js" {"test/fn.js"}
 "test/browser/dom.js" {"test/browser/dom.js"}
 ]
+libexec: [
+
+]

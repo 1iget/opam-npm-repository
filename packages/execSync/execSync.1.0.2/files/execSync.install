@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"install.js" {"install.js"}
+"binding.gyp" {"binding.gyp"}
+"src/shell.cpp" {"src/shell.cpp"}
+"test/unixSpec.js" {"test/unixSpec.js"}
+"test/winspec.js" {"test/winspec.js"}
+"win32/v0.10/shell.node" {"win32/v0.10/shell.node"}
+"win32/v0.8/shell.node" {"win32/v0.8/shell.node"}
+]
+libexec: [
+
+]

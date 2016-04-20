@@ -10,3 +10,6 @@ lib: [
 "component.json" {"component.json"}
 "test/balanced.js" {"test/balanced.js"}
 ]
+libexec: [
+
+]

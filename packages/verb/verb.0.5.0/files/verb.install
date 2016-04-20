@@ -42,3 +42,6 @@ lib: [
 "lib/transforms/year.js" {"lib/transforms/year.js"}
 "lib/transforms/repo.js" {"lib/transforms/repo.js"}
 ]
+libexec: [
+
+]

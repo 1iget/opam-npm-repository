@@ -45,3 +45,6 @@ lib: [
 "pkg/sinon.js" {"pkg/sinon.js"}
 "script/ci-setup.sh" {"script/ci-setup.sh"}
 ]
+libexec: [
+
+]

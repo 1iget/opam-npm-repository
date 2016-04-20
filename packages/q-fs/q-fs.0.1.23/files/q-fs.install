@@ -1,0 +1,35 @@
+lib: [
+".npmignore" {".npmignore"}
+".travis.yml" {".travis.yml"}
+"CHANGES.md" {"CHANGES.md"}
+"common.js" {"common.js"}
+"examples/" {"examples/"}
+"examples/read.js" {"examples/read.js"}
+"LICENSE" {"LICENSE"}
+"mock.js" {"mock.js"}
+"package.json" {"package.json"}
+"q-fs.js" {"q-fs.js"}
+"README.html" {"README.html"}
+"README.md" {"README.md"}
+"root.js" {"root.js"}
+"test/" {"test/"}
+"test/all.js" {"test/all.js"}
+"test/fixtures/" {"test/fixtures/"}
+"test/fixtures/1234.txt" {"test/fixtures/1234.txt"}
+"test/issues/" {"test/issues/"}
+"test/issues/1.js" {"test/issues/1.js"}
+"test/lazy.js" {"test/lazy.js"}
+"test/mock/" {"test/mock/"}
+"test/mock/dummy/" {"test/mock/dummy/"}
+"test/mock/dummy/hello.txt" {"test/mock/dummy/hello.txt"}
+"test/mock/merge.js" {"test/mock/merge.js"}
+"test/mock/object.js" {"test/mock/object.js"}
+"test/mock/read.js" {"test/mock/read.js"}
+"test/mock/subtree.js" {"test/mock/subtree.js"}
+"test/partial.js" {"test/partial.js"}
+"test/root.js" {"test/root.js"}
+"TODO" {"TODO"}
+]
+libexec: [
+
+]

@@ -11,7 +11,9 @@ depends: [
 "JSONStream" {>="0.6.4" & <"0.7.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/deps-sort"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/deps-sort" ] 
+]
 

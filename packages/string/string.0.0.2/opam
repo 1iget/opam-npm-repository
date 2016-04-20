@@ -11,7 +11,9 @@ depends: [
 "jasmine-node" {>="1.0.12"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/TEST_stringjs %{bin}%/TEST_stringjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/TEST_stringjs" ] 
+]
 

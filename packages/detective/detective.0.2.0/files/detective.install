@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"index.js_" {"index.js_"}
+"example/strings_src.js" {"example/strings_src.js"}
+"example/strings.js" {"example/strings.js"}
+"test/chained.js" {"test/chained.js"}
+"test/word.js" {"test/word.js"}
+"test/strings.js" {"test/strings.js"}
+"test/both.js" {"test/both.js"}
+"test/nested.js" {"test/nested.js"}
+"test/files/chained.js" {"test/files/chained.js"}
+"test/files/word.js" {"test/files/word.js"}
+"test/files/strings.js" {"test/files/strings.js"}
+"test/files/both.js" {"test/files/both.js"}
+"test/files/nested.js" {"test/files/nested.js"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+]
+libexec: [
+
+]

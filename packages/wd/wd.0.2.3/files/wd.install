@@ -41,7 +41,6 @@ lib: [
 "lib/config.js" {"lib/config.js"}
 "lib/deprecated-chain.js" {"lib/deprecated-chain.js"}
 "lib/element.js" {"lib/element.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/main.js" {"lib/main.js"}
 "lib/promise-webdriver.js" {"lib/promise-webdriver.js"}
 "lib/special-keys.js" {"lib/special-keys.js"}
@@ -99,4 +98,7 @@ lib: [
 "test/specs/http-specs.js" {"test/specs/http-specs.js"}
 "test/specs/remote-specs.js" {"test/specs/remote-specs.js"}
 "wait" {"wait"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

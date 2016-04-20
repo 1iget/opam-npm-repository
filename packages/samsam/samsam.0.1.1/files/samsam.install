@@ -1,0 +1,17 @@
+lib: [
+"test/" {"test/"}
+"test/samsam-test.js" {"test/samsam-test.js"}
+".travis.yml" {".travis.yml"}
+"autolint.js" {"autolint.js"}
+"Readme.rst" {"Readme.rst"}
+".gitignore" {".gitignore"}
+"AUTHORS" {"AUTHORS"}
+"package.json" {"package.json"}
+"lib/" {"lib/"}
+"lib/samsam.js" {"lib/samsam.js"}
+"jsTestDriver.conf" {"jsTestDriver.conf"}
+"LICENSE" {"LICENSE"}
+]
+libexec: [
+
+]

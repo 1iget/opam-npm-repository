@@ -13,3 +13,6 @@ lib: [
 "generatedBuilds/proto.global.min.js" {"generatedBuilds/proto.global.min.js"}
 "test/protoTest.js" {"test/protoTest.js"}
 ]
+libexec: [
+
+]

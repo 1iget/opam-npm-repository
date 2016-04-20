@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"readme.md" {"readme.md"}
+"tests/00-runtests.js" {"tests/00-runtests.js"}
+"tests/01-dom.js" {"tests/01-dom.js"}
+"tests/test-helper.js" {"tests/test-helper.js"}
+"tests/DOM/12-text_only.json" {"tests/DOM/12-text_only.json"}
+"tests/DOM/01-basic.json" {"tests/DOM/01-basic.json"}
+"tests/DOM/03-single_tag_2.json" {"tests/DOM/03-single_tag_2.json"}
+"tests/DOM/04-unescaped_in_script.json" {"tests/DOM/04-unescaped_in_script.json"}
+"tests/DOM/05-tags_in_comment.json" {"tests/DOM/05-tags_in_comment.json"}
+"tests/DOM/06-comment_in_script.json" {"tests/DOM/06-comment_in_script.json"}
+"tests/DOM/07-unescaped_in_style.json" {"tests/DOM/07-unescaped_in_style.json"}
+"tests/DOM/08-extra_spaces_in_tag.json" {"tests/DOM/08-extra_spaces_in_tag.json"}
+"tests/DOM/09-unquoted_attrib.json" {"tests/DOM/09-unquoted_attrib.json"}
+"tests/DOM/10-singular_attribute.json" {"tests/DOM/10-singular_attribute.json"}
+"tests/DOM/11-text_outside_tags.json" {"tests/DOM/11-text_outside_tags.json"}
+"tests/DOM/02-single_tag_1.json" {"tests/DOM/02-single_tag_1.json"}
+"tests/DOM/13-comment_in_text.json" {"tests/DOM/13-comment_in_text.json"}
+"tests/DOM/14-comment_in_text_in_script.json" {"tests/DOM/14-comment_in_text_in_script.json"}
+"tests/DOM/15-non-verbose.json" {"tests/DOM/15-non-verbose.json"}
+"tests/DOM/16-ignore_whitespace.json" {"tests/DOM/16-ignore_whitespace.json"}
+"tests/DOM/17-xml_namespace.json" {"tests/DOM/17-xml_namespace.json"}
+"tests/DOM/18-enforce_empty_tags.json" {"tests/DOM/18-enforce_empty_tags.json"}
+"tests/DOM/19-ignore_empty_tags.json" {"tests/DOM/19-ignore_empty_tags.json"}
+"tests/DOM/20-template_script_tags.json" {"tests/DOM/20-template_script_tags.json"}
+"tests/DOM/21-conditional_comments.json" {"tests/DOM/21-conditional_comments.json"}
+"tests/DOM/22-lowercase_tags.json" {"tests/DOM/22-lowercase_tags.json"}
+]
+libexec: [
+
+]

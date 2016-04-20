@@ -21,7 +21,9 @@ depends: [
 "orchestrator" {="0.0.6"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

@@ -19,7 +19,9 @@ depends: [
 "gaze" {="0.4.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

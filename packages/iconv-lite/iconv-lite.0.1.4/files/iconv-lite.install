@@ -17,3 +17,6 @@ lib: [
 "encodings/turkish.js" {"encodings/turkish.js"}
 "encodings/table/gbk.js" {"encodings/table/gbk.js"}
 ]
+libexec: [
+
+]

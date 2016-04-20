@@ -4,7 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 ".gitignore" {".gitignore"}
-"bin/vows" {"bin/vows"}
 "test/assert-test.js" {"test/assert-test.js"}
 "test/vows-test.js" {"test/vows-test.js"}
 "lib/vows.js" {"lib/vows.js"}
@@ -26,4 +25,7 @@ lib: [
 "lib/vows/coverage/file.js" {"lib/vows/coverage/file.js"}
 "lib/vows/coverage/fragments/coverage-foot.html" {"lib/vows/coverage/fragments/coverage-foot.html"}
 "lib/vows/coverage/fragments/coverage-head.html" {"lib/vows/coverage/fragments/coverage-head.html"}
+]
+libexec: [
+"bin/vows" {"bin/vows"}
 ]

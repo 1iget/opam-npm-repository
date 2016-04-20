@@ -85,3 +85,6 @@ lib: [
 "src/assets/bullet_go.png" {"src/assets/bullet_go.png"}
 "src/assets/testui.css" {"src/assets/testui.css"}
 ]
+libexec: [
+
+]

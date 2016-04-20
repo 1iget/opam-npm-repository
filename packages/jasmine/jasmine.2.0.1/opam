@@ -13,7 +13,9 @@ depends: [
 "commander" {>="2.1.0" & <"2.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jasmine.js %{bin}%/jasmine"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasmine" ] 
+]
 

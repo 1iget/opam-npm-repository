@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "dist/diff.js" {"dist/diff.js"}
 ]
+libexec: [
+
+]

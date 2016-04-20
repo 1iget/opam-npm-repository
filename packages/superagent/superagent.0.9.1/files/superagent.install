@@ -23,3 +23,6 @@ lib: [
 "docs/tail.html" {"docs/tail.html"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

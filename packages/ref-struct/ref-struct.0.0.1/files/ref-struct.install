@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"lib/struct.js" {"lib/struct.js"}
+"test/struct.js" {"test/struct.js"}
+"test/binding.gyp" {"test/binding.gyp"}
+"test/struct_tests.cc" {"test/struct_tests.cc"}
+]
+libexec: [
+
+]

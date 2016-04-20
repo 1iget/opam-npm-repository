@@ -29,3 +29,6 @@ lib: [
 "tests/lib/rules/prop-types.js" {"tests/lib/rules/prop-types.js"}
 "tests/lib/rules/wrap-multilines.js" {"tests/lib/rules/wrap-multilines.js"}
 ]
+libexec: [
+
+]

@@ -890,3 +890,6 @@ lib: [
 "binding.gyp" {"binding.gyp"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

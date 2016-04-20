@@ -6,7 +6,7 @@ author: "timoxley <secoif@gmail.com>"
 license: "MIT"
 dev-repo: "git://github.com/timoxley/columnify.git"
 depends: [
-"wcwidth.js" {>="0.0.4" & <"0.1.0"}
+"wcwidth_js" {>="0.0.4" & <"0.1.0"}
 
 ]
 

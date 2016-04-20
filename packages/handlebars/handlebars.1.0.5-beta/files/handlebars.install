@@ -16,3 +16,6 @@ lib: [
 "lib/handlebars/compiler/printer.js" {"lib/handlebars/compiler/printer.js"}
 "lib/handlebars/compiler/visitor.js" {"lib/handlebars/compiler/visitor.js"}
 ]
+libexec: [
+
+]

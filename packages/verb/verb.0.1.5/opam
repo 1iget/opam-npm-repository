@@ -67,7 +67,9 @@ depends: [
 "liftoff" {>="0.9.6" & <"0.10.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/docs %{bin}%/docs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/docs" ] 
+]
 

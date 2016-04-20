@@ -66,5 +66,7 @@ lib: [
 "lib/middleware/ext.js" {"lib/middleware/ext.js"}
 "lib/middleware/index.js" {"lib/middleware/index.js"}
 ".verb.md" {".verb.md"}
+]
+libexec: [
 "bin/cli.js" {"bin/cli.js"}
 ]

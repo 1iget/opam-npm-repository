@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"etc/dashdash.bash_completion.in" {"etc/dashdash.bash_completion.in"}
+"lib/dashdash.js" {"lib/dashdash.js"}
+]
+libexec: [
+
+]

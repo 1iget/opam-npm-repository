@@ -9,3 +9,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "test/validator-test.js" {"test/validator-test.js"}
 ]
+libexec: [
+
+]

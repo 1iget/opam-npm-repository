@@ -1,0 +1,37 @@
+lib: [
+"config.json" {"config.json"}
+"README.md" {"README.md"}
+"LICENSE.md" {"LICENSE.md"}
+"package.json" {"package.json"}
+"lib/ncp.js" {"lib/ncp.js"}
+"test/simple-test.js" {"test/simple-test.js"}
+"test/fixtures/file.txt" {"test/fixtures/file.txt"}
+"test/fixtures/flatdir/file3.log" {"test/fixtures/flatdir/file3.log"}
+"test/fixtures/flatdir/file4.py" {"test/fixtures/flatdir/file4.py"}
+"test/fixtures/flatdir/file2.pl" {"test/fixtures/flatdir/file2.pl"}
+"test/fixtures/flatdir/file1.txt" {"test/fixtures/flatdir/file1.txt"}
+"test/fixtures/symlinks/file3" {"test/fixtures/symlinks/file3"}
+"test/fixtures/nested/file3" {"test/fixtures/nested/file3"}
+"test/fixtures/nested/file1" {"test/fixtures/nested/file1"}
+"test/fixtures/nested/file2" {"test/fixtures/nested/file2"}
+"test/fixtures/nested/otherdir/info.ini" {"test/fixtures/nested/otherdir/info.ini"}
+"test/fixtures/nested/otherdir/simple.txt" {"test/fixtures/nested/otherdir/simple.txt"}
+"test/fixtures/nested/subdir/nested.txt" {"test/fixtures/nested/subdir/nested.txt"}
+"test/fixtures/nested/subdir/info.pl" {"test/fixtures/nested/subdir/info.pl"}
+"test/destdir/file.txt" {"test/destdir/file.txt"}
+"test/destdir/flatdir/file3.log" {"test/destdir/flatdir/file3.log"}
+"test/destdir/flatdir/file4.py" {"test/destdir/flatdir/file4.py"}
+"test/destdir/flatdir/file2.pl" {"test/destdir/flatdir/file2.pl"}
+"test/destdir/flatdir/file1.txt" {"test/destdir/flatdir/file1.txt"}
+"test/destdir/symlinks/file3" {"test/destdir/symlinks/file3"}
+"test/destdir/nested/file3" {"test/destdir/nested/file3"}
+"test/destdir/nested/file1" {"test/destdir/nested/file1"}
+"test/destdir/nested/file2" {"test/destdir/nested/file2"}
+"test/destdir/nested/otherdir/info.ini" {"test/destdir/nested/otherdir/info.ini"}
+"test/destdir/nested/otherdir/simple.txt" {"test/destdir/nested/otherdir/simple.txt"}
+"test/destdir/nested/subdir/nested.txt" {"test/destdir/nested/subdir/nested.txt"}
+"test/destdir/nested/subdir/info.pl" {"test/destdir/nested/subdir/info.pl"}
+]
+libexec: [
+"bin/ncp" {"bin/ncp"}
+]

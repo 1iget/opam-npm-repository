@@ -12,3 +12,6 @@ lib: [
 "lib/path-is-absolute.license" {"lib/path-is-absolute.license"}
 "test/combine-source-map.js" {"test/combine-source-map.js"}
 ]
+libexec: [
+
+]

@@ -9,7 +9,9 @@ depends: [
 "optimist" {>="0.3.4" & <"0.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./cli.js %{bin}%/js-beautify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/js-beautify" ] 
+]
 

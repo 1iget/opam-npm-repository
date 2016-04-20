@@ -7,3 +7,6 @@ lib: [
 "test/discreet.js" {"test/discreet.js"}
 "test/callback.js" {"test/callback.js"}
 ]
+libexec: [
+
+]

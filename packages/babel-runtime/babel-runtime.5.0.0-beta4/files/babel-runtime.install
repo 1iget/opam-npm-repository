@@ -64,3 +64,6 @@ lib: [
 "es5/regenerator/index.js" {"es5/regenerator/index.js"}
 "es5/regenerator/runtime.js" {"es5/regenerator/runtime.js"}
 ]
+libexec: [
+
+]

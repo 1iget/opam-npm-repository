@@ -69,3 +69,6 @@ lib: [
 ".testing/data/ring/" {".testing/data/ring/"}
 ".testing/bin/riak" {".testing/bin/riak"}
 ]
+libexec: [
+
+]

@@ -5,10 +5,6 @@ lib: [
 "register.js" {"register.js"}
 "register-without-polyfill.js" {"register-without-polyfill.js"}
 "polyfill.js" {"polyfill.js"}
-"bin/babel-external-helpers.js" {"bin/babel-external-helpers.js"}
-"bin/babel-node.js" {"bin/babel-node.js"}
-"bin/babel-plugin.js" {"bin/babel-plugin.js"}
-"bin/babel.js" {"bin/babel.js"}
 "lib/_babel-node.js" {"lib/_babel-node.js"}
 "lib/babel-external-helpers.js" {"lib/babel-external-helpers.js"}
 "lib/babel-node.js" {"lib/babel-node.js"}
@@ -127,4 +123,10 @@ lib: [
 "test/fixtures/babel-node/require/in-files/not_node_modules.jsx" {"test/fixtures/babel-node/require/in-files/not_node_modules.jsx"}
 "test/fixtures/babel-node/require/options.json" {"test/fixtures/babel-node/require/options.json"}
 "test/fixtures/babel-node/require/stdout.txt" {"test/fixtures/babel-node/require/stdout.txt"}
+]
+libexec: [
+"bin/babel-external-helpers.js" {"bin/babel-external-helpers.js"}
+"bin/babel-node.js" {"bin/babel-node.js"}
+"bin/babel-plugin.js" {"bin/babel-plugin.js"}
+"bin/babel.js" {"bin/babel.js"}
 ]

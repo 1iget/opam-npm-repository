@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/har-validator" {"bin/har-validator"}
 "src/index.js" {"src/index.js"}
 "src/schemas/index.js" {"src/schemas/index.js"}
 "src/schemas/log.json" {"src/schemas/log.json"}
@@ -20,4 +19,7 @@ lib: [
 "src/schemas/request.json" {"src/schemas/request.json"}
 "src/schemas/response.json" {"src/schemas/response.json"}
 "src/schemas/timings.json" {"src/schemas/timings.json"}
+]
+libexec: [
+"bin/har-validator" {"bin/har-validator"}
 ]

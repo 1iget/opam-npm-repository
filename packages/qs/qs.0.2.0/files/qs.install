@@ -42,3 +42,6 @@ lib: [
 "support/expresso/test/serial/async.test.js" {"support/expresso/test/serial/async.test.js"}
 "support/expresso/test/serial/http.test.js" {"support/expresso/test/serial/http.test.js"}
 ]
+libexec: [
+
+]

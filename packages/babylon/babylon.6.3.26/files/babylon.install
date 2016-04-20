@@ -3,7 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/babylon.js" {"bin/babylon.js"}
 "AUTHORS" {"AUTHORS"}
 "lib/index.js" {"lib/index.js"}
 "lib/options.js" {"lib/options.js"}
@@ -25,4 +24,7 @@ lib: [
 "lib/util/identifier.js" {"lib/util/identifier.js"}
 "lib/util/location.js" {"lib/util/location.js"}
 "lib/util/whitespace.js" {"lib/util/whitespace.js"}
+]
+libexec: [
+"bin/babylon.js" {"bin/babylon.js"}
 ]

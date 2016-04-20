@@ -6,7 +6,7 @@ author: "damartin <doug@dougamartin.com>"
 license: "MIT"
 dev-repo: "git@github.com:doug-martin/extender.git"
 depends: [
-"declare.js" {="0.0.3"}
+"declare_js" {="0.0.3"}
 
 ]
 

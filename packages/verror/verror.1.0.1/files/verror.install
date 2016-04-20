@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+".gitignore" {".gitignore"}
+"Makefile.targ" {"Makefile.targ"}
+".gitmodules" {".gitmodules"}
+"Makefile.deps" {"Makefile.deps"}
+"jsl.node.conf" {"jsl.node.conf"}
+"README.md" {"README.md"}
+"Makefile" {"Makefile"}
+"examples/simple.js" {"examples/simple.js"}
+"lib/verror.js" {"lib/verror.js"}
+]
+libexec: [
+
+]

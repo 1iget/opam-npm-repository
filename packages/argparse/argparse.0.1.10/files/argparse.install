@@ -48,3 +48,6 @@ lib: [
 "test/parents.js" {"test/parents.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

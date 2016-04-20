@@ -9,3 +9,6 @@ lib: [
 "component.json" {"component.json"}
 "test/test.html" {"test/test.html"}
 ]
+libexec: [
+
+]

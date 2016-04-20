@@ -4,3 +4,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "lib/async.js" {"lib/async.js"}
 ]
+libexec: [
+
+]

@@ -25,3 +25,6 @@ lib: [
 "test/unicode.js" {"test/unicode.js"}
 "test/pack.js" {"test/pack.js"}
 ]
+libexec: [
+
+]

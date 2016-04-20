@@ -53,3 +53,6 @@ lib: [
 "node_modules/stitch/test/fixtures/default/foo/bar/baz.js" {"node_modules/stitch/test/fixtures/default/foo/bar/baz.js"}
 "node_modules/stitch/test/fixtures/default/foo/buz/index.coffee" {"node_modules/stitch/test/fixtures/default/foo/buz/index.coffee"}
 ]
+libexec: [
+
+]

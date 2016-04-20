@@ -25,3 +25,6 @@ lib: [
 "test/fixtures/readmes/readmexxx.yz" {"test/fixtures/readmes/readmexxx.yz"}
 "zunda" {"zunda"}
 ]
+libexec: [
+
+]

@@ -5,3 +5,6 @@ lib: [
 "once.js" {"once.js"}
 "test/once.js" {"test/once.js"}
 ]
+libexec: [
+
+]

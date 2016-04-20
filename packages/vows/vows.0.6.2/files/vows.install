@@ -2,7 +2,6 @@ lib: [
 ".npmignore" {".npmignore"}
 ".travis.yml" {".travis.yml"}
 "bin/" {"bin/"}
-"bin/vows" {"bin/vows"}
 "lib/" {"lib/"}
 "lib/assert/" {"lib/assert/"}
 "lib/assert/error.js" {"lib/assert/error.js"}
@@ -49,4 +48,7 @@ lib: [
 "test/vows-error-test.js" {"test/vows-error-test.js"}
 "test/vows-test.js" {"test/vows-test.js"}
 "test/vows_underscore_test.js" {"test/vows_underscore_test.js"}
+]
+libexec: [
+"bin/vows" {"bin/vows"}
 ]

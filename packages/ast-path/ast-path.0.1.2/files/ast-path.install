@@ -9,3 +9,6 @@ lib: [
 "test/index.html" {"test/index.html"}
 "test/mocha.css" {"test/mocha.css"}
 ]
+libexec: [
+
+]

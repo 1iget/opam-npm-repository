@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/signal-listener.js" {"test/fixtures/signal-listener.js"}
 "test/fixtures/sigterm.js" {"test/fixtures/sigterm.js"}
 ]
+libexec: [
+
+]

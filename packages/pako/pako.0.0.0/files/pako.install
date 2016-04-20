@@ -27,3 +27,6 @@ lib: [
 "lib/zlib/zstream.js" {"lib/zlib/zstream.js"}
 "v8.log" {"v8.log"}
 ]
+libexec: [
+
+]

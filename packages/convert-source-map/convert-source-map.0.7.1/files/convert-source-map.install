@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/map-file-comment.css" {"test/fixtures/map-file-comment.css"}
 "test/fixtures/map-file-comment.css.map" {"test/fixtures/map-file-comment.css.map"}
 ]
+libexec: [
+
+]

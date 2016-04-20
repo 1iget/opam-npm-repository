@@ -12,8 +12,6 @@ lib: [
 "Makefile" {"Makefile"}
 "mocha.css" {"mocha.css"}
 "History.md" {"History.md"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "Readme.md" {"Readme.md"}
 "lib/utils.js" {"lib/utils.js"}
 "lib/hook.js" {"lib/hook.js"}
@@ -59,4 +57,8 @@ lib: [
 "lib/browser/path.js" {"lib/browser/path.js"}
 "lib/browser/progress.js" {"lib/browser/progress.js"}
 "lib/browser/tty.js" {"lib/browser/tty.js"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

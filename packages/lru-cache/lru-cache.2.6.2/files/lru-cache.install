@@ -11,3 +11,6 @@ lib: [
 "test/foreach.js" {"test/foreach.js"}
 "test/memory-leak.js" {"test/memory-leak.js"}
 ]
+libexec: [
+
+]

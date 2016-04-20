@@ -19,3 +19,6 @@ lib: [
 "examples/emitter.js" {"examples/emitter.js"}
 "package.json" {"package.json"}
 ]
+libexec: [
+
+]

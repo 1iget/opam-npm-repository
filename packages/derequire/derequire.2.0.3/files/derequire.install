@@ -5,3 +5,6 @@ lib: [
 "bin/cmd.js" {"bin/cmd.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

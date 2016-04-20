@@ -25,3 +25,6 @@ lib: [
 "test/simple/test-querystring-parser.js" {"test/simple/test-querystring-parser.js"}
 "test/system/test-multi-video-upload.js" {"test/system/test-multi-video-upload.js"}
 ]
+libexec: [
+
+]

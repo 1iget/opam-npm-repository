@@ -8,3 +8,6 @@ lib: [
 "tests/parse.js" {"tests/parse.js"}
 "tests/info/parts.info" {"tests/info/parts.info"}
 ]
+libexec: [
+
+]

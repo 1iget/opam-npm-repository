@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"lib/node-pre-gyp.js" {"lib/node-pre-gyp.js"}
+"lib/package.js" {"lib/package.js"}
+"lib/rebuild.js" {"lib/rebuild.js"}
+"lib/util/compile.js" {"lib/util/compile.js"}
+"lib/util/versioning.js" {"lib/util/versioning.js"}
+"test/app1/package.json" {"test/app1/package.json"}
+"test/app1/index.js" {"test/app1/index.js"}
+"test/app1/app1.cc" {"test/app1/app1.cc"}
+"test/app1/binding.gyp" {"test/app1/binding.gyp"}
+"test/app2/package.json" {"test/app2/package.json"}
+"test/app2/index.js" {"test/app2/index.js"}
+"test/app2/app2.cc" {"test/app2/app2.cc"}
+"test/app2/binding.gyp" {"test/app2/binding.gyp"}
+"test/app2/include/foo.hpp" {"test/app2/include/foo.hpp"}
+"test.sh" {"test.sh"}
+"todo.md" {"todo.md"}
+]
+libexec: [
+"bin/node-pre-gyp.js" {"bin/node-pre-gyp.js"}
+]

@@ -366,3 +366,6 @@ lib: [
 "example/streaming/node_modules/browserify/test/subdep/index.js" {"example/streaming/node_modules/browserify/test/subdep/index.js"}
 "example/streaming/node_modules/browserify/test/subdep/package.json" {"example/streaming/node_modules/browserify/test/subdep/package.json"}
 ]
+libexec: [
+
+]

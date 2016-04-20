@@ -29,3 +29,6 @@ lib: [
 "test/_/argv.js" {"test/_/argv.js"}
 "test/_/bin.js" {"test/_/bin.js"}
 ]
+libexec: [
+
+]

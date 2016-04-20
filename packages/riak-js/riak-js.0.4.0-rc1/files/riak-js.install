@@ -64,3 +64,6 @@ lib: [
 ".testing/etc/vm.args" {".testing/etc/vm.args"}
 ".testing/bin/riak" {".testing/bin/riak"}
 ]
+libexec: [
+
+]

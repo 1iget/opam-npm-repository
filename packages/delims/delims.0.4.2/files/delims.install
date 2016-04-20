@@ -4,3 +4,6 @@ lib: [
 "index.js" {"index.js"}
 "lib/utils.js" {"lib/utils.js"}
 ]
+libexec: [
+
+]

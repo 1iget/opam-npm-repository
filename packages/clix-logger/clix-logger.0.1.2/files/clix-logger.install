@@ -14,3 +14,6 @@ lib: [
 "specs/fixtures/colored-output.txt" {"specs/fixtures/colored-output.txt"}
 "specs/fixtures/complex-objects.txt" {"specs/fixtures/complex-objects.txt"}
 ]
+libexec: [
+
+]

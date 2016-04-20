@@ -8,13 +8,13 @@ dev-repo: "git://github.com/calvinmetcalf/browserify-sign.git"
 depends: [
 "pemstrip" {="0.0.1"}
 
-"asn1.js-rfc3280" {>="0.5.1" & <"0.6.0"}
+"asn1_js-rfc3280" {>="0.5.1" & <"0.6.0"}
 
 "inherits" {>="2.0.1" & <"3.0.0"}
 
-"bn.js" {>="0.15.2" & <"0.16.0"}
+"bn_js" {>="0.15.2" & <"0.16.0"}
 
-"asn1.js" {>="0.6.4" & <"0.7.0"}
+"asn1_js" {>="0.6.4" & <"0.7.0"}
 
 "readable-stream" {>="1.0.33" & <"2.0.0"}
 

@@ -19,3 +19,6 @@ lib: [
 "text.coffee" {"text.coffee"}
 "canon.xml" {"canon.xml"}
 ]
+libexec: [
+
+]

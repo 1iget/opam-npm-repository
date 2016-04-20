@@ -10,3 +10,6 @@ lib: [
 "examples/formats.js" {"examples/formats.js"}
 "lib/node-progress.js" {"lib/node-progress.js"}
 ]
+libexec: [
+
+]

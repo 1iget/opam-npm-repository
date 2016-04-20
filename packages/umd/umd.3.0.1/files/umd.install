@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
+]

@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"es6-shim.js" {"es6-shim.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"component.json" {"component.json"}
+"Makefile" {"Makefile"}
+"test/array.js" {"test/array.js"}
+"test/collections.js" {"test/collections.js"}
+"test/math.js" {"test/math.js"}
+"test/number.js" {"test/number.js"}
+"test/object.js" {"test/object.js"}
+"test/string.js" {"test/string.js"}
+"test/test_helpers.js" {"test/test_helpers.js"}
+"test/index.html" {"test/index.html"}
+"test/mocha.css" {"test/mocha.css"}
+]
+libexec: [
+
+]

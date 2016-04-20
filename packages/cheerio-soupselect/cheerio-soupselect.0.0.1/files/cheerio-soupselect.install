@@ -13,3 +13,6 @@ lib: [
 "testdata/test.html" {"testdata/test.html"}
 "tests/soupselect.js" {"tests/soupselect.js"}
 ]
+libexec: [
+
+]

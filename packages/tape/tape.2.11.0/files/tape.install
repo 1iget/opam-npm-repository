@@ -4,7 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
-"bin/tape" {"bin/tape"}
 "example/array.js" {"example/array.js"}
 "example/nested.js" {"example/nested.js"}
 "example/nested_fail.js" {"example/nested_fail.js"}
@@ -59,4 +58,7 @@ lib: [
 "test/exit/too_few.js" {"test/exit/too_few.js"}
 "test/double_end/double.js" {"test/double_end/double.js"}
 "test/browser/asserts.js" {"test/browser/asserts.js"}
+]
+libexec: [
+"bin/tape" {"bin/tape"}
 ]

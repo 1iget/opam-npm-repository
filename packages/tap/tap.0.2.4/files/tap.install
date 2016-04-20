@@ -66,3 +66,6 @@ lib: [
 "test-disabled/t.js" {"test-disabled/t.js"}
 "test-thrower.js" {"test-thrower.js"}
 ]
+libexec: [
+
+]

@@ -12,3 +12,6 @@ lib: [
 "test/fixtures/a.txt" {"test/fixtures/a.txt"}
 "test/fixtures/aaa.txt" {"test/fixtures/aaa.txt"}
 ]
+libexec: [
+
+]

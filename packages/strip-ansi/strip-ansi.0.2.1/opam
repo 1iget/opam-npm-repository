@@ -8,7 +8,9 @@ dev-repo: "git://github.com/sindresorhus/strip-ansi"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/strip-ansi"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/strip-ansi" ] 
+]
 

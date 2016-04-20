@@ -5,3 +5,6 @@ lib: [
 "param-case.js" {"param-case.js"}
 "param-case.d.ts" {"param-case.d.ts"}
 ]
+libexec: [
+
+]

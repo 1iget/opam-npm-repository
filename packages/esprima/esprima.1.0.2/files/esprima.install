@@ -20,8 +20,6 @@ lib: [
 "test/coverage.footer.html" {"test/coverage.footer.html"}
 "test/coverage.header.html" {"test/coverage.header.html"}
 "test/coverage.html" {"test/coverage.html"}
-"bin/esparse.js" {"bin/esparse.js"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
 "index.html" {"index.html"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "ChangeLog" {"ChangeLog"}
@@ -29,4 +27,8 @@ lib: [
 "examples/detectnestedternary.js" {"examples/detectnestedternary.js"}
 "examples/findbooleantrap.js" {"examples/findbooleantrap.js"}
 "examples/tokendist.js" {"examples/tokendist.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

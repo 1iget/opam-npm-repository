@@ -5,3 +5,6 @@ lib: [
 "swap-case.js" {"swap-case.js"}
 "swap-case.d.ts" {"swap-case.d.ts"}
 ]
+libexec: [
+
+]

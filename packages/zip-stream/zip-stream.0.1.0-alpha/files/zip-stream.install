@@ -8,3 +8,6 @@ lib: [
 "lib/zip-stream.js" {"lib/zip-stream.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

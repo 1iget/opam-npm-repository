@@ -28,3 +28,6 @@ lib: [
 "release-notes.md" {"release-notes.md"}
 "tmp/foo.txt" {"tmp/foo.txt"}
 ]
+libexec: [
+
+]

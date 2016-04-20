@@ -20,3 +20,6 @@ lib: [
 "test/sources/shebang.js" {"test/sources/shebang.js"}
 "test/sources/yield.js" {"test/sources/yield.js"}
 ]
+libexec: [
+
+]

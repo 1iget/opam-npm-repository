@@ -20,10 +20,12 @@ depends: [
 
 "tmp" {="0.0.21"}
 
-"underscore.string" {>="2.3.3" & <"2.4.0"}
+"underscore_string" {>="2.3.3" & <"2.4.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/bin.js %{bin}%/wd"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/wd" ] 
+]
 

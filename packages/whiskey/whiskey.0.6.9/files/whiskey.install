@@ -7,7 +7,6 @@ lib: [
 "CHANGES.md" {"CHANGES.md"}
 "Makefile" {"Makefile"}
 "test/run.sh" {"test/run.sh"}
-"bin/whiskey" {"bin/whiskey"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
 "assets/jquery.isonscreen.js" {"assets/jquery.isonscreen.js"}
 "assets/coverage_html.js" {"assets/coverage_html.js"}
@@ -90,4 +89,7 @@ lib: [
 "example/custom-assert-functions.js" {"example/custom-assert-functions.js"}
 "example/dependencies.json" {"example/dependencies.json"}
 "PROCESS_RUNNER.md" {"PROCESS_RUNNER.md"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

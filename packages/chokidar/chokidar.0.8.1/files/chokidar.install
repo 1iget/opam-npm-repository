@@ -8,3 +8,6 @@ lib: [
 "test.js" {"test.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 ]
+libexec: [
+
+]

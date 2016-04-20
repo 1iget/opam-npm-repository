@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/parallel.js" {"lib/parallel.js"}
+"lib/series.js" {"lib/series.js"}
+"lib/settleParallel.js" {"lib/settleParallel.js"}
+"lib/settleSeries.js" {"lib/settleSeries.js"}
+]
+libexec: [
+
+]

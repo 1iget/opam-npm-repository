@@ -8,3 +8,6 @@ lib: [
 "test/compare/default-in.js" {"test/compare/default-in.js"}
 "test/compare/default-out.js" {"test/compare/default-out.js"}
 ]
+libexec: [
+
+]

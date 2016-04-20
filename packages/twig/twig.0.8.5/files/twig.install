@@ -6,7 +6,6 @@ lib: [
 "twig.min.js" {"twig.min.js"}
 "twig.js" {"twig.js"}
 ".travis.yml" {".travis.yml"}
-"bin/twigjs" {"bin/twigjs"}
 "bower.json" {"bower.json"}
 ".gitmodules" {".gitmodules"}
 "docs/docco.css" {"docs/docco.css"}
@@ -31,4 +30,7 @@ lib: [
 "test-ext/checkout.sh" {"test-ext/checkout.sh"}
 "Makefile" {"Makefile"}
 "twig.min.js.map" {"twig.min.js.map"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
 ]

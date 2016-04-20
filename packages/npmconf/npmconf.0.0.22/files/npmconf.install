@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/userconfig" {"test/fixtures/userconfig"}
 "x.diff" {"x.diff"}
 ]
+libexec: [
+
+]

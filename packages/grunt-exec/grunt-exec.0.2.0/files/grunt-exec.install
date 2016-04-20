@@ -9,3 +9,6 @@ lib: [
 "tasks/exec.js" {"tasks/exec.js"}
 "test/exec_test.js" {"test/exec_test.js"}
 ]
+libexec: [
+
+]

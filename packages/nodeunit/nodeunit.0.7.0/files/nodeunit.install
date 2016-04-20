@@ -33,7 +33,6 @@ lib: [
 "deps/json2.js" {"deps/json2.js"}
 "bin/" {"bin/"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
-"bin/nodeunit" {"bin/nodeunit"}
 "test/" {"test/"}
 "test/test-testcase.js" {"test/test-testcase.js"}
 "test/test-bettererrors.js" {"test/test-bettererrors.js"}
@@ -139,4 +138,7 @@ lib: [
 "examples/nested/nested_reporter_test.unit.js" {"examples/nested/nested_reporter_test.unit.js"}
 ".npmignore" {".npmignore"}
 "LICENSE" {"LICENSE"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

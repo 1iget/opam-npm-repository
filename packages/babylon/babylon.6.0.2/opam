@@ -9,7 +9,9 @@ depends: [
 "babel-runtime" {>="6.0.2" & <"7.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/babylon.js %{bin}%/babylon"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/babylon" ] 
+]
 

@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"lib/dest/index.js" {"lib/dest/index.js"}
+"lib/dest/writeContents/index.js" {"lib/dest/writeContents/index.js"}
+"lib/dest/writeContents/writeBuffer.js" {"lib/dest/writeContents/writeBuffer.js"}
+"lib/dest/writeContents/writeDir.js" {"lib/dest/writeContents/writeDir.js"}
+"lib/dest/writeContents/writeStream.js" {"lib/dest/writeContents/writeStream.js"}
+"lib/src/getStats.js" {"lib/src/getStats.js"}
+"lib/src/index.js" {"lib/src/index.js"}
+"lib/src/getContents/bufferFile.js" {"lib/src/getContents/bufferFile.js"}
+"lib/src/getContents/index.js" {"lib/src/getContents/index.js"}
+"lib/src/getContents/readDir.js" {"lib/src/getContents/readDir.js"}
+"lib/src/getContents/streamFile.js" {"lib/src/getContents/streamFile.js"}
+".editorconfig" {".editorconfig"}
+"test/dest.js" {"test/dest.js"}
+"test/spy.js" {"test/spy.js"}
+"test/src.js" {"test/src.js"}
+"test/fixtures/bom-utf16be.txt" {"test/fixtures/bom-utf16be.txt"}
+"test/fixtures/bom-utf16le.txt" {"test/fixtures/bom-utf16le.txt"}
+"test/fixtures/bom-utf8.txt" {"test/fixtures/bom-utf8.txt"}
+"test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
+"test/fixtures/wow/suchempty" {"test/fixtures/wow/suchempty"}
+]
+libexec: [
+
+]

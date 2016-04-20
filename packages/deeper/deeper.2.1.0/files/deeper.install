@@ -12,3 +12,6 @@ lib: [
 "test/buffer-native-equals.js" {"test/buffer-native-equals.js"}
 "test/buffer-pure-js.js" {"test/buffer-pure-js.js"}
 ]
+libexec: [
+
+]

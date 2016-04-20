@@ -1,0 +1,23 @@
+lib: [
+"eventproxy.js" {"eventproxy.js"}
+"MIT-License" {"MIT-License"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"package.json" {"package.json"}
+"test/" {"test/"}
+"test/test.js" {"test/test.js"}
+"test/eventproxy.test.js" {"test/eventproxy.test.js"}
+"test/test.html" {"test/test.html"}
+"jsdoc/" {"jsdoc/"}
+"jsdoc/symbols/" {"jsdoc/symbols/"}
+"jsdoc/symbols/src/" {"jsdoc/symbols/src/"}
+"jsdoc/symbols/src/eventproxy.js.html" {"jsdoc/symbols/src/eventproxy.js.html"}
+"jsdoc/symbols/src/Y__git_eventproxy_eventproxy.js.html" {"jsdoc/symbols/src/Y__git_eventproxy_eventproxy.js.html"}
+"jsdoc/symbols/_global_.html" {"jsdoc/symbols/_global_.html"}
+"jsdoc/symbols/EventProxy.html" {"jsdoc/symbols/EventProxy.html"}
+"jsdoc/index.html" {"jsdoc/index.html"}
+"jsdoc/files.html" {"jsdoc/files.html"}
+]
+libexec: [
+
+]

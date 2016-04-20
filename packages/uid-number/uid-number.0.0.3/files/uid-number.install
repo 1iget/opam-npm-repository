@@ -5,3 +5,6 @@ lib: [
 "get-uid-gid.js" {"get-uid-gid.js"}
 "uid-number.js" {"uid-number.js"}
 ]
+libexec: [
+
+]

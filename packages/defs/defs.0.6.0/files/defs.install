@@ -29,7 +29,6 @@ lib: [
 "build/es5/run-tests.js" {"build/es5/run-tests.js"}
 "build/es5/scope.js" {"build/es5/scope.js"}
 "build/es5/stats.js" {"build/es5/stats.js"}
-"build/es5/defs" {"build/es5/defs"}
 "build/es5/jshint_globals/README" {"build/es5/jshint_globals/README"}
 "build/es5/jshint_globals/vars.js" {"build/es5/jshint_globals/vars.js"}
 "build/es5/jshint_globals/LICENSE.jshint" {"build/es5/jshint_globals/LICENSE.jshint"}
@@ -78,4 +77,7 @@ lib: [
 "tests/var-let-same-scope-stderr" {"tests/var-let-same-scope-stderr"}
 "tests/duplicate-var-stderr" {"tests/duplicate-var-stderr"}
 "tests/const-assign-stderr" {"tests/const-assign-stderr"}
+]
+libexec: [
+"build/es5/defs" {"build/es5/defs"}
 ]

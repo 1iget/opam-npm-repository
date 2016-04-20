@@ -28,3 +28,6 @@ lib: [
 "src/util.js" {"src/util.js"}
 "src/promise.js" {"src/promise.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,30 @@
+lib: [
+".gitignore" {".gitignore"}
+".npmignore" {".npmignore"}
+"CHANGELOG" {"CHANGELOG"}
+"index.js" {"index.js"}
+"LICENSE" {"LICENSE"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"bin/testfiles.js" {"bin/testfiles.js"}
+"bin/update.js" {"bin/update.js"}
+"features/index.js" {"features/index.js"}
+"lib/agents.js" {"lib/agents.js"}
+"lib/update.js" {"lib/update.js"}
+"lib/useragent.js" {"lib/useragent.js"}
+"static/user_agent.after.yaml" {"static/user_agent.after.yaml"}
+"tests/features.test.js" {"tests/features.test.js"}
+"tests/parser.qa.js" {"tests/parser.qa.js"}
+"tests/parser.test.js" {"tests/parser.test.js"}
+"tests/fixtures/firefoxes.yaml" {"tests/fixtures/firefoxes.yaml"}
+"tests/fixtures/pgts.yaml" {"tests/fixtures/pgts.yaml"}
+"tests/fixtures/static.custom.yaml" {"tests/fixtures/static.custom.yaml"}
+"tests/fixtures/testcases.yaml" {"tests/fixtures/testcases.yaml"}
+"benchmark/package.json" {"benchmark/package.json"}
+"benchmark/dict.js" {"benchmark/dict.js"}
+"benchmark/run.js" {"benchmark/run.js"}
+]
+libexec: [
+
+]

@@ -11,7 +11,9 @@ depends: [
 "recast" {>="0.5.6" & <"0.6.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/envify %{bin}%/envify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/envify" ] 
+]
 

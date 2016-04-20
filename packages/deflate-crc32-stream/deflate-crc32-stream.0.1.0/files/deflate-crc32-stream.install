@@ -9,3 +9,6 @@ lib: [
 "test/deflate.js" {"test/deflate.js"}
 "test/helpers/index.js" {"test/helpers/index.js"}
 ]
+libexec: [
+
+]

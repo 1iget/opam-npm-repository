@@ -12,3 +12,6 @@ lib: [
 "test/fixtures/default.tmpl" {"test/fixtures/default.tmpl"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

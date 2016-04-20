@@ -1,0 +1,17 @@
+lib: [
+".gitignore" {".gitignore"}
+".gitmodules" {".gitmodules"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"examples/runner.js" {"examples/runner.js"}
+"lib/eql.js" {"lib/eql.js"}
+"lib/should.js" {"lib/should.js"}
+"test/exist.test.js" {"test/exist.test.js"}
+"test/should.test.js" {"test/should.test.js"}
+]
+libexec: [
+
+]

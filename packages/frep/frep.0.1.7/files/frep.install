@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"frep.js" {"frep.js"}
+".gitattributes" {".gitattributes"}
+"bower.json" {"bower.json"}
+"lib/ascii.js" {"lib/ascii.js"}
+"lib/attributes.js" {"lib/attributes.js"}
+"lib/entities.js" {"lib/entities.js"}
+"lib/html-tags.js" {"lib/html-tags.js"}
+"lib/url-encoding.js" {"lib/url-encoding.js"}
+"lib/utils.js" {"lib/utils.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/example.js" {"test/example.js"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+
+]

@@ -27,7 +27,9 @@ depends: [
 "with" {>="4.0.0" & <"4.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jade.js %{bin}%/jade"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jade" ] 
+]
 

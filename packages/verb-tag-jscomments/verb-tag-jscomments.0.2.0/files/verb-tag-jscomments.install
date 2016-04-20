@@ -14,3 +14,6 @@ lib: [
 "test/jscomments.md" {"test/jscomments.md"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

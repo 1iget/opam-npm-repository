@@ -6,3 +6,6 @@ lib: [
 "swap-case.js" {"swap-case.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

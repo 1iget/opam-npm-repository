@@ -8,7 +8,9 @@ dev-repo: "https://github.com/mathiasbynens/jsesc.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/jsesc %{bin}%/jsesc"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jsesc" ] 
+]
 

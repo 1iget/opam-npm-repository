@@ -14,7 +14,7 @@ depends: [
 
 "exit" {>="0.1.1" & <"0.2.0"}
 
-"underscore.string" {>="2.2.1" & <"2.3.0"}
+"underscore_string" {>="2.2.1" & <"2.3.0"}
 
 "getobject" {>="0.1.0" & <"0.2.0"}
 

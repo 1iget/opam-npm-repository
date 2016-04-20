@@ -4,3 +4,6 @@ lib: [
 "opener.js" {"opener.js"}
 "LICENSE.txt" {"LICENSE.txt"}
 ]
+libexec: [
+
+]

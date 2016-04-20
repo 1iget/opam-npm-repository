@@ -68,3 +68,6 @@ lib: [
 "lib/rules_inline/text.js" {"lib/rules_inline/text.js"}
 "lib/rules_inline/htmltag.js" {"lib/rules_inline/htmltag.js"}
 ]
+libexec: [
+
+]

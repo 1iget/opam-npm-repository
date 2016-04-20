@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/compare.spec.js" {"test/compare.spec.js"}
+"test/compare/arrays/input-depth.js" {"test/compare/arrays/input-depth.js"}
+"test/compare/arrays/input-keycount.js" {"test/compare/arrays/input-keycount.js"}
+"test/compare/arrays/input-linelength.js" {"test/compare/arrays/input-linelength.js"}
+"test/compare/arrays/output-depth.js" {"test/compare/arrays/output-depth.js"}
+"test/compare/arrays/output-keycount.js" {"test/compare/arrays/output-keycount.js"}
+"test/compare/arrays/output-linelength.js" {"test/compare/arrays/output-linelength.js"}
+"test/compare/objects/input-depth.js" {"test/compare/objects/input-depth.js"}
+"test/compare/objects/input-keycount.js" {"test/compare/objects/input-keycount.js"}
+"test/compare/objects/input-linelength.js" {"test/compare/objects/input-linelength.js"}
+"test/compare/objects/output-depth.js" {"test/compare/objects/output-depth.js"}
+"test/compare/objects/output-keycount.js" {"test/compare/objects/output-keycount.js"}
+"test/compare/objects/output-linelength.js" {"test/compare/objects/output-linelength.js"}
+]
+libexec: [
+
+]

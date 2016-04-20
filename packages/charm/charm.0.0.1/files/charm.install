@@ -8,3 +8,6 @@ lib: [
 "example/spin.js" {"example/spin.js"}
 "lib/encode.js" {"lib/encode.js"}
 ]
+libexec: [
+
+]

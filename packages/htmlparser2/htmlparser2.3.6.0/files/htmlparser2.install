@@ -17,3 +17,6 @@ lib: [
 "lib/entities/legacy.json" {"lib/entities/legacy.json"}
 "lib/entities/xml.json" {"lib/entities/xml.json"}
 ]
+libexec: [
+
+]

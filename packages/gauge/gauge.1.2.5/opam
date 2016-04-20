@@ -10,11 +10,11 @@ depends: [
 
 "has-unicode" {>="2.0.0" & <"3.0.0"}
 
-"lodash.pad" {>="3.0.0" & <"4.0.0"}
+"lodash_pad" {>="3.0.0" & <"4.0.0"}
 
-"lodash.padleft" {>="3.0.0" & <"4.0.0"}
+"lodash_padleft" {>="3.0.0" & <"4.0.0"}
 
-"lodash.padright" {>="3.0.0" & <"4.0.0"}
+"lodash_padright" {>="3.0.0" & <"4.0.0"}
 
 ]
 

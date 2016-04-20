@@ -53,3 +53,6 @@ lib: [
 "dist/alignTableData.js.map" {"dist/alignTableData.js.map"}
 "dist/wrapWord.js.map" {"dist/wrapWord.js.map"}
 ]
+libexec: [
+
+]

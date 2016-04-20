@@ -37,7 +37,9 @@ depends: [
 "xtend" {>="4.0.0" & <"5.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/module-deps"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/module-deps" ] 
+]
 

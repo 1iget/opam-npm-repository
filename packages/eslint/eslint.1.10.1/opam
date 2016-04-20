@@ -44,11 +44,11 @@ depends: [
 
 "json-stable-stringify" {>="1.0.0" & <"2.0.0"}
 
-"lodash.clonedeep" {>="3.0.1" & <"4.0.0"}
+"lodash_clonedeep" {>="3.0.1" & <"4.0.0"}
 
-"lodash.merge" {>="3.3.2" & <"4.0.0"}
+"lodash_merge" {>="3.3.2" & <"4.0.0"}
 
-"lodash.omit" {>="3.1.0" & <"4.0.0"}
+"lodash_omit" {>="3.1.0" & <"4.0.0"}
 
 "minimatch" {>="3.0.0" & <"4.0.0"}
 
@@ -73,7 +73,9 @@ depends: [
 "xml-escape" {>="1.0.0" & <"1.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/eslint.js %{bin}%/eslint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/eslint" ] 
+]
 

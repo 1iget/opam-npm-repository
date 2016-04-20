@@ -13,7 +13,9 @@ depends: [
 "nopt" {>="2.2.0" & <"2.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./js/bin/js-beautify.js %{bin}%/js-beautify"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/js-beautify" ] 
+]
 

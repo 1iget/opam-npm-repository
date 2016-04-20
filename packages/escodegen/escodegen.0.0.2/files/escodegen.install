@@ -10,7 +10,6 @@ lib: [
 "assets/json2.js" {"assets/json2.js"}
 "assets/style.css" {"assets/style.css"}
 "bin/" {"bin/"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "demo/" {"demo/"}
 "demo/checkenv.js" {"demo/checkenv.js"}
 "demo/rewrite.html" {"demo/rewrite.html"}
@@ -46,4 +45,7 @@ lib: [
 "test/identity.js" {"test/identity.js"}
 "test/run.js" {"test/run.js"}
 "test/test.js" {"test/test.js"}
+]
+libexec: [
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

@@ -19,3 +19,6 @@ lib: [
 "test/index.html" {"test/index.html"}
 "test/index.css" {"test/index.css"}
 ]
+libexec: [
+
+]

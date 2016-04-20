@@ -14,3 +14,6 @@ lib: [
 "test/__line.js" {"test/__line.js"}
 "test/__stack.js" {"test/__stack.js"}
 ]
+libexec: [
+
+]

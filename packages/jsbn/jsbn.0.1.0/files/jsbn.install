@@ -7,3 +7,6 @@ lib: [
 "index.js" {"index.js"}
 "example.html" {"example.html"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,30 @@
+lib: [
+".gitignore" {".gitignore"}
+"binding.cc" {"binding.cc"}
+"jsl.conf" {"jsl.conf"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"testutil.js" {"testutil.js"}
+"wscript" {"wscript"}
+"yaml.js" {"yaml.js"}
+"tests/booleans.js" {"tests/booleans.js"}
+"tests/booleans.yaml" {"tests/booleans.yaml"}
+"tests/datetime.yaml" {"tests/datetime.yaml"}
+"tests/documents.js" {"tests/documents.js"}
+"tests/datetime.js" {"tests/datetime.js"}
+"tests/documents.yaml" {"tests/documents.yaml"}
+"tests/floats.js" {"tests/floats.js"}
+"tests/floats.yaml" {"tests/floats.yaml"}
+"tests/integers.js" {"tests/integers.js"}
+"tests/integers.yaml" {"tests/integers.yaml"}
+"tests/maps.js" {"tests/maps.js"}
+"tests/maps.yaml" {"tests/maps.yaml"}
+"tests/null.js" {"tests/null.js"}
+"tests/null.yaml" {"tests/null.yaml"}
+"tests/sequences.js" {"tests/sequences.js"}
+"tests/sequences.yaml" {"tests/sequences.yaml"}
+]
+libexec: [
+
+]

@@ -11,3 +11,6 @@ lib: [
 "tests/info/parts.info" {"tests/info/parts.info"}
 "lib/index.js" {"lib/index.js"}
 ]
+libexec: [
+
+]

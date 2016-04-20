@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "escodegen.js" {"escodegen.js"}
 ".travis.yml" {".travis.yml"}
-"bin/esgenerate.js" {"bin/esgenerate.js"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "test/api.js" {"test/api.js"}
 "test/identity.js" {"test/identity.js"}
@@ -31,4 +30,7 @@ lib: [
 "test/3rdparty/benchmark.js" {"test/3rdparty/benchmark.js"}
 "test/3rdparty/ZeParser.js" {"test/3rdparty/ZeParser.js"}
 "test/3rdparty/jsparse.js" {"test/3rdparty/jsparse.js"}
+]
+libexec: [
+"bin/esgenerate.js" {"bin/esgenerate.js"}
 ]

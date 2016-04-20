@@ -17,3 +17,6 @@ lib: [
 "index.js" {"index.js"}
 "LICENCE" {"LICENCE"}
 ]
+libexec: [
+
+]

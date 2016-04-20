@@ -11,3 +11,6 @@ lib: [
 "lib/storage.js" {"lib/storage.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

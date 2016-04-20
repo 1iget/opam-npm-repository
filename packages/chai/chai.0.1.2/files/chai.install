@@ -30,3 +30,6 @@ lib: [
 "test/expect.js" {"test/expect.js"}
 "test/should.js" {"test/should.js"}
 ]
+libexec: [
+
+]

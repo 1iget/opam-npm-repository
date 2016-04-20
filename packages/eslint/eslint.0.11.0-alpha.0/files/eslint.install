@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/eslint.js" {"bin/eslint.js"}
 "conf/environments.json" {"conf/environments.json"}
 "conf/eslint.json" {"conf/eslint.json"}
 "conf/nodetypes.json" {"conf/nodetypes.json"}
@@ -170,4 +169,7 @@ lib: [
 "lib/util/attach-comments.js" {"lib/util/attach-comments.js"}
 "lib/util/traverse.js" {"lib/util/traverse.js"}
 "lib/util/validator.js" {"lib/util/validator.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

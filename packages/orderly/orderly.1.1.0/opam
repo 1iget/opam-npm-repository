@@ -9,7 +9,9 @@ depends: [
 "nomnom" {>="0.4.3"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/dist/cli.js %{bin}%/orderly"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/orderly" ] 
+]
 

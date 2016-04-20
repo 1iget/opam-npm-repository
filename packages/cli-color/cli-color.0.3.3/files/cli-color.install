@@ -20,3 +20,6 @@ lib: [
 "test/lib/xterm-match.js" {"test/lib/xterm-match.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

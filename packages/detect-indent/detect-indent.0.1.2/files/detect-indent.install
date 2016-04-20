@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"detect-indent.js" {"detect-indent.js"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

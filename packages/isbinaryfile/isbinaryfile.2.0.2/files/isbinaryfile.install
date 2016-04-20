@@ -14,3 +14,6 @@ lib: [
 "tests/fixtures/06_trunks.gif" {"tests/fixtures/06_trunks.gif"}
 "tests/fixtures/07_no.lua" {"tests/fixtures/07_no.lua"}
 ]
+libexec: [
+
+]

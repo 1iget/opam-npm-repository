@@ -12,3 +12,6 @@ lib: [
 "lib/run-instrument.js" {"lib/run-instrument.js"}
 "lib/run-reports.js" {"lib/run-reports.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"q-io.js" {"q-io.js"}
+"CHANGES" {"CHANGES"}
+"test/issues/1.js" {"test/issues/1.js"}
+]
+libexec: [
+
+]

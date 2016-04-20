@@ -3,3 +3,6 @@ lib: [
 "package.json" {"package.json"}
 "readme.mdown" {"readme.mdown"}
 ]
+libexec: [
+
+]

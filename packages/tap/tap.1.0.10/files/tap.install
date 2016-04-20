@@ -16,3 +16,6 @@ lib: [
 "lib/test.js" {"lib/test.js"}
 "scripts/generate-test-test.js" {"scripts/generate-test-test.js"}
 ]
+libexec: [
+
+]

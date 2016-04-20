@@ -16,12 +16,14 @@ depends: [
 
 "request" {>="2.55.0" & <"2.56.0"}
 
-"underscore.string" {>="3.0.3" & <"3.1.0"}
+"underscore_string" {>="3.0.3" & <"3.1.0"}
 
 "vargs" {>="0.1.0" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./lib/bin.js %{bin}%/wd"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/wd" ] 
+]
 

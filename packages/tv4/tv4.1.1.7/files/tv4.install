@@ -8,3 +8,6 @@ lib: [
 "lang/de.js" {"lang/de.js"}
 "lang/no-nb.js" {"lang/no-nb.js"}
 ]
+libexec: [
+
+]

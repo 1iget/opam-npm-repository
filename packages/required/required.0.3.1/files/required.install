@@ -29,3 +29,6 @@ lib: [
 "tmp/b.js" {"tmp/b.js"}
 "tmp/c.js" {"tmp/c.js"}
 ]
+libexec: [
+
+]

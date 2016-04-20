@@ -20,3 +20,6 @@ lib: [
 "test/wildcardEvents/removeListener.js" {"test/wildcardEvents/removeListener.js"}
 "test/wildcardEvents/ttl.js" {"test/wildcardEvents/ttl.js"}
 ]
+libexec: [
+
+]

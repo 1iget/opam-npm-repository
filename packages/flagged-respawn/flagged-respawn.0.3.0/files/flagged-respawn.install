@@ -12,3 +12,6 @@ lib: [
 "test/bin/respawner.js" {"test/bin/respawner.js"}
 "test/bin/signal.js" {"test/bin/signal.js"}
 ]
+libexec: [
+
+]

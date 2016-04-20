@@ -10,3 +10,6 @@ lib: [
 "wscript" {"wscript"}
 "changelog" {"changelog"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,13 @@
+lib: [
+"" {""}
+"lib/" {"lib/"}
+"LICENSE" {"LICENSE"}
+"NOTICE" {"NOTICE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"t.js" {"t.js"}
+"lib/logmagic.js" {"lib/logmagic.js"}
+]
+libexec: [
+
+]

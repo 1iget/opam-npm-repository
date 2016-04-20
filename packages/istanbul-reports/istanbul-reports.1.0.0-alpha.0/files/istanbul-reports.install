@@ -26,3 +26,6 @@ lib: [
 "lib/text-lcov/index.js" {"lib/text-lcov/index.js"}
 "lib/text-summary/index.js" {"lib/text-summary/index.js"}
 ]
+libexec: [
+
+]

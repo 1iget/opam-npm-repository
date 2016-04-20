@@ -10,7 +10,6 @@ lib: [
 "examples/browser/suite3.js" {"examples/browser/suite3.js"}
 "examples/browser/test.html" {"examples/browser/test.html"}
 "examples/nested/nested_reporter_test.unit.js" {"examples/nested/nested_reporter_test.unit.js"}
-"bin/nodeunit" {"bin/nodeunit"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
 "deps/async.js" {"deps/async.js"}
 "deps/console.log.js" {"deps/console.log.js"}
@@ -82,4 +81,7 @@ lib: [
 "test/fixtures/dir/mock_module3.js" {"test/fixtures/dir/mock_module3.js"}
 "test/fixtures/dir/mock_module4.js" {"test/fixtures/dir/mock_module4.js"}
 "test/test.html" {"test/test.html"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

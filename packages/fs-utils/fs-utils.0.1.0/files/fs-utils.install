@@ -5,3 +5,6 @@ lib: [
 "index.js" {"index.js"}
 "test/fixtures/test.txt" {"test/fixtures/test.txt"}
 ]
+libexec: [
+
+]

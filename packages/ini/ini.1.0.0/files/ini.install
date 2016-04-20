@@ -1,0 +1,10 @@
+lib: [
+"ini.js" {"ini.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test/foo.js" {"test/foo.js"}
+"test/fixtures/foo.ini" {"test/fixtures/foo.ini"}
+]
+libexec: [
+
+]

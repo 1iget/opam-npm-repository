@@ -10,3 +10,6 @@ lib: [
 "test/language.js" {"test/language.js"}
 "test/type.js" {"test/type.js"}
 ]
+libexec: [
+
+]

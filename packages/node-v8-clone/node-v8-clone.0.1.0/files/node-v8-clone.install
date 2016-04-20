@@ -9,3 +9,6 @@ lib: [
 "binding.gyp" {"binding.gyp"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

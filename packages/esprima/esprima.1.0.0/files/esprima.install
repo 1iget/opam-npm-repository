@@ -40,8 +40,6 @@ lib: [
 "index.html" {"index.html"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 ".travis.yml" {".travis.yml"}
-"bin/esparse.js" {"bin/esparse.js"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
 "test/test.js" {"test/test.js"}
 "test/benchmarks.js" {"test/benchmarks.js"}
 "test/compare.js" {"test/compare.js"}
@@ -79,4 +77,8 @@ lib: [
 "tools/generate-test-fixture.js" {"tools/generate-test-fixture.js"}
 "tools/generate-unicode-regex.py" {"tools/generate-unicode-regex.py"}
 "tools/update-coverage.sh" {"tools/update-coverage.sh"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

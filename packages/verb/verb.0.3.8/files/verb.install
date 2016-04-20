@@ -65,5 +65,7 @@ lib: [
 "lib/utils/username.js" {"lib/utils/username.js"}
 "lib/utils/getDestExt.js" {"lib/utils/getDestExt.js"}
 ".verb.md" {".verb.md"}
+]
+libexec: [
 "bin/cli.js" {"bin/cli.js"}
 ]

@@ -41,3 +41,6 @@ lib: [
 "test/compare/default/while-out.js" {"test/compare/default/while-out.js"}
 "test/compare/default/for_in-out.js" {"test/compare/default/for_in-out.js"}
 ]
+libexec: [
+
+]

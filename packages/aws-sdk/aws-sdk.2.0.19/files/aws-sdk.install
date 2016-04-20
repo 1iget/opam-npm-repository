@@ -77,3 +77,6 @@ lib: [
 "scripts/console" {"scripts/console"}
 "testem.json" {"testem.json"}
 ]
+libexec: [
+
+]

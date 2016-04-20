@@ -23,3 +23,6 @@ lib: [
 "test/short.js" {"test/short.js"}
 "test/shortcut.js" {"test/shortcut.js"}
 ]
+libexec: [
+
+]

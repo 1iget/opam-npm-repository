@@ -21,3 +21,6 @@ lib: [
 "text.coffee" {"text.coffee"}
 "borker.coffee" {"borker.coffee"}
 ]
+libexec: [
+
+]

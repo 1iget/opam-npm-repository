@@ -10,3 +10,6 @@ lib: [
 "encoding/index.js" {"encoding/index.js"}
 "test/index.js" {"test/index.js"}
 ]
+libexec: [
+
+]

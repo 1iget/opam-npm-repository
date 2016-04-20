@@ -1,0 +1,20 @@
+lib: [
+".gitignore" {".gitignore"}
+"CHANGES.md" {"CHANGES.md"}
+"inspect.js" {"inspect.js"}
+"jaque.js" {"jaque.js"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+"examples/file-tree.js" {"examples/file-tree.js"}
+"lib/cookie.js" {"lib/cookie.js"}
+"lib/querystring.js" {"lib/querystring.js"}
+"lib/util.js" {"lib/util.js"}
+"test/interpret-range.js" {"test/interpret-range.js"}
+"test/partial-range.js" {"test/partial-range.js"}
+"test/proxy.js" {"test/proxy.js"}
+"test/fixtures/1234.txt" {"test/fixtures/1234.txt"}
+]
+libexec: [
+
+]

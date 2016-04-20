@@ -7,3 +7,6 @@ lib: [
 "bower.json" {"bower.json"}
 "component.json" {"component.json"}
 ]
+libexec: [
+
+]

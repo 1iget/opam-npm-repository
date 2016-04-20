@@ -10,3 +10,6 @@ lib: [
 "test/cmp.js" {"test/cmp.js"}
 "test/neg-vs-pos-0.js" {"test/neg-vs-pos-0.js"}
 ]
+libexec: [
+
+]

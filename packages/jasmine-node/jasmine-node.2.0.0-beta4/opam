@@ -27,7 +27,9 @@ depends: [
 "jasmine-reporters" {="ImdpdDovL2dpdGh1Yi5jb20vbGFycnlteWVycy9qYXNtaW5lLXJlcG9ydGVycy5naXQjMmM3MjQyZGMxMWMxNWMyZjE1NjE2OWJjNzA0Nzk4NTY4YjhjYjUwZCI"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jasmine-node %{bin}%/jasmine-node"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasmine-node" ] 
+]
 

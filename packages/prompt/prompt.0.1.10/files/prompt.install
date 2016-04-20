@@ -16,3 +16,6 @@ lib: [
 "docs/docco.css" {"docs/docco.css"}
 "lib/prompt.js" {"lib/prompt.js"}
 ]
+libexec: [
+
+]

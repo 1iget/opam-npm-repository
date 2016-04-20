@@ -31,3 +31,6 @@ lib: [
 "test/es6/test-buffer-iterator.js" {"test/es6/test-buffer-iterator.js"}
 "test/es6/README.txt" {"test/es6/README.txt"}
 ]
+libexec: [
+
+]

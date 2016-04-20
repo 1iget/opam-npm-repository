@@ -1,0 +1,13 @@
+lib: [
+"LICENSE" {"LICENSE"}
+"NOTICE" {"NOTICE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/graylog.js" {"lib/graylog.js"}
+"lib/logmagic.js" {"lib/logmagic.js"}
+"tests/bench.js" {"tests/bench.js"}
+"tests/t.js" {"tests/t.js"}
+]
+libexec: [
+
+]

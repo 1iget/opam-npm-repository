@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"LICENSE.md" {"LICENSE.md"}
+"lib/ncp.js" {"lib/ncp.js"}
+"test/ncp.js" {"test/ncp.js"}
+"test/fixtures/src/a" {"test/fixtures/src/a"}
+"test/fixtures/src/b" {"test/fixtures/src/b"}
+"test/fixtures/src/c" {"test/fixtures/src/c"}
+"test/fixtures/src/d" {"test/fixtures/src/d"}
+"test/fixtures/src/e" {"test/fixtures/src/e"}
+"test/fixtures/src/f" {"test/fixtures/src/f"}
+"test/fixtures/src/sub/a" {"test/fixtures/src/sub/a"}
+"test/fixtures/src/sub/b" {"test/fixtures/src/sub/b"}
+]
+libexec: [
+"bin/ncp" {"bin/ncp"}
+]

@@ -7,3 +7,6 @@ lib: [
 "Makefile" {"Makefile"}
 "test/base64.coffee" {"test/base64.coffee"}
 ]
+libexec: [
+
+]

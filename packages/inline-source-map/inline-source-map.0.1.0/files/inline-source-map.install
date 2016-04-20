@@ -9,3 +9,6 @@ lib: [
 "test/generated-mappings.js" {"test/generated-mappings.js"}
 "test/inline-source-map.js" {"test/inline-source-map.js"}
 ]
+libexec: [
+
+]

@@ -15,7 +15,9 @@ lib: [
 ".verbrc.yml" {".verbrc.yml"}
 "lib/template.js" {"lib/template.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
-"bin/methods" {"bin/methods"}
 "bower.json" {"bower.json"}
 "test/fixtures/lodash.js" {"test/fixtures/lodash.js"}
+]
+libexec: [
+"bin/methods" {"bin/methods"}
 ]

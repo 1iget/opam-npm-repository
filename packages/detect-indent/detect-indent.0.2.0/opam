@@ -11,7 +11,9 @@ depends: [
 "minimist" {>="0.1.0" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/detect-indent"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/detect-indent" ] 
+]
 

@@ -16,3 +16,6 @@ lib: [
 "examples/._demo.js" {"examples/._demo.js"}
 "examples/demo.js" {"examples/demo.js"}
 ]
+libexec: [
+
+]

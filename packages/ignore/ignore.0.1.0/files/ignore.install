@@ -12,3 +12,6 @@ lib: [
 "test/fixtures/.ignore2" {"test/fixtures/.ignore2"}
 "test/fixtures/.ignore3" {"test/fixtures/.ignore3"}
 ]
+libexec: [
+
+]

@@ -37,3 +37,6 @@ lib: [
 "build/suffix-source-map.jsm" {"build/suffix-source-map.jsm"}
 "build/suffix-utils.jsm" {"build/suffix-utils.jsm"}
 ]
+libexec: [
+
+]

@@ -55,3 +55,6 @@ lib: [
 "tests/tests.bat" {"tests/tests.bat"}
 "tests/tests.html" {"tests/tests.html"}
 ]
+libexec: [
+
+]

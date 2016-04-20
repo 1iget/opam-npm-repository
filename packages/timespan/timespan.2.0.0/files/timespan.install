@@ -1,0 +1,23 @@
+lib: [
+"" {""}
+"browser/" {"browser/"}
+"._CHANGELOG.md" {"._CHANGELOG.md"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"lib/" {"lib/"}
+"._LICENSE" {"._LICENSE"}
+"LICENSE" {"LICENSE"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._README.md" {"._README.md"}
+"README.md" {"README.md"}
+"test/" {"test/"}
+"test/._time-span-test.js" {"test/._time-span-test.js"}
+"test/time-span-test.js" {"test/time-span-test.js"}
+"lib/._time-span.js" {"lib/._time-span.js"}
+"lib/time-span.js" {"lib/time-span.js"}
+"browser/TimeSpan-1.2.js" {"browser/TimeSpan-1.2.js"}
+"browser/TimeSpan-1.2.min.js" {"browser/TimeSpan-1.2.min.js"}
+]
+libexec: [
+
+]

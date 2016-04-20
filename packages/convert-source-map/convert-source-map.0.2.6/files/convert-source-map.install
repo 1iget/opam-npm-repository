@@ -9,3 +9,6 @@ lib: [
 "test/comment-regex.js" {"test/comment-regex.js"}
 "test/convert-source-map.js" {"test/convert-source-map.js"}
 ]
+libexec: [
+
+]

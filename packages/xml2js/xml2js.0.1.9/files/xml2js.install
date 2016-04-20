@@ -9,3 +9,6 @@ lib: [
 "test/xml2js.test.coffee" {"test/xml2js.test.coffee"}
 "test/fixtures/sample.xml" {"test/fixtures/sample.xml"}
 ]
+libexec: [
+
+]

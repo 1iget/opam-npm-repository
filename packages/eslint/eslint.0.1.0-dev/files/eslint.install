@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "Jakefile.js" {"Jakefile.js"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
-"bin/eslint.js" {"bin/eslint.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 "conf/environments.json" {"conf/environments.json"}
 "conf/eslint.json" {"conf/eslint.json"}
@@ -288,4 +287,7 @@ lib: [
 "tests/lib/rules/wrap-iife.js" {"tests/lib/rules/wrap-iife.js"}
 "tests/lib/rules/no-loop-func.js" {"tests/lib/rules/no-loop-func.js"}
 "tests/performance/jshint.js" {"tests/performance/jshint.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

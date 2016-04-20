@@ -12,3 +12,6 @@ lib: [
 "BoyerMoore.h" {"BoyerMoore.h"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

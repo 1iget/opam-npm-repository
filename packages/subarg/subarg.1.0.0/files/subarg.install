@@ -8,3 +8,6 @@ lib: [
 "test/arg.js" {"test/arg.js"}
 "test/recursive.js" {"test/recursive.js"}
 ]
+libexec: [
+
+]

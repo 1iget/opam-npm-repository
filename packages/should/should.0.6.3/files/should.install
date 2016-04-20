@@ -1,0 +1,20 @@
+lib: [
+".gitmodules" {".gitmodules"}
+".npmignore" {".npmignore"}
+"examples/" {"examples/"}
+"examples/runner.js" {"examples/runner.js"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/eql.js" {"lib/eql.js"}
+"lib/should.js" {"lib/should.js"}
+"Makefile" {"Makefile"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+"test/" {"test/"}
+"test/exist.test.js" {"test/exist.test.js"}
+"test/should.test.js" {"test/should.test.js"}
+]
+libexec: [
+
+]

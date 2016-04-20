@@ -36,3 +36,6 @@ lib: [
 "examples/constants.js" {"examples/constants.js"}
 "examples/choice.js" {"examples/choice.js"}
 ]
+libexec: [
+
+]

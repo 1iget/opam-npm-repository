@@ -10,3 +10,6 @@ lib: [
 "lib/mappings-from-map.js" {"lib/mappings-from-map.js"}
 "test/combine-source-map.js" {"test/combine-source-map.js"}
 ]
+libexec: [
+
+]

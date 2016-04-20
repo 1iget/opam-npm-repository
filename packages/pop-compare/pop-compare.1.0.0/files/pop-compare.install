@@ -5,3 +5,6 @@ lib: [
 "pop-compare.js" {"pop-compare.js"}
 "test/pop-compare-test.js" {"test/pop-compare-test.js"}
 ]
+libexec: [
+
+]

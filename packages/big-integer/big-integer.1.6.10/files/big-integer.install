@@ -8,3 +8,6 @@ lib: [
 ".zuul.yml" {".zuul.yml"}
 ".zuulrc" {".zuulrc"}
 ]
+libexec: [
+
+]

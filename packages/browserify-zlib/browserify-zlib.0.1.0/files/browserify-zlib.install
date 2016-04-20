@@ -24,3 +24,6 @@ lib: [
 "test/ignored/test-zlib-params.js" {"test/ignored/test-zlib-params.js"}
 "test.html" {"test.html"}
 ]
+libexec: [
+
+]

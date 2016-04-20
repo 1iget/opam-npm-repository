@@ -2,7 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
-"bin/eslint.js" {"bin/eslint.js"}
 "conf/environments.json" {"conf/environments.json"}
 "conf/eslint.json" {"conf/eslint.json"}
 "lib/api.js" {"lib/api.js"}
@@ -104,4 +103,7 @@ lib: [
 "lib/formatters/jslint-xml.js" {"lib/formatters/jslint-xml.js"}
 "lib/formatters/junit.js" {"lib/formatters/junit.js"}
 "lib/tests/eslintTester.js" {"lib/tests/eslintTester.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

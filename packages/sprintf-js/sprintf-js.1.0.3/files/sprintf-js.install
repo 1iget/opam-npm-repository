@@ -16,3 +16,6 @@ lib: [
 "demo/angular.html" {"demo/angular.html"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

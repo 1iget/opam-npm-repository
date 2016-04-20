@@ -6,3 +6,6 @@ lib: [
 "README.mkd" {"README.mkd"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

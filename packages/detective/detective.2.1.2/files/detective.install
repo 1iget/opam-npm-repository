@@ -1,0 +1,28 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"example/strings_src.js" {"example/strings_src.js"}
+"example/strings.js" {"example/strings.js"}
+"readme.markdown" {"readme.markdown"}
+"test/sparse-array.js" {"test/sparse-array.js"}
+"test/return.js" {"test/return.js"}
+"test/chained.js" {"test/chained.js"}
+"test/shebang.js" {"test/shebang.js"}
+"test/word.js" {"test/word.js"}
+"test/strings.js" {"test/strings.js"}
+"test/both.js" {"test/both.js"}
+"test/nested.js" {"test/nested.js"}
+"test/files/sparse-array.js" {"test/files/sparse-array.js"}
+"test/files/chained.js" {"test/files/chained.js"}
+"test/files/shebang.js" {"test/files/shebang.js"}
+"test/files/word.js" {"test/files/word.js"}
+"test/files/strings.js" {"test/files/strings.js"}
+"test/files/both.js" {"test/files/both.js"}
+"test/files/nested.js" {"test/files/nested.js"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

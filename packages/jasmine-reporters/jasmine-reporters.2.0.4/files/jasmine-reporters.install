@@ -27,3 +27,6 @@ lib: [
 "test/teamcity_reporter.html" {"test/teamcity_reporter.html"}
 "test/terminal_reporter.html" {"test/terminal_reporter.html"}
 ]
+libexec: [
+
+]

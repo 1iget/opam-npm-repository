@@ -1,0 +1,20 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"Readme.md" {"Readme.md"}
+"test/wrap.js" {"test/wrap.js"}
+"test/2-column-simple.js" {"test/2-column-simple.js"}
+"test/define-columns.js" {"test/define-columns.js"}
+"test/1-column-simple.js" {"test/1-column-simple.js"}
+"test/splitter-character.js" {"test/splitter-character.js"}
+"test/truncate.js" {"test/truncate.js"}
+"test/2-column-simple-expected.txt" {"test/2-column-simple-expected.txt"}
+"test/truncate-expected.txt" {"test/truncate-expected.txt"}
+"test/1-column-simple-expected.txt" {"test/1-column-simple-expected.txt"}
+"test/wrap-expected.txt" {"test/wrap-expected.txt"}
+"test/splitter-character-expected.txt" {"test/splitter-character-expected.txt"}
+]
+libexec: [
+
+]

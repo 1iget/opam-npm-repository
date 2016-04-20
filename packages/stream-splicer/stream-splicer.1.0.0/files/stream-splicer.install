@@ -16,3 +16,6 @@ lib: [
 "test/splice.js" {"test/splice.js"}
 "test/unshift.js" {"test/unshift.js"}
 ]
+libexec: [
+
+]

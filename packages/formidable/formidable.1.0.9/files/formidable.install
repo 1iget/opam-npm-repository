@@ -68,3 +68,6 @@ lib: [
 "tool/" {"tool/"}
 "tool/record.js" {"tool/record.js"}
 ]
+libexec: [
+
+]

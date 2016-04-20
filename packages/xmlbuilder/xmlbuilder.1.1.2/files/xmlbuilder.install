@@ -17,3 +17,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/XMLElement.js" {"lib/XMLElement.js"}
 ]
+libexec: [
+
+]

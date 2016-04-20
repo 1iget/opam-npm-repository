@@ -35,3 +35,6 @@ lib: [
 "test/vector.priv" {"test/vector.priv"}
 "test/vector2.priv" {"test/vector2.priv"}
 ]
+libexec: [
+
+]

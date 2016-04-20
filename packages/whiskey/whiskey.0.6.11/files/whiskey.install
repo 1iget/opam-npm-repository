@@ -57,7 +57,6 @@ lib: [
 "assets/whiskey.magic" {"assets/whiskey.magic"}
 "assets/jquery.tablesorter.min.js" {"assets/jquery.tablesorter.min.js"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
-"bin/whiskey" {"bin/whiskey"}
 "lib/errors.js" {"lib/errors.js"}
 "lib/coverage.js" {"lib/coverage.js"}
 "lib/scopeleaks.js" {"lib/scopeleaks.js"}
@@ -97,4 +96,7 @@ lib: [
 "lib/extern/long-stack-traces/package.json" {"lib/extern/long-stack-traces/package.json"}
 "lib/extern/long-stack-traces/examples.html" {"lib/extern/long-stack-traces/examples.html"}
 "lib/extern/long-stack-traces/lib/long-stack-traces.js" {"lib/extern/long-stack-traces/lib/long-stack-traces.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

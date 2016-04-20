@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"benchmark/check.js" {"benchmark/check.js"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/code/array-differ.js" {"benchmark/code/array-differ.js"}
+"benchmark/code/for-negative.js" {"benchmark/code/for-negative.js"}
+"benchmark/code/for-reverse.js" {"benchmark/code/for-reverse.js"}
+"benchmark/code/for.js" {"benchmark/code/for.js"}
+"benchmark/code/forEach-2.js" {"benchmark/code/forEach-2.js"}
+"benchmark/code/for-lefthand.js" {"benchmark/code/for-lefthand.js"}
+"benchmark/code/reduce.js" {"benchmark/code/reduce.js"}
+"benchmark/code/while-indexof.js" {"benchmark/code/while-indexof.js"}
+"benchmark/code/while-multi-unshift.js" {"benchmark/code/while-multi-unshift.js"}
+"benchmark/code/while-multi.js" {"benchmark/code/while-multi.js"}
+"benchmark/code/while-splice.js" {"benchmark/code/while-splice.js"}
+"benchmark/code/filter.js" {"benchmark/code/filter.js"}
+"benchmark/code/while-unshift.js" {"benchmark/code/while-unshift.js"}
+"benchmark/code/current.js" {"benchmark/code/current.js"}
+"benchmark/code/while.js" {"benchmark/code/while.js"}
+"benchmark/code/forEach.js" {"benchmark/code/forEach.js"}
+"benchmark/fixtures/med.js" {"benchmark/fixtures/med.js"}
+"benchmark/fixtures/short.js" {"benchmark/fixtures/short.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]
+libexec: [
+
+]

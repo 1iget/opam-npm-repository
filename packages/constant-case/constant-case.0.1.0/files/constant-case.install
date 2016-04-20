@@ -6,3 +6,6 @@ lib: [
 "constant-case.js" {"constant-case.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

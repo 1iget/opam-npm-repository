@@ -106,6 +106,8 @@ lib: [
 "lib/extern/optparse/seed.yml" {"lib/extern/optparse/seed.yml"}
 "Makefile" {"Makefile"}
 "scripts/lint.sh" {"scripts/lint.sh"}
-"bin/whiskey" {"bin/whiskey"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

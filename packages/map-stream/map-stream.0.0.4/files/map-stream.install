@@ -8,3 +8,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "test/simple-map.asynct.js" {"test/simple-map.asynct.js"}
 ]
+libexec: [
+
+]

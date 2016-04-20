@@ -8,3 +8,6 @@ lib: [
 "test/basic.js" {"test/basic.js"}
 "test/zz-cleanup.js" {"test/zz-cleanup.js"}
 ]
+libexec: [
+
+]

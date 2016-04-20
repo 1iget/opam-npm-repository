@@ -1,6 +1,5 @@
 lib: [
 "lib/" {"lib/"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/main.js" {"lib/main.js"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
@@ -10,4 +9,7 @@ lib: [
 "test/test.ondemand.ie.js" {"test/test.ondemand.ie.js"}
 "test/test.ondemand.js" {"test/test.ondemand.js"}
 "test/test.simple.server.js" {"test/test.simple.server.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

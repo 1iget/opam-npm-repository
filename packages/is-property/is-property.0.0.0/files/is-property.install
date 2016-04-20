@@ -5,3 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "is-property.js" {"is-property.js"}
 ]
+libexec: [
+
+]

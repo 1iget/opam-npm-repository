@@ -11,3 +11,6 @@ lib: [
 "test/omit.js" {"test/omit.js"}
 "test/without.js" {"test/without.js"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "test/serialization.js" {"test/serialization.js"}
 ]
+libexec: [
+
+]

@@ -16,3 +16,6 @@ lib: [
 "bin/mr" {"bin/mr"}
 "CHANGES.md" {"CHANGES.md"}
 ]
+libexec: [
+
+]

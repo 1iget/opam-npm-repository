@@ -5,3 +5,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "test/run.js" {"test/run.js"}
 ]
+libexec: [
+
+]

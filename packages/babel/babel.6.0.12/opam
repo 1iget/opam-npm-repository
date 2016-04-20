@@ -8,7 +8,9 @@ dev-repo: "git+https://github.com/babel/babel.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./cli.js %{bin}%/babel-external-helpers"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/babel-external-helpers" ] 
+]
 

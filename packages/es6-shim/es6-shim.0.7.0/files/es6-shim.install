@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"es6-shim.js" {"es6-shim.js"}
+".jepso-ci.json" {".jepso-ci.json"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"Makefile" {"Makefile"}
+"component.json" {"component.json"}
+"test/array.js" {"test/array.js"}
+"test/collections.js" {"test/collections.js"}
+"test/math.js" {"test/math.js"}
+"test/number.js" {"test/number.js"}
+"test/object.js" {"test/object.js"}
+"test/string.js" {"test/string.js"}
+"test/test_helpers.js" {"test/test_helpers.js"}
+"test/index.html" {"test/index.html"}
+"test/vendor/chai-1.0.4.js" {"test/vendor/chai-1.0.4.js"}
+"test/vendor/es5-shim-2.0.5.js" {"test/vendor/es5-shim-2.0.5.js"}
+"test/vendor/mocha-1.8.1.js" {"test/vendor/mocha-1.8.1.js"}
+"test/vendor/mocha-1.8.1.css" {"test/vendor/mocha-1.8.1.css"}
+]
+libexec: [
+
+]

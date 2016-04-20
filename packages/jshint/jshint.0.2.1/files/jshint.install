@@ -7,7 +7,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/hint" {"bin/hint"}
 "build/lint.js" {"build/lint.js"}
 "build/lint.json" {"build/lint.json"}
 "build/test.js" {"build/test.js"}
@@ -54,4 +53,7 @@ lib: [
 "node_modules/jasmine-node/spec/nested.js/NestedSpec.js" {"node_modules/jasmine-node/spec/nested.js/NestedSpec.js"}
 "node_modules/jasmine-node/spec/nested/NestedSpec.js" {"node_modules/jasmine-node/spec/nested/NestedSpec.js"}
 "node_modules/jasmine-node/spec/nested/uber-nested/UberNestedSpec.js" {"node_modules/jasmine-node/spec/nested/uber-nested/UberNestedSpec.js"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

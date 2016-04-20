@@ -29,3 +29,6 @@ lib: [
 "test/extenders/extended1.js" {"test/extenders/extended1.js"}
 "test/extenders/extended2.js" {"test/extenders/extended2.js"}
 ]
+libexec: [
+
+]

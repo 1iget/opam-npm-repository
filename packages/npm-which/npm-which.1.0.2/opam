@@ -13,7 +13,9 @@ depends: [
 "which" {>="1.0.5" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/npm-which.js %{bin}%/npm-which"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/npm-which" ] 
+]
 

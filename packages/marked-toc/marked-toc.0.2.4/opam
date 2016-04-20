@@ -21,7 +21,9 @@ depends: [
 "uslug" {>="1.0.3" & <"1.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/toc %{bin}%/toc"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/toc" ] 
+]
 

@@ -1,0 +1,33 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"bin/cli.js" {"bin/cli.js"}
+"changelog.md" {"changelog.md"}
+"lib/cli-launcher.js" {"lib/cli-launcher.js"}
+"lib/cli-options.js" {"lib/cli-options.js"}
+"lib/expand-globs.js" {"lib/expand-globs.js"}
+"lib/get-targets.js" {"lib/get-targets.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/bin/cli.js" {"specs/bin/cli.js"}
+"specs/lib/expand-globs.js" {"specs/lib/expand-globs.js"}
+".travis.yml" {".travis.yml"}
+"resources/demo.conf.js" {"resources/demo.conf.js"}
+"resources/expand/demo-1.js" {"resources/expand/demo-1.js"}
+"resources/expand/demo-2.js" {"resources/expand/demo-2.js"}
+"resources/expand/demo-3.js" {"resources/expand/demo-3.js"}
+"resources/expand/demo-1.less" {"resources/expand/demo-1.less"}
+"resources/expand/demo-2.less" {"resources/expand/demo-2.less"}
+"resources/expand/demo-3.less" {"resources/expand/demo-3.less"}
+"resources/expand/sub-folder/sub-sub-1/demo-1.txt" {"resources/expand/sub-folder/sub-sub-1/demo-1.txt"}
+"resources/expand/sub-folder/sub-sub-1/demo-2.css" {"resources/expand/sub-folder/sub-sub-1/demo-2.css"}
+"resources/expand/sub-folder/sub-sub-1/demo-3.jpg" {"resources/expand/sub-folder/sub-sub-1/demo-3.jpg"}
+"resources/expected/colored-output.txt" {"resources/expected/colored-output.txt"}
+"resources/expected/no-colored-output.txt" {"resources/expected/no-colored-output.txt"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]
+libexec: [
+
+]

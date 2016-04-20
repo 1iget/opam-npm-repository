@@ -1,0 +1,25 @@
+lib: [
+"package.json" {"package.json"}
+"verify.js" {"verify.js"}
+"algos.js" {"algos.js"}
+"asn1.js" {"asn1.js"}
+"index.js" {"index.js"}
+"inject.js" {"inject.js"}
+"parseKeys.js" {"parseKeys.js"}
+"sign.js" {"sign.js"}
+"aesid.json" {"aesid.json"}
+"readme.md" {"readme.md"}
+".travis.yml" {".travis.yml"}
+"test/index.js" {"test/index.js"}
+"test/1024.priv" {"test/1024.priv"}
+"test/1024.pub" {"test/1024.pub"}
+"test/pass.1024.priv" {"test/pass.1024.priv"}
+"test/pass.1024.pub" {"test/pass.1024.pub"}
+"test/rsa.1024.priv" {"test/rsa.1024.priv"}
+"test/rsa.1024.pub" {"test/rsa.1024.pub"}
+"test/rsa.2028.priv" {"test/rsa.2028.priv"}
+"test/rsa.2028.pub" {"test/rsa.2028.pub"}
+]
+libexec: [
+
+]

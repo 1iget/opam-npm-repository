@@ -47,3 +47,6 @@ lib: [
 "jsl.conf" {"jsl.conf"}
 "todo.org" {"todo.org"}
 ]
+libexec: [
+
+]

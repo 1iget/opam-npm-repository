@@ -24,3 +24,6 @@ lib: [
 "test/macros.js" {"test/macros.js"}
 "test/prompt-test.js" {"test/prompt-test.js"}
 ]
+libexec: [
+
+]

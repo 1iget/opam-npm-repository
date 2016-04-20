@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+"grunt.js" {"grunt.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"lib/glob.js" {"lib/glob.js"}
+"test/glob_test.js" {"test/glob_test.js"}
+"test/fixture/boot" {"test/fixture/boot"}
+"test/fixture/foo/boot" {"test/fixture/foo/boot"}
+"test/fixture/foo/bar/boot" {"test/fixture/foo/bar/boot"}
+"test/fixture/foo/bar/baz/boot" {"test/fixture/foo/bar/baz/boot"}
+]
+libexec: [
+
+]

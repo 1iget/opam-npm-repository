@@ -6,3 +6,6 @@ lib: [
 "Makefile" {"Makefile"}
 "test/eyes-test.js" {"test/eyes-test.js"}
 ]
+libexec: [
+
+]

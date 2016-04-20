@@ -6,17 +6,17 @@ author: "oozcitak <oozcitak@gmail.com>"
 license: "not defined"
 dev-repo: "git://github.com/oozcitak/xmlbuilder-js.git"
 depends: [
-"lodash.assign" {>="2.4.1" & <"2.5.0"}
+"lodash_assign" {>="2.4.1" & <"2.5.0"}
 
-"lodash.create" {>="2.4.1" & <"2.5.0"}
+"lodash_create" {>="2.4.1" & <"2.5.0"}
 
-"lodash.isobject" {>="2.4.1" & <"2.5.0"}
+"lodash_isobject" {>="2.4.1" & <"2.5.0"}
 
-"lodash.isarray" {>="2.4.1" & <"2.5.0"}
+"lodash_isarray" {>="2.4.1" & <"2.5.0"}
 
-"lodash.isfunction" {>="2.4.1" & <"2.5.0"}
+"lodash_isfunction" {>="2.4.1" & <"2.5.0"}
 
-"lodash.isempty" {>="2.4.1" & <"2.5.0"}
+"lodash_isempty" {>="2.4.1" & <"2.5.0"}
 
 ]
 

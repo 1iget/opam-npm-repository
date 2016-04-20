@@ -17,3 +17,6 @@ lib: [
 "LICENSE.md" {"LICENSE.md"}
 "bin/joey" {"bin/joey"}
 ]
+libexec: [
+
+]

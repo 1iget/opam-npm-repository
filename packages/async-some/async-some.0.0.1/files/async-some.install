@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"some.js" {"some.js"}
+]
+libexec: [
+
+]

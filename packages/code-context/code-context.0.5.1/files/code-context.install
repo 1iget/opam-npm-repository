@@ -22,3 +22,6 @@ lib: [
 "test/fixtures/d.js" {"test/fixtures/d.js"}
 "test/helpers/utils.js" {"test/helpers/utils.js"}
 ]
+libexec: [
+
+]

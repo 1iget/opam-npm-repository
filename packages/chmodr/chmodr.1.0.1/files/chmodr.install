@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "chmodr.js" {"chmodr.js"}
 ]
+libexec: [
+
+]

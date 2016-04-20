@@ -14,7 +14,7 @@ depends: [
 
 "deflate-crc32-stream" {>="0.1.0" & <"0.2.0"}
 
-"lodash.defaults" {>="2.4.1" & <"2.5.0"}
+"lodash_defaults" {>="2.4.1" & <"2.5.0"}
 
 "readable-stream" {>="1.0.26" & <"1.1.0"}
 

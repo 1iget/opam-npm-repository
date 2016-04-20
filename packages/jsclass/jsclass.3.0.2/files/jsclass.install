@@ -4,7 +4,6 @@ lib: [
 "LICENSE.txt" {"LICENSE.txt"}
 "README.txt" {"README.txt"}
 "index.js" {"index.js"}
-"bin/jsbuild" {"bin/jsbuild"}
 "min/package-browser.js" {"min/package-browser.js"}
 "min/comparable.js" {"min/comparable.js"}
 "min/benchmark.js" {"min/benchmark.js"}
@@ -59,4 +58,7 @@ lib: [
 "src/set.js" {"src/set.js"}
 "src/loader-browser.js" {"src/loader-browser.js"}
 "src/assets/testui.css" {"src/assets/testui.css"}
+]
+libexec: [
+"bin/jsbuild" {"bin/jsbuild"}
 ]

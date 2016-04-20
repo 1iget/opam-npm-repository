@@ -7,3 +7,6 @@ lib: [
 "types/mime.types" {"types/mime.types"}
 "types/node.types" {"types/node.types"}
 ]
+libexec: [
+
+]

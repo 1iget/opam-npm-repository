@@ -38,3 +38,6 @@ lib: [
 "tests/spec/s-regexp.js" {"tests/spec/s-regexp.js"}
 "tests/spec/s-string.js" {"tests/spec/s-string.js"}
 ]
+libexec: [
+
+]

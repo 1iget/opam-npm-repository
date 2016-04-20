@@ -50,7 +50,6 @@ lib: [
 "assets/whiskey_source.magic" {"assets/whiskey_source.magic"}
 "assets/jquery.tablesorter.min.js" {"assets/jquery.tablesorter.min.js"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
-"bin/whiskey" {"bin/whiskey"}
 "test/run.sh" {"test/run.sh"}
 "lib/gen_makefile.js" {"lib/gen_makefile.js"}
 "lib/constants.js" {"lib/constants.js"}
@@ -90,4 +89,7 @@ lib: [
 "lib/extern/long-stack-traces/index.js" {"lib/extern/long-stack-traces/index.js"}
 "lib/extern/long-stack-traces/examples.html" {"lib/extern/long-stack-traces/examples.html"}
 "lib/extern/long-stack-traces/lib/long-stack-traces.js" {"lib/extern/long-stack-traces/lib/long-stack-traces.js"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

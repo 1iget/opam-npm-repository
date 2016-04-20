@@ -9,3 +9,6 @@ lib: [
 "build/test.js" {"build/test.js"}
 "types.json" {"types.json"}
 ]
+libexec: [
+
+]

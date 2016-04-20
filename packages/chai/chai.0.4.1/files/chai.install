@@ -44,3 +44,6 @@ lib: [
 "test/plugins.js" {"test/plugins.js"}
 "test/should.js" {"test/should.js"}
 ]
+libexec: [
+
+]

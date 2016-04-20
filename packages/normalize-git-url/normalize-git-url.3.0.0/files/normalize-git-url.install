@@ -8,3 +8,6 @@ lib: [
 ".eslintrc" {".eslintrc"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

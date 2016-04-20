@@ -21,3 +21,6 @@ lib: [
 "test/fixtures/10-stderr.txt" {"test/fixtures/10-stderr.txt"}
 "test/fixtures/1000-stderr.txt" {"test/fixtures/1000-stderr.txt"}
 ]
+libexec: [
+
+]

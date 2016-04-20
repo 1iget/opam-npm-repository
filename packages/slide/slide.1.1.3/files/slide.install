@@ -9,3 +9,6 @@ lib: [
 "lib/chain.js" {"lib/chain.js"}
 "lib/slide.js" {"lib/slide.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"events.js" {"events.js"}
+"index.js" {"index.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".jshintrc" {".jshintrc"}
+]
+libexec: [
+
+]

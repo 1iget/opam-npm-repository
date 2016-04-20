@@ -24,3 +24,6 @@ lib: [
 "test/return/main.js" {"test/return/main.js"}
 "test/return/foo/index.js" {"test/return/foo/index.js"}
 ]
+libexec: [
+
+]

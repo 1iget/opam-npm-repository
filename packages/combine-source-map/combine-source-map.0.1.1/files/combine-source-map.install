@@ -9,3 +9,6 @@ lib: [
 "example/two-files.js" {"example/two-files.js"}
 "test/combine-source-map.js" {"test/combine-source-map.js"}
 ]
+libexec: [
+
+]

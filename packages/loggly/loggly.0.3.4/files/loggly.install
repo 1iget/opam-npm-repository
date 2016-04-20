@@ -26,3 +26,6 @@ lib: [
 "lib/loggly/interns.js" {"lib/loggly/interns.js"}
 "lib/loggly/search.js" {"lib/loggly/search.js"}
 ]
+libexec: [
+
+]

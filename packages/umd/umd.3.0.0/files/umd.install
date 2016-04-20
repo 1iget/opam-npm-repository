@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"HISTORY.md" {"HISTORY.md"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
+]

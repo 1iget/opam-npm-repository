@@ -7,3 +7,6 @@ lib: [
 "test/slicer.js" {"test/slicer.js"}
 "src/lib/slicer.coffee" {"src/lib/slicer.coffee"}
 ]
+libexec: [
+
+]

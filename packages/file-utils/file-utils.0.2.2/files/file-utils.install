@@ -8,3 +8,6 @@ lib: [
 "lib/logger.js" {"lib/logger.js"}
 "lib/query.js" {"lib/query.js"}
 ]
+libexec: [
+
+]

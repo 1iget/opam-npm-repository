@@ -5,7 +5,6 @@ lib: [
 "examples/test.ondemand.ie.js" {"examples/test.ondemand.ie.js"}
 "examples/test.ondemand.js" {"examples/test.ondemand.js"}
 "lib/" {"lib/"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/main.js" {"lib/main.js"}
 "LICENSE.APACHE2" {"LICENSE.APACHE2"}
 "Makefile" {"Makefile"}
@@ -17,4 +16,7 @@ lib: [
 "test/unit/assets/test-page.html" {"test/unit/assets/test-page.html"}
 "test/unit/basic-test.coffee" {"test/unit/basic-test.coffee"}
 "test/unit/per-method-test.coffee" {"test/unit/per-method-test.coffee"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

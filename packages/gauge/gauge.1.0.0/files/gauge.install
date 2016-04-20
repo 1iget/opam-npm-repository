@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"progress-bar.js" {"progress-bar.js"}
+"README.md~" {"README.md~"}
+"test/progress-bar.js" {"test/progress-bar.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,23 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"Readme.md" {"Readme.md"}
+"test/wrap.js" {"test/wrap.js"}
+"test/truncation-character.js" {"test/truncation-character.js"}
+"test/2-column-simple.js" {"test/2-column-simple.js"}
+"test/truncate.js" {"test/truncate.js"}
+"test/column-splitter-character.js" {"test/column-splitter-character.js"}
+"test/1-column-simple.js" {"test/1-column-simple.js"}
+"test/define-columns.js" {"test/define-columns.js"}
+"test/truncate-expected.txt" {"test/truncate-expected.txt"}
+"test/truncate-multichar-expected.txt" {"test/truncate-multichar-expected.txt"}
+"test/column-splitter-character-expected.txt" {"test/column-splitter-character-expected.txt"}
+"test/2-column-simple-expected.txt" {"test/2-column-simple-expected.txt"}
+"test/wrap-expected.txt" {"test/wrap-expected.txt"}
+"test/1-column-simple-expected.txt" {"test/1-column-simple-expected.txt"}
+]
+libexec: [
+
+]

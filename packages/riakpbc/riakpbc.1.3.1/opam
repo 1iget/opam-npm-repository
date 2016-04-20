@@ -6,7 +6,7 @@ author: "nlf <quitlahok@gmail.com>"
 license: "MIT"
 dev-repo: "git://github.com:nlf/riakpbc.git"
 depends: [
-"protobuf.js" {>="1.1.2" & <"1.2.0"}
+"protobuf_js" {>="1.1.2" & <"1.2.0"}
 
 "riakproto" {>="1.4.7" & <"1.5.0"}
 

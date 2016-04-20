@@ -7,3 +7,6 @@ lib: [
 "package.json" {"package.json"}
 ".npmignore" {".npmignore"}
 ]
+libexec: [
+
+]

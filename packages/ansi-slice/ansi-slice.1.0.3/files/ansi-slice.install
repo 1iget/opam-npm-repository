@@ -22,3 +22,6 @@ lib: [
 "test/slice.js" {"test/slice.js"}
 "test/trim.js" {"test/trim.js"}
 ]
+libexec: [
+
+]

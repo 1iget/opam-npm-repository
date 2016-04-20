@@ -26,3 +26,6 @@ lib: [
 "test/negation-test.js" {"test/negation-test.js"}
 "test/bash-results.json" {"test/bash-results.json"}
 ]
+libexec: [
+
+]

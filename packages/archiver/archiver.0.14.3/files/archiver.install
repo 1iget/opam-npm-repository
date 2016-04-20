@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"lib/archiver.js" {"lib/archiver.js"}
+"lib/core.js" {"lib/core.js"}
+"lib/plugins/json.js" {"lib/plugins/json.js"}
+"lib/plugins/tar.js" {"lib/plugins/tar.js"}
+"lib/plugins/zip.js" {"lib/plugins/zip.js"}
+"lib/util/file.js" {"lib/util/file.js"}
+"lib/util/index.js" {"lib/util/index.js"}
+]
+libexec: [
+
+]

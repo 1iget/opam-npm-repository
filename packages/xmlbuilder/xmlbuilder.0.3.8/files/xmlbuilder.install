@@ -13,3 +13,6 @@ lib: [
 "test/test.coffee" {"test/test.coffee"}
 ".gitignore" {".gitignore"}
 ]
+libexec: [
+
+]

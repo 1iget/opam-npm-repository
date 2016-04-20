@@ -7,3 +7,6 @@ lib: [
 "readme.md" {"readme.md"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

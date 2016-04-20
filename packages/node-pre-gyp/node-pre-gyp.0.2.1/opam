@@ -27,7 +27,9 @@ depends: [
 "rimraf" {>="0.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/node-pre-gyp %{bin}%/node-pre-gyp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/node-pre-gyp" ] 
+]
 

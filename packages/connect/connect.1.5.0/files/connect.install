@@ -114,3 +114,6 @@ lib: [
 "lib/public/icons/page_word.png" {"lib/public/icons/page_word.png"}
 "lib/public/icons/page_world.png" {"lib/public/icons/page_world.png"}
 ]
+libexec: [
+
+]

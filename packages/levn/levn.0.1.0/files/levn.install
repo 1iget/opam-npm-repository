@@ -8,3 +8,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/parse-string.js" {"lib/parse-string.js"}
 ]
+libexec: [
+
+]

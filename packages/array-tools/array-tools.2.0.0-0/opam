@@ -13,7 +13,9 @@ depends: [
 "transform-tools" {>="0.0.0" & <"0.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/array-tools"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/array-tools" ] 
+]
 

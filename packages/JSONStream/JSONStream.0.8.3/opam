@@ -11,7 +11,9 @@ depends: [
 "through" {>="2.2.7" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./index.js %{bin}%/JSONStream"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/JSONStream" ] 
+]
 

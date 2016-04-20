@@ -6,3 +6,6 @@ lib: [
 "test/index.js" {"test/index.js"}
 "test/pause-end.js" {"test/pause-end.js"}
 ]
+libexec: [
+
+]

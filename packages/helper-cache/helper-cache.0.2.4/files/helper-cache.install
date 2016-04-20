@@ -27,3 +27,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

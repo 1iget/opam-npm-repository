@@ -13,7 +13,9 @@ depends: [
 "coffee-script" {>="1.4.0" & <"1.5.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jade %{bin}%/jade"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jade" ] 
+]
 

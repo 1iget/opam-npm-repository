@@ -37,3 +37,6 @@ lib: [
 "test/simple/test-stream2-writable.js" {"test/simple/test-stream2-writable.js"}
 "test/simple/test-stream2-readable-empty-buffer-no-eof.js" {"test/simple/test-stream2-readable-empty-buffer-no-eof.js"}
 ]
+libexec: [
+
+]

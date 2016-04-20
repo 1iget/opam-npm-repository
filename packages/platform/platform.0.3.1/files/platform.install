@@ -48,3 +48,6 @@ lib: [
 "vendor/qunit/addons/composite/qunit-composite.js" {"vendor/qunit/addons/composite/qunit-composite.js"}
 "vendor/qunit/addons/composite/README.md" {"vendor/qunit/addons/composite/README.md"}
 ]
+libexec: [
+
+]

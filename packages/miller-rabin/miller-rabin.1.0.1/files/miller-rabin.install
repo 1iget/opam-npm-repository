@@ -5,3 +5,6 @@ lib: [
 "lib/mr.js" {"lib/mr.js"}
 "test/api-test.js" {"test/api-test.js"}
 ]
+libexec: [
+
+]

@@ -17,3 +17,6 @@ lib: [
 "test/zz-cleanup.js" {"test/zz-cleanup.js"}
 "test/bash-results.json" {"test/bash-results.json"}
 ]
+libexec: [
+
+]

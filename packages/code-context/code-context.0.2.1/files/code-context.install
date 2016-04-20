@@ -19,3 +19,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

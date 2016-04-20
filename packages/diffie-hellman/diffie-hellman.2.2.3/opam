@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "MIT"
 dev-repo: "https://github.com/calvinmetcalf/diffie-hellman.git"
 depends: [
-"bn.js" {>="1.0.0" & <"2.0.0"}
+"bn_js" {>="1.0.0" & <"2.0.0"}
 
 "miller-rabin" {>="1.1.2" & <"2.0.0"}
 

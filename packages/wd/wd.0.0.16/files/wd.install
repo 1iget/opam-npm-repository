@@ -9,7 +9,6 @@ lib: [
 "examples/example.ondemand.ie.js" {"examples/example.ondemand.ie.js"}
 "examples/example.ondemand.js" {"examples/example.ondemand.js"}
 "lib/" {"lib/"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/builder.js" {"lib/builder.js"}
 "lib/main.js" {"lib/main.js"}
 "lib/protocol.js" {"lib/protocol.js"}
@@ -43,4 +42,7 @@ lib: [
 "test/unit/per-method-test.js" {"test/unit/per-method-test.js"}
 "test/unit/wd-remote-init-test.coffee" {"test/unit/wd-remote-init-test.coffee"}
 "test/unit/wd-remote-init-test.js" {"test/unit/wd-remote-init-test.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

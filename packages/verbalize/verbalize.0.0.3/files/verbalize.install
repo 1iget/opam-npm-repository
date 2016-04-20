@@ -10,3 +10,6 @@ lib: [
 "verbalise.sublime-project" {"verbalise.sublime-project"}
 "verbalise.sublime-workspace" {"verbalise.sublime-workspace"}
 ]
+libexec: [
+
+]

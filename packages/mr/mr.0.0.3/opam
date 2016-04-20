@@ -11,7 +11,9 @@ depends: [
 "qs" {>="0.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/mr %{bin}%/mr"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mr" ] 
+]
 

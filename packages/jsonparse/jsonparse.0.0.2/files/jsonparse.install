@@ -9,3 +9,6 @@ lib: [
 "samplejson/basic.json" {"samplejson/basic.json"}
 "samplejson/basic2.json" {"samplejson/basic2.json"}
 ]
+libexec: [
+
+]

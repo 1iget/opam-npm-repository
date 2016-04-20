@@ -7,3 +7,6 @@ lib: [
 "test/npa-basic.js" {"test/npa-basic.js"}
 "test/npa-windows.js" {"test/npa-windows.js"}
 ]
+libexec: [
+
+]

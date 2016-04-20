@@ -6,7 +6,6 @@ lib: [
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
 "CHANGELOG.md" {"CHANGELOG.md"}
-"bin/gulp.js" {"bin/gulp.js"}
 "lib/bufferFile.js" {"lib/bufferFile.js"}
 "lib/createOutputStream.js" {"lib/createOutputStream.js"}
 "lib/formatFile.js" {"lib/formatFile.js"}
@@ -29,4 +28,7 @@ lib: [
 "test/fixtures/test/run.jade" {"test/fixtures/test/run.jade"}
 "test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
 "test/out-fixtures/copy/example.txt" {"test/out-fixtures/copy/example.txt"}
+]
+libexec: [
+"bin/gulp.js" {"bin/gulp.js"}
 ]

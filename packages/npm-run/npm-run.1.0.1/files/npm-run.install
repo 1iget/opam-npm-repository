@@ -9,3 +9,6 @@ lib: [
 "test/exec.js" {"test/exec.js"}
 "test/spawn.js" {"test/spawn.js"}
 ]
+libexec: [
+
+]

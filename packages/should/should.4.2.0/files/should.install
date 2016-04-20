@@ -1,0 +1,34 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"gulpfile.js" {"gulpfile.js"}
+"index.js" {"index.js"}
+"should.min.js" {"should.min.js"}
+"should.js" {"should.js"}
+"Readme.md" {"Readme.md"}
+".travis.yml" {".travis.yml"}
+"lib/assertion-error.js" {"lib/assertion-error.js"}
+"lib/assertion.js" {"lib/assertion.js"}
+"lib/eql.js" {"lib/eql.js"}
+"lib/should.js" {"lib/should.js"}
+"lib/util.js" {"lib/util.js"}
+"lib/warn.js" {"lib/warn.js"}
+"lib/ext/assert.js" {"lib/ext/assert.js"}
+"lib/ext/chain.js" {"lib/ext/chain.js"}
+"lib/ext/contain.js" {"lib/ext/contain.js"}
+"lib/ext/eql.js" {"lib/ext/eql.js"}
+"lib/ext/bool.js" {"lib/ext/bool.js"}
+"lib/ext/match.js" {"lib/ext/match.js"}
+"lib/ext/number.js" {"lib/ext/number.js"}
+"lib/ext/property.js" {"lib/ext/property.js"}
+"lib/ext/string.js" {"lib/ext/string.js"}
+"lib/ext/type.js" {"lib/ext/type.js"}
+"lib/ext/error.js" {"lib/ext/error.js"}
+".zuul.yml" {".zuul.yml"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"History.md" {"History.md"}
+]
+libexec: [
+
+]

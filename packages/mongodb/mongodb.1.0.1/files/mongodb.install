@@ -42,3 +42,6 @@ lib: [
 "test_gs_weird_bug_streamed.tmp" {"test_gs_weird_bug_streamed.tmp"}
 "test_gs_working_field_read.tmp" {"test_gs_working_field_read.tmp"}
 ]
+libexec: [
+
+]

@@ -4,7 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "README.md" {"README.md"}
 "bin/" {"bin/"}
-"bin/vows" {"bin/vows"}
 "package.json" {"package.json"}
 "lib/" {"lib/"}
 "lib/vows/" {"lib/vows/"}
@@ -25,4 +24,7 @@ lib: [
 "test/" {"test/"}
 "test/assert-test.js" {"test/assert-test.js"}
 "test/vows-test.js" {"test/vows-test.js"}
+]
+libexec: [
+"bin/vows" {"bin/vows"}
 ]

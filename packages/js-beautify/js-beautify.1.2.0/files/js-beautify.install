@@ -10,11 +10,13 @@ lib: [
 "cli.js" {"cli.js"}
 "config/defaults.json" {"config/defaults.json"}
 ".travis.yml" {".travis.yml"}
-"bin/css-beautify.js" {"bin/css-beautify.js"}
-"bin/html-beautify.js" {"bin/html-beautify.js"}
-"bin/js-beautify.js" {"bin/js-beautify.js"}
 "tests/beautify-tests.js" {"tests/beautify-tests.js"}
 "tests/node-beautify-tests.js" {"tests/node-beautify-tests.js"}
 "tests/sanitytest.js" {"tests/sanitytest.js"}
 "tests/run-tests" {"tests/run-tests"}
+]
+libexec: [
+"bin/css-beautify.js" {"bin/css-beautify.js"}
+"bin/html-beautify.js" {"bin/html-beautify.js"}
+"bin/js-beautify.js" {"bin/js-beautify.js"}
 ]

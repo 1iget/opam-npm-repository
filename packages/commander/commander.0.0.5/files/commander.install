@@ -25,3 +25,6 @@ lib: [
 "test/test.options.bool.small.js" {"test/test.options.bool.small.js"}
 "test/test.options.coercion.js" {"test/test.options.coercion.js"}
 ]
+libexec: [
+
+]

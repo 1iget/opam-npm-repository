@@ -15,7 +15,6 @@ lib: [
 "deps/json2.js" {"deps/json2.js"}
 "deps/ejs.js" {"deps/ejs.js"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
-"bin/nodeunit" {"bin/nodeunit"}
 "img/example_machineout.png" {"img/example_machineout.png"}
 "img/example_fail.png" {"img/example_fail.png"}
 "img/example_pass.png" {"img/example_pass.png"}
@@ -107,4 +106,7 @@ lib: [
 "dist/nodeunit/lib/reporters/minimal.js" {"dist/nodeunit/lib/reporters/minimal.js"}
 "dist/nodeunit/lib/reporters/html.js" {"dist/nodeunit/lib/reporters/html.js"}
 "dist/nodeunit/lib/reporters/default.js" {"dist/nodeunit/lib/reporters/default.js"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

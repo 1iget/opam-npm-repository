@@ -24,3 +24,6 @@ lib: [
 "test/specs/prompts/list.js" {"test/specs/prompts/list.js"}
 "test/specs/prompts/rawlist.js" {"test/specs/prompts/rawlist.js"}
 ]
+libexec: [
+
+]

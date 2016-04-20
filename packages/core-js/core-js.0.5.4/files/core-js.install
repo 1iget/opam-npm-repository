@@ -57,3 +57,6 @@ lib: [
 "build/build.ls" {"build/build.ls"}
 "build/config.ls" {"build/config.ls"}
 ]
+libexec: [
+
+]

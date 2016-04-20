@@ -1,0 +1,47 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"changelog.md" {"changelog.md"}
+".travis.yml" {".travis.yml"}
+"bin/cli.js" {"bin/cli.js"}
+"lib/cli-launcher.js" {"lib/cli-launcher.js"}
+"lib/cli-options.js" {"lib/cli-options.js"}
+"lib/expand-globs.js" {"lib/expand-globs.js"}
+"lib/expand-mapping.js" {"lib/expand-mapping.js"}
+"lib/get-targets.js" {"lib/get-targets.js"}
+"lib/normalize-relative.js" {"lib/normalize-relative.js"}
+"lib/process.js" {"lib/process.js"}
+"specs/bin/cli.js" {"specs/bin/cli.js"}
+"specs/lib/expand-globs.js" {"specs/lib/expand-globs.js"}
+"specs/lib/expand-mapping.js" {"specs/lib/expand-mapping.js"}
+"specs/lib/get-targets.js" {"specs/lib/get-targets.js"}
+"resources/demo.conf.js" {"resources/demo.conf.js"}
+"resources/expand/demo-1.js" {"resources/expand/demo-1.js"}
+"resources/expand/demo-2.js" {"resources/expand/demo-2.js"}
+"resources/expand/demo-3.js" {"resources/expand/demo-3.js"}
+"resources/expand/demo-1.less" {"resources/expand/demo-1.less"}
+"resources/expand/demo-2.less" {"resources/expand/demo-2.less"}
+"resources/expand/demo-3.less" {"resources/expand/demo-3.less"}
+"resources/expand/sub-folder/sub-sub-1/demo-1.txt" {"resources/expand/sub-folder/sub-sub-1/demo-1.txt"}
+"resources/expand/sub-folder/sub-sub-1/demo-2.css" {"resources/expand/sub-folder/sub-sub-1/demo-2.css"}
+"resources/expand/sub-folder/sub-sub-1/demo-3.jpg" {"resources/expand/sub-folder/sub-sub-1/demo-3.jpg"}
+"resources/expected/colored-output.txt" {"resources/expected/colored-output.txt"}
+"resources/expected/no-colored-output.txt" {"resources/expected/no-colored-output.txt"}
+"resources/target/demo-1.js" {"resources/target/demo-1.js"}
+"resources/target/demo-2.js" {"resources/target/demo-2.js"}
+"resources/target/demo-3.js" {"resources/target/demo-3.js"}
+"resources/target/demo-1.less" {"resources/target/demo-1.less"}
+"resources/target/demo-2.less" {"resources/target/demo-2.less"}
+"resources/target/demo-3.less" {"resources/target/demo-3.less"}
+"resources/target/sub-folder/sub-sub-1/target-2.js" {"resources/target/sub-folder/sub-sub-1/target-2.js"}
+"resources/target/sub-folder/sub-sub-1/demo-1.txt" {"resources/target/sub-folder/sub-sub-1/demo-1.txt"}
+"resources/target/sub-folder/sub-sub-1/demo-2.css" {"resources/target/sub-folder/sub-sub-1/demo-2.css"}
+"resources/target/sub-folder/sub-sub-1/demo-3.jpg" {"resources/target/sub-folder/sub-sub-1/demo-3.jpg"}
+"src/main.js" {"src/main.js"}
+"src/options.js" {"src/options.js"}
+]
+libexec: [
+
+]

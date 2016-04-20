@@ -6,7 +6,6 @@ lib: [
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
 "bin/cli.coffee" {"bin/cli.coffee"}
-"bin/gulp" {"bin/gulp"}
 "lib/createFilesStream.coffee" {"lib/createFilesStream.coffee"}
 "lib/main.coffee" {"lib/main.coffee"}
 "lib/readFile.coffee" {"lib/readFile.coffee"}
@@ -17,4 +16,7 @@ lib: [
 "test/fixtures/test/run.jade" {"test/fixtures/test/run.jade"}
 "test/fixtures/test.coffee" {"test/fixtures/test.coffee"}
 "test/tasks.coffee" {"test/tasks.coffee"}
+]
+libexec: [
+"bin/gulp" {"bin/gulp"}
 ]

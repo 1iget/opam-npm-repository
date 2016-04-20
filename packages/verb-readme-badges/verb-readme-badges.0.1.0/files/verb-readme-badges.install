@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"templates/codeclimate.md" {"templates/codeclimate.md"}
+"templates/coderwall.md" {"templates/coderwall.md"}
+"templates/coveralls.md" {"templates/coveralls.md"}
+"templates/david-dev.md" {"templates/david-dev.md"}
+"templates/david.md" {"templates/david.md"}
+"templates/drone.md" {"templates/drone.md"}
+"templates/fury.md" {"templates/fury.md"}
+"templates/grunt.md" {"templates/grunt.md"}
+"templates/npm.md" {"templates/npm.md"}
+"templates/travis.md" {"templates/travis.md"}
+]
+libexec: [
+
+]

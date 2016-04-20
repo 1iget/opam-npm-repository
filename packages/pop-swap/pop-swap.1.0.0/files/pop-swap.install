@@ -6,3 +6,6 @@ lib: [
 "swap.js" {"swap.js"}
 "test/swap-test.js" {"test/swap-test.js"}
 ]
+libexec: [
+
+]

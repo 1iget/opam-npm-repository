@@ -25,3 +25,6 @@ lib: [
 "lib/util/whitespace.js" {"lib/util/whitespace.js"}
 "AUTHORS" {"AUTHORS"}
 ]
+libexec: [
+
+]

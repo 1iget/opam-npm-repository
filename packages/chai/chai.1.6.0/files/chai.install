@@ -33,3 +33,6 @@ lib: [
 "lib/chai/utils/type.js" {"lib/chai/utils/type.js"}
 "lib/chai/utils/getPathValue.js" {"lib/chai/utils/getPathValue.js"}
 ]
+libexec: [
+
+]

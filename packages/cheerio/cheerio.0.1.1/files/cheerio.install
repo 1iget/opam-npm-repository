@@ -36,3 +36,6 @@ lib: [
 "tests/rendering/files/basic.html" {"tests/rendering/files/basic.html"}
 "tests/rendering/files/doctype.html" {"tests/rendering/files/doctype.html"}
 ]
+libexec: [
+
+]

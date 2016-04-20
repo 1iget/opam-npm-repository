@@ -13,3 +13,6 @@ lib: [
 "test/no-symbol.js" {"test/no-symbol.js"}
 "test/serialize.js" {"test/serialize.js"}
 ]
+libexec: [
+
+]

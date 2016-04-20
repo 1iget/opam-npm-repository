@@ -60,3 +60,6 @@ lib: [
 "test/module_dir/zmodules/bbb/package.json" {"test/module_dir/zmodules/bbb/package.json"}
 "test/module_dir/zmodules/bbb/main.js" {"test/module_dir/zmodules/bbb/main.js"}
 ]
+libexec: [
+
+]

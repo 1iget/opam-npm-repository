@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "index.js" {"index.js"}
 "test/fixtures/lodash.js" {"test/fixtures/lodash.js"}
-"bin/methods" {"bin/methods"}
 "bower.json" {"bower.json"}
 ".jshintrc" {".jshintrc"}
 "examples/lodash-docs.md" {"examples/lodash-docs.md"}
@@ -17,4 +16,7 @@ lib: [
 "docs/README.md" {"docs/README.md"}
 "docs/cli.md" {"docs/cli.md"}
 "docs/commands.md" {"docs/commands.md"}
+]
+libexec: [
+"bin/methods" {"bin/methods"}
 ]

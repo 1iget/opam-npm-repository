@@ -32,3 +32,6 @@ lib: [
 "example/structs/struct.js" {"example/structs/struct.js"}
 "example/structs/wscript" {"example/structs/wscript"}
 ]
+libexec: [
+
+]

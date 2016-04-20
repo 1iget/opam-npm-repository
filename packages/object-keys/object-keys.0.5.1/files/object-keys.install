@@ -11,3 +11,6 @@ lib: [
 "test/isArguments.js" {"test/isArguments.js"}
 "test/shim.js" {"test/shim.js"}
 ]
+libexec: [
+
+]

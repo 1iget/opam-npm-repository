@@ -9,3 +9,6 @@ lib: [
 "test/align_comment-output.js" {"test/align_comment-output.js"}
 "test/runner.js" {"test/runner.js"}
 ]
+libexec: [
+
+]

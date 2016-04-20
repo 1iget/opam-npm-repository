@@ -57,3 +57,6 @@ lib: [
 "lib/handlebars/compiler/visitor.js" {"lib/handlebars/compiler/visitor.js"}
 "release-notes.md" {"release-notes.md"}
 ]
+libexec: [
+
+]

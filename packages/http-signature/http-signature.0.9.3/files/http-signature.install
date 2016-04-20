@@ -16,3 +16,6 @@ lib: [
 "tst/signer.test.js" {"tst/signer.test.js"}
 "tst/verify.test.js" {"tst/verify.test.js"}
 ]
+libexec: [
+
+]

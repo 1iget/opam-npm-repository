@@ -5,3 +5,6 @@ lib: [
 "browser.js" {"browser.js"}
 "main.js" {"main.js"}
 ]
+libexec: [
+
+]

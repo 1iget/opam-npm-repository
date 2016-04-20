@@ -68,3 +68,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "scripts/generate-test.js" {"scripts/generate-test.js"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "test/index.coffee" {"test/index.coffee"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

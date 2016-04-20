@@ -13,3 +13,6 @@ lib: [
 "test/cwd-test.js" {"test/cwd-test.js"}
 "test/zz-cleanup.js" {"test/zz-cleanup.js"}
 ]
+libexec: [
+
+]

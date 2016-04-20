@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"lib/array-back.js" {"lib/array-back.js"}
+"test/test.js" {"test/test.js"}
+]
+libexec: [
+
+]

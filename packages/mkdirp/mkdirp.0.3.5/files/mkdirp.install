@@ -20,3 +20,6 @@ lib: [
 "test/mkdirp.js" {"test/mkdirp.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

@@ -11,7 +11,9 @@ depends: [
 "diff" {>="1.0.3" & <"1.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/vows %{bin}%/vows"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/vows" ] 
+]
 

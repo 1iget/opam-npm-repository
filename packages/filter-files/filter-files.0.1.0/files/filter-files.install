@@ -42,3 +42,6 @@ lib: [
 "test/helpers/is-file.js" {"test/helpers/is-file.js"}
 "test/helpers/normalize.js" {"test/helpers/normalize.js"}
 ]
+libexec: [
+
+]

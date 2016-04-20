@@ -7,7 +7,6 @@ lib: [
 "acorn_loose.js" {"acorn_loose.js"}
 "x.js" {"x.js"}
 "t.js" {"t.js"}
-"bin/acorn" {"bin/acorn"}
 "bin/update_authors.sh" {"bin/update_authors.sh"}
 "bin/without_eval" {"bin/without_eval"}
 "AUTHORS" {"AUTHORS"}
@@ -31,4 +30,7 @@ lib: [
 "tools/generate-identifier-regex.js" {"tools/generate-identifier-regex.js"}
 "util/walk.js" {"util/walk.js"}
 "y.jsx" {"y.jsx"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
 ]

@@ -8,3 +8,6 @@ lib: [
 "test/nesting.tap.js" {"test/nesting.tap.js"}
 "test/simple.tap.js" {"test/simple.tap.js"}
 ]
+libexec: [
+
+]

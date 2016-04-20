@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"polyfill.js" {"polyfill.js"}
+"implement.js" {"implement.js"}
+"index.js" {"index.js"}
+"is-symbol.js" {"is-symbol.js"}
+"is-native-implemented.js" {"is-native-implemented.js"}
+"valid-symbol.js" {"valid-symbol.js"}
+"is-implemented.js" {"is-implemented.js"}
+".lint" {".lint"}
+"CHANGES" {"CHANGES"}
+".travis.yml" {".travis.yml"}
+"test/implement.js" {"test/implement.js"}
+"test/index.js" {"test/index.js"}
+"test/is-implemented.js" {"test/is-implemented.js"}
+"test/is-native-implemented.js" {"test/is-native-implemented.js"}
+"test/is-symbol.js" {"test/is-symbol.js"}
+"test/polyfill.js" {"test/polyfill.js"}
+"test/valid-iterable.js" {"test/valid-iterable.js"}
+"test/valid-symbol.js" {"test/valid-symbol.js"}
+]
+libexec: [
+
+]

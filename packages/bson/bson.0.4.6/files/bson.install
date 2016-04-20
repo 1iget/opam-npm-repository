@@ -26,3 +26,6 @@ lib: [
 "lib/bson/parser/serializer.js" {"lib/bson/parser/serializer.js"}
 "tools/gleak.js" {"tools/gleak.js"}
 ]
+libexec: [
+
+]

@@ -122,3 +122,6 @@ lib: [
 "test/wrapWord.js" {"test/wrapWord.js"}
 "test/createStream.js" {"test/createStream.js"}
 ]
+libexec: [
+
+]

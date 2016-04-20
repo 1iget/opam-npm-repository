@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"lib/self-coverage-helper.js" {"lib/self-coverage-helper.js"}
+"lib/source-map-cache.js" {"lib/source-map-cache.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+]
+libexec: [
+"bin/nyc.js" {"bin/nyc.js"}
+]

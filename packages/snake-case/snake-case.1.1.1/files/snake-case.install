@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "snake-case.js" {"snake-case.js"}
 ]
+libexec: [
+
+]

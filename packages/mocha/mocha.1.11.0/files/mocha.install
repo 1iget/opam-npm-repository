@@ -6,8 +6,6 @@ lib: [
 "index.js" {"index.js"}
 "_mocha.js" {"_mocha.js"}
 "test.js" {"test.js"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 ".travis.yml" {".travis.yml"}
 "images/error.png" {"images/error.png"}
 "images/ok.png" {"images/ok.png"}
@@ -61,4 +59,8 @@ lib: [
 "Makefile" {"Makefile"}
 "History.md" {"History.md"}
 "component.json" {"component.json"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

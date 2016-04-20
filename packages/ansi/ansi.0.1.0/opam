@@ -8,7 +8,9 @@ dev-repo: "git://github.com/TooTallNate/ansi.js.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./examples/imgcat/index.js %{bin}%/imgcat"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/imgcat" ] 
+]
 

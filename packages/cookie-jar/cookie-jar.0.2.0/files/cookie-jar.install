@@ -6,3 +6,6 @@ lib: [
 "tests/test-cookie.js" {"tests/test-cookie.js"}
 "tests/test-cookiejar.js" {"tests/test-cookiejar.js"}
 ]
+libexec: [
+
+]

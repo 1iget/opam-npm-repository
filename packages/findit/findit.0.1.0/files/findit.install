@@ -13,3 +13,6 @@ lib: [
 "test/foo/a/b/z" {"test/foo/a/b/z"}
 "test/foo/a/b/c/w" {"test/foo/a/b/c/w"}
 ]
+libexec: [
+
+]

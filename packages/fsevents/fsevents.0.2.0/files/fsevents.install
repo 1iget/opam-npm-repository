@@ -16,3 +16,6 @@ lib: [
 "test/fsevents.js" {"test/fsevents.js"}
 "test/function.js" {"test/function.js"}
 ]
+libexec: [
+
+]

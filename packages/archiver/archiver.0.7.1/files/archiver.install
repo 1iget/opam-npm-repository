@@ -1,0 +1,47 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/archiver.js" {"test/archiver.js"}
+"test/headers.js" {"test/headers.js"}
+"test/util.js" {"test/util.js"}
+"test/fixtures/directory/level0.txt" {"test/fixtures/directory/level0.txt"}
+"test/fixtures/directory/subdir/level1.txt" {"test/fixtures/directory/subdir/level1.txt"}
+"test/fixtures/directory/subdir/subsub/level2.txt" {"test/fixtures/directory/subdir/subsub/level2.txt"}
+"test/fixtures/empty.txt" {"test/fixtures/empty.txt"}
+"test/fixtures/headers/tar-file.bin" {"test/fixtures/headers/tar-file.bin"}
+"test/fixtures/headers/tar-fileprefix.bin" {"test/fixtures/headers/tar-fileprefix.bin"}
+"test/fixtures/headers/zip-centralfooter.bin" {"test/fixtures/headers/zip-centralfooter.bin"}
+"test/fixtures/headers/zip-centralheader.bin" {"test/fixtures/headers/zip-centralheader.bin"}
+"test/fixtures/headers/zip-data.bin" {"test/fixtures/headers/zip-data.bin"}
+"test/fixtures/headers/zip-file.bin" {"test/fixtures/headers/zip-file.bin"}
+"test/fixtures/headers/zip-filedescriptor.bin" {"test/fixtures/headers/zip-filedescriptor.bin"}
+"test/fixtures/test.txt" {"test/fixtures/test.txt"}
+"test/helpers/common.js" {"test/helpers/common.js"}
+".travis.yml" {".travis.yml"}
+"examples/pack-bulk.js" {"examples/pack-bulk.js"}
+"examples/pack-tar.js" {"examples/pack-tar.js"}
+"examples/pack-tgz.js" {"examples/pack-tgz.js"}
+"examples/pack-zip.js" {"examples/pack-zip.js"}
+"examples/fixtures/file1.txt" {"examples/fixtures/file1.txt"}
+"examples/fixtures/file2.txt" {"examples/fixtures/file2.txt"}
+"formats/tar.md" {"formats/tar.md"}
+"lib/archiver.js" {"lib/archiver.js"}
+"lib/modules/core/index.js" {"lib/modules/core/index.js"}
+"lib/modules/core/queue.js" {"lib/modules/core/queue.js"}
+"lib/modules/json/index.js" {"lib/modules/json/index.js"}
+"lib/modules/tar/headers.js" {"lib/modules/tar/headers.js"}
+"lib/modules/tar/index.js" {"lib/modules/tar/index.js"}
+"lib/modules/zip/index.js" {"lib/modules/zip/index.js"}
+"lib/util/ChecksumStream.js" {"lib/util/ChecksumStream.js"}
+"lib/util/crc32.js" {"lib/util/crc32.js"}
+"lib/util/index.js" {"lib/util/index.js"}
+"CHANGELOG" {"CHANGELOG"}
+"benchmark/common.js" {"benchmark/common.js"}
+"benchmark/simple/pack-zip.js" {"benchmark/simple/pack-zip.js"}
+]
+libexec: [
+
+]

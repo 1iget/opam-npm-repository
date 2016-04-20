@@ -1,0 +1,31 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"utils.js" {"utils.js"}
+".travis.yml" {".travis.yml"}
+"Readme.md" {"Readme.md"}
+"test/wrap.js" {"test/wrap.js"}
+"test/2-column-simple.js" {"test/2-column-simple.js"}
+"test/truncate.js" {"test/truncate.js"}
+"test/column-splitter-character.js" {"test/column-splitter-character.js"}
+"test/truncation-character.js" {"test/truncation-character.js"}
+"test/data-transform.js" {"test/data-transform.js"}
+"test/define-columns.js" {"test/define-columns.js"}
+"test/headings.js" {"test/headings.js"}
+"test/1-column-simple.js" {"test/1-column-simple.js"}
+"test/splitlongwords.js" {"test/splitlongwords.js"}
+"test/truncate-column.js" {"test/truncate-column.js"}
+"test/padRight.js" {"test/padRight.js"}
+"test/truncate-column-expected.txt" {"test/truncate-column-expected.txt"}
+"test/data-transform-expected.txt" {"test/data-transform-expected.txt"}
+"test/truncate-expected.txt" {"test/truncate-expected.txt"}
+"test/truncate-multichar-expected.txt" {"test/truncate-multichar-expected.txt"}
+"test/column-splitter-character-expected.txt" {"test/column-splitter-character-expected.txt"}
+"test/2-column-simple-expected.txt" {"test/2-column-simple-expected.txt"}
+"test/wrap-expected.txt" {"test/wrap-expected.txt"}
+"test/1-column-simple-expected.txt" {"test/1-column-simple-expected.txt"}
+]
+libexec: [
+
+]

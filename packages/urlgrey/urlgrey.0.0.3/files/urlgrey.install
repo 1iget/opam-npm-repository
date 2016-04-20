@@ -9,3 +9,6 @@ lib: [
 "test/index.js" {"test/index.js"}
 "urlgrey.png" {"urlgrey.png"}
 ]
+libexec: [
+
+]

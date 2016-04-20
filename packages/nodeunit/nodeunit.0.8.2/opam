@@ -9,7 +9,9 @@ depends: [
 "tap" {>="0.2.3"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/nodeunit %{bin}%/nodeunit"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/nodeunit" ] 
+]
 

@@ -6,3 +6,6 @@ lib: [
 "LICENSE.BSD" {"LICENSE.BSD"}
 "bin/parser" {"bin/parser"}
 ]
+libexec: [
+
+]

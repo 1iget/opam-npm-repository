@@ -7,3 +7,6 @@ lib: [
 "upper-case-first.js" {"upper-case-first.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

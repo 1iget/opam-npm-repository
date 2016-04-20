@@ -1,0 +1,40 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"example/api.js" {"example/api.js"}
+"example/files/w.js" {"example/files/w.js"}
+"example/files/x.js" {"example/files/x.js"}
+"example/files/y.js" {"example/files/y.js"}
+"example/files/z.js" {"example/files/z.js"}
+".travis.yml" {".travis.yml"}
+"readme.markdown" {"readme.markdown"}
+"bin/cmd.js" {"bin/cmd.js"}
+"bin/usage.txt" {"bin/usage.txt"}
+"test/common-deps.js" {"test/common-deps.js"}
+"test/deps.js" {"test/deps.js"}
+"test/exposed-deps.js" {"test/exposed-deps.js"}
+"test/files.js" {"test/files.js"}
+"test/lift.js" {"test/lift.js"}
+"test/plugin-dedupe.js" {"test/plugin-dedupe.js"}
+"test/plugin.js" {"test/plugin.js"}
+"test/dedupe/a.js" {"test/dedupe/a.js"}
+"test/dedupe/b.js" {"test/dedupe/b.js"}
+"test/dedupe/c.js" {"test/dedupe/c.js"}
+"test/dedupe/d.js" {"test/dedupe/d.js"}
+"test/dedupe/e.js" {"test/dedupe/e.js"}
+"test/dedupe/x.js" {"test/dedupe/x.js"}
+"test/deps/w.js" {"test/deps/w.js"}
+"test/deps/x.js" {"test/deps/x.js"}
+"test/deps/y.js" {"test/deps/y.js"}
+"test/deps/z.js" {"test/deps/z.js"}
+"test/files/a.js" {"test/files/a.js"}
+"test/files/t.js" {"test/files/t.js"}
+"test/files/w.js" {"test/files/w.js"}
+"test/files/x.js" {"test/files/x.js"}
+"test/files/y.js" {"test/files/y.js"}
+"test/files/z.js" {"test/files/z.js"}
+]
+libexec: [
+
+]

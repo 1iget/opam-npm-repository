@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/nodeunit" {"bin/nodeunit"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
 "deps/async.js" {"deps/async.js"}
 "deps/console.log.js" {"deps/console.log.js"}
@@ -82,4 +81,7 @@ lib: [
 "img/example_fail.png" {"img/example_fail.png"}
 "img/example_machineout.png" {"img/example_machineout.png"}
 "img/example_pass.png" {"img/example_pass.png"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

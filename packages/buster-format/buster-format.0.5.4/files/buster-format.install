@@ -11,3 +11,6 @@ lib: [
 "jsTestDriver.conf" {"jsTestDriver.conf"}
 "LICENSE" {"LICENSE"}
 ]
+libexec: [
+
+]

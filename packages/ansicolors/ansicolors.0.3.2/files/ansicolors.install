@@ -5,3 +5,6 @@ lib: [
 "ansicolors.js" {"ansicolors.js"}
 "test/ansicolors.js" {"test/ansicolors.js"}
 ]
+libexec: [
+
+]

@@ -6,3 +6,6 @@ lib: [
 "snake-case.js" {"snake-case.js"}
 "test.js" {"test.js"}
 ]
+libexec: [
+
+]

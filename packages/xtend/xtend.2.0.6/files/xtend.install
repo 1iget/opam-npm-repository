@@ -9,3 +9,6 @@ lib: [
 "has-keys.js" {"has-keys.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

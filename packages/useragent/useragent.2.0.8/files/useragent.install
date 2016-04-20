@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+".travis.yml" {".travis.yml"}
+"features/index.js" {"features/index.js"}
+"CREDITS" {"CREDITS"}
+"lib/regexps.js" {"lib/regexps.js"}
+"lib/update.js" {"lib/update.js"}
+"test/features.test.js" {"test/features.test.js"}
+"test/parser.qa.js" {"test/parser.qa.js"}
+"test/parser.test.js" {"test/parser.test.js"}
+"test/fixtures/firefoxes.yaml" {"test/fixtures/firefoxes.yaml"}
+"test/fixtures/pgts.yaml" {"test/fixtures/pgts.yaml"}
+"test/fixtures/static.custom.yaml" {"test/fixtures/static.custom.yaml"}
+"test/fixtures/testcases.yaml" {"test/fixtures/testcases.yaml"}
+"test/mocha.opts" {"test/mocha.opts"}
+"static/user_agent.after.yaml" {"static/user_agent.after.yaml"}
+"bin/testfiles.js" {"bin/testfiles.js"}
+"bin/update.js" {"bin/update.js"}
+]
+libexec: [
+
+]

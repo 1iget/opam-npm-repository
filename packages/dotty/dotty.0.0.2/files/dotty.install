@@ -24,3 +24,6 @@ lib: [
 "test/remove-test.js" {"test/remove-test.js"}
 "test/search-test.js" {"test/search-test.js"}
 ]
+libexec: [
+
+]

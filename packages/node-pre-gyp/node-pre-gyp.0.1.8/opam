@@ -19,7 +19,9 @@ depends: [
 "tar-pack" {>="0.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/node-pre-gyp.js %{bin}%/node-pre-gyp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/node-pre-gyp" ] 
+]
 

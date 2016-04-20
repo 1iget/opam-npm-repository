@@ -11,3 +11,6 @@ lib: [
 "test/test.js" {"test/test.js"}
 "test/fixtures/test.hbs" {"test/fixtures/test.hbs"}
 ]
+libexec: [
+
+]

@@ -6,7 +6,7 @@ author: "briandipalma <offler@gmail.com>"
 license: "ISC"
 dev-repo: "https://github.com/briandipalma/esformatter-eol-last.git"
 depends: [
-"string.prototype.endswith" {>="0.2.0" & <"0.3.0"}
+"string_prototype_endswith" {>="0.2.0" & <"0.3.0"}
 
 ]
 

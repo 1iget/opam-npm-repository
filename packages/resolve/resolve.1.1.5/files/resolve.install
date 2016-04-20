@@ -69,3 +69,6 @@ lib: [
 "test/subdirs/node_modules/a/package.json" {"test/subdirs/node_modules/a/package.json"}
 "test/subdirs/node_modules/a/b/c/x.json" {"test/subdirs/node_modules/a/b/c/x.json"}
 ]
+libexec: [
+
+]

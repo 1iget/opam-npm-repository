@@ -19,3 +19,6 @@ lib: [
 "examples/negative.js" {"examples/negative.js"}
 "examples/json.js" {"examples/json.js"}
 ]
+libexec: [
+
+]

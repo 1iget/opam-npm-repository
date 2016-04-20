@@ -8,3 +8,6 @@ lib: [
 "test/holes.js" {"test/holes.js"}
 "test/this.js" {"test/this.js"}
 ]
+libexec: [
+
+]

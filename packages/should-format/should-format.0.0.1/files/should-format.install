@@ -10,3 +10,6 @@ lib: [
 "tests/browser/index.html" {"tests/browser/index.html"}
 "tests/browser/mocha.css" {"tests/browser/mocha.css"}
 ]
+libexec: [
+
+]

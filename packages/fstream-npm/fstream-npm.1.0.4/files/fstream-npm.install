@@ -12,3 +12,6 @@ lib: [
 "example/tar.js" {"example/tar.js"}
 "fstream-npm.js~" {"fstream-npm.js~"}
 ]
+libexec: [
+
+]

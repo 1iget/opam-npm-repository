@@ -8,7 +8,9 @@ dev-repo: "http://github.com/substack/node-mkdirp.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cmd.js %{bin}%/mkdirp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mkdirp" ] 
+]
 

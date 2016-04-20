@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"src/validation.cc" {"src/validation.cc"}
+]
+libexec: [
+
+]

@@ -23,3 +23,6 @@ lib: [
 "test/prompts/list.js" {"test/prompts/list.js"}
 "test/prompts/rawlist.js" {"test/prompts/rawlist.js"}
 ]
+libexec: [
+
+]

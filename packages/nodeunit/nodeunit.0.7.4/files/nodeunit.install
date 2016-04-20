@@ -93,10 +93,12 @@ lib: [
 "examples/nested/" {"examples/nested/"}
 "examples/nested/nested_reporter_test.unit.js" {"examples/nested/nested_reporter_test.unit.js"}
 "bin/" {"bin/"}
-"bin/nodeunit" {"bin/nodeunit"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
 "img/" {"img/"}
 "img/example_pass.png" {"img/example_pass.png"}
 "img/example_fail.png" {"img/example_fail.png"}
 "img/example_machineout.png" {"img/example_machineout.png"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

@@ -23,3 +23,6 @@ lib: [
 "test/new-glob-optional-options.js" {"test/new-glob-optional-options.js"}
 "test/bash-results.json" {"test/bash-results.json"}
 ]
+libexec: [
+
+]

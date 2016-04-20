@@ -1,0 +1,10 @@
+lib: [
+"assert.js" {"assert.js"}
+"AUTHORS" {"AUTHORS"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+]
+libexec: [
+
+]

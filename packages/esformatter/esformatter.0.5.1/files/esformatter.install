@@ -7,7 +7,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 ".editorconfig" {".editorconfig"}
-"bin/esformatter" {"bin/esformatter"}
 "lib/cli.js" {"lib/cli.js"}
 "lib/plugins.js" {"lib/plugins.js"}
 "lib/hooks.js" {"lib/hooks.js"}
@@ -211,4 +210,7 @@ lib: [
 "test/compare/rc/package/rc/.esformatter" {"test/compare/rc/package/rc/.esformatter"}
 "test/plugin/package.json" {"test/plugin/package.json"}
 "test/plugin/index.js" {"test/plugin/index.js"}
+]
+libexec: [
+"bin/esformatter" {"bin/esformatter"}
 ]

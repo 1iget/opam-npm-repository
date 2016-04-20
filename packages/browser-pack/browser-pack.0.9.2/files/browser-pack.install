@@ -22,3 +22,6 @@ lib: [
 "bin/prepublish.js" {"bin/prepublish.js"}
 "bin/cmd.js" {"bin/cmd.js"}
 ]
+libexec: [
+
+]

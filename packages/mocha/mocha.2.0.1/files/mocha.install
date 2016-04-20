@@ -4,8 +4,6 @@ lib: [
 "index.js" {"index.js"}
 "mocha.js" {"mocha.js"}
 "Readme.md" {"Readme.md"}
-"bin/_mocha" {"bin/_mocha"}
-"bin/mocha" {"bin/mocha"}
 "images/error.png" {"images/error.png"}
 "images/ok.png" {"images/ok.png"}
 "lib/utils.js" {"lib/utils.js"}
@@ -54,4 +52,8 @@ lib: [
 "lib/reporters/templates/script.html" {"lib/reporters/templates/script.html"}
 "lib/reporters/templates/style.html" {"lib/reporters/templates/style.html"}
 "mocha.css" {"mocha.css"}
+]
+libexec: [
+"bin/_mocha" {"bin/_mocha"}
+"bin/mocha" {"bin/mocha"}
 ]

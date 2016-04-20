@@ -38,3 +38,6 @@ lib: [
 "examples/typer.js" {"examples/typer.js"}
 "examples/CAPSLOCKTYPER.JS" {"examples/CAPSLOCKTYPER.JS"}
 ]
+libexec: [
+
+]

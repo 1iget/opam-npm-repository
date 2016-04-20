@@ -1,0 +1,33 @@
+lib: [
+"" {""}
+".externalToolBuilders/" {".externalToolBuilders/"}
+".gitignore" {".gitignore"}
+".project" {".project"}
+".settings/" {".settings/"}
+"bin/" {"bin/"}
+"lib/" {"lib/"}
+"LICENSE" {"LICENSE"}
+"._package.json" {"._package.json"}
+"package.json" {"package.json"}
+"._README.md" {"._README.md"}
+"README.md" {"README.md"}
+"spec/" {"spec/"}
+"specs.sh" {"specs.sh"}
+"spec/nested/" {"spec/nested/"}
+"spec/nested.js/" {"spec/nested.js/"}
+"spec/SampleSpecs.js" {"spec/SampleSpecs.js"}
+"spec/TestSpec.js" {"spec/TestSpec.js"}
+"spec/nested.js/NestedSpec.js" {"spec/nested.js/NestedSpec.js"}
+"spec/nested/NestedSpec.js" {"spec/nested/NestedSpec.js"}
+"spec/nested/uber-nested/" {"spec/nested/uber-nested/"}
+"spec/nested/uber-nested/UberNestedSpec.js" {"spec/nested/uber-nested/UberNestedSpec.js"}
+"lib/jasmine-node/" {"lib/jasmine-node/"}
+"lib/jasmine-node/cli.js" {"lib/jasmine-node/cli.js"}
+"lib/jasmine-node/index.js" {"lib/jasmine-node/index.js"}
+"lib/jasmine-node/jasmine-1.0.1.js" {"lib/jasmine-node/jasmine-1.0.1.js"}
+"bin/._jasmine-node" {"bin/._jasmine-node"}
+".externalToolBuilders/jasmineSpecs.launch" {".externalToolBuilders/jasmineSpecs.launch"}
+]
+libexec: [
+"bin/jasmine-node" {"bin/jasmine-node"}
+]

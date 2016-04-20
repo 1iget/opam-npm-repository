@@ -3,7 +3,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "CHANGELOG.md" {"CHANGELOG.md"}
-"bin/eslint.js" {"bin/eslint.js"}
 "conf/environments.js" {"conf/environments.js"}
 "conf/eslint.json" {"conf/eslint.json"}
 "lib/api.js" {"lib/api.js"}
@@ -196,4 +195,7 @@ lib: [
 "lib/formatters/stylish.js" {"lib/formatters/stylish.js"}
 "lib/formatters/tap.js" {"lib/formatters/tap.js"}
 "lib/util/traverse.js" {"lib/util/traverse.js"}
+]
+libexec: [
+"bin/eslint.js" {"bin/eslint.js"}
 ]

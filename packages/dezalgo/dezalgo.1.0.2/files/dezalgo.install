@@ -5,3 +5,6 @@ lib: [
 "dezalgo.js" {"dezalgo.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

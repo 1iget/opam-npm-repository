@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"extender-min.js" {"extender-min.js"}
+"extender.js" {"extender.js"}
+"grunt.js" {"grunt.js"}
+"index.js" {"index.js"}
+".idea/libraries/sass_stdlib.xml" {".idea/libraries/sass_stdlib.xml"}
+".idea/.name" {".idea/.name"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/extender.iml" {".idea/extender.iml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/dictionaries/doug.xml" {".idea/dictionaries/doug.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".travis.yml" {".travis.yml"}
+"test/extender.test.js" {"test/extender.test.js"}
+"test/is.js" {"test/is.js"}
+]
+libexec: [
+
+]

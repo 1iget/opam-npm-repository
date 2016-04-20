@@ -6,3 +6,6 @@ lib: [
 "test/examples/npm-package.json" {"test/examples/npm-package.json"}
 "test/examples/readme.json5" {"test/examples/readme.json5"}
 ]
+libexec: [
+
+]

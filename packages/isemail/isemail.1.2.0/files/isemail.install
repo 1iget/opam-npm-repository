@@ -11,3 +11,6 @@ lib: [
 "test/mocha.opts" {"test/mocha.opts"}
 "test/tests.json" {"test/tests.json"}
 ]
+libexec: [
+
+]

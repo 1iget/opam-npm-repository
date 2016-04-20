@@ -5,3 +5,6 @@ lib: [
 "mute.js" {"mute.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

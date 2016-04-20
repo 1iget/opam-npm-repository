@@ -16,3 +16,6 @@ lib: [
 "test/prompt-test.js" {"test/prompt-test.js"}
 "lib/prompt.js" {"lib/prompt.js"}
 ]
+libexec: [
+
+]

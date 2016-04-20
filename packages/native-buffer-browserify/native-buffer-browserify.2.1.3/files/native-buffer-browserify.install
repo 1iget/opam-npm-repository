@@ -40,3 +40,6 @@ lib: [
 "test/slice.js" {"test/slice.js"}
 "test/utf16.js" {"test/utf16.js"}
 ]
+libexec: [
+
+]

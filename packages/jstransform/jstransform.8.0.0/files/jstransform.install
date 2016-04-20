@@ -43,3 +43,6 @@ lib: [
 "visitors/__tests__/type-variable-declaration-syntax-test.js" {"visitors/__tests__/type-variable-declaration-syntax-test.js"}
 "visitors/__tests__/es7-spread-property-visitors-test.js" {"visitors/__tests__/es7-spread-property-visitors-test.js"}
 ]
+libexec: [
+
+]

@@ -16,3 +16,6 @@ lib: [
 "test/sizeof.js" {"test/sizeof.js"}
 "test/string.js" {"test/string.js"}
 ]
+libexec: [
+
+]

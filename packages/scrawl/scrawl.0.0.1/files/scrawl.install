@@ -9,3 +9,6 @@ lib: [
 "test/fixtures/basic2.js" {"test/fixtures/basic2.js"}
 "test/fixtures/basic.js" {"test/fixtures/basic.js"}
 ]
+libexec: [
+
+]

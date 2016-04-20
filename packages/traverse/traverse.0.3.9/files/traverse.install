@@ -22,3 +22,6 @@ lib: [
 "test/circular.js" {"test/circular.js"}
 "test/equal.js" {"test/equal.js"}
 ]
+libexec: [
+
+]

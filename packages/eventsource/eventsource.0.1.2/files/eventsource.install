@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"example.js" {"example.js"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"lib/eventsource.js" {"lib/eventsource.js"}
+"test/eventsource_test.js" {"test/eventsource_test.js"}
+"test/certificate.pem" {"test/certificate.pem"}
+"test/key.pem" {"test/key.pem"}
+]
+libexec: [
+
+]

@@ -12,7 +12,6 @@ lib: [
 "lib/process.js" {"lib/process.js"}
 "specs/esbeautifier.js" {"specs/esbeautifier.js"}
 "specs/bin/cli.js" {"specs/bin/cli.js"}
-"bin/cli.js" {"bin/cli.js"}
 "resources/expected/array-simple.js" {"resources/expected/array-simple.js"}
 "resources/expected/comments-at-the-end-of-functions.js" {"resources/expected/comments-at-the-end-of-functions.js"}
 "resources/expected/export-async-fn-expression.js" {"resources/expected/export-async-fn-expression.js"}
@@ -37,4 +36,7 @@ lib: [
 "resources/fixtures/ignore-line.js" {"resources/fixtures/ignore-line.js"}
 "src/main.js" {"src/main.js"}
 "src/options.js" {"src/options.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

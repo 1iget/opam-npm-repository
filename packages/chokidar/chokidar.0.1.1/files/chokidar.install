@@ -6,3 +6,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "src/index.coffee" {"src/index.coffee"}
 ]
+libexec: [
+
+]

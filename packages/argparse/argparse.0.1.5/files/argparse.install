@@ -39,3 +39,6 @@ lib: [
 "test/sub_commands.js" {"test/sub_commands.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

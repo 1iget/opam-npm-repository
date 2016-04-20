@@ -10,3 +10,6 @@ lib: [
 "test/buster-core-test.js" {"test/buster-core-test.js"}
 "test/buster-event-emitter-test.js" {"test/buster-event-emitter-test.js"}
 ]
+libexec: [
+
+]

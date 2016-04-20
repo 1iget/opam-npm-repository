@@ -4,3 +4,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "chownr.js" {"chownr.js"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,7 @@
+lib: [
+"package.json" {"package.json"}
+"lib/ncp.js" {"lib/ncp.js"}
+]
+libexec: [
+"bin/ncp" {"bin/ncp"}
+]

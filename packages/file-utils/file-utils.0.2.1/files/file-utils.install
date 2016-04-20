@@ -60,3 +60,6 @@ lib: [
 "tests/fixtures/utf8.yaml" {"tests/fixtures/utf8.yaml"}
 "tests/helpers/helpers.js" {"tests/helpers/helpers.js"}
 ]
+libexec: [
+
+]

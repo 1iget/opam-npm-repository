@@ -86,5 +86,7 @@ lib: [
 "min/deferrable.js.map" {"min/deferrable.js.map"}
 "min/decorator.js.map" {"min/decorator.js.map"}
 "min/constant_scope.js.map" {"min/constant_scope.js.map"}
+]
+libexec: [
 "bin/jsbuild" {"bin/jsbuild"}
 ]

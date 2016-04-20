@@ -11,7 +11,9 @@ depends: [
 "glob" {>="2.0.7"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/hint %{bin}%/jshint"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jshint" ] 
+]
 

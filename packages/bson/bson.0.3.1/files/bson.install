@@ -22,3 +22,6 @@ lib: [
 "lib/bson/float_parser.js" {"lib/bson/float_parser.js"}
 "tools/gleak.js" {"tools/gleak.js"}
 ]
+libexec: [
+
+]

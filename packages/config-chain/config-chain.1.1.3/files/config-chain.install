@@ -13,3 +13,6 @@ lib: [
 "test/broken.json" {"test/broken.json"}
 "readme.markdown" {"readme.markdown"}
 ]
+libexec: [
+
+]

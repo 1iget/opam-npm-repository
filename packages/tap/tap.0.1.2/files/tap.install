@@ -60,3 +60,6 @@ lib: [
 "test/timeout.js" {"test/timeout.js"}
 "test/trivial-success.js" {"test/trivial-success.js"}
 ]
+libexec: [
+
+]

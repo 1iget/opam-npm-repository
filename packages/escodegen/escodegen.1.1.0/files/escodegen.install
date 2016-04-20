@@ -7,7 +7,9 @@ lib: [
 ".jshintrc" {".jshintrc"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "LICENSE.source-map" {"LICENSE.source-map"}
+"component.json" {"component.json"}
+]
+libexec: [
 "bin/escodegen.js" {"bin/escodegen.js"}
 "bin/esgenerate.js" {"bin/esgenerate.js"}
-"component.json" {"component.json"}
 ]

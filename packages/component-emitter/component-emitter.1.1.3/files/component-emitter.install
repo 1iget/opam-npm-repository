@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"History.md" {"History.md"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+]
+libexec: [
+
+]

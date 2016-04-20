@@ -1,0 +1,31 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"appveyor.yml" {"appveyor.yml"}
+"bin/node-pre-gyp.cmd" {"bin/node-pre-gyp.cmd"}
+"lib/build.js" {"lib/build.js"}
+"lib/node-pre-gyp.js" {"lib/node-pre-gyp.js"}
+"lib/package.js" {"lib/package.js"}
+"lib/pre-binding.js" {"lib/pre-binding.js"}
+"lib/install.js" {"lib/install.js"}
+"lib/rebuild.js" {"lib/rebuild.js"}
+"lib/reinstall.js" {"lib/reinstall.js"}
+"lib/reveal.js" {"lib/reveal.js"}
+"lib/testbinary.js" {"lib/testbinary.js"}
+"lib/testpackage.js" {"lib/testpackage.js"}
+"lib/info.js" {"lib/info.js"}
+"lib/unpublish.js" {"lib/unpublish.js"}
+"lib/clean.js" {"lib/clean.js"}
+"lib/publish.js" {"lib/publish.js"}
+"lib/util/compile.js" {"lib/util/compile.js"}
+"lib/util/s3_setup.js" {"lib/util/s3_setup.js"}
+"lib/util/versioning.js" {"lib/util/versioning.js"}
+"lib/util/abi_crosswalk.json" {"lib/util/abi_crosswalk.json"}
+"lib/util/nw-pre-gyp/package.json" {"lib/util/nw-pre-gyp/package.json"}
+"lib/util/nw-pre-gyp/index.html" {"lib/util/nw-pre-gyp/index.html"}
+]
+libexec: [
+"bin/node-pre-gyp" {"bin/node-pre-gyp"}
+]

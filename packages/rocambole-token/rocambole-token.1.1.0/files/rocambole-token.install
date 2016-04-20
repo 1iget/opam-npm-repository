@@ -10,3 +10,6 @@ lib: [
 "remove.js" {"remove.js"}
 "test/find-spec.js" {"test/find-spec.js"}
 ]
+libexec: [
+
+]

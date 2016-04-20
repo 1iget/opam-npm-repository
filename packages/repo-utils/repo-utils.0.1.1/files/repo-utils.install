@@ -9,3 +9,6 @@ lib: [
 "lib/index.js" {"lib/index.js"}
 "lib/url.js" {"lib/url.js"}
 ]
+libexec: [
+
+]

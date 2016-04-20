@@ -88,7 +88,6 @@ lib: [
 "test/run.sh" {"test/run.sh"}
 "bin/" {"bin/"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
-"bin/whiskey" {"bin/whiskey"}
 "Makefile" {"Makefile"}
 "assets/" {"assets/"}
 "assets/jquery.hotkeys.js" {"assets/jquery.hotkeys.js"}
@@ -106,4 +105,7 @@ lib: [
 "README.md" {"README.md"}
 "PROCESS_RUNNER.md" {"PROCESS_RUNNER.md"}
 "LICENSE" {"LICENSE"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

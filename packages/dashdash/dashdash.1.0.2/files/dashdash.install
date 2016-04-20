@@ -1,0 +1,17 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"CHANGES.md" {"CHANGES.md"}
+"lib/dashdash.js" {"lib/dashdash.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"Makefile" {"Makefile"}
+"test/basics.test.js" {"test/basics.test.js"}
+"test/tap4nodeunit.js" {"test/tap4nodeunit.js"}
+"TODO.txt" {"TODO.txt"}
+"tools/cutarelease.py" {"tools/cutarelease.py"}
+"tools/jsstyle" {"tools/jsstyle"}
+]
+libexec: [
+
+]

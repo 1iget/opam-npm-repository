@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/cli.js" {"bin/cli.js"}
 "changelog.md" {"changelog.md"}
 "configs/esformatter.json" {"configs/esformatter.json"}
 ".travis.yml" {".travis.yml"}
@@ -26,4 +25,7 @@ lib: [
 "resources/fixtures/shebang.js" {"resources/fixtures/shebang.js"}
 "specs/esbeautifier.js" {"specs/esbeautifier.js"}
 "specs/bin/cli.js" {"specs/bin/cli.js"}
+]
+libexec: [
+"bin/cli.js" {"bin/cli.js"}
 ]

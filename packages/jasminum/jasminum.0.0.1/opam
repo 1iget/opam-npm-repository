@@ -25,7 +25,9 @@ depends: [
 "url" {>="0.7.9" & <"0.8.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/phantom/runner.js %{bin}%/jasminum-phantom"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasminum-phantom" ] 
+]
 

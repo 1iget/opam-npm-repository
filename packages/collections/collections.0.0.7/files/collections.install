@@ -36,3 +36,6 @@ lib: [
 "CHANGES.md" {"CHANGES.md"}
 ".tmp/parallel.js" {".tmp/parallel.js"}
 ]
+libexec: [
+
+]

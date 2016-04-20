@@ -1,0 +1,28 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Gruntfile.js" {"Gruntfile.js"}
+".jshintrc" {".jshintrc"}
+"bower.json" {"bower.json"}
+"dist/Autolinker.js" {"dist/Autolinker.js"}
+"dist/Autolinker.min.js" {"dist/Autolinker.min.js"}
+"src/AnchorTagBuilder.js" {"src/AnchorTagBuilder.js"}
+"src/Autolinker.js" {"src/Autolinker.js"}
+"src/HtmlParser.js" {"src/HtmlParser.js"}
+"src/HtmlTag.js" {"src/HtmlTag.js"}
+"src/Util.js" {"src/Util.js"}
+"src/match/Email.js" {"src/match/Email.js"}
+"src/match/Match.js" {"src/match/Match.js"}
+"src/match/Twitter.js" {"src/match/Twitter.js"}
+"src/match/Url.js" {"src/match/Url.js"}
+"tests/AutolinkerSpec.js" {"tests/AutolinkerSpec.js"}
+"tests/HtmlParserSpec.js" {"tests/HtmlParserSpec.js"}
+"tests/HtmlTagSpec.js" {"tests/HtmlTagSpec.js"}
+"tests/UtilSpec.js" {"tests/UtilSpec.js"}
+"tests/index.html" {"tests/index.html"}
+]
+libexec: [
+
+]

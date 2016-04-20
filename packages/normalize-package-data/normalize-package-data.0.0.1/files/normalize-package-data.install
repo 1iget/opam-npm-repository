@@ -13,3 +13,6 @@ lib: [
 "test/normalize.js" {"test/normalize.js"}
 "test/fixtures/read-package-json.json" {"test/fixtures/read-package-json.json"}
 ]
+libexec: [
+
+]

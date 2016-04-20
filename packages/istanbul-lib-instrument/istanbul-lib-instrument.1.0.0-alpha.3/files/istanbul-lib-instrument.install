@@ -16,3 +16,6 @@ lib: [
 "lib/vargen.js" {"lib/vargen.js"}
 ".doc.yml" {".doc.yml"}
 ]
+libexec: [
+
+]

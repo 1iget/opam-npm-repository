@@ -13,3 +13,6 @@ lib: [
 "tests/readdir/foo/lorem.txt" {"tests/readdir/foo/lorem.txt"}
 "tests/readdir/foo/bar/ipsum.js" {"tests/readdir/foo/bar/ipsum.js"}
 ]
+libexec: [
+
+]

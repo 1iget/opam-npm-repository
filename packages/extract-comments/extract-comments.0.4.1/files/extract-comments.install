@@ -12,3 +12,6 @@ lib: [
 "LICENSE-MIT" {"LICENSE-MIT"}
 "fixtures/assemble.js" {"fixtures/assemble.js"}
 ]
+libexec: [
+
+]

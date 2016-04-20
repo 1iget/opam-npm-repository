@@ -14,3 +14,6 @@ lib: [
 "package.json" {"package.json"}
 "seq.js" {"seq.js"}
 ]
+libexec: [
+
+]

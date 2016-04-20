@@ -4,3 +4,6 @@ lib: [
 "pluralize.js" {"pluralize.js"}
 "Readme.md" {"Readme.md"}
 ]
+libexec: [
+
+]

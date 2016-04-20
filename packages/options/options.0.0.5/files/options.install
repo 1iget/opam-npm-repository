@@ -7,3 +7,6 @@ lib: [
 "test/options.test.js" {"test/options.test.js"}
 "test/fixtures/test.conf" {"test/fixtures/test.conf"}
 ]
+libexec: [
+
+]

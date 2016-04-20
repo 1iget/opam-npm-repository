@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"README.markdown" {"README.markdown"}
+"example/center.js" {"example/center.js"}
+"example/meat.js" {"example/meat.js"}
+"test/break.js" {"test/break.js"}
+"test/wrap.js" {"test/wrap.js"}
+"test/idleness.txt" {"test/idleness.txt"}
+]
+libexec: [
+
+]

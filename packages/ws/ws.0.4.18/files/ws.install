@@ -33,7 +33,6 @@ lib: [
 "examples/serverstats-express_3/server.js" {"examples/serverstats-express_3/server.js"}
 "examples/serverstats-express_3/public/index.html" {"examples/serverstats-express_3/public/index.html"}
 "Makefile" {"Makefile"}
-"bin/wscat" {"bin/wscat"}
 "bench/parser.benchmark.js" {"bench/parser.benchmark.js"}
 "bench/sender.benchmark.js" {"bench/sender.benchmark.js"}
 "bench/speed.js" {"bench/speed.js"}
@@ -57,4 +56,7 @@ lib: [
 "test/fixtures/key.pem" {"test/fixtures/key.pem"}
 "test/fixtures/request.pem" {"test/fixtures/request.pem"}
 "test/fixtures/textfile" {"test/fixtures/textfile"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

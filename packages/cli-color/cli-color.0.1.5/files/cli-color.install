@@ -16,3 +16,6 @@ lib: [
 "test/throbber.js" {"test/throbber.js"}
 "test/trim.js" {"test/trim.js"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "lib/primes.json" {"lib/primes.json"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

@@ -9,7 +9,9 @@ depends: [
 "glob" {>="4.4.1" & <"5.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin.js %{bin}%/rimraf"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/rimraf" ] 
+]
 

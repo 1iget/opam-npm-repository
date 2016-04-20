@@ -4,7 +4,6 @@ lib: [
 ".jshintrc" {".jshintrc"}
 ".npmignore" {".npmignore"}
 "bin/" {"bin/"}
-"bin/hint" {"bin/hint"}
 "HELP" {"HELP"}
 "lib/" {"lib/"}
 "lib/cli.js" {"lib/cli.js"}
@@ -21,4 +20,7 @@ lib: [
 "packages/jshint/jshint.js" {"packages/jshint/jshint.js"}
 "packages/jshint/README.markdown" {"packages/jshint/README.markdown"}
 "README.md" {"README.md"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

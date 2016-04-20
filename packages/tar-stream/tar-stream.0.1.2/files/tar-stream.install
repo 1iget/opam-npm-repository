@@ -8,3 +8,6 @@ lib: [
 "index.js" {"index.js"}
 "pack.js" {"pack.js"}
 ]
+libexec: [
+
+]

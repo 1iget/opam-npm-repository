@@ -8,7 +8,9 @@ dev-repo: "git://github.com/beatgammit/js-deflate.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/inflate.js %{bin}%/inflate-js"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/inflate-js" ] 
+]
 

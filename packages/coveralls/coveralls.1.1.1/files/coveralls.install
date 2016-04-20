@@ -3,5 +3,7 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "coverage.json" {"coverage.json"}
+]
+libexec: [
 "bin/coveralls.js" {"bin/coveralls.js"}
 ]

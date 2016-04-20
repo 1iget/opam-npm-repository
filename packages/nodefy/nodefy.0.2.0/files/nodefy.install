@@ -22,3 +22,6 @@ lib: [
 "test/files/nested/magic_remaped-in.js" {"test/files/nested/magic_remaped-in.js"}
 "test/files/nested/magic_remaped-out.js" {"test/files/nested/magic_remaped-out.js"}
 ]
+libexec: [
+
+]

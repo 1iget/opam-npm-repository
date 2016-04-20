@@ -35,3 +35,6 @@ lib: [
 "test/resolver/other_path/lib/other-lib.js" {"test/resolver/other_path/lib/other-lib.js"}
 "test/resolver/quux/foo/index.js" {"test/resolver/quux/foo/index.js"}
 ]
+libexec: [
+
+]

@@ -10,7 +10,6 @@ lib: [
 "lib/collector.js" {"lib/collector.js"}
 "lib/config.js" {"lib/config.js"}
 "lib/hook.js" {"lib/hook.js"}
-"lib/cli.js" {"lib/cli.js"}
 "lib/object-utils.js" {"lib/object-utils.js"}
 "lib/register-plugins.js" {"lib/register-plugins.js"}
 "lib/reporter.js" {"lib/reporter.js"}
@@ -57,4 +56,7 @@ lib: [
 "lib/util/writer.js" {"lib/util/writer.js"}
 "lib/util/yui-load-hook.js" {"lib/util/yui-load-hook.js"}
 "yui-coverage-comparison.md" {"yui-coverage-comparison.md"}
+]
+libexec: [
+"lib/cli.js" {"lib/cli.js"}
 ]

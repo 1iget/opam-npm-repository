@@ -8,3 +8,6 @@ lib: [
 "component.json" {"component.json"}
 "lib/inflection.js" {"lib/inflection.js"}
 ]
+libexec: [
+
+]

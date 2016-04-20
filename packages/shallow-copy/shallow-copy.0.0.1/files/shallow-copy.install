@@ -9,3 +9,6 @@ lib: [
 "test/array.js" {"test/array.js"}
 "test/object.js" {"test/object.js"}
 ]
+libexec: [
+
+]

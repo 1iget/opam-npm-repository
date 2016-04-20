@@ -51,3 +51,6 @@ lib: [
 "query.js" {"query.js"}
 "valgrind.log" {"valgrind.log"}
 ]
+libexec: [
+
+]

@@ -4,3 +4,6 @@ lib: [
 "bench.js" {"bench.js"}
 "index.js" {"index.js"}
 ]
+libexec: [
+
+]

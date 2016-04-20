@@ -123,3 +123,6 @@ lib: [
 "test/executed.sh" {"test/executed.sh"}
 "test/end-exception/t.js" {"test/end-exception/t.js"}
 ]
+libexec: [
+
+]

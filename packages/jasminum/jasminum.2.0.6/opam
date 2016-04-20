@@ -41,7 +41,9 @@ depends: [
 "wd" {>="0.2.15" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/phantom/runner.js %{bin}%/jasminum-phantom"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasminum-phantom" ] 
+]
 

@@ -11,7 +11,9 @@ depends: [
 "async" {>="0.1.4"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/whiskey %{bin}%/whiskey"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/whiskey" ] 
+]
 

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"lib/node-pre-gyp.js" {"lib/node-pre-gyp.js"}
+"lib/publish.js" {"lib/publish.js"}
+"lib/rebuild.js" {"lib/rebuild.js"}
+"lib/util/compile.js" {"lib/util/compile.js"}
+"lib/util/versioning.js" {"lib/util/versioning.js"}
+]
+libexec: [
+"bin/node-pre-gyp.js" {"bin/node-pre-gyp.js"}
+]

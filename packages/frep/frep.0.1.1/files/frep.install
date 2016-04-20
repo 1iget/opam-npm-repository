@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"frep.js" {"frep.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+]
+libexec: [
+
+]

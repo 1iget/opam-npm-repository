@@ -3,3 +3,6 @@ lib: [
 "onetime.js" {"onetime.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

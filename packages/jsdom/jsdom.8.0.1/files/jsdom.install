@@ -284,3 +284,6 @@ lib: [
 "lib/jsdom/web-idl/DOMException.js" {"lib/jsdom/web-idl/DOMException.js"}
 "lib/jsdom/web-idl/dom-exception-table.json" {"lib/jsdom/web-idl/dom-exception-table.json"}
 ]
+libexec: [
+
+]

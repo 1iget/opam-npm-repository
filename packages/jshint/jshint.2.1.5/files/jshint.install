@@ -1,7 +1,6 @@
 lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
-"bin/jshint" {"bin/jshint"}
 "src/cli/cli.js" {"src/cli/cli.js"}
 "src/cli/defaults.json" {"src/cli/defaults.json"}
 "src/platforms/rhino.js" {"src/platforms/rhino.js"}
@@ -16,4 +15,7 @@ lib: [
 "src/stable/reg.js" {"src/stable/reg.js"}
 "src/stable/state.js" {"src/stable/state.js"}
 "src/stable/style.js" {"src/stable/style.js"}
+]
+libexec: [
+"bin/jshint" {"bin/jshint"}
 ]

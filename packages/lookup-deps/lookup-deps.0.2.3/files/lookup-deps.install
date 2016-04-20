@@ -32,3 +32,6 @@ lib: [
 "test/tree.js" {"test/tree.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

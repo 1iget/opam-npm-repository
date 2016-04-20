@@ -28,3 +28,6 @@ lib: [
 ".zuul.yml" {".zuul.yml"}
 "component.json" {"component.json"}
 ]
+libexec: [
+
+]

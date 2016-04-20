@@ -117,3 +117,6 @@ lib: [
 "coverage-example/test/baz.test.js" {"coverage-example/test/baz.test.js"}
 "coverage-example/test/foo.test.js" {"coverage-example/test/foo.test.js"}
 ]
+libexec: [
+
+]

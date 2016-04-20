@@ -5,3 +5,6 @@ lib: [
 "lib/inflection.js" {"lib/inflection.js"}
 "Readme.md" {"Readme.md"}
 ]
+libexec: [
+
+]

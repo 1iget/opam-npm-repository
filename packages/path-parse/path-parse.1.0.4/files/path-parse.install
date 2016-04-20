@@ -7,3 +7,6 @@ lib: [
 "test.min.js" {"test.min.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

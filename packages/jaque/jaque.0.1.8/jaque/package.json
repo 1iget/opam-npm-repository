@@ -1,0 +1,36 @@
+{
+    "name": "jaque",
+    "description": "An experimental Q-JSGI framework.",
+    "version": "0.1.8",
+    "homepage": "http://github.com/kriskowal/jaque/",
+    "contributors": [
+        "Kris Kowal <kris@cixar.com> (http://github.com/kriskowal/)",
+        "Tom Robinson (http://tlrobinson.net/) <tom@280north.com>"
+    ],
+    "bugs": {
+        "mail": "kris@cixar.com",
+        "web": "http://github.com/kriskowal/jaque/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/kriskowal/jaque/raw/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/kriskowal/jaque.git"
+    },
+    "main": "lib/jaque.js",
+    "dependencies": {
+        "n-util": ">=0.0.1",
+        "q-http": ">=0.0.3",
+        "q-util": ">=0.0.1",
+        "q-fs": ">=0.0.3",
+        "mimeparse": ">=0.1.3",
+        "uuid": ">=0.0.2"
+    },
+    "engines": {
+        "node": ">=0.2.0"
+    }
+}

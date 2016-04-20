@@ -1,0 +1,38 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"lib/_base.js" {"lib/_base.js"}
+"lib/index.js" {"lib/index.js"}
+"lib/primitive.js" {"lib/primitive.js"}
+"lib/regular.js" {"lib/regular.js"}
+"lib/ext/async.js" {"lib/ext/async.js"}
+"lib/ext/dispose.js" {"lib/ext/dispose.js"}
+"lib/ext/max-age.js" {"lib/ext/max-age.js"}
+"lib/ext/max.js" {"lib/ext/max.js"}
+"lib/ext/method.js" {"lib/ext/method.js"}
+"lib/ext/profile.js" {"lib/ext/profile.js"}
+"lib/ext/ref-counter.js" {"lib/ext/ref-counter.js"}
+"lib/ext/resolvers.js" {"lib/ext/resolvers.js"}
+".lint" {".lint"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"benchmark/fibonacci.js" {"benchmark/fibonacci.js"}
+"CHANGES" {"CHANGES"}
+"test/_base.js" {"test/_base.js"}
+"test/index.js" {"test/index.js"}
+"test/primitive.js" {"test/primitive.js"}
+"test/regular.js" {"test/regular.js"}
+"test/ext/async.js" {"test/ext/async.js"}
+"test/ext/dispose.js" {"test/ext/dispose.js"}
+"test/ext/max-age.js" {"test/ext/max-age.js"}
+"test/ext/max.js" {"test/ext/max.js"}
+"test/ext/method.js" {"test/ext/method.js"}
+"test/ext/profile.js" {"test/ext/profile.js"}
+"test/ext/ref-counter.js" {"test/ext/ref-counter.js"}
+"test/ext/resolvers.js" {"test/ext/resolvers.js"}
+]
+libexec: [
+
+]

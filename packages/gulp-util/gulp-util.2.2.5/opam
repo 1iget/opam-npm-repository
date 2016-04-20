@@ -8,9 +8,9 @@ dev-repo: "git://github.com/wearefractal/gulp-util.git"
 depends: [
 "chalk" {>="0.4.0" & <"0.5.0"}
 
-"lodash.template" {>="2.4.1" & <"2.5.0"}
+"lodash_template" {>="2.4.1" & <"2.5.0"}
 
-"lodash._reinterpolate" {>="2.4.1" & <"2.5.0"}
+"lodash__reinterpolate" {>="2.4.1" & <"2.5.0"}
 
 "optimist" {>="0.6.0" & <"0.7.0"}
 

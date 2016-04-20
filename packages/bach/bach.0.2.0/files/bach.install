@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".jshintrc" {".jshintrc"}
+".travis.yml" {".travis.yml"}
+"lib/helpers.js" {"lib/helpers.js"}
+"lib/parallel.js" {"lib/parallel.js"}
+"lib/series.js" {"lib/series.js"}
+"lib/settleParallel.js" {"lib/settleParallel.js"}
+"lib/settleSeries.js" {"lib/settleSeries.js"}
+"test/getExtensions.js" {"test/getExtensions.js"}
+"test/onSettled.js" {"test/onSettled.js"}
+"test/parallel.js" {"test/parallel.js"}
+"test/series.js" {"test/series.js"}
+"test/settleParallel.js" {"test/settleParallel.js"}
+"test/settleSeries.js" {"test/settleSeries.js"}
+"test/verifyArguments.js" {"test/verifyArguments.js"}
+]
+libexec: [
+
+]

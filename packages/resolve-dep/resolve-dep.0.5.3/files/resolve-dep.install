@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/foo.json" {"test/fixtures/foo.json"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "benchmark/compare-with-callbacks.js" {"benchmark/compare-with-callbacks.js"}
 "benchmark/scenarios.js" {"benchmark/scenarios.js"}
 ]
+libexec: [
+
+]

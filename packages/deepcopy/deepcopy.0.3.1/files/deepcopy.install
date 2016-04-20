@@ -12,3 +12,6 @@ lib: [
 "test/test-deepcopy.html" {"test/test-deepcopy.html"}
 "testem.json" {"testem.json"}
 ]
+libexec: [
+
+]

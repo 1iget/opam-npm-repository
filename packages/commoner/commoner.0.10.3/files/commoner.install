@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "main.js" {"main.js"}
-"bin/commonize" {"bin/commonize"}
 "lib/cache.js" {"lib/cache.js"}
 "lib/commoner.js" {"lib/commoner.js"}
 "lib/context.js" {"lib/context.js"}
@@ -35,4 +34,7 @@ lib: [
 "test/source/widget/gallery.js" {"test/source/widget/gallery.js"}
 "test/source/widget/share.js" {"test/source/widget/share.js"}
 "test/source/widget/bogus.js~" {"test/source/widget/bogus.js~"}
+]
+libexec: [
+"bin/commonize" {"bin/commonize"}
 ]

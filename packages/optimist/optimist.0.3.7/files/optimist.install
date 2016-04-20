@@ -25,3 +25,6 @@ lib: [
 "test/_/argv.js" {"test/_/argv.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

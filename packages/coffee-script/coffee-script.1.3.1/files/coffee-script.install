@@ -1,8 +1,6 @@
 lib: [
 ".npmignore" {".npmignore"}
 "bin/" {"bin/"}
-"bin/cake" {"bin/cake"}
-"bin/coffee" {"bin/coffee"}
 "CNAME" {"CNAME"}
 "extras/" {"extras/"}
 "extras/jsl.conf" {"extras/jsl.conf"}
@@ -26,4 +24,8 @@ lib: [
 "package.json" {"package.json"}
 "Rakefile" {"Rakefile"}
 "README" {"README"}
+]
+libexec: [
+"bin/cake" {"bin/cake"}
+"bin/coffee" {"bin/coffee"}
 ]

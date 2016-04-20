@@ -8,7 +8,9 @@ dev-repo: "https://github.com/75lb/ansi-escape-sequences.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/ansi"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/ansi" ] 
+]
 

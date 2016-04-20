@@ -40,3 +40,6 @@ lib: [
 "1289344585334-0.7380025484599173/deps/nodeunit/img/example_fail.png" {"1289344585334-0.7380025484599173/deps/nodeunit/img/example_fail.png"}
 "1289344585334-0.7380025484599173/deps/nodeunit/img/example_pass.png" {"1289344585334-0.7380025484599173/deps/nodeunit/img/example_pass.png"}
 ]
+libexec: [
+
+]

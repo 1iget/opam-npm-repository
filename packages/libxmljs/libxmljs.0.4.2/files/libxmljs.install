@@ -58,3 +58,6 @@ lib: [
 "spec/fixtures/warnings/amp.html" {"spec/fixtures/warnings/amp.html"}
 "spec/fixtures/warnings/ent9.xml" {"spec/fixtures/warnings/ent9.xml"}
 ]
+libexec: [
+
+]

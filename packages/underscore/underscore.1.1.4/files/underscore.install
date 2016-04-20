@@ -31,6 +31,6 @@ lib: [
 "docs/docco.css" {"docs/docco.css"}
 "docs/underscore.html" {"docs/underscore.html"}
 ]
-bin: [
+libexec: [
 
 ]

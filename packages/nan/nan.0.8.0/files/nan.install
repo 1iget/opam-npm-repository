@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"include_dirs.js" {"include_dirs.js"}
+".dntrc" {".dntrc"}
+"build/config.gypi" {"build/config.gypi"}
+"nan.h" {"nan.h"}
+]
+libexec: [
+
+]

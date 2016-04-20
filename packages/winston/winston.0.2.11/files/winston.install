@@ -38,3 +38,6 @@ lib: [
 "lib/winston/transports/mongodb.js" {"lib/winston/transports/mongodb.js"}
 "lib/winston/transports/riak.js" {"lib/winston/transports/riak.js"}
 ]
+libexec: [
+
+]

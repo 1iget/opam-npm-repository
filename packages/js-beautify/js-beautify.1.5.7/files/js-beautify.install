@@ -7,9 +7,6 @@ lib: [
 ".travis.yml" {".travis.yml"}
 "generate-changelog.sh" {"generate-changelog.sh"}
 "js/index.js" {"js/index.js"}
-"js/bin/css-beautify.js" {"js/bin/css-beautify.js"}
-"js/bin/html-beautify.js" {"js/bin/html-beautify.js"}
-"js/bin/js-beautify.js" {"js/bin/js-beautify.js"}
 "js/config/defaults.json" {"js/config/defaults.json"}
 "js/lib/beautify-css.js" {"js/lib/beautify-css.js"}
 "js/lib/beautify-html.js" {"js/lib/beautify-html.js"}
@@ -46,4 +43,9 @@ lib: [
 "test/template/python-css.mustache" {"test/template/python-css.mustache"}
 "test/template/python-javascript.mustache" {"test/template/python-javascript.mustache"}
 "bower.json" {"bower.json"}
+]
+libexec: [
+"js/bin/css-beautify.js" {"js/bin/css-beautify.js"}
+"js/bin/html-beautify.js" {"js/bin/html-beautify.js"}
+"js/bin/js-beautify.js" {"js/bin/js-beautify.js"}
 ]

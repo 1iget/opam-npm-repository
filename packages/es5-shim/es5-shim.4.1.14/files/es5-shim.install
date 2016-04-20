@@ -36,3 +36,6 @@ lib: [
 "tests/spec/s-object.js" {"tests/spec/s-object.js"}
 "tests/spec/s-string.js" {"tests/spec/s-string.js"}
 ]
+libexec: [
+
+]

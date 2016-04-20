@@ -9,3 +9,6 @@ lib: [
 "lib/SymbolTreeNode.js" {"lib/SymbolTreeNode.js"}
 "test/SymbolTree.js" {"test/SymbolTree.js"}
 ]
+libexec: [
+
+]

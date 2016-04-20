@@ -17,3 +17,6 @@ lib: [
 "test/fixtures/not-requireable.txt" {"test/fixtures/not-requireable.txt"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

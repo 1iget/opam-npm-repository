@@ -20,3 +20,6 @@ lib: [
 "test/fixtures/readmes/README.md" {"test/fixtures/readmes/README.md"}
 "test/fixtures/readmes/readmexxx.yz" {"test/fixtures/readmes/readmexxx.yz"}
 ]
+libexec: [
+
+]

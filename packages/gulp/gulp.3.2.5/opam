@@ -33,7 +33,9 @@ depends: [
 "map-stream" {="0.0.4"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp.js %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

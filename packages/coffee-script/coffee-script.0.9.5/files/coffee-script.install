@@ -221,3 +221,6 @@ lib: [
 "coffee-script/bin/cake" {"coffee-script/bin/cake"}
 "coffee-script/bin/coffee" {"coffee-script/bin/coffee"}
 ]
+libexec: [
+
+]

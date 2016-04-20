@@ -33,3 +33,6 @@ lib: [
 "visitors/__tests__/es7-spread-property-visitors-test.js" {"visitors/__tests__/es7-spread-property-visitors-test.js"}
 "visitors/__tests__/reserved-words-test.js" {"visitors/__tests__/reserved-words-test.js"}
 ]
+libexec: [
+
+]

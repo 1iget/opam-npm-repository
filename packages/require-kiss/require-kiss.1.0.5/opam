@@ -8,7 +8,9 @@ dev-repo: "git://github.com/coolaj86/require-kiss-js.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/mkhtml %{bin}%/mkhtml"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mkhtml" ] 
+]
 

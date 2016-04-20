@@ -5,3 +5,6 @@ lib: [
 "file.js" {"file.js"}
 "index.js" {"index.js"}
 ]
+libexec: [
+
+]

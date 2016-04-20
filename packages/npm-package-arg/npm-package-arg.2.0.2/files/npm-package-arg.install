@@ -6,3 +6,6 @@ lib: [
 "test/basic.js" {"test/basic.js"}
 "test/windows.js" {"test/windows.js"}
 ]
+libexec: [
+
+]

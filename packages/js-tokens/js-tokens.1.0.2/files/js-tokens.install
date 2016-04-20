@@ -5,3 +5,6 @@ lib: [
 "changelog.md" {"changelog.md"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

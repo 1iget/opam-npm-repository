@@ -8,3 +8,6 @@ lib: [
 "test/readme.js" {"test/readme.js"}
 "test/test.coffee" {"test/test.coffee"}
 ]
+libexec: [
+
+]

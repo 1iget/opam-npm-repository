@@ -10,3 +10,6 @@ lib: [
 "test/isemail.js" {"test/isemail.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

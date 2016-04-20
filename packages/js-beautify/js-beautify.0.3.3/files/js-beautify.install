@@ -3,11 +3,13 @@ lib: [
 ".npmignore" {".npmignore"}
 "README.md" {"README.md"}
 "beautify.js" {"beautify.js"}
-"cli.js" {"cli.js"}
 "index.js" {"index.js"}
 "config/defaults.json" {"config/defaults.json"}
 "license.txt" {"license.txt"}
 "tests/beautify-tests.js" {"tests/beautify-tests.js"}
 "tests/sanitytest.js" {"tests/sanitytest.js"}
 "tests/run-tests" {"tests/run-tests"}
+]
+libexec: [
+"cli.js" {"cli.js"}
 ]

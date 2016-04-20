@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"acorn_loose.js" {"acorn_loose.js"}
+"acorn.js" {"acorn.js"}
+"test/tests.js" {"test/tests.js"}
+"test/codemirror-string.js" {"test/codemirror-string.js"}
+"test/driver.js" {"test/driver.js"}
+"test/run.js" {"test/run.js"}
+"test/bench.js" {"test/bench.js"}
+"test/jquery-string.js" {"test/jquery-string.js"}
+"test/compare/esprima.js" {"test/compare/esprima.js"}
+"test/compare/uglifyjs2.js" {"test/compare/uglifyjs2.js"}
+"test/compare/uglifyjs.js" {"test/compare/uglifyjs.js"}
+"test/bench.html" {"test/bench.html"}
+"test/index.html" {"test/index.html"}
+"index.html" {"index.html"}
+"util/walk.js" {"util/walk.js"}
+"util/test_walk.js" {"util/test_walk.js"}
+".tern-project" {".tern-project"}
+"docco.css" {"docco.css"}
+]
+libexec: [
+"bin/acorn" {"bin/acorn"}
+]

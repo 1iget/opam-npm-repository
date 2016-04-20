@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"chalk.js" {"chalk.js"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

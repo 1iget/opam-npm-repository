@@ -12,3 +12,6 @@ lib: [
 "test/text1.txt" {"test/text1.txt"}
 "test/text2.txt" {"test/text2.txt"}
 ]
+libexec: [
+
+]

@@ -32,3 +32,6 @@ lib: [
 "test/fixtures/cat.jpg" {"test/fixtures/cat.jpg"}
 "test/fixtures/multipart" {"test/fixtures/multipart"}
 ]
+libexec: [
+
+]

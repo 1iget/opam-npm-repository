@@ -14,3 +14,6 @@ lib: [
 "test/fixtures/test.txt" {"test/fixtures/test.txt"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

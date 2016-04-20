@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"zlib.js" {"zlib.js"}
+"readme.md" {"readme.md"}
+"test/zlib.test.js" {"test/zlib.test.js"}
+]
+libexec: [
+
+]

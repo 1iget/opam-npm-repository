@@ -38,3 +38,6 @@ lib: [
 "test/compress/issue-143.js" {"test/compress/issue-143.js"}
 "tools/node.js" {"tools/node.js"}
 ]
+libexec: [
+
+]

@@ -12,3 +12,6 @@ lib: [
 "script/ci-test.sh" {"script/ci-test.sh"}
 "test/lolex-test.js" {"test/lolex-test.js"}
 ]
+libexec: [
+
+]

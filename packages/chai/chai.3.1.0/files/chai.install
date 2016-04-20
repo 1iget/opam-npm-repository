@@ -39,3 +39,6 @@ lib: [
 "lib/chai/utils/transferFlags.js" {"lib/chai/utils/transferFlags.js"}
 "lib/chai/utils/getProperties.js" {"lib/chai/utils/getProperties.js"}
 ]
+libexec: [
+
+]

@@ -29,3 +29,6 @@ lib: [
 "example/factorial/README" {"example/factorial/README"}
 "example/factorial/wscript" {"example/factorial/wscript"}
 ]
+libexec: [
+
+]

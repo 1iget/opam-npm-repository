@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
 ".travis.yml" {".travis.yml"}
-"bin/gulp.js" {"bin/gulp.js"}
 "test/dest.js" {"test/dest.js"}
 "test/file-utils.js" {"test/file-utils.js"}
 "test/src.js" {"test/src.js"}
@@ -27,4 +26,7 @@ lib: [
 "lib/createOutputStream/writeFile.js" {"lib/createOutputStream/writeFile.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 "ROADMAP.md" {"ROADMAP.md"}
+]
+libexec: [
+"bin/gulp.js" {"bin/gulp.js"}
 ]

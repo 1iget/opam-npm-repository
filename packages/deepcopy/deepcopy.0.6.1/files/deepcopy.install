@@ -14,3 +14,6 @@ lib: [
 "build/deepcopy.js" {"build/deepcopy.js"}
 "build/deepcopy.min.js" {"build/deepcopy.min.js"}
 ]
+libexec: [
+
+]

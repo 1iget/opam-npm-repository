@@ -16,3 +16,6 @@ lib: [
 "test/symlinkme/file.js" {"test/symlinkme/file.js"}
 "test-all.sh" {"test-all.sh"}
 ]
+libexec: [
+
+]

@@ -9,7 +9,6 @@ lib: [
 "HELP" {"HELP"}
 "example/reporter.js" {"example/reporter.js"}
 "example/config.json" {"example/config.json"}
-"bin/hint" {"bin/hint"}
 "lib/hint.js" {"lib/hint.js"}
 "lib/cli.js" {"lib/cli.js"}
 "lib/reporters/default.js" {"lib/reporters/default.js"}
@@ -1111,4 +1110,7 @@ lib: [
 "test/system/.files/3/8/15.js" {"test/system/.files/3/8/15.js"}
 "test/system/.files/3/8/1.js" {"test/system/.files/3/8/1.js"}
 "test/system/.files/3/8/17.js" {"test/system/.files/3/8/17.js"}
+]
+libexec: [
+"bin/hint" {"bin/hint"}
 ]

@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"docs/Grammar.md" {"docs/Grammar.md"}
+"docs/JSON5.md" {"docs/JSON5.md"}
+"lib/document.js" {"lib/document.js"}
+"lib/parse.js" {"lib/parse.js"}
+"lib/stringify.js" {"lib/stringify.js"}
+"lib/unicode.js" {"lib/unicode.js"}
+"package.yaml" {"package.yaml"}
+"test/test_document.js" {"test/test_document.js"}
+"test/test_errors.js" {"test/test_errors.js"}
+"test/test_parse.js" {"test/test_parse.js"}
+"test/test_stringify.js" {"test/test_stringify.js"}
+"test/test_tokenize.js" {"test/test_tokenize.js"}
+"test/external/README.md" {"test/external/README.md"}
+"test/external/json5-orig-parse.js" {"test/external/json5-orig-parse.js"}
+"test/external/json5-orig-str.js" {"test/external/json5-orig-str.js"}
+"test/external/parse-cases.tgz" {"test/external/parse-cases.tgz"}
+"test/external/v8.js.gz" {"test/external/v8.js.gz"}
+]
+libexec: [
+
+]

@@ -8,3 +8,6 @@ lib: [
 "test/expected/banner-strip.js" {"test/expected/banner-strip.js"}
 "test/fixtures/banner-strip.js" {"test/fixtures/banner-strip.js"}
 ]
+libexec: [
+
+]

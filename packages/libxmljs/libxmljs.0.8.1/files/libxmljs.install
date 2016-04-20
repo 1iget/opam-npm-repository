@@ -184,3 +184,6 @@ lib: [
 "lib/document.js" {"lib/document.js"}
 "wscript" {"wscript"}
 ]
+libexec: [
+
+]

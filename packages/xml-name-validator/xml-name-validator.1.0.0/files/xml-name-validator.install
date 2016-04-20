@@ -5,3 +5,6 @@ lib: [
 "lib/xml-name-validator.js" {"lib/xml-name-validator.js"}
 "lib/grammar.pegjs" {"lib/grammar.pegjs"}
 ]
+libexec: [
+
+]

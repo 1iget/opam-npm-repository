@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+"width.js" {"width.js"}
+"columnify.js" {"columnify.js"}
+"index.js" {"index.js"}
+"utils.js" {"utils.js"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+]
+libexec: [
+
+]

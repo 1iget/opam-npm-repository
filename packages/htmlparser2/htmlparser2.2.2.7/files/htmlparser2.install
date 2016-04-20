@@ -62,3 +62,6 @@ lib: [
 "tests/Stream/01-basic.json" {"tests/Stream/01-basic.json"}
 "tests/Stream/02-RSS.json" {"tests/Stream/02-RSS.json"}
 ]
+libexec: [
+
+]

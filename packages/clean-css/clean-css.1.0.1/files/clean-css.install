@@ -4,6 +4,8 @@ lib: [
 "README.md" {"README.md"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/cleancss" {"bin/cleancss"}
 "lib/clean.js" {"lib/clean.js"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

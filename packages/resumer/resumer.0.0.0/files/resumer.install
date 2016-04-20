@@ -8,3 +8,6 @@ lib: [
 "test/resume.js" {"test/resume.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+".travis.yml" {".travis.yml"}
+"examples/my-program.js" {"examples/my-program.js"}
+"lib/nopt.js" {"lib/nopt.js"}
+"test/basic.js" {"test/basic.js"}
+]
+libexec: [
+"bin/nopt.js" {"bin/nopt.js"}
+]

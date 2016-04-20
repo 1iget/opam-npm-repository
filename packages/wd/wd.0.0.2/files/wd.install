@@ -8,6 +8,8 @@ lib: [
 "test/test.ondemand.ie.js" {"test/test.ondemand.ie.js"}
 "test/test.ondemand.js" {"test/test.ondemand.js"}
 "test/test.simple.server.js" {"test/test.simple.server.js"}
-"lib/bin.js" {"lib/bin.js"}
 "lib/main.js" {"lib/main.js"}
+]
+libexec: [
+"lib/bin.js" {"lib/bin.js"}
 ]

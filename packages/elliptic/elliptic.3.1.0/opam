@@ -6,11 +6,11 @@ author: "indutny <fedor@indutny.com>"
 license: "MIT"
 dev-repo: "git+ssh://git@github.com/indutny/elliptic.git"
 depends: [
-"bn.js" {>="2.0.3" & <"3.0.0"}
+"bn_js" {>="2.0.3" & <"3.0.0"}
 
 "brorand" {>="1.0.1" & <"2.0.0"}
 
-"hash.js" {>="1.0.0" & <"2.0.0"}
+"hash_js" {>="1.0.0" & <"2.0.0"}
 
 "inherits" {>="2.0.1" & <"3.0.0"}
 

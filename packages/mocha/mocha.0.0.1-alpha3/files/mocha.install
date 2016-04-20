@@ -6,8 +6,6 @@ lib: [
 "Makefile" {"Makefile"}
 "package.json" {"package.json"}
 "Readme.md" {"Readme.md"}
-"bin/mocha" {"bin/mocha"}
-"bin/mocha-debug" {"bin/mocha-debug"}
 "testing/bdd.js" {"testing/bdd.js"}
 "testing/exports.js" {"testing/exports.js"}
 "testing/index.js" {"testing/index.js"}
@@ -48,4 +46,8 @@ lib: [
 "test/unit/pending.js" {"test/unit/pending.js"}
 "test/unit/timeout.js" {"test/unit/timeout.js"}
 "test/unit/uncaught.js" {"test/unit/uncaught.js"}
+]
+libexec: [
+"bin/mocha" {"bin/mocha"}
+"bin/mocha-debug" {"bin/mocha-debug"}
 ]

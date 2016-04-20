@@ -10,3 +10,6 @@ lib: [
 ".jscs.json" {".jscs.json"}
 ".editorconfig" {".editorconfig"}
 ]
+libexec: [
+
+]

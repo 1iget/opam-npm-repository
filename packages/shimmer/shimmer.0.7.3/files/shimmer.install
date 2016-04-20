@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test/init.tap.js" {"test/init.tap.js"}
+"test/massWrap.tap.js" {"test/massWrap.tap.js"}
+"test/unwrap.tap.js" {"test/unwrap.tap.js"}
+"test/wrap.tap.js" {"test/wrap.tap.js"}
+]
+libexec: [
+
+]

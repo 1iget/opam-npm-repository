@@ -11,7 +11,9 @@ depends: [
 "minimatch" {>="0.2.0" & <"0.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/twigjs %{bin}%/twigjs"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/twigjs" ] 
+]
 

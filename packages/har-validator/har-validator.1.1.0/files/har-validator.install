@@ -5,7 +5,6 @@ lib: [
 "LICENSE" {"LICENSE"}
 ".travis.yml" {".travis.yml"}
 ".editorconfig" {".editorconfig"}
-"bin/har-validator" {"bin/har-validator"}
 "src/index.js" {"src/index.js"}
 "src/schemas.json" {"src/schemas.json"}
 ".jshintrc" {".jshintrc"}
@@ -17,4 +16,7 @@ lib: [
 "test/fixtures/response.js" {"test/fixtures/response.js"}
 "test/fixtures/har.json" {"test/fixtures/har.json"}
 "test/fixtures/request.json" {"test/fixtures/request.json"}
+]
+libexec: [
+"bin/har-validator" {"bin/har-validator"}
 ]

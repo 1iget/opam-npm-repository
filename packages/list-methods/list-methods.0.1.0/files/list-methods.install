@@ -9,3 +9,6 @@ lib: [
 "lib/template.js" {"lib/template.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

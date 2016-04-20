@@ -25,9 +25,11 @@ lib: [
 "test/index.html" {"test/index.html"}
 "LICENSE.BSD" {"LICENSE.BSD"}
 "index.html" {"index.html"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
-"bin/esparse.js" {"bin/esparse.js"}
 "examples/detectnestedternary.js" {"examples/detectnestedternary.js"}
 "examples/tokendist.js" {"examples/tokendist.js"}
 "examples/findbooleantrap.js" {"examples/findbooleantrap.js"}
+]
+libexec: [
+"bin/esvalidate.js" {"bin/esvalidate.js"}
+"bin/esparse.js" {"bin/esparse.js"}
 ]

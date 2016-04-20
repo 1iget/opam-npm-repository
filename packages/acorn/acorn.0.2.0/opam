@@ -8,7 +8,9 @@ license: "not defined"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/acorn %{bin}%/acorn"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/acorn" ] 
+]
 

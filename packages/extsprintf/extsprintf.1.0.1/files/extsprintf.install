@@ -10,3 +10,6 @@ lib: [
 "lib/extsprintf.js" {"lib/extsprintf.js"}
 "Makefile" {"Makefile"}
 ]
+libexec: [
+
+]

@@ -19,7 +19,9 @@ depends: [
 "defs" {>="0.6.2" & <"0.7.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/regenerator %{bin}%/regenerator"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/regenerator" ] 
+]
 

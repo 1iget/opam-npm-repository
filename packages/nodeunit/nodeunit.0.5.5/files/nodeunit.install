@@ -21,7 +21,6 @@ lib: [
 "img/example_machineout.png" {"img/example_machineout.png"}
 "img/example_fail.png" {"img/example_fail.png"}
 "img/example_pass.png" {"img/example_pass.png"}
-"bin/nodeunit" {"bin/nodeunit"}
 "bin/nodeunit.json" {"bin/nodeunit.json"}
 "examples/browser/suite2.js" {"examples/browser/suite2.js"}
 "examples/browser/test.html" {"examples/browser/test.html"}
@@ -70,4 +69,7 @@ lib: [
 "dist/browser/test/nodeunit.css" {"dist/browser/test/nodeunit.css"}
 "dist/browser/test/nodeunit.js" {"dist/browser/test/nodeunit.js"}
 "dist/browser/test/test-runtest.js" {"dist/browser/test/test-runtest.js"}
+]
+libexec: [
+"bin/nodeunit" {"bin/nodeunit"}
 ]

@@ -1,0 +1,36 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".verbrc.md" {".verbrc.md"}
+"benchmark/index.js" {"benchmark/index.js"}
+"benchmark/code/findup.js" {"benchmark/code/findup.js"}
+"benchmark/code/lookup.js" {"benchmark/code/lookup.js"}
+"benchmark/fixtures/deep-close.js" {"benchmark/fixtures/deep-close.js"}
+"benchmark/fixtures/deep-far.js" {"benchmark/fixtures/deep-far.js"}
+"benchmark/fixtures/nested.js" {"benchmark/fixtures/nested.js"}
+"benchmark/fixtures/shallow.js" {"benchmark/fixtures/shallow.js"}
+"fixtures/package.json" {"fixtures/package.json"}
+"fixtures/a/package.json" {"fixtures/a/package.json"}
+"fixtures/a/b/package.json" {"fixtures/a/b/package.json"}
+"fixtures/a/b/a.md" {"fixtures/a/b/a.md"}
+"fixtures/a/b/c/package.json" {"fixtures/a/b/c/package.json"}
+"fixtures/a/b/c/d/package.json" {"fixtures/a/b/c/d/package.json"}
+"fixtures/a/b/c/d/e/package.json" {"fixtures/a/b/c/d/e/package.json"}
+"fixtures/a/b/c/d/e/f/package.json" {"fixtures/a/b/c/d/e/f/package.json"}
+"fixtures/a/b/c/d/e/f/g/package.json" {"fixtures/a/b/c/d/e/f/g/package.json"}
+"fixtures/a/b/c/d/e/f/g/h/package.json" {"fixtures/a/b/c/d/e/f/g/h/package.json"}
+"fixtures/a/b/c/d/one.txt" {"fixtures/a/b/c/d/one.txt"}
+"fixtures/a/b/c/two.txt" {"fixtures/a/b/c/two.txt"}
+"fixtures/a/b/one.txt" {"fixtures/a/b/one.txt"}
+"fixtures/a/one.txt" {"fixtures/a/one.txt"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+]
+libexec: [
+
+]

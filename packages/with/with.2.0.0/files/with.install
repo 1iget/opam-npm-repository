@@ -6,3 +6,6 @@ lib: [
 "index.js" {"index.js"}
 "vars.js" {"vars.js"}
 ]
+libexec: [
+
+]

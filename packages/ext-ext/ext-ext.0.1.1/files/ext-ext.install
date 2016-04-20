@@ -10,3 +10,6 @@ lib: [
 "test/ext.js" {"test/ext.js"}
 "test/mocha.opts" {"test/mocha.opts"}
 ]
+libexec: [
+
+]

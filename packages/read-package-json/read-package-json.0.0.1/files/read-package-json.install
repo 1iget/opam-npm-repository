@@ -4,3 +4,6 @@ lib: [
 "read-json.js" {"read-json.js"}
 "test/basic.js" {"test/basic.js"}
 ]
+libexec: [
+
+]

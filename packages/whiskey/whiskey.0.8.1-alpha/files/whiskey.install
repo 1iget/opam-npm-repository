@@ -7,7 +7,6 @@ lib: [
 "PROCESS_RUNNER.md" {"PROCESS_RUNNER.md"}
 "CHANGES.md" {"CHANGES.md"}
 ".travis.yml" {".travis.yml"}
-"bin/whiskey" {"bin/whiskey"}
 "bin/whiskey-process-runner" {"bin/whiskey-process-runner"}
 "example/custom-assert-functions.js" {"example/custom-assert-functions.js"}
 "example/test-custom-assert-methods.js" {"example/test-custom-assert-methods.js"}
@@ -108,4 +107,7 @@ lib: [
 "assets/style.css" {"assets/style.css"}
 "assets/whiskey.magic" {"assets/whiskey.magic"}
 "assets/whiskey_source.magic" {"assets/whiskey_source.magic"}
+]
+libexec: [
+"bin/whiskey" {"bin/whiskey"}
 ]

@@ -11,7 +11,9 @@ depends: [
 "esprima" {>="2.2.0" & <"2.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/js-yaml.js %{bin}%/js-yaml"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/js-yaml" ] 
+]
 

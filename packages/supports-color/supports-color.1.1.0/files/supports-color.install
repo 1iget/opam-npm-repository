@@ -4,3 +4,6 @@ lib: [
 "cli.js" {"cli.js"}
 "readme.md" {"readme.md"}
 ]
+libexec: [
+
+]

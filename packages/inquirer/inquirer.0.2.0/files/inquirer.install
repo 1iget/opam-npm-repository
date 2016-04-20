@@ -40,3 +40,6 @@ lib: [
 "test/specs/prompts/password.js" {"test/specs/prompts/password.js"}
 "test/specs/prompts/rawlist.js" {"test/specs/prompts/rawlist.js"}
 ]
+libexec: [
+
+]

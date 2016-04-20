@@ -23,6 +23,8 @@ lib: [
 "lib/util/identifier.js" {"lib/util/identifier.js"}
 "lib/util/location.js" {"lib/util/location.js"}
 "lib/util/whitespace.js" {"lib/util/whitespace.js"}
-"bin/babylon.js" {"bin/babylon.js"}
 "AUTHORS" {"AUTHORS"}
+]
+libexec: [
+"bin/babylon.js" {"bin/babylon.js"}
 ]

@@ -26,3 +26,6 @@ lib: [
 "test/data/regexp-props.js" {"test/data/regexp-props.js"}
 "test/data/underscore.js" {"test/data/underscore.js"}
 ]
+libexec: [
+
+]

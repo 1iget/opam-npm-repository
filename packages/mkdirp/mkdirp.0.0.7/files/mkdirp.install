@@ -13,3 +13,6 @@ lib: [
 "test/rel.js" {"test/rel.js"}
 "test/mkdirp.js" {"test/mkdirp.js"}
 ]
+libexec: [
+
+]

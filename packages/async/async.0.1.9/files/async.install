@@ -15,3 +15,6 @@ lib: [
 "dist/async.min.js" {"dist/async.min.js"}
 "lib/async.js" {"lib/async.js"}
 ]
+libexec: [
+
+]

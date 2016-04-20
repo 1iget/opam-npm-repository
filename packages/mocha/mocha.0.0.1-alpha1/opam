@@ -9,7 +9,9 @@ depends: [
 "commander" {="0.3.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/mocha %{bin}%/mocha"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/mocha" ] 
+]
 

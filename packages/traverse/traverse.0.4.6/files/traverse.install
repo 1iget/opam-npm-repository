@@ -26,3 +26,6 @@ lib: [
 "test/siblings.js" {"test/siblings.js"}
 "test/equal.js" {"test/equal.js"}
 ]
+libexec: [
+
+]

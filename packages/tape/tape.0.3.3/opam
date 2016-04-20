@@ -13,7 +13,9 @@ depends: [
 "defined" {>="0.0.0" & <"0.1.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/tape %{bin}%/tape"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/tape" ] 
+]
 

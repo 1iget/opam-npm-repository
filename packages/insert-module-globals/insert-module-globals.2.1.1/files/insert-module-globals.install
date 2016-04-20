@@ -24,3 +24,6 @@ lib: [
 "readme.markdown" {"readme.markdown"}
 "bundle.sh" {"bundle.sh"}
 ]
+libexec: [
+
+]

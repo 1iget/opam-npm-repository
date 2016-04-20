@@ -13,7 +13,9 @@ depends: [
 "is-my-json-valid" {>="2.4.0" & <"3.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/har-validator %{bin}%/har-validator"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/har-validator" ] 
+]
 

@@ -10,7 +10,6 @@ lib: [
 "lib/expand.js" {"lib/expand.js"}
 "lib/utils.js" {"lib/utils.js"}
 "LICENSE-MIT" {"LICENSE-MIT"}
-"bin/toc" {"bin/toc"}
 "bower.json" {"bower.json"}
 "test/test.js" {"test/test.js"}
 "test/actual/README1.md" {"test/actual/README1.md"}
@@ -43,4 +42,7 @@ lib: [
 "test/fixtures/repos-list.md" {"test/fixtures/repos-list.md"}
 "test/fixtures/test.md" {"test/fixtures/test.md"}
 "test/mocha.opts" {"test/mocha.opts"}
+]
+libexec: [
+"bin/toc" {"bin/toc"}
 ]

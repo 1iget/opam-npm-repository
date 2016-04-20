@@ -1,0 +1,10 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"simple-fmt.js" {"simple-fmt.js"}
+"test/simple-fmt-tests.js" {"test/simple-fmt-tests.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,27 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"root.js" {"root.js"}
+"common.js" {"common.js"}
+"q-fs.js" {"q-fs.js"}
+"mock.js" {"mock.js"}
+".travis.yml" {".travis.yml"}
+"examples/read.js" {"examples/read.js"}
+"CHANGES.md" {"CHANGES.md"}
+"test/all.js" {"test/all.js"}
+"test/lazy.js" {"test/lazy.js"}
+"test/partial.js" {"test/partial.js"}
+"test/root.js" {"test/root.js"}
+"test/fixtures/1234.txt" {"test/fixtures/1234.txt"}
+"test/issues/1.js" {"test/issues/1.js"}
+"test/mock/merge.js" {"test/mock/merge.js"}
+"test/mock/object.js" {"test/mock/object.js"}
+"test/mock/read.js" {"test/mock/read.js"}
+"test/mock/subtree.js" {"test/mock/subtree.js"}
+"test/mock/dummy/hello.txt" {"test/mock/dummy/hello.txt"}
+]
+libexec: [
+
+]

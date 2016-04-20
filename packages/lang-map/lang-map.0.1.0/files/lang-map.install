@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"test.js" {"test.js"}
+"index.js" {"index.js"}
+"build.js" {"build.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+".verbrc.md" {".verbrc.md"}
+"lang.json" {"lang.json"}
+".jshintrc" {".jshintrc"}
+".gitattributes" {".gitattributes"}
+]
+libexec: [
+
+]

@@ -1,0 +1,14 @@
+lib: [
+"guid/" {"guid/"}
+"guid/._guid.js" {"guid/._guid.js"}
+"guid/guid.js" {"guid/guid.js"}
+"guid/._LICENSE" {"guid/._LICENSE"}
+"guid/LICENSE" {"guid/LICENSE"}
+"guid/._package.json" {"guid/._package.json"}
+"guid/package.json" {"guid/package.json"}
+"guid/._README.md" {"guid/._README.md"}
+"guid/README.md" {"guid/README.md"}
+]
+libexec: [
+
+]

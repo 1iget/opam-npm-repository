@@ -8,3 +8,6 @@ lib: [
 "lib/iconv-loader.js" {"lib/iconv-loader.js"}
 "test/test.js" {"test/test.js"}
 ]
+libexec: [
+
+]

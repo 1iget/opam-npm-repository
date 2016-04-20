@@ -12,3 +12,6 @@ lib: [
 "lib/sync.js" {"lib/sync.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

@@ -12,3 +12,6 @@ lib: [
 "lib/verify.js" {"lib/verify.js"}
 "CHANGES.md" {"CHANGES.md"}
 ]
+libexec: [
+
+]

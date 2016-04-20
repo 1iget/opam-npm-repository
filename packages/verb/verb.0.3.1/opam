@@ -77,7 +77,9 @@ depends: [
 "write-yaml" {>="0.1.2" & <"0.2.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/cli.js %{bin}%/verb"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/verb" ] 
+]
 

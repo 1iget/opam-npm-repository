@@ -23,3 +23,6 @@ lib: [
 "test/syntax.js" {"test/syntax.js"}
 "test/visitor.js" {"test/visitor.js"}
 ]
+libexec: [
+
+]

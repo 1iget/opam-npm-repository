@@ -28,3 +28,6 @@ lib: [
 "test/write.js" {"test/write.js"}
 "test/node-test-buffer-concat.js" {"test/node-test-buffer-concat.js"}
 ]
+libexec: [
+
+]

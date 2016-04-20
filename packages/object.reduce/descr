@@ -1,1 +1,0 @@
-Reduces an object to a value that is the accumulated result of running each property in the object through a callback.

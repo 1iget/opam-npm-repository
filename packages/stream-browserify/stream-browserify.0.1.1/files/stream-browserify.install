@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"writable.js" {"writable.js"}
+"duplex.js" {"duplex.js"}
+"index.js" {"index.js"}
+"readable.js" {"readable.js"}
+"transform.js" {"transform.js"}
+"passthrough.js" {"passthrough.js"}
+"test/array_buffer.js" {"test/array_buffer.js"}
+"readme.markdown" {"readme.markdown"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

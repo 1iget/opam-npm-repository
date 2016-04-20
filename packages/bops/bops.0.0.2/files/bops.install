@@ -29,3 +29,6 @@ lib: [
 "typedarray/to.js" {"typedarray/to.js"}
 "typedarray/write.js" {"typedarray/write.js"}
 ]
+libexec: [
+
+]

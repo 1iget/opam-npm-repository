@@ -9,3 +9,6 @@ lib: [
 "test/worker-fork.js" {"test/worker-fork.js"}
 "test/worker-spawn.js" {"test/worker-spawn.js"}
 ]
+libexec: [
+
+]

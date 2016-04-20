@@ -17,3 +17,6 @@ lib: [
 "examples/pretty.js" {"examples/pretty.js"}
 ".travis.yml" {".travis.yml"}
 ]
+libexec: [
+
+]

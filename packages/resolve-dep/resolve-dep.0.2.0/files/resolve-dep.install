@@ -24,3 +24,6 @@ lib: [
 "test/expected/patterns.json" {"test/expected/patterns.json"}
 "test/expected/wildcard.json" {"test/expected/wildcard.json"}
 ]
+libexec: [
+
+]

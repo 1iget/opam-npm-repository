@@ -13,3 +13,6 @@ lib: [
 "test/fixtures/whatsgoingon/test.js" {"test/fixtures/whatsgoingon/test.js"}
 "test/fixtures/whatsgoingon/hey/isaidhey/whatsgoingon/test.txt" {"test/fixtures/whatsgoingon/hey/isaidhey/whatsgoingon/test.txt"}
 ]
+libexec: [
+
+]

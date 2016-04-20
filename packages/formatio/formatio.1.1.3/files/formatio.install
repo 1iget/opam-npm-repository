@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"buster.js" {"buster.js"}
+"autolint.js" {"autolint.js"}
+".travis.yml" {".travis.yml"}
+"Readme.md" {"Readme.md"}
+"lib/formatio.js" {"lib/formatio.js"}
+"AUTHORS" {"AUTHORS"}
+"test/formatio-test.js" {"test/formatio-test.js"}
+]
+libexec: [
+
+]

@@ -4,7 +4,6 @@ lib: [
 "README.md" {"README.md"}
 "beautify-html.js" {"beautify-html.js"}
 "beautify.js" {"beautify.js"}
-"cli.js" {"cli.js"}
 "beautify-css.js" {"beautify-css.js"}
 "index.js" {"index.js"}
 "tests/beautify-tests.js" {"tests/beautify-tests.js"}
@@ -12,4 +11,7 @@ lib: [
 "tests/run-tests" {"tests/run-tests"}
 "license.txt" {"license.txt"}
 "config/defaults.json" {"config/defaults.json"}
+]
+libexec: [
+"cli.js" {"cli.js"}
 ]

@@ -11,3 +11,6 @@ lib: [
 "test/this-arg.js" {"test/this-arg.js"}
 "test/typecheck.js" {"test/typecheck.js"}
 ]
+libexec: [
+
+]

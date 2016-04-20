@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"changelog.md" {"changelog.md"}
+"configs/esformatter.json" {"configs/esformatter.json"}
+"configs/eslint.json" {"configs/eslint.json"}
+"configs/jscs.json" {"configs/jscs.json"}
+"configs/prepush.json" {"configs/prepush.json"}
+"hook/pre-push.js" {"hook/pre-push.js"}
+"lib/cli.js" {"lib/cli.js"}
+"lib/console.js" {"lib/console.js"}
+"lib/git-dir.js" {"lib/git-dir.js"}
+"lib/hook.js" {"lib/hook.js"}
+"lib/options.js" {"lib/options.js"}
+"lib/process.js" {"lib/process.js"}
+"lib/promise.js" {"lib/promise.js"}
+"prepush-screenshot.png" {"prepush-screenshot.png"}
+".travis.yml" {".travis.yml"}
+"specs/lib/cli.js" {"specs/lib/cli.js"}
+"specs/lib/git-dir.js" {"specs/lib/git-dir.js"}
+]
+libexec: [
+"bin/prepush.js" {"bin/prepush.js"}
+]

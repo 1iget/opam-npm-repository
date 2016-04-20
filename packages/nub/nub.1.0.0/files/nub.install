@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"readme.markdown" {"readme.markdown"}
+"test/by.js" {"test/by.js"}
+"test/nub.js" {"test/nub.js"}
+]
+libexec: [
+
+]

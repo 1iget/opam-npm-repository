@@ -11,7 +11,9 @@ depends: [
 "uglify-js" {>="1.2.0" & <"1.3.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/handlebars %{bin}%/handlebars"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/handlebars" ] 
+]
 

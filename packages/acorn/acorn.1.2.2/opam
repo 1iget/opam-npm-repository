@@ -8,7 +8,9 @@ dev-repo: "https://github.com/marijnh/acorn.git"
 depends: [
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/acorn %{bin}%/acorn"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/acorn" ] 
+]
 

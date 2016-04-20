@@ -7,7 +7,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ".editorconfig" {".editorconfig"}
-"bin/esformatter" {"bin/esformatter"}
 "doc/api.md" {"doc/api.md"}
 "doc/cli.txt" {"doc/cli.txt"}
 "doc/config.md" {"doc/config.md"}
@@ -284,4 +283,7 @@ lib: [
 "test/compare/rc/package/rc/nested-in.js" {"test/compare/rc/package/rc/nested-in.js"}
 "test/compare/rc/package/rc/nested-out.js" {"test/compare/rc/package/rc/nested-out.js"}
 "test/compare/rc/package/rc/.esformatter" {"test/compare/rc/package/rc/.esformatter"}
+]
+libexec: [
+"bin/esformatter" {"bin/esformatter"}
 ]

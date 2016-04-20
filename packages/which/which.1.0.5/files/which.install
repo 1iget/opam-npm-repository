@@ -1,8 +1,10 @@
 lib: [
 "bin/" {"bin/"}
-"bin/which" {"bin/which"}
 "LICENSE" {"LICENSE"}
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "which.js" {"which.js"}
+]
+libexec: [
+"bin/which" {"bin/which"}
 ]

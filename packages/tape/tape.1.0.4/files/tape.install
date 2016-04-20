@@ -3,7 +3,6 @@ lib: [
 ".npmignore" {".npmignore"}
 "LICENSE" {"LICENSE"}
 "index.js" {"index.js"}
-"bin/tape" {"bin/tape"}
 "example/not_enough.js" {"example/not_enough.js"}
 "example/too_many.js" {"example/too_many.js"}
 "example/timing.js" {"example/timing.js"}
@@ -41,4 +40,7 @@ lib: [
 "lib/results.js" {"lib/results.js"}
 "lib/test.js" {"lib/test.js"}
 "lib/default_stream.js" {"lib/default_stream.js"}
+]
+libexec: [
+"bin/tape" {"bin/tape"}
 ]

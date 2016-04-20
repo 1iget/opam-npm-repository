@@ -5,3 +5,6 @@ lib: [
 "cache.js" {"cache.js"}
 "changelog.md" {"changelog.md"}
 ]
+libexec: [
+
+]

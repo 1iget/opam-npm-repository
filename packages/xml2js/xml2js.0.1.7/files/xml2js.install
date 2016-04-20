@@ -7,3 +7,6 @@ lib: [
 "test/xml2js.test.js" {"test/xml2js.test.js"}
 "test/fixtures/sample.xml" {"test/fixtures/sample.xml"}
 ]
+libexec: [
+
+]

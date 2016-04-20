@@ -1,0 +1,22 @@
+lib: [
+"package.json" {"package.json"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"example/detect.js" {"example/detect.js"}
+"example/src.js" {"example/src.js"}
+"readme.markdown" {"readme.markdown"}
+"test/detect.js" {"test/detect.js"}
+"test/right_hand.js" {"test/right_hand.js"}
+"test/shebang.js" {"test/shebang.js"}
+"test/files/detect.js" {"test/files/detect.js"}
+"test/files/right_hand.js" {"test/files/right_hand.js"}
+"test/sources/detect.js" {"test/sources/detect.js"}
+"test/sources/right_hand.js" {"test/sources/right_hand.js"}
+"bench/jquery.js" {"bench/jquery.js"}
+"bench/run.js" {"bench/run.js"}
+"bench/results.txt" {"bench/results.txt"}
+".travis.yml" {".travis.yml"}
+]
+libexec: [
+
+]

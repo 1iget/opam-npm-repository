@@ -58,8 +58,10 @@ lib: [
 "bench/sender.benchmark.js" {"bench/sender.benchmark.js"}
 "bench/speed.js" {"bench/speed.js"}
 "bench/util.js" {"bench/util.js"}
-"bin/wscat" {"bin/wscat"}
 "src/bufferutil.cc" {"src/bufferutil.cc"}
 "src/validation.cc" {"src/validation.cc"}
 "History.md" {"History.md"}
+]
+libexec: [
+"bin/wscat" {"bin/wscat"}
 ]

@@ -10,9 +10,9 @@ depends: [
 
 "dateformat" {>="1.0.7-1.2.3" & <"2.0.0"}
 
-"lodash._reinterpolate" {>="2.4.1" & <"3.0.0"}
+"lodash__reinterpolate" {>="2.4.1" & <"3.0.0"}
 
-"lodash.template" {>="2.4.1" & <"3.0.0"}
+"lodash_template" {>="2.4.1" & <"3.0.0"}
 
 "minimist" {>="0.2.0" & <"0.3.0"}
 

@@ -9,3 +9,6 @@ lib: [
 "docs/usage.md" {"docs/usage.md"}
 "LICENSE-MIT" {"LICENSE-MIT"}
 ]
+libexec: [
+
+]

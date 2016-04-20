@@ -45,3 +45,6 @@ lib: [
 "tests_old/rendering/finals/comment.basic.html" {"tests_old/rendering/finals/comment.basic.html"}
 "tests_old/rendering/finals/doctype.basic.html" {"tests_old/rendering/finals/doctype.basic.html"}
 ]
+libexec: [
+
+]

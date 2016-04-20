@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"doctrine.js" {"doctrine.js"}
+".scripted" {".scripted"}
+".travis.yml" {".travis.yml"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.closure-compiler" {"LICENSE.closure-compiler"}
+"LICENSE.esprima" {"LICENSE.esprima"}
+"test/parse.js" {"test/parse.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/unwrap.js" {"test/unwrap.js"}
+"test/test.html" {"test/test.html"}
+]
+libexec: [
+
+]

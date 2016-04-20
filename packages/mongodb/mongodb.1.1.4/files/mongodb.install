@@ -37,3 +37,6 @@ lib: [
 "lib/mongodb/connection/strategies/ping_strategy.js" {"lib/mongodb/connection/strategies/ping_strategy.js"}
 "lib/mongodb/connection/strategies/statistics_strategy.js" {"lib/mongodb/connection/strategies/statistics_strategy.js"}
 ]
+libexec: [
+
+]

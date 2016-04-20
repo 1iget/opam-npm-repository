@@ -17,7 +17,9 @@ depends: [
 "underscore" {>="1.3.1"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/jasmine-node %{bin}%/jasmine-node"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/jasmine-node" ] 
+]
 

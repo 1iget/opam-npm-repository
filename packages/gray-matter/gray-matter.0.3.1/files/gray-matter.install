@@ -36,3 +36,6 @@ lib: [
 "test/fixtures/metadata.yml" {"test/fixtures/metadata.yml"}
 "test/fixtures/toml.md" {"test/fixtures/toml.md"}
 ]
+libexec: [
+
+]

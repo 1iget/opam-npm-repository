@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE.txt" {"LICENSE.txt"}
+"bin/nyc-report.js" {"bin/nyc-report.js"}
+"bin/nyc.js" {"bin/nyc.js"}
+"test/nyc-test.js" {"test/nyc-test.js"}
+"test/fixtures/package.json" {"test/fixtures/package.json"}
+"test/fixtures/a.js" {"test/fixtures/a.js"}
+"test/fixtures/nyc.tmp/5477.json" {"test/fixtures/nyc.tmp/5477.json"}
+]
+libexec: [
+
+]

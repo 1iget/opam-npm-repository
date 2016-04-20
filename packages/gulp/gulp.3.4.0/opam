@@ -25,7 +25,9 @@ depends: [
 "archy" {="0.0.2"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/gulp.js %{bin}%/gulp"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/gulp" ] 
+]
 

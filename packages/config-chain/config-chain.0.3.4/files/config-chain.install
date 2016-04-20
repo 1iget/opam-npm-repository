@@ -11,3 +11,6 @@ lib: [
 "test/ini.js" {"test/ini.js"}
 "test/broken.json" {"test/broken.json"}
 ]
+libexec: [
+
+]

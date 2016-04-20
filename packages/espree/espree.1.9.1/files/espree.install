@@ -2,8 +2,6 @@ lib: [
 "package.json" {"package.json"}
 "README.md" {"README.md"}
 "espree.js" {"espree.js"}
-"bin/esparse.js" {"bin/esparse.js"}
-"bin/esvalidate.js" {"bin/esvalidate.js"}
 "lib/ast-node-factory.js" {"lib/ast-node-factory.js"}
 "lib/ast-node-types.js" {"lib/ast-node-types.js"}
 "lib/features.js" {"lib/features.js"}
@@ -17,4 +15,8 @@ lib: [
 "test/run.js" {"test/run.js"}
 "test/runner.js" {"test/runner.js"}
 "test/test.js" {"test/test.js"}
+]
+libexec: [
+"bin/esparse.js" {"bin/esparse.js"}
+"bin/esvalidate.js" {"bin/esvalidate.js"}
 ]

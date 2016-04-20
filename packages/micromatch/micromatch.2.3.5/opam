@@ -28,7 +28,7 @@ depends: [
 
 "normalize-path" {>="2.0.0" & <"3.0.0"}
 
-"object.omit" {>="2.0.0" & <"3.0.0"}
+"object_omit" {>="2.0.0" & <"3.0.0"}
 
 "parse-glob" {>="3.0.4" & <"4.0.0"}
 

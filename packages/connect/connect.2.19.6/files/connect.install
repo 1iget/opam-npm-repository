@@ -59,3 +59,6 @@ lib: [
 "examples/public/form.html" {"examples/public/form.html"}
 "examples/public/tobi.jpeg" {"examples/public/tobi.jpeg"}
 ]
+libexec: [
+
+]

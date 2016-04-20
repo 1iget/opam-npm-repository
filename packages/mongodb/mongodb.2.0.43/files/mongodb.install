@@ -33,3 +33,6 @@ lib: [
 "conf.json" {"conf.json"}
 "wercker.yml" {"wercker.yml"}
 ]
+libexec: [
+
+]

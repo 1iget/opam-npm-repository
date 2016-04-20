@@ -13,7 +13,9 @@ depends: [
 "repeating" {>="1.1.0" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/cli.js %{bin}%/indent-string"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/indent-string" ] 
+]
 

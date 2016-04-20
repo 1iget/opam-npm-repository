@@ -165,3 +165,6 @@ lib: [
 "tools/generate-core-package-json" {"tools/generate-core-package-json"}
 "templates.json" {"templates.json"}
 ]
+libexec: [
+
+]

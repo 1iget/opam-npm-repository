@@ -6,7 +6,7 @@ author: "cwmma <calvin.metcalf@gmail.com>"
 license: "ISC"
 dev-repo: "git://github.com/crypto-browserify/parse-asn1.git"
 depends: [
-"asn1.js" {>="2.0.0" & <"3.0.0"}
+"asn1_js" {>="2.0.0" & <"3.0.0"}
 
 "browserify-aes" {>="1.0.0" & <"2.0.0"}
 

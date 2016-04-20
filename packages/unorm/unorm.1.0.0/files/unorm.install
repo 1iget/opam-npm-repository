@@ -5,3 +5,6 @@ lib: [
 "example.js" {"example.js"}
 ".npmignore" {".npmignore"}
 ]
+libexec: [
+
+]

@@ -9,3 +9,6 @@ lib: [
 "test/buffer-pure-js.js" {"test/buffer-pure-js.js"}
 "test/deep.js" {"test/deep.js"}
 ]
+libexec: [
+
+]

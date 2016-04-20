@@ -11,7 +11,9 @@ depends: [
 "isexe" {>="1.1.1" & <"2.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/which %{bin}%/which"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/which" ] 
+]
 

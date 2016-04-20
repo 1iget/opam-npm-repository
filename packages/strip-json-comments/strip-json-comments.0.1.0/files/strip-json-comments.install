@@ -1,0 +1,9 @@
+lib: [
+"package.json" {"package.json"}
+"cli.js" {"cli.js"}
+"strip-json-comments.js" {"strip-json-comments.js"}
+"readme.md" {"readme.md"}
+]
+libexec: [
+
+]

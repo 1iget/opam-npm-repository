@@ -10,3 +10,6 @@ lib: [
 "src/lockfile.coffee" {"src/lockfile.coffee"}
 "lib/lockfile.js" {"lib/lockfile.js"}
 ]
+libexec: [
+
+]

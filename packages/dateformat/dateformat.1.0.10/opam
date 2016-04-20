@@ -11,7 +11,9 @@ depends: [
 "meow" {>="0.0.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/bin/cli.js %{bin}%/dateformat"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/dateformat" ] 
+]
 

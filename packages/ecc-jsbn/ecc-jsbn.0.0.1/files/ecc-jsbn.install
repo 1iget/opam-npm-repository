@@ -9,3 +9,6 @@ lib: [
 "lib/sec.js" {"lib/sec.js"}
 "lib/LICENSE-jsbn" {"lib/LICENSE-jsbn"}
 ]
+libexec: [
+
+]

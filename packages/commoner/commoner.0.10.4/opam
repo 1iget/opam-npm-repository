@@ -25,7 +25,9 @@ depends: [
 "recast" {>="0.10.0" & <"0.11.0"}
 
 ]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/commonize %{bin}%/commonize"]
 
-
-
+remove: [
+  [ "sh" "-c" "rm %{bin}%/commonize" ] 
+]
 

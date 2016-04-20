@@ -148,3 +148,6 @@ lib: [
 "doc/sh_vim-dark.css" {"doc/sh_vim-dark.css"}
 "doc/syntax.html" {"doc/syntax.html"}
 ]
+libexec: [
+
+]

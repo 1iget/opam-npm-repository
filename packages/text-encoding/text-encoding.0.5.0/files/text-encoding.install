@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"LICENSE.md" {"LICENSE.md"}
+"lib/encoding-indexes.js" {"lib/encoding-indexes.js"}
+"lib/encoding.js" {"lib/encoding.js"}
+]
+libexec: [
+
+]

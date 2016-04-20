@@ -67,3 +67,6 @@ lib: [
 "tests/tests_promises/mocha.css" {"tests/tests_promises/mocha.css"}
 "tests/tests_promises.html" {"tests/tests_promises.html"}
 ]
+libexec: [
+
+]

@@ -6,3 +6,6 @@ lib: [
 "LICENSE.BSD" {"LICENSE.BSD"}
 "tmp/t001.js" {"tmp/t001.js"}
 ]
+libexec: [
+
+]

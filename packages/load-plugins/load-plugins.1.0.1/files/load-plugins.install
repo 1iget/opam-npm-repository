@@ -17,3 +17,6 @@ lib: [
 "lib/segments.js" {"lib/segments.js"}
 ".verb.md" {".verb.md"}
 ]
+libexec: [
+
+]

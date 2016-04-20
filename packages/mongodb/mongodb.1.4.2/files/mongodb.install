@@ -61,3 +61,6 @@ lib: [
 "lib/mongodb/auth/mongodb_sspi.js" {"lib/mongodb/auth/mongodb_sspi.js"}
 "lib/mongodb/auth/mongodb_x509.js" {"lib/mongodb/auth/mongodb_x509.js"}
 ]
+libexec: [
+
+]

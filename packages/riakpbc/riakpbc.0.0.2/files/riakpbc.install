@@ -1,0 +1,12 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"bench.js" {"bench.js"}
+"index.js" {"index.js"}
+"spec/riak.proto" {"spec/riak.proto"}
+"spec/riak_kv.proto" {"spec/riak_kv.proto"}
+"test/tests.js" {"test/tests.js"}
+]
+libexec: [
+
+]

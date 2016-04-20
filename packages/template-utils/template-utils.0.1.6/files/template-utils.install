@@ -27,3 +27,6 @@ lib: [
 "test/fixtures/delims.md" {"test/fixtures/delims.md"}
 ".gitattributes" {".gitattributes"}
 ]
+libexec: [
+
+]

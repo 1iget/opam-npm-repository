@@ -22,3 +22,6 @@ lib: [
 "test/fixtures/name.jade" {"test/fixtures/name.jade"}
 "test/fixtures/name.tmpl" {"test/fixtures/name.tmpl"}
 ]
+libexec: [
+
+]

@@ -1,0 +1,33 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"doctrine.js" {"doctrine.js"}
+"gulpfile.js" {"gulpfile.js"}
+"CONTRIBUTING.md" {"CONTRIBUTING.md"}
+"LICENSE.BSD" {"LICENSE.BSD"}
+"LICENSE.closure-compiler" {"LICENSE.closure-compiler"}
+"LICENSE.esprima" {"LICENSE.esprima"}
+".editorconfig" {".editorconfig"}
+"coverage/coverage-final.json" {"coverage/coverage-final.json"}
+"coverage/lcov-report/prettify.js" {"coverage/lcov-report/prettify.js"}
+"coverage/lcov-report/doctrine/doctrine.js.html" {"coverage/lcov-report/doctrine/doctrine.js.html"}
+"coverage/lcov-report/doctrine/index.html" {"coverage/lcov-report/doctrine/index.html"}
+"coverage/lcov-report/index.html" {"coverage/lcov-report/index.html"}
+"coverage/lcov-report/prettify.css" {"coverage/lcov-report/prettify.css"}
+"coverage/lcov.info" {"coverage/lcov.info"}
+".jshintrc" {".jshintrc"}
+"eslint.json" {"eslint.json"}
+".scripted" {".scripted"}
+"test/midstream.js" {"test/midstream.js"}
+"test/parse.js" {"test/parse.js"}
+"test/strict.js" {"test/strict.js"}
+"test/stringify.js" {"test/stringify.js"}
+"test/unwrap.js" {"test/unwrap.js"}
+"test/test.html" {"test/test.html"}
+".travis.yml" {".travis.yml"}
+"tmp/t.js" {"tmp/t.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+".travis.yml" {".travis.yml"}
+"CHANGELOG" {"CHANGELOG"}
+"lib/archiver.js" {"lib/archiver.js"}
+"lib/util/crc32.js" {"lib/util/crc32.js"}
+"LICENSE-MIT" {"LICENSE-MIT"}
+"test/tests.js" {"test/tests.js"}
+]
+libexec: [
+
+]

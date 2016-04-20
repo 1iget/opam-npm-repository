@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"ChangeLog" {"ChangeLog"}
+"index.js~" {"index.js~"}
+"test/simple.js" {"test/simple.js"}
+"test/ChangeLog~" {"test/ChangeLog~"}
+"test/simple.js~" {"test/simple.js~"}
+]
+libexec: [
+
+]

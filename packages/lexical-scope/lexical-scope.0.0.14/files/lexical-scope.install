@@ -1,0 +1,41 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"bench/jquery.js" {"bench/jquery.js"}
+"bench/run.js" {"bench/run.js"}
+"bench/results.txt" {"bench/results.txt"}
+"example/detect.js" {"example/detect.js"}
+"example/src.js" {"example/src.js"}
+"readme.markdown" {"readme.markdown"}
+"test/package.json" {"test/package.json"}
+"test/argument.js" {"test/argument.js"}
+"test/detect.js" {"test/detect.js"}
+"test/shebang.js" {"test/shebang.js"}
+"test/labels.js" {"test/labels.js"}
+"test/multiple-exports.js" {"test/multiple-exports.js"}
+"test/named_arg.js" {"test/named_arg.js"}
+"test/assign_implicit.js" {"test/assign_implicit.js"}
+"test/return_hash.js" {"test/return_hash.js"}
+"test/right_hand.js" {"test/right_hand.js"}
+"test/try_catch.js" {"test/try_catch.js"}
+"test/obj.js" {"test/obj.js"}
+"test/files/argument.js" {"test/files/argument.js"}
+"test/files/assign_implicit.js" {"test/files/assign_implicit.js"}
+"test/files/detect.js" {"test/files/detect.js"}
+"test/files/labels.js" {"test/files/labels.js"}
+"test/files/multiple-exports.js" {"test/files/multiple-exports.js"}
+"test/files/named_arg.js" {"test/files/named_arg.js"}
+"test/files/obj.js" {"test/files/obj.js"}
+"test/files/return_hash.js" {"test/files/return_hash.js"}
+"test/files/right_hand.js" {"test/files/right_hand.js"}
+"test/files/try_catch.js" {"test/files/try_catch.js"}
+"test/temp/bundle.js" {"test/temp/bundle.js"}
+"test/temp/test.html" {"test/temp/test.html"}
+"test/testling.sh" {"test/testling.sh"}
+]
+libexec: [
+
+]

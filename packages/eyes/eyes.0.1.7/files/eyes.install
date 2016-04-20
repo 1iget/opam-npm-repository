@@ -6,3 +6,6 @@ lib: [
 "lib/eyes.js" {"lib/eyes.js"}
 "test/eyes-test.js" {"test/eyes-test.js"}
 ]
+libexec: [
+
+]

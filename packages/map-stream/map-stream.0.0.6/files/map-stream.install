@@ -16,3 +16,6 @@ lib: [
 "package/test/simple-map.asynct.js" {"package/test/simple-map.asynct.js"}
 "test/simple-map.asynct.js" {"test/simple-map.asynct.js"}
 ]
+libexec: [
+
+]

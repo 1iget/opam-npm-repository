@@ -43,3 +43,6 @@ lib: [
 "test/win32/security_buffer_tests.js" {"test/win32/security_buffer_tests.js"}
 "test/win32/security_credentials_tests.js" {"test/win32/security_credentials_tests.js"}
 ]
+libexec: [
+
+]

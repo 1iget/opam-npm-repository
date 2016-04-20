@@ -9,7 +9,6 @@ lib: [
 "lib/clean.js" {"lib/clean.js"}
 ".jshintignore" {".jshintignore"}
 ".travis.yml" {".travis.yml"}
-"bin/cleancss" {"bin/cleancss"}
 "test/batch-test.js" {"test/batch-test.js"}
 "test/bench.js" {"test/bench.js"}
 "test/binary-test.js" {"test/binary-test.js"}
@@ -25,4 +24,7 @@ lib: [
 "test/data/reset.css" {"test/data/reset.css"}
 "test/data/sample1-min.css" {"test/data/sample1-min.css"}
 "test/data/sample1.css" {"test/data/sample1.css"}
+]
+libexec: [
+"bin/cleancss" {"bin/cleancss"}
 ]

@@ -9,3 +9,6 @@ lib: [
 "test/inline-source-map.js" {"test/inline-source-map.js"}
 "test/source-content.js" {"test/source-content.js"}
 ]
+libexec: [
+
+]

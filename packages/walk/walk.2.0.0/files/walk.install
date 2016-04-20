@@ -38,3 +38,6 @@ lib: [
 "lib/walk.js" {"lib/walk.js"}
 "examples/walk-test.js" {"examples/walk-test.js"}
 ]
+libexec: [
+
+]

@@ -5,7 +5,6 @@ lib: [
 "index.js" {"index.js"}
 "CHANGELOG.md" {"CHANGELOG.md"}
 "ignoring-code-for-coverage.md" {"ignoring-code-for-coverage.md"}
-"lib/cli.js" {"lib/cli.js"}
 "lib/register-plugins.js" {"lib/register-plugins.js"}
 "lib/configuration.js" {"lib/configuration.js"}
 "lib/hook.js" {"lib/hook.js"}
@@ -52,4 +51,7 @@ lib: [
 "lib/vendor/prettify.js" {"lib/vendor/prettify.js"}
 "lib/vendor/prettify.css" {"lib/vendor/prettify.css"}
 "yui-coverage-comparison.md" {"yui-coverage-comparison.md"}
+]
+libexec: [
+"lib/cli.js" {"lib/cli.js"}
 ]
