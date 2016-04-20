@@ -1,0 +1,16 @@
+lib: [
+".gitignore" {".gitignore"}
+".hgignore" {".hgignore"}
+"package.json" {"package.json"}
+"Rakefile" {"Rakefile"}
+"README.markdown" {"README.markdown"}
+"dist/underscore.string.min.js" {"dist/underscore.string.min.js"}
+"lib/underscore.string.js" {"lib/underscore.string.js"}
+"src/underscore.string.js" {"src/underscore.string.js"}
+"test/speed.js" {"test/speed.js"}
+"test/strings.js" {"test/strings.js"}
+"test/test.html" {"test/test.html"}
+]
+libexec: [
+
+]

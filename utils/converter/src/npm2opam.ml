@@ -15,6 +15,7 @@ type maintainer = {
 
 type dep = {
   package: string;
+  original_package: string;
   range: string;
 }
 
@@ -104,7 +105,7 @@ let get_deps_version deps =
     |> to_assoc 
     |> List.map (fun (n, r) ->
         let range = r |> member "fixed" |> to_string in
-        { package = default_option n (fix_bad_name n); range = parse_range range;}
+        { package = default_option n (fix_bad_name n); original_package = n; range = parse_range range;}
       )
   with Type_error _ -> []
 
@@ -402,13 +403,13 @@ let rec generate_dependencies documents : doc list =
   let deps = List.map (fun x ->
     List.map (fun (v_str, v) ->
       List.map (fun dep ->
-        if StringSet.mem dep.package !set_documents
+        if StringSet.mem dep.original_package !set_documents
         then []
         else
           try
-            let doc = Convenience.http_get (search_url_doc dep.package) in
-            let document = from_string doc |> get_data_obj dep.package in
-            set_documents := StringSet.add dep.package !set_documents;
+            let doc = Convenience.http_get (search_url_doc dep.original_package) in
+            let document = from_string doc |> get_data_obj dep.original_package in
+            set_documents := StringSet.add dep.original_package !set_documents;
             document :: generate_dependencies [document]
           with Invalid_argument _ -> []
       ) v.deps

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"wtf8.js" {"wtf8.js"}
+"benchmark.js" {"benchmark.js"}
+".travis.yml" {".travis.yml"}
+"wtf8.cc" {"wtf8.cc"}
+"test/common.js" {"test/common.js"}
+"test/decoder.js" {"test/decoder.js"}
+"test/encoder.js" {"test/encoder.js"}
+"test/index.js" {"test/index.js"}
+"binding.gyp" {"binding.gyp"}
+]
+libexec: [
+
+]

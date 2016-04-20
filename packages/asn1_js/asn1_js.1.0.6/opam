@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "asn1_js"
+version: "1.0.6"
+maintainer: "fedor.indutny <fedor.indutny@gmail.com>"
+author: "fedor.indutny <fedor.indutny@gmail.com>"
+license: "MIT"
+dev-repo: "git+ssh://git@github.com/indutny/asn1.js.git"
+depends: [
+"inherits" {>="2.0.1" & <"3.0.0"}
+
+"minimalistic-assert" {>="1.0.0" & <"2.0.0"}
+
+"bn_js" {>="2.0.0" & <"3.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/asn1.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/asn1.js" ] 
+]
+

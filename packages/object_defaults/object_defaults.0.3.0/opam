@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "object_defaults"
+version: "0.3.0"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/object.defaults.git"
+depends: [
+"array-each" {>="0.1.0" & <"0.2.0"}
+
+"array-slice" {>="0.2.3" & <"0.3.0"}
+
+"for-own" {>="0.1.3" & <"0.2.0"}
+
+"isobject" {>="1.0.0" & <"2.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/object.defaults"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/object.defaults" ] 
+]
+

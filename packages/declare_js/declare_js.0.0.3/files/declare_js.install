@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"grunt.js" {"grunt.js"}
+"declare-min.js" {"declare-min.js"}
+"declare.js" {"declare.js"}
+"declare.js-min.js" {"declare.js-min.js"}
+"index.js" {"index.js"}
+".idea/.name" {".idea/.name"}
+".idea/declare.js.iml" {".idea/declare.js.iml"}
+".idea/encodings.xml" {".idea/encodings.xml"}
+".idea/jsLibraryMappings.xml" {".idea/jsLibraryMappings.xml"}
+".idea/libraries/sass_stdlib.xml" {".idea/libraries/sass_stdlib.xml"}
+".idea/misc.xml" {".idea/misc.xml"}
+".idea/modules.xml" {".idea/modules.xml"}
+".idea/scopes/scope_settings.xml" {".idea/scopes/scope_settings.xml"}
+".idea/vcs.xml" {".idea/vcs.xml"}
+".idea/workspace.xml" {".idea/workspace.xml"}
+".jshintrc" {".jshintrc"}
+"test/declare.test.js" {"test/declare.test.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "Array_prototype_forEachAsync"
+version: "2.1.1"
+maintainer: "None <none@none.com>"
+author: "None <none@none.com>"
+license: "not defined"
+dev-repo: "git://github.com/coolaj86/futures.git"
+depends: [
+"forEachAsync" {>="2.1.1"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/Array.prototype.forEachAsync"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/Array.prototype.forEachAsync" ] 
+]
+

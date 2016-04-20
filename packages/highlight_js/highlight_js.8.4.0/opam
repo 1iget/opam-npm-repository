@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "highlight_js"
+version: "8.4.0"
+maintainer: "jga <me@jga.me>"
+author: "jga <me@jga.me>"
+license: "not defined"
+dev-repo: "git://github.com/isagalaev/highlight.js.git"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/highlight.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/highlight.js" ] 
+]
+

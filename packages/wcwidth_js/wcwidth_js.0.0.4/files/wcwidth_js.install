@@ -1,0 +1,11 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"wcwidth.js" {"wcwidth.js"}
+"INSTALL.md" {"INSTALL.md"}
+"LICENSE.md" {"LICENSE.md"}
+"NEWS" {"NEWS"}
+]
+libexec: [
+
+]

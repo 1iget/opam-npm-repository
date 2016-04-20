@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "asn1_js"
+version: "0.5.1"
+maintainer: "fedor.indutny <fedor.indutny@gmail.com>"
+author: "fedor.indutny <fedor.indutny@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:indutny/asn1.js"
+depends: [
+"bn_js" {>="0.13.3" & <"0.14.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/asn1.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/asn1.js" ] 
+]
+

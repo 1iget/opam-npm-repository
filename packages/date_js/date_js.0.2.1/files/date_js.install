@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"Readme.md" {"Readme.md"}
+".travis.yml" {".travis.yml"}
+"dist/date.js" {"dist/date.js"}
+"dist/date.min.js" {"dist/date.min.js"}
+"test/parser.js" {"test/parser.js"}
+"lib/date.js" {"lib/date.js"}
+"lib/parser.js" {"lib/parser.js"}
+"History.md" {"History.md"}
+"component.json" {"component.json"}
+]
+libexec: [
+
+]

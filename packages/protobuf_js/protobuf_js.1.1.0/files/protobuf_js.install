@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"index.js" {"index.js"}
+"perf.js" {"perf.js"}
+".jshintignore" {".jshintignore"}
+".jshintrc" {".jshintrc"}
+"lib/varint.js" {"lib/varint.js"}
+"test/basic.js" {"test/basic.js"}
+"test/conversion.js" {"test/conversion.js"}
+"test/embedded.js" {"test/embedded.js"}
+"test/repeated.js" {"test/repeated.js"}
+"test/schema.json" {"test/schema.json"}
+]
+libexec: [
+
+]

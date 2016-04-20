@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "bn_js"
+version: "0.3.1"
+maintainer: "indutny <fedor@indutny.com>"
+author: "indutny <fedor@indutny.com>"
+license: "MIT"
+dev-repo: "git@github.com:indutny/bn.js"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/bn.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/bn.js" ] 
+]
+

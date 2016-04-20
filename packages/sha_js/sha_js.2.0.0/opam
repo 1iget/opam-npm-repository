@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "sha_js"
+version: "2.0.0"
+maintainer: "dominictarr <dominic.tarr@gmail.com>"
+author: "dominictarr <dominic.tarr@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/dominictarr/sha.js.git"
+depends: [
+"native-buffer-browserify" {>="2.0.8" & <"2.1.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/sha.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/sha.js" ] 
+]
+

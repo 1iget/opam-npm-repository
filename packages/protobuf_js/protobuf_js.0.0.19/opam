@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "protobuf_js"
+version: "0.0.19"
+maintainer: "nlf <quitlahok@gmail.com>"
+author: "nlf <quitlahok@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/nlf/protobuf.js"
+depends: [
+"butils" {="0.0.5"}
+
+"wtf8" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9sYXV0aXMvd3RmOC90YXJiYWxsL21hc3RlciI"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/protobuf.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/protobuf.js" ] 
+]
+

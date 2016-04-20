@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "object_pick"
+version: "0.1.1"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "not defined"
+dev-repo: "git://github.com/jonschlinkert/object.pick.git"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/object.pick"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/object.pick" ] 
+]
+

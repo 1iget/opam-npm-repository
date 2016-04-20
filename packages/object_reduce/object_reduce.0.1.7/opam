@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "object_reduce"
+version: "0.1.7"
+maintainer: "jonschlinkert <github@sellside.com>"
+author: "jonschlinkert <github@sellside.com>"
+license: "Not defined"
+dev-repo: "git://github.com/jonschlinkert/object.reduce.git"
+depends: [
+"for-own" {>="0.1.3" & <"0.2.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/object.reduce"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/object.reduce" ] 
+]
+

@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+"binding.gyp" {"binding.gyp"}
+"README.markdown" {"README.markdown"}
+"bignum.cc" {"bignum.cc"}
+"examples/gen.js" {"examples/gen.js"}
+"examples/perfect.js" {"examples/perfect.js"}
+"examples/simple.js" {"examples/simple.js"}
+".dntrc" {".dntrc"}
+".travis.yml" {".travis.yml"}
+"test/big.js" {"test/big.js"}
+"test/buf.js" {"test/buf.js"}
+"test/isbignum.js" {"test/isbignum.js"}
+"test/seed.js" {"test/seed.js"}
+"test/wincrash.js" {"test/wincrash.js"}
+]
+libexec: [
+
+]

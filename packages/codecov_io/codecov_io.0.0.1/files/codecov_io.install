@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"lib/handleInput.js" {"lib/handleInput.js"}
+"lib/sendToCodeCov.io.js" {"lib/sendToCodeCov.io.js"}
+"test/index.js" {"test/index.js"}
+]
+libexec: [
+"bin/codecov.io.js" {"bin/codecov.io.js"}
+]

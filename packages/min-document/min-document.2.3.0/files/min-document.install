@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"dom-fragment.js" {"dom-fragment.js"}
+"dom-element.js" {"dom-element.js"}
+"dom-text.js" {"dom-text.js"}
+"event.js" {"event.js"}
+"index.js" {"index.js"}
+"serialize.js" {"serialize.js"}
+"event/add-event-listener.js" {"event/add-event-listener.js"}
+"event/dispatch-event.js" {"event/dispatch-event.js"}
+"docs.mli" {"docs.mli"}
+".travis.yml" {".travis.yml"}
+".jshintrc" {".jshintrc"}
+".testem.json" {".testem.json"}
+"test/index.js" {"test/index.js"}
+"test/static/test-adapter.js" {"test/static/test-adapter.js"}
+"test/static/index.html" {"test/static/index.html"}
+]
+libexec: [
+
+]

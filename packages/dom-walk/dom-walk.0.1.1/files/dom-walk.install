@@ -1,0 +1,14 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+"example/index.js" {"example/index.js"}
+"example/static/bundle.js" {"example/static/bundle.js"}
+"example/static/index.html" {"example/static/index.html"}
+]
+libexec: [
+
+]

@@ -1,0 +1,29 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"doco/INDEX.md" {"doco/INDEX.md"}
+"doco/Long.md" {"doco/Long.md"}
+"bower.json" {"bower.json"}
+"dist/README.md" {"dist/README.md"}
+"dist/Long.js" {"dist/Long.js"}
+"dist/Long.min.js" {"dist/Long.min.js"}
+"dist/Long.min.js.gz" {"dist/Long.min.js.gz"}
+"dist/Long.min.map" {"dist/Long.min.map"}
+".travis.yml" {".travis.yml"}
+"donate.png" {"donate.png"}
+"externs/Long.js" {"externs/Long.js"}
+"jsdoc.json" {"jsdoc.json"}
+"src/Long.js" {"src/Long.js"}
+"src/wrap.js" {"src/wrap.js"}
+"src/bower.json" {"src/bower.json"}
+"Long.png" {"Long.png"}
+"scripts/build.js" {"scripts/build.js"}
+"tests/goog.math.long.js" {"tests/goog.math.long.js"}
+"tests/suite.js" {"tests/suite.js"}
+]
+libexec: [
+
+]

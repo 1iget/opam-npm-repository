@@ -1,0 +1,1 @@
+A robust & optimized `String.prototype.endsWith` polyfill, based on the ECMAScript 6 specification.

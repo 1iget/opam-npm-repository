@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "lodash_isobject"
+version: "2.2.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__objecttypes" {>="2.2.1" & <"2.3.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.isobject"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.isobject" ] 
+]
+

@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"test.js" {"test.js"}
+"Makefile" {"Makefile"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+".travis.yml" {".travis.yml"}
+".jscs.json" {".jscs.json"}
+".eslintrc" {".eslintrc"}
+]
+libexec: [
+
+]

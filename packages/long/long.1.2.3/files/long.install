@@ -1,0 +1,30 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"bower.json" {"bower.json"}
+"dist/Long.js" {"dist/Long.js"}
+"dist/Long.min.js" {"dist/Long.min.js"}
+"docs/Long.html" {"docs/Long.html"}
+"docs/index.html" {"docs/index.html"}
+"docs/scripts/html5.js" {"docs/scripts/html5.js"}
+"docs/scripts/prettify/lang-css.js" {"docs/scripts/prettify/lang-css.js"}
+"docs/scripts/prettify/prettify.js" {"docs/scripts/prettify/prettify.js"}
+"docs/scripts/prettify/Apache-License-2.0.txt" {"docs/scripts/prettify/Apache-License-2.0.txt"}
+"docs/styles/jsdoc-esoccer.css" {"docs/styles/jsdoc-esoccer.css"}
+"docs/styles/prettify-jsdoc.css" {"docs/styles/prettify-jsdoc.css"}
+"docs/styles/prettify-tomorrow.css" {"docs/styles/prettify-tomorrow.css"}
+".travis.yml" {".travis.yml"}
+"NOTICE" {"NOTICE"}
+"jsdoc.json" {"jsdoc.json"}
+"long.png" {"long.png"}
+"src/Long.js" {"src/Long.js"}
+"tests/goog.math.long.js" {"tests/goog.math.long.js"}
+"tests/suite.js" {"tests/suite.js"}
+"externs/Long.js" {"externs/Long.js"}
+]
+libexec: [
+
+]

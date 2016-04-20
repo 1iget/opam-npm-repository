@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "string_prototype_endswith"
+version: "0.2.0"
+maintainer: "mathias <mathias@qiwi.be>"
+author: "mathias <mathias@qiwi.be>"
+license: "not defined"
+dev-repo: "https://github.com/mathiasbynens/String.prototype.endsWith.git"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/string.prototype.endswith"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/string.prototype.endswith" ] 
+]
+

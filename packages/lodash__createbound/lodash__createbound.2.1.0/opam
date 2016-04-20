@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "lodash__createbound"
+version: "2.1.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__createobject" {>="2.1.0" & <"2.2.0"}
+
+"lodash_isfunction" {>="2.1.0" & <"2.2.0"}
+
+"lodash_isobject" {>="2.1.0" & <"2.2.0"}
+
+"lodash__renative" {>="2.1.0" & <"2.2.0"}
+
+"lodash__setbinddata" {>="2.1.0" & <"2.2.0"}
+
+"lodash_support" {>="2.1.0" & <"2.2.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._createbound"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._createbound" ] 
+]
+

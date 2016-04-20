@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "mjsunit_runner"
+version: "0.1.1"
+maintainer: "Elijah Insua <tmpvar@gmail.com>"
+author: "Elijah Insua <tmpvar@gmail.com>"
+license: "not defined"
+
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/mjsunit.runner"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/mjsunit.runner" ] 
+]
+

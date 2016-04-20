@@ -1,0 +1,13 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"1.js" {"1.js"}
+".travis.yml" {".travis.yml"}
+"lib/bn.js" {"lib/bn.js"}
+"test/bn-test.js" {"test/bn-test.js"}
+"v8.log" {"v8.log"}
+]
+libexec: [
+
+]

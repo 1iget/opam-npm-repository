@@ -1,0 +1,31 @@
+opam-version: "1.2"
+name: "lodash__baseclone"
+version: "2.3.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash_assign" {>="2.3.0" & <"2.4.0"}
+
+"lodash_foreach" {>="2.3.0" & <"2.4.0"}
+
+"lodash_forown" {>="2.3.0" & <"2.4.0"}
+
+"lodash__getarray" {>="2.3.0" & <"2.4.0"}
+
+"lodash_isarray" {>="2.3.0" & <"2.4.0"}
+
+"lodash_isobject" {>="2.3.0" & <"2.4.0"}
+
+"lodash__releasearray" {>="2.3.0" & <"2.4.0"}
+
+"lodash__slice" {>="2.3.0" & <"2.4.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._baseclone"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._baseclone" ] 
+]
+

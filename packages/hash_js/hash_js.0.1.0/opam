@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "hash_js"
+version: "0.1.0"
+maintainer: "indutny <fedor@indutny.com>"
+author: "indutny <fedor@indutny.com>"
+license: "MIT"
+dev-repo: "git@github.com:indutny/hash.js"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/hash.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/hash.js" ] 
+]
+

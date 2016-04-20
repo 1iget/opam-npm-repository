@@ -1,0 +1,28 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"testinit.js" {"testinit.js"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"lib/getConfiguration.js" {"lib/getConfiguration.js"}
+"lib/sendToCodeCov.io.js" {"lib/sendToCodeCov.io.js"}
+"lib/services/circle.js" {"lib/services/circle.js"}
+"lib/services/codeship.js" {"lib/services/codeship.js"}
+"lib/services/drone.js" {"lib/services/drone.js"}
+"lib/services/jenkins.js" {"lib/services/jenkins.js"}
+"lib/services/localGit.js" {"lib/services/localGit.js"}
+"lib/services/semaphore.js" {"lib/services/semaphore.js"}
+"lib/services/travis.js" {"lib/services/travis.js"}
+"Makefile" {"Makefile"}
+"test/getConfiguration.js" {"test/getConfiguration.js"}
+"test/index.js" {"test/index.js"}
+"test/mocha.opts" {"test/mocha.opts"}
+"test/services/circle.js" {"test/services/circle.js"}
+"test/services/jenkins.js" {"test/services/jenkins.js"}
+"test/services/travis.js" {"test/services/travis.js"}
+]
+libexec: [
+"bin/codecov.io.js" {"bin/codecov.io.js"}
+]

@@ -1,0 +1,16 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"1.js" {"1.js"}
+".jshintrc" {".jshintrc"}
+"lib/bn.js" {"lib/bn.js"}
+".travis.yml" {".travis.yml"}
+"test/bn-test.js" {"test/bn-test.js"}
+"test/fixtures.js" {"test/fixtures.js"}
+"test/red-test.js" {"test/red-test.js"}
+"test/pummel/dh-group-test.js" {"test/pummel/dh-group-test.js"}
+]
+libexec: [
+
+]

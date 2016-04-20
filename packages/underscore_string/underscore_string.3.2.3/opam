@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "underscore_string"
+version: "3.2.3"
+maintainer: "edtsech <edtsech@gmail.com>"
+author: "edtsech <edtsech@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/epeli/underscore.string.git"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/underscore.string"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/underscore.string" ] 
+]
+

@@ -1,0 +1,17 @@
+lib: [
+".gitignore" {".gitignore"}
+"benchmark.js" {"benchmark.js"}
+"LICENSE" {"LICENSE"}
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"wscript" {"wscript"}
+"wtf8.cc" {"wtf8.cc"}
+"wtf8.js" {"wtf8.js"}
+"test/common.js" {"test/common.js"}
+"test/decoder.js" {"test/decoder.js"}
+"test/encoder.js" {"test/encoder.js"}
+"test/index.js" {"test/index.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,18 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"index.js" {"index.js"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+"bignum.cc" {"bignum.cc"}
+"binding.gyp" {"binding.gyp"}
+"examples/gen.js" {"examples/gen.js"}
+"examples/perfect.js" {"examples/perfect.js"}
+"examples/simple.js" {"examples/simple.js"}
+"test/big.js" {"test/big.js"}
+"test/buf.js" {"test/buf.js"}
+"test/seed.js" {"test/seed.js"}
+]
+libexec: [
+
+]

@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+"Rakefile" {"Rakefile"}
+"README.markdown" {"README.markdown"}
+"dist/underscore.string.min.js" {"dist/underscore.string.min.js"}
+"lib/underscore.string.js" {"lib/underscore.string.js"}
+"test/speed.js" {"test/speed.js"}
+"test/strings.js" {"test/strings.js"}
+"test/strings_standalone.js" {"test/strings_standalone.js"}
+"test/test_standalone.html" {"test/test_standalone.html"}
+"test/test.html" {"test/test.html"}
+"test/underscore.js" {"test/underscore.js"}
+"test/test_underscore/arrays.js" {"test/test_underscore/arrays.js"}
+"test/test_underscore/chaining.js" {"test/test_underscore/chaining.js"}
+"test/test_underscore/collections.js" {"test/test_underscore/collections.js"}
+"test/test_underscore/functions.js" {"test/test_underscore/functions.js"}
+"test/test_underscore/objects.js" {"test/test_underscore/objects.js"}
+"test/test_underscore/speed.js" {"test/test_underscore/speed.js"}
+"test/test_underscore/temp.js" {"test/test_underscore/temp.js"}
+"test/test_underscore/temp_tests.html" {"test/test_underscore/temp_tests.html"}
+"test/test_underscore/test.html" {"test/test_underscore/test.html"}
+"test/test_underscore/utility.js" {"test/test_underscore/utility.js"}
+]
+libexec: [
+
+]

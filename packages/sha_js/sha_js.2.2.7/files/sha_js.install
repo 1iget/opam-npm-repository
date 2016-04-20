@@ -1,0 +1,19 @@
+lib: [
+"package.json" {"package.json"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"index.js" {"index.js"}
+"browserify.js" {"browserify.js"}
+"hash.js" {"hash.js"}
+"sha512.js" {"sha512.js"}
+"sha1.js" {"sha1.js"}
+"sha256.js" {"sha256.js"}
+"hexpp.js" {"hexpp.js"}
+".travis.yml" {".travis.yml"}
+"test/hash.js" {"test/hash.js"}
+"test/test.js" {"test/test.js"}
+"test/vectors.js" {"test/vectors.js"}
+]
+libexec: [
+"bin.js" {"bin.js"}
+]

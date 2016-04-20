@@ -1,0 +1,26 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"es5.js" {"es5.js"}
+"es6.js" {"es6.js"}
+"index.js" {"index.js"}
+"Makefile" {"Makefile"}
+".eslintrc" {".eslintrc"}
+".editorconfig" {".editorconfig"}
+".jscs.json" {".jscs.json"}
+".travis.yml" {".travis.yml"}
+"helpers/assign.js" {"helpers/assign.js"}
+"helpers/isFinite.js" {"helpers/isFinite.js"}
+"helpers/isPrimitive.js" {"helpers/isPrimitive.js"}
+"helpers/mod.js" {"helpers/mod.js"}
+"helpers/sign.js" {"helpers/sign.js"}
+"CHANGELOG.md" {"CHANGELOG.md"}
+"test/es5.js" {"test/es5.js"}
+"test/es6.js" {"test/es6.js"}
+"test/index.js" {"test/index.js"}
+]
+libexec: [
+
+]

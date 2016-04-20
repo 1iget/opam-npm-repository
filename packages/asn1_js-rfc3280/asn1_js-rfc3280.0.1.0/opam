@@ -1,0 +1,16 @@
+opam-version: "1.2"
+name: "asn1_js-rfc3280"
+version: "0.1.0"
+maintainer: "fedor.indutny <fedor.indutny@gmail.com>"
+author: "fedor.indutny <fedor.indutny@gmail.com>"
+license: "MIT"
+dev-repo: "git@github.com:indutny/asn1.js"
+depends: [
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/asn1.js-rfc3280"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/asn1.js-rfc3280" ] 
+]
+

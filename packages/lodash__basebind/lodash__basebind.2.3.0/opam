@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "lodash__basebind"
+version: "2.3.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__basecreate" {>="2.3.0" & <"2.4.0"}
+
+"lodash_isobject" {>="2.3.0" & <"2.4.0"}
+
+"lodash__setbinddata" {>="2.3.0" & <"2.4.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._basebind"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._basebind" ] 
+]
+

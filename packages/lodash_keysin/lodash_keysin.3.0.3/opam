@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "lodash_keysin"
+version: "3.0.3"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash"
+depends: [
+"lodash_isarguments" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isarray" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.keysin"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.keysin" ] 
+]
+

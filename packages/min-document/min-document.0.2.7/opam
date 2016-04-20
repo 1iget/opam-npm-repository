@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "min-document"
+version: "0.2.7"
+maintainer: "raynos <raynos2@gmail.com>"
+author: "raynos <raynos2@gmail.com>"
+license: "not defined"
+dev-repo: "git://github.com/Colingo/min-document.git"
+depends: [
+"tape" {>="1.0.2" & <"1.1.0"}
+
+]
+
+
+
+

@@ -1,0 +1,18 @@
+lib: [
+".gitignore" {".gitignore"}
+".travis.yml" {".travis.yml"}
+"LICENSE" {"LICENSE"}
+"README.md" {"README.md"}
+"benchmark.js" {"benchmark.js"}
+"package.json" {"package.json"}
+"wscript" {"wscript"}
+"wtf8.cc" {"wtf8.cc"}
+"wtf8.js" {"wtf8.js"}
+"test/common.js" {"test/common.js"}
+"test/decoder.js" {"test/decoder.js"}
+"test/encoder.js" {"test/encoder.js"}
+"test/index.js" {"test/index.js"}
+]
+libexec: [
+
+]

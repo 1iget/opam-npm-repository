@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "lodash_where"
+version: "3.1.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash"
+depends: [
+"lodash__arrayfilter" {>="3.0.0" & <"4.0.0"}
+
+"lodash__basecallback" {>="3.0.0" & <"4.0.0"}
+
+"lodash__basefilter" {>="3.0.0" & <"4.0.0"}
+
+"lodash__basematches" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isarray" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.where"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.where" ] 
+]
+

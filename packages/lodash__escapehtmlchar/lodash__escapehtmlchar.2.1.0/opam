@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "lodash__escapehtmlchar"
+version: "2.1.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__htmlescapes" {>="2.1.0" & <"2.2.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._escapehtmlchar"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._escapehtmlchar" ] 
+]
+

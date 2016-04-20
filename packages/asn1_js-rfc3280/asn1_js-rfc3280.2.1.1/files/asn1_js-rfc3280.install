@@ -1,0 +1,8 @@
+lib: [
+"package.json" {"package.json"}
+"index.js" {"index.js"}
+"test/basic-test.js" {"test/basic-test.js"}
+]
+libexec: [
+
+]

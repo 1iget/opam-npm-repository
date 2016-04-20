@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "protobuf_js"
+version: "0.0.8"
+maintainer: "nathan-lafreniere <quitlahok@gmail.com>"
+author: "nathan-lafreniere <quitlahok@gmail.com>"
+license: "MIT"
+dev-repo: "git://github.com/nathan-lafreniere/protobuf.js"
+depends: [
+"butils" {="latest"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/protobuf.js"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/protobuf.js" ] 
+]
+

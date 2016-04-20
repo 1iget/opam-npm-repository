@@ -1,0 +1,15 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"foo.js" {"foo.js"}
+"gulpfile.js" {"gulpfile.js"}
+".travis.yml" {".travis.yml"}
+"README.markdown" {"README.markdown"}
+"bower.json" {"bower.json"}
+"component.json" {"component.json"}
+"lib/underscore.string.js" {"lib/underscore.string.js"}
+"libpeerconnection.log" {"libpeerconnection.log"}
+]
+libexec: [
+
+]

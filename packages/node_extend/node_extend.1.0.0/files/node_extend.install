@@ -1,0 +1,12 @@
+lib: [
+".npmignore" {".npmignore"}
+"History.md" {"History.md"}
+"index.js" {"index.js"}
+"lib/" {"lib/"}
+"lib/extend.js" {"lib/extend.js"}
+"package.json" {"package.json"}
+"Readme.md" {"Readme.md"}
+]
+libexec: [
+
+]

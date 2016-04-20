@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "lodash_difference"
+version: "2.0.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__baseflatten" {>="2.0.0" & <"2.1.0"}
+
+"lodash__baseindexof" {>="2.0.0" & <"2.1.0"}
+
+"lodash__cacheindexof" {>="2.0.0" & <"2.1.0"}
+
+"lodash__createcache" {>="2.0.0" & <"2.1.0"}
+
+"lodash__largearraysize" {>="2.0.0" & <"2.1.0"}
+
+"lodash__releaseobject" {>="2.0.0" & <"2.1.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.difference"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.difference" ] 
+]
+

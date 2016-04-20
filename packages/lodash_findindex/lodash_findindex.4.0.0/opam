@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "lodash_findindex"
+version: "4.0.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash__basefindindex" {>="3.0.0" & <"4.0.0"}
+
+"lodash__baseisequal" {>="4.0.0" & <"5.0.0"}
+
+"lodash__baseismatch" {>="4.0.0" & <"5.0.0"}
+
+"lodash_get" {>="4.0.0" & <"5.0.0"}
+
+"lodash_hasin" {>="4.0.0" & <"5.0.0"}
+
+"lodash_topairs" {>="4.0.0" & <"5.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.findindex"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.findindex" ] 
+]
+

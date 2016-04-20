@@ -1,0 +1,32 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENCE" {"LICENCE"}
+"index.js" {"index.js"}
+"serialize.js" {"serialize.js"}
+"event.js" {"event.js"}
+"document.js" {"document.js"}
+"dom-text.js" {"dom-text.js"}
+"dom-element.js" {"dom-element.js"}
+"dom-fragment.js" {"dom-fragment.js"}
+"dom-comment.js" {"dom-comment.js"}
+".jshintrc" {".jshintrc"}
+"event/add-event-listener.js" {"event/add-event-listener.js"}
+"event/dispatch-event.js" {"event/dispatch-event.js"}
+"event/remove-event-listener.js" {"event/remove-event-listener.js"}
+"docs.mli" {"docs.mli"}
+"CONTRIBUTION.md" {"CONTRIBUTION.md"}
+".travis.yml" {".travis.yml"}
+".testem.json" {".testem.json"}
+"test/cleanup.js" {"test/cleanup.js"}
+"test/index.js" {"test/index.js"}
+"test/test-document.js" {"test/test-document.js"}
+"test/test-dom-comment.js" {"test/test-dom-comment.js"}
+"test/test-dom-element.js" {"test/test-dom-element.js"}
+"test/static/test-adapter.js" {"test/static/test-adapter.js"}
+"test/static/index.html" {"test/static/index.html"}
+]
+libexec: [
+
+]

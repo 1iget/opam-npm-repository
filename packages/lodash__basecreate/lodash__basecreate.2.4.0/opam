@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "lodash__basecreate"
+version: "2.4.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash_isobject" {>="2.4.0" & <"2.5.0"}
+
+"lodash_noop" {>="2.4.0" & <"2.5.0"}
+
+"lodash__renative" {>="2.4.0" & <"2.5.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash._basecreate"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._basecreate" ] 
+]
+

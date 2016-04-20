@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "node_extend"
+version: "1.1.4"
+maintainer: "dreamerslab <ben@dreamerslab.com>"
+author: "dreamerslab <ben@dreamerslab.com>"
+license: "(MIT OR GPL)"
+dev-repo: "git+https://github.com/dreamerslab/node.extend.git"
+depends: [
+"is" {>="3.0.1" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/node.extend"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/node.extend" ] 
+]
+

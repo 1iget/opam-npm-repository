@@ -1,0 +1,24 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"Long.min.js" {"Long.min.js"}
+"Long.js" {"Long.js"}
+"docs/index.html" {"docs/index.html"}
+"docs/Long.html" {"docs/Long.html"}
+"docs/scripts/html5.js" {"docs/scripts/html5.js"}
+"docs/scripts/prettify/lang-css.js" {"docs/scripts/prettify/lang-css.js"}
+"docs/scripts/prettify/prettify.js" {"docs/scripts/prettify/prettify.js"}
+"docs/scripts/prettify/Apache-License-2.0.txt" {"docs/scripts/prettify/Apache-License-2.0.txt"}
+"docs/styles/jsdoc-esoccer.css" {"docs/styles/jsdoc-esoccer.css"}
+"docs/styles/prettify-jsdoc.css" {"docs/styles/prettify-jsdoc.css"}
+"docs/styles/prettify-tomorrow.css" {"docs/styles/prettify-tomorrow.css"}
+"NOTICE" {"NOTICE"}
+"jsdoc.json" {"jsdoc.json"}
+"externs/Long.js" {"externs/Long.js"}
+"tests/suite.js" {"tests/suite.js"}
+]
+libexec: [
+
+]

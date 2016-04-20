@@ -1,0 +1,1 @@
+Like `extend` but only copies missing properties/values to the target object.

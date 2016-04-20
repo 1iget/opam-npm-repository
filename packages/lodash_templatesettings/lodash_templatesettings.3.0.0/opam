@@ -1,0 +1,23 @@
+opam-version: "1.2"
+name: "lodash_templatesettings"
+version: "3.0.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash"
+depends: [
+"lodash_escape" {>="3.0.0" & <"4.0.0"}
+
+"lodash_reescape" {>="3.0.0" & <"4.0.0"}
+
+"lodash_reevaluate" {>="3.0.0" & <"4.0.0"}
+
+"lodash_reinterpolate" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/lodash.templatesettings"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.templatesettings" ] 
+]
+
