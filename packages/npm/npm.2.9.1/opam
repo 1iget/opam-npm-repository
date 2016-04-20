@@ -141,9 +141,9 @@ depends: [
 "write-file-atomic" {>="1.1.0" & <"1.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s ./bin/npm-cli.js ../bin/npm"]
+install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/npm-cli.js %{bin}%/npm"]
 
 remove: [
-  [ "sh" "-c" "rm ../bin/npm" ] 
+  [ "sh" "-c" "rm %{bin}%/npm" ] 
 ]
 

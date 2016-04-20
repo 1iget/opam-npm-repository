@@ -11,7 +11,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "Makefile" {"Makefile"}
 ".mailmap" {".mailmap"}
-"bin/npm-cli.js" {"bin/npm-cli.js"}
 "bin/read-package-json.js" {"bin/read-package-json.js"}
 "bin/node-gyp-bin/node-gyp" {"bin/node-gyp-bin/node-gyp"}
 "bin/node-gyp-bin/node-gyp.cmd" {"bin/node-gyp-bin/node-gyp.cmd"}
@@ -2493,4 +2492,7 @@ lib: [
 "node_modules/write-file-atomic/README.md" {"node_modules/write-file-atomic/README.md"}
 "node_modules/write-file-atomic/index.js" {"node_modules/write-file-atomic/index.js"}
 "node_modules/write-file-atomic/test/basic.js" {"node_modules/write-file-atomic/test/basic.js"}
+]
+libexec: [
+"bin/npm-cli.js" {"bin/npm-cli.js"}
 ]

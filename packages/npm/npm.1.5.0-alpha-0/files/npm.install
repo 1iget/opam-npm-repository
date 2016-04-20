@@ -7,7 +7,6 @@ lib: [
 "wercker.yml" {"wercker.yml"}
 "Makefile" {"Makefile"}
 ".travis.yml" {".travis.yml"}
-"bin/npm-cli.js" {"bin/npm-cli.js"}
 "bin/read-package-json.js" {"bin/read-package-json.js"}
 "bin/node-gyp-bin/node-gyp" {"bin/node-gyp-bin/node-gyp"}
 "bin/node-gyp-bin/node-gyp.cmd" {"bin/node-gyp-bin/node-gyp.cmd"}
@@ -1658,4 +1657,7 @@ lib: [
 "node_modules/which/LICENSE" {"node_modules/which/LICENSE"}
 "node_modules/which/which.js" {"node_modules/which/which.js"}
 "node_modules/which/bin/which" {"node_modules/which/bin/which"}
+]
+libexec: [
+"bin/npm-cli.js" {"bin/npm-cli.js"}
 ]

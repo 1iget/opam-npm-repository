@@ -10,7 +10,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ".mailmap" {".mailmap"}
 "Makefile" {"Makefile"}
-"bin/npm-cli.js" {"bin/npm-cli.js"}
 "bin/read-package-json.js" {"bin/read-package-json.js"}
 "bin/node-gyp-bin/node-gyp" {"bin/node-gyp-bin/node-gyp"}
 "bin/node-gyp-bin/node-gyp.cmd" {"bin/node-gyp-bin/node-gyp.cmd"}
@@ -2781,4 +2780,7 @@ lib: [
 "node_modules/xtend/mutable.js" {"node_modules/xtend/mutable.js"}
 "node_modules/xtend/test.js" {"node_modules/xtend/test.js"}
 "node_modules/xtend/Makefile" {"node_modules/xtend/Makefile"}
+]
+libexec: [
+"bin/npm-cli.js" {"bin/npm-cli.js"}
 ]

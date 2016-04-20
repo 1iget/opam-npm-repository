@@ -263,12 +263,26 @@ let get_uninstalls xs =
 let add_script_binary (bin : (string * string) list) (xs : (string * string) list) =
   let l = ref xs in
   List.iter (fun (name, file) ->
-    let inst_command = Printf.sprintf "ln -s %s ../bin/%s" file name in
-    let remov_command = Printf.sprintf "rm ../bin/%s" name in
+    let inst_command = Printf.sprintf "ln -s %%{PKG:lib}%%/%s %%{bin}%%/%s" file name in
+    let remov_command = Printf.sprintf "rm %%{bin}%%/%s" name in
     l := ("install", inst_command) :: !l;
     l := ("preuninstall", remov_command) :: !l
   ) bin;
   !l
+
+
+
+let filter_bin b bin files =
+  List.filter (fun file ->
+    let file = "./" ^ file in
+    try
+      ignore (List.find (fun (_, script) ->
+        script = file
+      ) bin);
+      if b then false else true
+    with Not_found ->
+      if b then true else false
+  ) files
 
 
 
@@ -332,7 +346,8 @@ let generate_opam (doc : doc) =
           close_out oc;
           Unix.mkdir "files" perms;
           let oc = open_out (Printf.sprintf "files/%s.install" doc.id) in
-          Printf.fprintf oc "lib: [\n%s\n]\n" (string_of_files files);
+          Printf.fprintf oc "lib: [\n%s\n]\n" (string_of_files (filter_bin true v.bin files));
+          Printf.fprintf oc "libexec: [\n%s\n]\n" (string_of_files (filter_bin false v.bin files));
           close_out oc
         | None -> ()
       end;

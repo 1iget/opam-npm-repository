@@ -10,7 +10,6 @@ lib: [
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 ".mailmap" {".mailmap"}
 "Makefile" {"Makefile"}
-"bin/npm-cli.js" {"bin/npm-cli.js"}
 "bin/read-package-json.js" {"bin/read-package-json.js"}
 "bin/node-gyp-bin/node-gyp" {"bin/node-gyp-bin/node-gyp"}
 "bin/node-gyp-bin/node-gyp.cmd" {"bin/node-gyp-bin/node-gyp.cmd"}
@@ -2661,4 +2660,7 @@ lib: [
 "node_modules/write-file-atomic/node_modules/graceful-fs/test/open.js" {"node_modules/write-file-atomic/node_modules/graceful-fs/test/open.js"}
 "node_modules/write-file-atomic/node_modules/graceful-fs/test/readdir-sort.js" {"node_modules/write-file-atomic/node_modules/graceful-fs/test/readdir-sort.js"}
 "node_modules/write-file-atomic/node_modules/graceful-fs/test/write-then-read.js" {"node_modules/write-file-atomic/node_modules/graceful-fs/test/write-then-read.js"}
+]
+libexec: [
+"bin/npm-cli.js" {"bin/npm-cli.js"}
 ]

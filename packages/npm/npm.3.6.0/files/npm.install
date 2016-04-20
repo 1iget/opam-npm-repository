@@ -9,7 +9,6 @@ lib: [
 "CHANGELOG.md" {"CHANGELOG.md"}
 "CONTRIBUTING.md" {"CONTRIBUTING.md"}
 "Makefile" {"Makefile"}
-"bin/npm-cli.js" {"bin/npm-cli.js"}
 "bin/read-package-json.js" {"bin/read-package-json.js"}
 "bin/node-gyp-bin/node-gyp" {"bin/node-gyp-bin/node-gyp"}
 "bin/node-gyp-bin/node-gyp.cmd" {"bin/node-gyp-bin/node-gyp.cmd"}
@@ -3586,4 +3585,7 @@ lib: [
 "node_modules/write-file-atomic/index.js" {"node_modules/write-file-atomic/index.js"}
 "node_modules/write-file-atomic/.travis.yml" {"node_modules/write-file-atomic/.travis.yml"}
 "node_modules/write-file-atomic/test/basic.js" {"node_modules/write-file-atomic/test/basic.js"}
+]
+libexec: [
+"bin/npm-cli.js" {"bin/npm-cli.js"}
 ]
