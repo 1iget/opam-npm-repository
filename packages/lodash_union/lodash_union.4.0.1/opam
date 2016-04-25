@@ -1,0 +1,27 @@
+opam-version: "1.2"
+name: "lodash_union"
+version: "4.0.1"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash__arrayincludes" {>="4.0.0" & <"5.0.0"}
+
+"lodash__arrayincludeswith" {>="4.0.0" & <"5.0.0"}
+
+"lodash__baseflatten" {>="4.0.0" & <"5.0.0"}
+
+"lodash__cachehas" {>="4.0.0" & <"5.0.0"}
+
+"lodash__setcache" {>="4.0.0" & <"5.0.0"}
+
+"lodash_rest" {>="4.0.0" & <"5.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_union %{lib}%/lodash.union"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.union" ] 
+]
+
