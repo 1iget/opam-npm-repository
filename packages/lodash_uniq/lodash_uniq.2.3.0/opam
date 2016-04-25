@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "lodash_uniq"
+version: "2.3.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__baseuniq" {>="2.3.0" & <"2.4.0"}
+
+"lodash_createcallback" {>="2.3.0" & <"2.4.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_uniq %{lib}%/lodash.uniq"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.uniq" ] 
+]
+
