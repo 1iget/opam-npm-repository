@@ -6,12 +6,12 @@ author: "nathan-lafreniere <quitlahok@gmail.com>"
 license: "MIT"
 dev-repo: "git://github.com/nlf/protobuf.js"
 depends: [
-"butils" {="latest"}
+"butils" {>= "0.0.0"}
 
 "wtf8" {="Imh0dHBzOi8vZ2l0aHViLmNvbS9sYXV0aXMvd3RmOC90YXJiYWxsL21hc3RlciI"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/protobuf.js"]
+install: ["sh" "-c" "ln -s %{lib}%/protobuf_js %{lib}%/protobuf.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/protobuf.js" ] 

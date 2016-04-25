@@ -6,9 +6,9 @@ author: "aws <trevrowe@amazon.com>"
 license: "not defined"
 dev-repo: "git://github.com/aws/aws-sdk-js"
 depends: [
-"xml2js" {="latest"}
+"xml2js" {>= "0.0.0"}
 
-"xmlbuilder" {="latest"}
+"xmlbuilder" {>= "0.0.0"}
 
 ]
 

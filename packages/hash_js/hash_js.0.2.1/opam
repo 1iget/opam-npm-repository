@@ -8,7 +8,7 @@ dev-repo: "git@github.com:indutny/hash.js"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/hash.js"]
+install: ["sh" "-c" "ln -s %{lib}%/hash_js %{lib}%/hash.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/hash.js" ] 

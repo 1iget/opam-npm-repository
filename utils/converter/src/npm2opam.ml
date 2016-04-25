@@ -64,23 +64,28 @@ let concat_ands v =
 
 
 let parse_range x =
-  let str = Printf.sprintf "\"foo\" : \"%s\"" x in
-  let and_sep x = if x = "" then "" else " | " in
-  let or_sep x = if x = "" then "" else " & " in
-  let const c =
-    match c with
-    | None -> ""
-    | Some (op, v)  -> Printf.sprintf "%s\"%s\"" op v
-  in
-  let ands xs = List.fold_left (fun acc (_, c) ->
-    Printf.sprintf "%s%s%s" acc (and_sep acc) (const c)
-  ) "" xs
-  in
-  let parsed = Npm.Packages.parse_depend ("depends", (Common.Format822.dummy_loc, str)) in
-  let str = List.fold_left (fun acc xs ->
-    Printf.sprintf "%s%s%s" acc (or_sep acc) (ands xs)
-  ) "" parsed in
-  str
+  if x = "latest"
+    then ">= \"0.0.0\""
+    else
+      begin
+        let str = Printf.sprintf "\"foo\" : \"%s\"" x in
+        let and_sep x = if x = "" then "" else " | " in
+        let or_sep x = if x = "" then "" else " & " in
+        let const c =
+          match c with
+          | None -> ""
+          | Some (op, v)  -> Printf.sprintf "%s\"%s\"" op v
+        in
+        let ands xs = List.fold_left (fun acc (_, c) ->
+          Printf.sprintf "%s%s%s" acc (and_sep acc) (const c)
+        ) "" xs
+        in
+        let parsed = Npm.Packages.parse_depend ("depends", (Common.Format822.dummy_loc, str)) in
+        let str = List.fold_left (fun acc xs ->
+          Printf.sprintf "%s%s%s" acc (or_sep acc) (ands xs)
+        ) "" parsed in
+        str
+      end
 
 
 let default_option def opt =
@@ -423,8 +428,8 @@ let rec generate_dependencies documents : doc list =
 
 
 let rec generate_all (documents : doc list) =
-  (*ignore (Parmap.parmap ~ncores:8 (fun x -> print_endline x.id; generate_opam x) (Parmap.L documents));*)
-  ignore (List.iter (fun x -> print_endline x.id; generate_opam x) documents);
+  ignore (Parmap.parmap ~ncores:8 (fun x -> print_endline x.id; generate_opam x) (Parmap.L documents));
+  (*ignore (List.iter (fun x -> print_endline x.id; generate_opam x) documents);*)
   ()
 
 

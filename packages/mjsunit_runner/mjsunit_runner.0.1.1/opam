@@ -8,7 +8,7 @@ license: "not defined"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/mjsunit.runner"]
+install: ["sh" "-c" "ln -s %{lib}%/mjsunit_runner %{lib}%/mjsunit.runner"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/mjsunit.runner" ] 

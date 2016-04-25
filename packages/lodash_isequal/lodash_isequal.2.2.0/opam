@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "lodash_isequal"
+version: "2.2.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash-cli.git"
+depends: [
+"lodash__basecreatecallback" {>="2.2.0" & <"2.3.0"}
+
+"lodash__baseisequal" {>="2.2.0" & <"2.3.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_isequal %{lib}%/lodash.isequal"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.isequal" ] 
+]
+

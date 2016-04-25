@@ -24,7 +24,7 @@ depends: [
 
 "retry" {="0.6.0"}
 
-"npmlog" {="latest"}
+"npmlog" {>= "0.0.0"}
 
 ]
 

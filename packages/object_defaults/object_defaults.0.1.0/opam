@@ -11,7 +11,7 @@ depends: [
 "for-own" {>="0.1.2" & <"0.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/object.defaults"]
+install: ["sh" "-c" "ln -s %{lib}%/object_defaults %{lib}%/object.defaults"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/object.defaults" ] 

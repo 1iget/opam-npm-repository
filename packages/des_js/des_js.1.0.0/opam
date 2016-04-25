@@ -11,7 +11,7 @@ depends: [
 "minimalistic-assert" {>="1.0.0" & <"2.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/des.js"]
+install: ["sh" "-c" "ln -s %{lib}%/des_js %{lib}%/des.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/des.js" ] 

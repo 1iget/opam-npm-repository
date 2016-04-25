@@ -8,7 +8,7 @@ dev-repo: "git@github.com:indutny/bn.js"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/bn.js"]
+install: ["sh" "-c" "ln -s %{lib}%/bn_js %{lib}%/bn.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/bn.js" ] 

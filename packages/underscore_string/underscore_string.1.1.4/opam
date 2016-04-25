@@ -9,7 +9,7 @@ depends: [
 "underscore" {="1.1.6"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/underscore.string"]
+install: ["sh" "-c" "ln -s %{lib}%/underscore_string %{lib}%/underscore.string"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/underscore.string" ] 

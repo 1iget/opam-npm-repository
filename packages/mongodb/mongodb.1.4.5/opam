@@ -10,7 +10,7 @@ depends: [
 
 "kerberos" {="0.0.3"}
 
-"readable-stream" {="latest"}
+"readable-stream" {>= "0.0.0"}
 
 ]
 

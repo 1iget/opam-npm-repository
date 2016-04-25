@@ -9,7 +9,7 @@ depends: [
 "long" {>="1.1.2" & <"1.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/protobuf.js"]
+install: ["sh" "-c" "ln -s %{lib}%/protobuf_js %{lib}%/protobuf.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/protobuf.js" ] 

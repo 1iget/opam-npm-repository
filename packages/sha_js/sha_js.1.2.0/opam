@@ -9,7 +9,7 @@ depends: [
 "bops" {>="0.1.1" & <"0.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/sha.js"]
+install: ["sh" "-c" "ln -s %{lib}%/sha_js %{lib}%/sha.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/sha.js" ] 

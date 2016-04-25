@@ -13,7 +13,7 @@ depends: [
 "minimalistic-assert" {>="1.0.0" & <"2.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/asn1.js"]
+install: ["sh" "-c" "ln -s %{lib}%/asn1_js %{lib}%/asn1.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/asn1.js" ] 

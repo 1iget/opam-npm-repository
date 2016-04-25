@@ -8,7 +8,7 @@ dev-repo: "git://github.com/dominictarr/sha.js.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/sha.js"]
+install: ["sh" "-c" "ln -s %{lib}%/sha_js %{lib}%/sha.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/sha.js" ] 

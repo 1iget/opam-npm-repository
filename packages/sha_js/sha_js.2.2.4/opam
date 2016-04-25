@@ -13,7 +13,7 @@ depends: [
 "typedarray" {="0.0.6"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/sha.js"]
+install: ["sh" "-c" "ln -s %{lib}%/sha_js %{lib}%/sha.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/sha.js" ] 

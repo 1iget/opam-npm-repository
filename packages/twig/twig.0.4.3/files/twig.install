@@ -1,0 +1,21 @@
+lib: [
+"package.json" {"package.json"}
+".npmignore" {".npmignore"}
+"README.md" {"README.md"}
+"LICENSE" {"LICENSE"}
+"twig.js" {"twig.js"}
+"test.js" {"test.js"}
+"twig.min.js" {"twig.min.js"}
+"lib/paths.js" {"lib/paths.js"}
+"lib/compile.js" {"lib/compile.js"}
+".travis.yml" {".travis.yml"}
+"Makefile" {"Makefile"}
+"docs/features.md" {"docs/features.md"}
+"docs/test.html" {"docs/test.html"}
+"docs/twig.html" {"docs/twig.html"}
+"docs/licenses.md" {"docs/licenses.md"}
+"docs/docco.css" {"docs/docco.css"}
+]
+libexec: [
+"bin/twigjs" {"bin/twigjs"}
+]

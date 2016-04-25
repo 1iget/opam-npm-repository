@@ -24,7 +24,7 @@ depends: [
 
 "couch-login" {>="0.1.15" & <"0.2.0"}
 
-"npmlog" {="latest"}
+"npmlog" {>= "0.0.0"}
 
 ]
 

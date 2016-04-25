@@ -6,7 +6,7 @@ author: "iwillwen <willwengunn@gmail.com>"
 license: "not defined"
 dev-repo: "git@github.com:iwillwen/node_emitter.git"
 depends: [
-"asynclist" {="latest"}
+"asynclist" {>= "0.0.0"}
 
 ]
 

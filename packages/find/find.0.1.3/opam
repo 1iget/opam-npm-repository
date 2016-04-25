@@ -6,7 +6,7 @@ author: "yuanchuan <yuanchuan23@gmail.com>"
 license: "not defined"
 dev-repo: "git://github.com/yuanchuan/find.git"
 depends: [
-"traverse-chain" {="latest"}
+"traverse-chain" {>= "0.0.0"}
 
 ]
 

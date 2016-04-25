@@ -8,7 +8,7 @@ dev-repo: "git://github.com/coolaj86/nodejs-libs-4-browser.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/events.node"]
+install: ["sh" "-c" "ln -s %{lib}%/events_node %{lib}%/events.node"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/events.node" ] 

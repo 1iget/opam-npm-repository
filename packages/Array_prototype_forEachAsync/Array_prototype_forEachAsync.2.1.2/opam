@@ -9,7 +9,7 @@ depends: [
 "forEachAsync" {>="2.0.0" & <"3.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/Array.prototype.forEachAsync"]
+install: ["sh" "-c" "ln -s %{lib}%/Array_prototype_forEachAsync %{lib}%/Array.prototype.forEachAsync"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/Array.prototype.forEachAsync" ] 

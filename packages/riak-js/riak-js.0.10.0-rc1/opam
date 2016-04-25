@@ -8,9 +8,9 @@ license: "not defined"
 depends: [
 "xml" {="0.0.7"}
 
-"butils" {="latest"}
+"butils" {>= "0.0.0"}
 
-"protobuf_js" {="latest"}
+"protobuf_js" {>= "0.0.0"}
 
 "riakpbc" {="0.0.10"}
 

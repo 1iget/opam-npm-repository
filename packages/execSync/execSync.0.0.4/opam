@@ -6,7 +6,7 @@ author: "mgutz <mario@mgutz.com>"
 license: "not defined"
 
 depends: [
-"ffi" {="latest"}
+"ffi" {>= "0.0.0"}
 
 ]
 

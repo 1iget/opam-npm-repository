@@ -6,7 +6,7 @@ author: "jcoglan <jcoglan@gmail.com>"
 license: "not defined"
 
 depends: [
-"nopt" {="latest"}
+"nopt" {>= "0.0.0"}
 
 ]
 install: ["sh" "-c" "ln -s %{PKG:lib}%/./bin/jsbuild %{bin}%/jsbuild"]

@@ -8,7 +8,7 @@ dev-repo: "https://github.com/dreamerslab/node.extend.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/node.extend"]
+install: ["sh" "-c" "ln -s %{lib}%/node_extend %{lib}%/node.extend"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/node.extend" ] 

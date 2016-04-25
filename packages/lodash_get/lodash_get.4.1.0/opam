@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "lodash_get"
+version: "4.1.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash__root" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_get %{lib}%/lodash.get"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.get" ] 
+]
+

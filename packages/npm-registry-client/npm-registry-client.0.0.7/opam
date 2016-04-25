@@ -22,7 +22,7 @@ depends: [
 
 "rimraf" {>="2.0.1" & <"2.1.0"}
 
-"npmlog" {="latest"}
+"npmlog" {>= "0.0.0"}
 
 ]
 

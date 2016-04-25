@@ -9,7 +9,7 @@ depends: [
 "defaults" {>="1.0.0" & <"2.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/wcwidth.js"]
+install: ["sh" "-c" "ln -s %{lib}%/wcwidth_js %{lib}%/wcwidth.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/wcwidth.js" ] 

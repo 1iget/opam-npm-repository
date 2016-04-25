@@ -1,0 +1,19 @@
+opam-version: "1.2"
+name: "lodash_trim"
+version: "3.1.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash__charsendindex" {>="3.0.0" & <"4.0.0"}
+
+"lodash__charsstartindex" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_trim %{lib}%/lodash.trim"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.trim" ] 
+]
+

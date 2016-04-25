@@ -1,0 +1,35 @@
+opam-version: "1.2"
+name: "lodash_merge"
+version: "3.0.2"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash"
+depends: [
+"lodash__arraycopy" {>="3.0.0" & <"4.0.0"}
+
+"lodash__arrayeach" {>="3.0.0" & <"4.0.0"}
+
+"lodash__basefor" {>="3.0.0" & <"4.0.0"}
+
+"lodash__createassigner" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isarguments" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isarray" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isplainobject" {>="3.0.0" & <"4.0.0"}
+
+"lodash_istypedarray" {>="3.0.0" & <"4.0.0"}
+
+"lodash_keys" {>="3.0.0" & <"4.0.0"}
+
+"lodash_toplainobject" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_merge %{lib}%/lodash.merge"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.merge" ] 
+]
+

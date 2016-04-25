@@ -8,7 +8,7 @@ dev-repo: "git://github.com/aws/aws-sdk-js"
 depends: [
 "xml2js" {="0.2.4"}
 
-"xmlbuilder" {="latest"}
+"xmlbuilder" {>= "0.0.0"}
 
 ]
 

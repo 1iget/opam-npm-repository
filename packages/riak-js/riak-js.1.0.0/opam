@@ -10,7 +10,7 @@ depends: [
 
 "poolee" {>="0.4.8" & <"0.5.0"}
 
-"butils" {="latest"}
+"butils" {>= "0.0.0"}
 
 "riakpbc" {>="2.1.0" & <"3.0.0"}
 

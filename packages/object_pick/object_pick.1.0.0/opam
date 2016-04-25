@@ -8,7 +8,7 @@ dev-repo: "git://github.com/jonschlinkert/object.pick.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/object.pick"]
+install: ["sh" "-c" "ln -s %{lib}%/object_pick %{lib}%/object.pick"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/object.pick" ] 

@@ -6,7 +6,7 @@ author: "iwillwen <willwengunn@gmail.com>"
 license: "not defined"
 dev-repo: ""
 depends: [
-"eventproxy" {="latest"}
+"eventproxy" {>= "0.0.0"}
 
 ]
 

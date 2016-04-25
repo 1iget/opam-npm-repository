@@ -11,7 +11,7 @@ depends: [
 "make-iterator" {>="0.1.0" & <"0.2.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/object.filter"]
+install: ["sh" "-c" "ln -s %{lib}%/object_filter %{lib}%/object.filter"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/object.filter" ] 

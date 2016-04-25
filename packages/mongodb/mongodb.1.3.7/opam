@@ -8,7 +8,7 @@ dev-repo: "http://github.com/mongodb/node-mongodb-native.git"
 depends: [
 "bson" {="0.1.9"}
 
-"kerberos" {="latest"}
+"kerberos" {>= "0.0.0"}
 
 ]
 

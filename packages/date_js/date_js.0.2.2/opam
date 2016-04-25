@@ -9,7 +9,7 @@ depends: [
 "debug" {>="0.7.2" & <"0.8.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/date.js"]
+install: ["sh" "-c" "ln -s %{lib}%/date_js %{lib}%/date.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/date.js" ] 

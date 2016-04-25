@@ -13,7 +13,7 @@ depends: [
 "function-bind" {>="1.0.2" & <"2.0.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/string.prototype.trim"]
+install: ["sh" "-c" "ln -s %{lib}%/string_prototype_trim %{lib}%/string.prototype.trim"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/string.prototype.trim" ] 

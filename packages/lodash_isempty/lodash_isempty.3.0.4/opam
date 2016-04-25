@@ -1,0 +1,25 @@
+opam-version: "1.2"
+name: "lodash_isempty"
+version: "3.0.4"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash_isarguments" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isarray" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isfunction" {>="3.0.0" & <"4.0.0"}
+
+"lodash_isstring" {>="3.0.0" & <"4.0.0"}
+
+"lodash_keys" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash_isempty %{lib}%/lodash.isempty"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash.isempty" ] 
+]
+

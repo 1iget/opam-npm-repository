@@ -9,7 +9,7 @@ depends: [
 "bn_js" {>="0.16.0" & <"0.17.0"}
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/asn1.js"]
+install: ["sh" "-c" "ln -s %{lib}%/asn1_js %{lib}%/asn1.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/asn1.js" ] 

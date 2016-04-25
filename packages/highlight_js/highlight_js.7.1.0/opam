@@ -8,7 +8,7 @@ dev-repo: "git://github.com/isagalaev/highlight.js.git"
 depends: [
 
 ]
-install: ["sh" "-c" "ln -s %{PKG:lib}% %{lib}%/highlight.js"]
+install: ["sh" "-c" "ln -s %{lib}%/highlight_js %{lib}%/highlight.js"]
 
 remove: [
   [ "sh" "-c" "rm %{lib}%/highlight.js" ] 
