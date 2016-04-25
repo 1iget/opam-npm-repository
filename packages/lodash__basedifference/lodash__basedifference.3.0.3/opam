@@ -1,0 +1,21 @@
+opam-version: "1.2"
+name: "lodash__basedifference"
+version: "3.0.3"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "git+https://github.com/lodash/lodash.git"
+depends: [
+"lodash__baseindexof" {>="3.0.0" & <"4.0.0"}
+
+"lodash__cacheindexof" {>="3.0.0" & <"4.0.0"}
+
+"lodash__createcache" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__basedifference %{lib}%/lodash._basedifference"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._basedifference" ] 
+]
+

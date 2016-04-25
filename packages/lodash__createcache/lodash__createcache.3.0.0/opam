@@ -1,0 +1,17 @@
+opam-version: "1.2"
+name: "lodash__createcache"
+version: "3.0.0"
+maintainer: "jdalton <john.david.dalton@gmail.com>"
+author: "jdalton <john.david.dalton@gmail.com>"
+license: "MIT"
+dev-repo: "https://github.com/lodash/lodash"
+depends: [
+"lodash_isnative" {>="3.0.0" & <"4.0.0"}
+
+]
+install: ["sh" "-c" "ln -s %{lib}%/lodash__createcache %{lib}%/lodash._createcache"]
+
+remove: [
+  [ "sh" "-c" "rm %{lib}%/lodash._createcache" ] 
+]
+
